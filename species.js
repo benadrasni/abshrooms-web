@@ -244286,5 +244286,2085 @@ export const CATALOG = [
     }
   ],
   "reserved": false
+},
+{
+  "name": "Gomphidius roseus",
+  "author": "(Fr.) Oudem.",
+  "family": "Gomphidiaceae",
+  "genus": "Gomphidius",
+  "order": "Boletales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Boletales",
+    "Gomphidiaceae",
+    "Gomphidius"
+  ],
+  "summary": [
+    "Boletales",
+    "Gomphidiaceae",
+    "Gomphidius"
+  ],
+  "edibility": "edible",
+  "hymenium": "gills",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "red"
+  ],
+  "capFrom": 2.0,
+  "capTo": 6.0,
+  "stipeHeightFrom": 2.5,
+  "stipeHeightTo": 7.0,
+  "stipeThickFrom": 0.4,
+  "stipeThickTo": 1.5,
+  "fruitingFrom": 7,
+  "fruitingTo": 11,
+  "label": {
+    "en": "rosy spike-cap",
+    "cs": "slizák růžový",
+    "da": "rosenrød slimslør",
+    "de": "Rosenroter Schmierling",
+    "et": "roosa liimik",
+    "fi": "punanuljaska",
+    "fr": "gomphide rose",
+    "hu": "rózsaszínű nyálkásgomba",
+    "ja": "オウギタケ",
+    "lt": "rožiaspalvė geltonpėdė",
+    "lv": "rožsārtā zeltkāte",
+    "nl": "Roze spijkerzwam",
+    "no": "rosa sleipsopp",
+    "pl": "klejówka różowa",
+    "ru": "мокруха розовая",
+    "sk": "sliziak ružový",
+    "sl": "rožnati slinar",
+    "sv": "rosenslemskivling",
+    "uk": "мокруха рожева",
+    "zh": "紅鉚釘菇"
+  },
+  "names": {
+    "en": [
+      "pink gomphidius",
+      "rosy spike"
+    ],
+    "de": [
+      "Rosenroter Gelbfuß",
+      "Rosa Schmierling"
+    ]
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=213963",
+        "detail": "213963"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum",
+        "href": "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=213963",
+        "detail": "213963"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/7889985",
+        "detail": "7889985"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q1931554"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Gomphidius_roseus"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/gomphidius-roseus.php"
+      },
+      {
+        "group": "text",
+        "name": "Myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Gomphidius-roseus/"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Rosenroter_Schmierling",
+        "detail": "de"
+      }
+    ],
+    "cs": [
+      {
+        "group": "text",
+        "name": "Myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Gomphidius-roseus/"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://cs.wikipedia.org/wiki/Sliz%C3%A1k_r%C5%AF%C5%BEov%C3%BD"
+      }
+    ],
+    "da": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/7889985",
+        "detail": "7889985"
+      }
+    ],
+    "de": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Rosenroter_Schmierling"
+      }
+    ],
+    "es": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://es.wikipedia.org/wiki/Gomphidius_roseus"
+      }
+    ],
+    "et": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://et.wikipedia.org/wiki/Roosa_liimik"
+      }
+    ],
+    "fi": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://fi.wikipedia.org/wiki/Punanuljaska"
+      }
+    ],
+    "fr": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://fr.wikipedia.org/wiki/Gomphide_rose"
+      }
+    ],
+    "hu": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://hu.wikipedia.org/wiki/R%C3%B3zsasz%C3%ADn%C5%B1_ny%C3%A1lk%C3%A1sgomba"
+      }
+    ],
+    "ja": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%AE%E3%82%BF%E3%82%B1"
+      }
+    ],
+    "lt": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://lt.wikipedia.org/wiki/Ro%C5%BEiaspalv%C4%97_geltonp%C4%97d%C4%97"
+      }
+    ],
+    "lv": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/7889985",
+        "detail": "7889985"
+      }
+    ],
+    "nl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://nl.wikipedia.org/wiki/Roze_spijkerzwam"
+      }
+    ],
+    "no": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/7889985",
+        "detail": "7889985"
+      }
+    ],
+    "pl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://pl.wikipedia.org/wiki/Klej%C3%B3wka_r%C3%B3%C5%BCowa"
+      }
+    ],
+    "pt": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://pt.wikipedia.org/wiki/Gomphidius_roseus"
+      }
+    ],
+    "ru": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BA%D1%80%D1%83%D1%85%D0%B0_%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F"
+      }
+    ],
+    "sl": [
+      {
+        "group": "text",
+        "name": "Gobe.si",
+        "href": "https://www.gobe.si/Gobe/GomphidiusRoseus"
+      }
+    ],
+    "sv": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://sv.wikipedia.org/wiki/Rosenslemskivling"
+      }
+    ],
+    "uk": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BA%D1%80%D1%83%D1%85%D0%B0_%D1%80%D0%BE%D0%B6%D0%B5%D0%B2%D0%B0"
+      }
+    ],
+    "zh": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E9%93%86%E9%92%89%E8%8F%87"
+      }
+    ]
+  },
+  "added": "2026-11-26",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Gomphidiaceae/Gomphidius_roseus/Gomphidius_roseus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Gomphidiaceae/Gomphidius_roseus/Gomphidius_roseus@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "license": "All rights reserved",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Gomphidiaceae/Gomphidius_roseus/Gomphidius_roseus@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Gomphidiaceae/Gomphidius_roseus/Gomphidius_roseus_1.webp",
+      "author": "Jerzy Opioła",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File%3AGomphidius_roseus_a1.JPG"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Gomphidiaceae/Gomphidius_roseus/Gomphidius_roseus_2.webp",
+      "author": "gailhampshire",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File%3AGomphideus_roseus_u-s_-_Flickr_-_gailhampshire.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Gomphidiaceae/Gomphidius_roseus/Gomphidius_roseus_3.webp",
+      "author": "Björn S...",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File%3AGomphidius_roseus_%2837096584164%29.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Gomphidiaceae/Gomphidius_roseus/Gomphidius_roseus_4.webp",
+      "author": "Jerzy Opioła",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File%3AGomphidius_roseus_G2.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Gomphidiaceae/Gomphidius_roseus/Gomphidius_roseus_5.webp",
+      "author": "Svencapoeira",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File%3ARoosa_liimik1.jpg"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Boletales/Gomphidiaceae/Gomphidius_roseus/Gomphidius_roseus@1600.webp",
+      "author": "Gemini",
+      "license": "All rights reserved",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Gomphidiaceae/Gomphidius_roseus/Gomphidius_roseus@1600.webp"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Boletales/Gomphidiaceae/Gomphidius_roseus/Gomphidius_roseus_1.webp",
+      "author": "Jerzy Opioła",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AGomphidius_roseus_a1.JPG"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Boletales/Gomphidiaceae/Gomphidius_roseus/Gomphidius_roseus_2.webp",
+      "author": "gailhampshire",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AGomphideus_roseus_u-s_-_Flickr_-_gailhampshire.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Boletales/Gomphidiaceae/Gomphidius_roseus/Gomphidius_roseus_3.webp",
+      "author": "Björn S...",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AGomphidius_roseus_%2837096584164%29.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Boletales/Gomphidiaceae/Gomphidius_roseus/Gomphidius_roseus_4.webp",
+      "author": "Jerzy Opioła",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AGomphidius_roseus_G2.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Boletales/Gomphidiaceae/Gomphidius_roseus/Gomphidius_roseus_5.webp",
+      "author": "Svencapoeira",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ARoosa_liimik1.jpg"
+    }
+  ],
+  "text": {
+    "en": {
+      "label": "rosy spike-cap",
+      "names": [
+        "pink gomphidius",
+        "rosy spike"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Gomphidius_roseus",
+      "description": "A small, gilled, coral-pink mushroom of acidic pine woodlands across Europe and temperate Asia, absent from North America. It grows singly or in small groups beneath pines on sandy, mossy, or heathy ground, almost always alongside Suillus bovinus, whose mycelium it parasitizes, fruiting from summer through late autumn.",
+      "cap": "2–6 cm across, hemispherical when young with an inrolled margin joined to the stipe by a translucent slimy partial veil, expanding to convex, flat, or slightly depressed and occasionally carrying a small central umbo, with a margin that often remains turned down or slightly lobed. The smooth, peelable cuticle is viscid to slimy in wet weather and shiny when dry, coloured bright coral-pink to rosy-red and maturing toward brick-red, lacking the blackish spots seen in dark-capped relatives.",
+      "hymenium": "Gills are thick, rather distant, occasionally forked, and deeply decurrent down the stipe. They are whitish to pale grey when young, darkening through smoky mouse-grey to olive-grey or nearly black as the dark spores mature. Basidia are clavate, four-spored, and measure 50–55 × 9–14 µm; cylindrical cheilocystidia measure 100–125 × 10–14 µm, with similarly shaped but noticeably smaller pleurocystidia.",
+      "stipe": "2.5–7 cm tall and 0.4–1.5 cm thick, cylindrical or tapering downward toward the base, with much of its length often buried in moss, grass, or pine needles. It is white above and often flushed pale pink, wine-pink, or pale yellowish below, shading to yellowish or brownish at the base, and bears a woolly-thickened or indistinct glutinous ring zone near the top whose edge is frequently blackened by falling spores.",
+      "flesh": "Firm and solid, whitish in the cap and upper stipe, sometimes faintly flushed pink beneath the cap cuticle or on cutting, and shading to reddish, dirty yellow, or pale brown in the stipe base. The odour is indistinct and the taste is mild or slightly acidulous.",
+      "sporePrint": "Brownish-black to olive-black. Basidiospores are smooth, spindle-shaped (boletoid), and measure 16–22 × 4.5–8 µm.",
+      "habitat": "Found in coniferous and mixed forests on poor, acidic, sandy soils beneath pines, especially Scots pine (Pinus sylvestris), often among heather, bilberry, moss, or grass, and invariably alongside Suillus bovinus. Although historically treated as ectomycorrhizal with pine, it is parasitic on the mycelium of Suillus bovinus, forming haustoria within host pine root cells. Fruits singly or in small groups from July to October across much of mainland Europe, and from August to November in Britain and Ireland.",
+      "uses": "Edible and non-toxic, though widely regarded as of mediocre culinary quality and of little interest for the table. Peeling away the viscid cap cuticle is recommended if prepared for cooking, though gathering is generally discouraged because fruit bodies are small, relatively uncommon, and easily confused from above with poisonous red-capped Russula species.",
+      "confusion": "Gomphidius glutinosus has a slimy greyish-brown to purple-brown cap that typically develops black spots, a much thicker glutinous veil, and bright chrome-yellow flesh at the stipe base. Chroogomphus rutilus is usually larger with a copper-brown to purplish-brown cap and orange-ochre flesh throughout. Russula emetica and other red-capped Russula species can look similar from above, but have brittle white flesh, non-decurrent white gills, a white spore print, and no veil or ring zone. Hygrophorus erubescens and Hygrophorus russula also have pinkish-red caps and decurrent gills, but their gills remain pale and their spore print is white. In North America, Gomphidius subroseus is a closely related pinkish species that associates with Suillus lakei rather than Suillus bovinus.",
+      "notes": "A 2019 global assessment rates this species Least Concern, though it is uncommon to rare in parts of its range and appears on several national red lists in Europe. Unlike Suillus bovinus, which fruits freely on its own, Gomphidius roseus is never found apart from its host bolete, making the pair a classic example of a three-way fungus-on-fungus-on-tree association. Records from North America belong to the distinct species Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=213963",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=213963",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=213963",
+        "https://www.gbif.org/species/7889985",
+        "https://www.wikidata.org/wiki/Q1931554",
+        "https://en.wikipedia.org/wiki/Gomphidius_roseus",
+        "https://www.first-nature.com/fungi/gomphidius-roseus.php",
+        "https://www.myko.cz/myko-atlas/Gomphidius-roseus/",
+        "https://de.wikipedia.org/wiki/Rosenroter_Schmierling"
+      ]
+    },
+    "ar": {
+      "description": "فطر صغير ذو صفائح ولون وردي مرجاني ينمو في غابات الصنوبر الحمضية في أنحاء أوروبا وآسيا المعتدلة، ويغيب عن أمريكا الشمالية. ينمو منفردًا أو في مجموعات صغيرة تحت أشجار الصنوبر على التربة الرملية أو المغطاة بالحزازيات أو نبات الخلنج، ودائمًا تقريبًا إلى جانب فطر Suillus bovinus الذي يتطفل على غزله الفطري، ويثمر من الصيف حتى أواخر الخريف.",
+      "cap": "يبلغ قطر القبعة ٢–٦ سم، وتكون نصف كروية في الصغر ذات حافة ملتفة إلى الداخل تتصل بالساق عبر نقاب جزئي لزج وشبه شفاف، ثم تتسع لتصبح محدبة أو مسطحة أو مقعرة قليلًا، وقد تحمل أحيانًا نتوءًا مركزيًا صغيرًا، مع بقاء الحافة غالبًا منحنية إلى الأسفل أو مفصصة قليلًا. القشرة الملساء القابلة للتقشير لزجة إلى مخاطية في الطقس الرطب ولامعة عند الجفاف، ولونها وردي مرجاني زاهٍ إلى أحمر وردي يتحول عند النضج نحو الأحمر الطوبي، وتخلو من البقع السوداء التي تظهر في الأقارب ذات القبعات الداكنة.",
+      "hymenium": "الصفائح سميكة ومتباعدة نسبيًا ومتفرعة أحيانًا، وتمتد نزولًا بعمق على طول الساق. يكون لونها مائلًا إلى البياض أو رماديًا باهتًا في الصغر، ثم يغمق عبر الرمادي الدخاني إلى الرمادي الزيتوني أو شبه الأسود مع نضج الأبواغ الداكنة. الدعامات (البازيديات) هراوية الشكل ورباعية الأبواغ، وتبلغ أبعادها ٥٠–٥٥ × ٩–١٤ ميكرومتر؛ أما السيستيدات الطرفية الأسطوانية فتبلغ ١٠٠–١٢٥ × ١٠–١٤ ميكرومتر، مع سيستيدات جانبية مشابهة في الشكل ولكنها أصغر بوضوح.",
+      "stipe": "يبلغ ارتفاع الساق ٢٫٥–٧ سم وسماكتها ٠٫٤–١٫٥ سم، وهي أسطوانية أو مستدقة نحو القاعدة، وغالبًا ما يكون جزء كبير من طولها مدفونًا في الحزازيات أو العشب أو إبر الصنوبر. لونها أبيض في الأعلى وغالبًا ما يميل إلى الوردي الباهت أو الوردي النبيذي أو الأصفر الباهت في الأسفل، متدرجًا إلى المصفر أو البني عند القاعدة، وتحمل منطقة حلقية لزجة غير واضحة أو متثخنة صوفية قرب القمة كثيرًا ما تسود حافتها بفعل الأبواغ المتساقطة.",
+      "flesh": "اللحم متماسك وصلب، مائل إلى البياض في القبعة والجزء العلوي من الساق، وقد يشوبه أحيانًا لون وردي خفيف تحت قشرة القبعة أو عند القطع، ويتدرج إلى المحمر أو الأصفر المتسخ أو البني الباهت في قاعدة الساق. الرائحة غير مميزة والطعم معتدل أو حمضي قليلًا.",
+      "sporePrint": "طبعة الأبواغ بنية مسودة إلى سوداء زيتونية. الأبواغ الدعامية ملساء ومغزلية الشكل (بوليتية)، وتبلغ أبعادها ١٦–٢٢ × ٤٫٥–٨ ميكرومتر.",
+      "habitat": "ينمو في الغابات الصنوبرية والمختلطة على التربة الرملية الفقيرة والحمضية تحت أشجار الصنوبر، ولا سيما الصنوبر البري (Pinus sylvestris)، وغالبًا بين الخلنج وعنبية الآس والحزازيات أو العشب، ودائمًا إلى جانب فطر Suillus bovinus. وعلى الرغم من اعتباره تاريخيًا ذا علاقة جذرية فطرية خارجية مع الصنوبر، فإنه في الواقع متطفل على الغزل الفطري لفطر Suillus bovinus، حيث يكوّن مماصات داخل خلايا جذور الصنوبر العائل. يثمر منفردًا أو في مجموعات صغيرة من يوليو إلى أكتوبر في معظم أنحاء البر الرئيسي الأوروبي، ومن أغسطس إلى نوفمبر في بريطانيا وأيرلندا.",
+      "uses": "صالح للأكل وغير سام، لكنه يُعد على نطاق واسع ذا جودة طهوية متواضعة وقليل الأهمية للمائدة. يُنصح بتقشير قشرة القبعة اللزجة عند إعداده للطهي، غير أن جمعه لا يُشجَّع عمومًا لأن الأجسام الثمرية صغيرة ونادرة نسبيًا ويسهل الخلط بينها عند النظر من الأعلى وبين أنواع جنس Russula السامة ذات القبعات الحمراء.",
+      "confusion": "يتميز فطر Gomphidius glutinosus بقبعة لزجة رمادية بنية إلى بنية أرجوانية تتطور عليها عادة بقع سوداء، وبنقاب لزج أكثر سماكة، ولحم أصفر كرومي زاهٍ في قاعدة الساق. أما فطر Chroogomphus rutilus فيكون أكبر عادة وله قبعة بنية نحاسية إلى بنية أرجوانية ولحم أصفر مغري برتقالي في كامل الجسم الثمري. وقد تبدو أنواع Russula emetica وغيرها من أنواع Russula ذات القبعات الحمراء مشابهة من الأعلى، لكنها تمتلك لحمًا أبيض هشًا وصفائح بيضاء غير ممتدة على الساق وطبعة أبواغ بيضاء وتفتقر إلى النقاب أو المنطقة الحلقية. كما يمتلك كل من Hygrophorus erubescens وHygrophorus russula قبعات حمراء وردية وصفائح ممتدة على الساق، غير أن صفائحهما تبقى باهتة وطبعة أبواغهما بيضاء. وفي أمريكا الشمالية يوجد نوع وردي وثيق الصلة هو Gomphidius subroseus، لكنه يرتبط بفطر Suillus lakei بدلًا من Suillus bovinus.",
+      "notes": "صنّف تقييم عالمي عام ٢٠١٩ هذا النوع ضمن فئة غير مهدد (Least Concern)، مع أنه غير شائع إلى نادر في أجزاء من نطاق انتشاره ويُدرج في عدة قوائم حمراء وطنية في أوروبا. وعلى خلاف فطر Suillus bovinus الذي يثمر بحرية بمفرده، لا يُعثر على Gomphidius roseus أبدًا بمعزل عن الفطر البوليتي العائل له، مما يجعل الثنائي مثالًا كلاسيكيًا على علاقة ثلاثية تجمع بين فطر يتطفل على فطر مرتبط بشجرة. أما السجلات الواردة من أمريكا الشمالية فتعود إلى النوع المستقل Gomphidius subroseus.",
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Дребна ламелна гъба с кораловорозов цвят, обитаваща кисели борови гори в Европа и умерения пояс на Азия, отсъстваща в Северна Америка. Расте поединично или на малки групи под борове върху песъчлива, мъхеста или обрасла с пирен почва, почти винаги редом с Suillus bovinus, върху чийто мицел паразитира, като плододава от лятото до късна есен.",
+      "cap": "С диаметър 2–6 см, в младост полусферична с подвит ръб, свързан с пънчето чрез полупрозрачно слузесто частично покривало, по-късно изпъкнала, плоска или леко вдлъбната, понякога с малка централна гърбица и с ръб, който често остава подвит или слабо наделен. Гладката, белеща се кожица е лепкава до слузеста във влажно време и лъскава при сухо, оцветена в ярко кораловорозово до розово-червено, като с узряването преминава към керемиденочервено и няма черникавите петна, характерни за тъмногуглестите сродни видове.",
+      "hymenium": "Ламелите са дебели, сравнително редки, понякога раздвоени и дълбоко низбягващи по пънчето. В младост са белезникави до бледосиви, а при узряването на тъмните спори потъмняват през опушено мишосиво до маслиненосиво или почти черно. Базидиите са бухалковидни, четириспорови, с размери 50–55 × 9–14 µm; цилиндричните хейлоцистидии са 100–125 × 10–14 µm, а плевроцистидиите са със сходна форма, но забележимо по-дребни.",
+      "stipe": "Високо 2,5–7 см и дебело 0,4–1,5 см, цилиндрично или стесняващо се към основата, като голяма част от дължината му често е потънала в мъх, трева или борови иглички. В горната си част е бяло, а надолу често има бледорозов, виненорозов или бледожълтеникав оттенък, преминаващ в жълтеникав или кафеникав в основата; близо до върха носи вълнесто удебелена или неясна слузеста пръстеновидна зона, чийто ръб често почернява от опадащите спори.",
+      "flesh": "Плътно и твърдо, белезникаво в гуглата и горната част на пънчето, понякога леко розовеещо под кожицата на гуглата или при разрязване, а в основата на пънчето преминаващо в червеникаво, мръсножълто или бледокафяво. Мирисът е неизразителен, а вкусът е мек или леко киселичък.",
+      "sporePrint": "Кафяво-черен до маслиненочерен. Базидиоспорите са гладки, вретеновидни (болетоидни) и с размери 16–22 × 4,5–8 µm.",
+      "habitat": "Среща се в иглолистни и смесени гори върху бедни, кисели, песъчливи почви под борове, особено под бял бор (Pinus sylvestris), често сред пирен, боровинки, мъх или трева, и неизменно редом с Suillus bovinus. Макар в миналото да е смятана за ектомикоризен вид на бора, в действителност е паразитен вид върху мицела на Suillus bovinus, като образува хаустории в клетките на корените на гостоприемния бор. Плододава поединично или на малки групи от юли до октомври в по-голямата част от континентална Европа и от август до ноември във Великобритания и Ирландия.",
+      "uses": "Ядлива и неотровна гъба, но широко смятана за посредствена в кулинарно отношение и със слаб интерес за кухнята. При приготвяне за готвене се препоръчва обелването на слузестата кожица на гуглата, но събирането като цяло не се препоръчва, тъй като плодните тела са дребни, сравнително редки и отгоре лесно могат да се сбъркат с отровни червеногуглести видове от род Russula.",
+      "confusion": "Gomphidius glutinosus има слузеста сиво-кафява до виолетово-кафява гугла, по която обикновено се появяват черни петна, много по-дебело слузесто покривало и ярко хромножълто месо в основата на пънчето. Chroogomphus rutilus обикновено е по-едър, с меднокафява до пурпурнокафява гугла и оранжево-охрено месо в цялото плодно тяло. Russula emetica и други червеногуглести видове от род Russula могат да изглеждат подобно отгоре, но имат крехко бяло месо, ненизбягващи бели ламели, бял споров прашец и нямат покривало или пръстеновидна зона. Hygrophorus erubescens и Hygrophorus russula също имат розово-червени гугли и низбягващи ламели, но ламелите им остават светли, а споровият прашец е бял. В Северна Америка се среща близкородственият розов вид Gomphidius subroseus, който е свързан с Suillus lakei вместо с Suillus bovinus.",
+      "notes": "Глобална оценка от 2019 г. определя вида като незастрашен вид (Least Concern), макар в части от ареала си да е нечест до рядък и да присъства в няколко национални червени списъка в Европа. За разлика от Suillus bovinus, който свободно плододава самостоятелно, този вид никога не се намира отделно от своята гостоприемна манатаркова гъба, което прави двойката класически пример за тристранна връзка гъба–гъба–дърво. Находките от Северна Америка принадлежат към отделен вид — Gomphidius subroseus.",
+      "sourceUrls": []
+    },
+    "cs": {
+      "label": "slizák růžový",
+      "wikipedia": "https://cs.wikipedia.org/wiki/Sliz%C3%A1k_r%C5%AF%C5%BEov%C3%BD",
+      "description": "Menší lupenatá, korálově růžová houba kyselých borových lesů Evropy a mírného pásu Asie, v Severní Americe chybí. Roste jednotlivě nebo v malých skupinách pod borovicemi na písčité, mechové či vřesovištní půdě, téměř vždy společně s klouzkem kravským (Suillus bovinus), na jehož myceliu parazituje; plodí od léta do pozdního podzimu.",
+      "cap": "2–6 cm široký, v mládí polokulovitý s podvinutým okrajem spojeným s třeněm průsvitným slizkým částečným závojem, později sklenutý, plochý až mírně vmáčklý, občas s malým středovým hrbolem a s okrajem, který často zůstává podvinutý nebo mírně laločnatý. Hladká, slupitelná pokožka je za vlhka lepkavá až slizká a za sucha lesklá, zbarvená jasně korálově růžově až růžově červeně, v dospělosti přechází do cihlově červené a postrádá černavé skvrny typické pro tmavoklobouké příbuzné druhy.",
+      "hymenium": "Lupeny jsou tlusté, dosti řídké, občas vidličnatě větvené a hluboce sbíhavé na třeň. V mládí jsou bělavé až světle šedé, dozráváním tmavých výtrusů tmavnou přes kouřově myší šedou až po olivově šedou či téměř černou. Bazidie jsou kyjovité, čtyřvýtrusé, o rozměrech 50–55 × 9–14 µm; válcovité cheilocystidy měří 100–125 × 10–14 µm, pleurocystidy mají podobný tvar, ale jsou znatelně menší.",
+      "stipe": "2,5–7 cm vysoký a 0,4–1,5 cm tlustý, válcovitý nebo směrem k bázi se zužující, přičemž velká část jeho délky bývá ponořená v mechu, trávě nebo borovém jehličí. Nahoře je bílý a v dolní části bývá světle růžově, vínově růžově nebo světle nažloutle naběhlý, na bázi přecházející do nažloutlé či nahnědlé barvy; poblíž vrcholu nese plstnatě zesílenou nebo nevýraznou slizkou prstenovou zónu, jejíž okraj bývá často začerněný padajícími výtrusy.",
+      "flesh": "Pevná a plná, v klobouku a horní části třeně bělavá, pod pokožkou klobouku nebo na řezu někdy slabě narůžovělá, v bázi třeně přecházející do načervenalé, špinavě žluté nebo světle hnědé barvy. Vůně je nevýrazná a chuť mírná nebo lehce nakyslá.",
+      "sporePrint": "Hnědočerný až olivově černý. Bazidiospory jsou hladké, vřetenovité (hřibovité) a měří 16–22 × 4,5–8 µm.",
+      "habitat": "Vyskytuje se v jehličnatých a smíšených lesích na chudých, kyselých písčitých půdách pod borovicemi, zejména pod borovicí lesní (Pinus sylvestris), často ve vřesu, borůvčí, mechu nebo v trávě a vždy společně s klouzkem kravským (Suillus bovinus). Přestože byla v minulosti považována za ektomykorhizní houbu borovic, ve skutečnosti parazituje na myceliu klouzka kravského a v buňkách kořenů hostitelské borovice vytváří haustoria. Plodí jednotlivě nebo v malých skupinách od července do října na většině území pevninské Evropy a od srpna do listopadu v Británii a Irsku.",
+      "uses": "Jedlá a nejedovatá houba, všeobecně však považovaná za kulinářsky průměrnou a pro kuchyni málo zajímavou. Před kuchyňskou úpravou se doporučuje sloupnout slizkou pokožku klobouku, sběr se však obecně nedoporučuje, protože plodnice jsou malé, poměrně vzácné a shora snadno zaměnitelné s jedovatými červenokloboukými druhy holubinek (Russula).",
+      "confusion": "Slizák mazlavý (Gomphidius glutinosus) má slizký šedohnědý až purpurově hnědý klobouk, na němž se obvykle tvoří černé skvrny, mnohem silnější slizký závoj a jasně chromově žlutou dužninu v bázi třeně. Slizák lepkavý (Chroogomphus rutilus) bývá větší, má měděně hnědý až purpurově hnědý klobouk a v celé plodnici oranžově okrovou dužninu. Holubinka vrhavka (Russula emetica) a další červenoklobouké holubinky (Russula) se mohou shora podobat, ale mají křehkou bílou dužninu, nesbíhavé bílé lupeny, bílý výtrusný prach a postrádají závoj i prstenovou zónu. Šťavnatka načervenalá (Hygrophorus erubescens) a šťavnatka holubinková (Hygrophorus russula) mají rovněž růžově červený klobouk a sbíhavé lupeny, ale jejich lupeny zůstávají světlé a výtrusný prach je bílý. V Severní Americe roste blízce příbuzný narůžovělý druh Gomphidius subroseus, který je vázán na druh Suillus lakei místo druhu Suillus bovinus.",
+      "notes": "Globální hodnocení z roku 2019 ji řadí do kategorie málo dotčený (Least Concern), přestože je v částech svého areálu vzácná a objevuje se v několika evropských národních červených seznamech. Na rozdíl od druhu Suillus bovinus, který běžně plodí samostatně, se tento druh nikdy nenachází odděleně od svého hostitelského hřibovitého druhu, takže tato dvojice představuje klasický příklad tříčlenného vztahu houba–houba–strom. Nálezy ze Severní Ameriky patří k samostatnému druhu Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Gomphidius-roseus/",
+        "https://cs.wikipedia.org/wiki/Sliz%C3%A1k_r%C5%AF%C5%BEov%C3%BD"
+      ]
+    },
+    "da": {
+      "label": "rosenrød slimslør",
+      "description": "En lille, koralrosa lamelsvamp i sure fyrreskove i Europa og det tempererede Asien, som mangler i Nordamerika. Den vokser enkeltvis eller i små grupper under fyr på sandet, mosdækket eller lyngklædt bund, næsten altid sammen med korørhat (Suillus bovinus), hvis mycelium den parasiterer på, og danner frugtlegemer fra sommer til sen efterår.",
+      "cap": "2–6 cm bred, halvkugleformet som ung med indrullet rand, der er forbundet med stokken af et gennemskinneligt, slimet delsvøb, senere udbredt til hvælvet, flad eller let nedtrykt og af og til med en lille midtpukkel, idet randen ofte forbliver nedadbøjet eller let lappet. Den glatte, aftagelige hathud er klæbrig til slimet i fugtigt vejr og skinnende i tørt vejr, kraftigt koralrosa til rosenrød og med alderen mere teglrød, uden de sortagtige pletter som ses hos mørkhattede slægtninge.",
+      "hymenium": "Lamellerne er tykke, ret fjerne, af og til gaffeldelte og langt nedløbende på stokken. De er hvidlige til blegt grå som unge og mørkner gennem røget musegrå til olivengrå eller næsten sorte, efterhånden som de mørke sporer modnes. Basidierne er kølleformede, firesporede og måler 50–55 × 9–14 µm; cylindriske cheilocystider måler 100–125 × 10–14 µm, mens de ensformede pleurocystider er tydeligt mindre.",
+      "stipe": "2,5–7 cm høj og 0,4–1,5 cm tyk, cylindrisk eller tilspidsende mod basis, ofte med en stor del af længden skjult i mos, græs eller fyrrenåle. Den er hvid foroven og ofte med et blegt rosa, vinrosa eller bleggult skær nedefter, overgående i gulligt eller brunligt ved basis, og bærer øverst en uldent fortykket eller utydelig slimet ringzone, hvis kant hyppigt farves sort af nedfaldende sporer.",
+      "flesh": "Fast og kompakt, hvidligt i hatten og den øverste del af stokken, undertiden svagt rosa anløbet under hathuden eller ved gennemskæring, og overgående i rødligt, smudsiggult eller blegt brunt i stokbasis. Lugten er ubetydelig, og smagen er mild eller let syrlig.",
+      "sporePrint": "Brunsort til olivensort. Basidiosporerne er glatte, tenformede (boletoide) og måler 16–22 × 4,5–8 µm.",
+      "habitat": "Findes i nåle- og blandingsskove på mager, sur sandjord under fyr, især skovfyr (Pinus sylvestris), ofte blandt hedelyng, blåbær, mos eller græs, og altid sammen med korørhat (Suillus bovinus). Skønt arten tidligere blev regnet som ektomykorrhizadannende med fyr, lever den parasitisk på myceliet af Suillus bovinus og danner haustorier inde i værtsfyrrens rodceller. Danner frugtlegemer enkeltvis eller i små grupper fra juli til oktober i store dele af det europæiske fastland og fra august til november i Storbritannien og Irland.",
+      "uses": "Spiselig og ugiftig, men regnes almindeligvis som kulinarisk middelmådig og af ringe interesse som spisesvamp. Det anbefales at flå den slimede hathud af ved tilberedning, men indsamling frarådes generelt, da frugtlegemerne er små, relativt sjældne og oppefra let kan forveksles med giftige rødhattede skørhatte.",
+      "confusion": "Punktstokket slimslør (Gomphidius glutinosus) har en slimet gråbrun til purpurbrun hat, der typisk udvikler sorte pletter, et meget tykkere slimet svøb samt stærkt kromgult kød i stokbasis. Rødbrun slimslør (Chroogomphus rutilus) er som regel større med kobberbrun til purpurbrun hat og orangeokker kød i hele frugtlegemet. Giftig skørhat (Russula emetica) og andre rødhattede skørhatte (Russula) kan ligne oppefra, men har skørt hvidt kød, ikke-nedløbende hvide lameller, hvidt sporeaftryk og mangler svøb og ringzone. Hygrophorus erubescens og Hygrophorus russula har også rosarøde hatte og nedløbende lameller, men deres lameller forbliver blege og sporeaftrykket er hvidt. I Nordamerika er Gomphidius subroseus en nærtstående rosa art, der er knyttet til Suillus lakei frem for Suillus bovinus.",
+      "notes": "En global vurdering fra 2019 kategoriserer arten som ikke truet (Least Concern), selv om den er ualmindelig til sjælden i dele af sit udbredelsesområde og optræder på flere nationale rødlister i Europa. I modsætning til Suillus bovinus, som frit danner frugtlegemer alene, findes Gomphidius roseus aldrig adskilt fra sin værtsrørhat, hvilket gør parret til et klassisk eksempel på et tredelt samspil mellem svamp, svamp og træ. Fund fra Nordamerika tilhører den selvstændige art Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/7889985"
+      ]
+    },
+    "de": {
+      "label": "Rosenroter Schmierling",
+      "names": [
+        "Rosenroter Gelbfuß",
+        "Rosa Schmierling"
+      ],
+      "wikipedia": "https://de.wikipedia.org/wiki/Rosenroter_Schmierling",
+      "description": "Ein kleiner, korallenrosa gefärbter Lamellenpilz saurer Kiefernwälder in Europa und dem gemäßigten Asien, der in Nordamerika fehlt. Er wächst einzeln oder in kleinen Gruppen unter Kiefern auf sandigem, moosigem oder heidigem Boden, fast immer in Gesellschaft des Kuhröhrlings (Suillus bovinus), auf dessen Myzel er parasitiert, und fruktifiziert vom Sommer bis in den Spätherbst.",
+      "cap": "2–6 cm breit, jung halbkugelig mit eingerolltem Rand, der durch ein durchscheinendes, schleimiges Teilvelum mit dem Stiel verbunden ist; später gewölbt, ausgebreitet oder leicht vertieft und gelegentlich mit einem kleinen zentralen Buckel, wobei der Rand oft herabgebogen oder leicht gelappt bleibt. Die glatte, abziehbare Huthaut ist bei feuchtem Wetter schmierig bis schleimig und trocken glänzend, leuchtend korallenrosa bis rosenrot gefärbt und im Alter ziegelrot nachdunkelnd, ohne die schwärzlichen Flecken dunkelhütiger Verwandter.",
+      "hymenium": "Die Lamellen sind dick, ziemlich entfernt stehend, gelegentlich gegabelt und weit am Stiel herablaufend. Jung sind sie weißlich bis blassgrau und dunkeln mit der Sporenreife über rauchiges Mausgrau bis olivgrau oder fast schwarz nach. Die Basidien sind keulig, viersporig und messen 50–55 × 9–14 µm; zylindrische Cheilozystiden messen 100–125 × 10–14 µm, während die ähnlich geformten Pleurozystiden deutlich kleiner sind.",
+      "stipe": "2,5–7 cm lang und 0,4–1,5 cm dick, zylindrisch oder zur Basis hin verjüngt, wobei ein Großteil seiner Länge oft in Moos, Gras oder Kiefernnadeln verborgen ist. Er ist oben weiß und nach unten oft blassrosa, weinrosa oder blassgelblich überhaucht, zur Basis hin gelblich oder bräunlich verlaufend, und trägt im oberen Bereich eine wollig verdickte oder undeutliche schleimige Ringzone, deren Rand häufig durch ausfallendes Sporenpulver geschwärzt ist.",
+      "flesh": "Fest und voll, im Hut und oberen Stiel weißlich, manchmal unter der Huthaut oder im Schnitt schwach rosa angehaucht, und in der Stielbasis ins Rötliche, Schmutziggelbe oder Blassbraune übergehend. Der Geruch ist unauffällig und der Geschmack mild oder leicht säuerlich.",
+      "sporePrint": "Braunschwarz bis olivschwarz. Die Basidiosporen sind glatt, spindelförmig (boletoid) und messen 16–22 × 4,5–8 µm.",
+      "habitat": "Kommt in Nadel- und Mischwäldern auf nährstoffarmen, sauren Sandböden unter Kiefern vor, insbesondere unter Waldkiefer (Pinus sylvestris), oft zwischen Heidekraut, Heidelbeere, Moos oder Gras und stets in Gesellschaft des Kuhröhrlings (Suillus bovinus). Obwohl er früher als ektomykorrhizabildend mit Kiefern angesehen wurde, lebt er parasitisch auf dem Myzel von Suillus bovinus und bildet Haustorien in den Wurzelzellen der Wirtskiefer. Er fruktifiziert einzeln oder in kleinen Gruppen von Juli bis Oktober in weiten Teilen Kontinentaleuropas sowie von August bis November in Großbritannien und Irland.",
+      "uses": "Essbar und ungiftig, gilt jedoch allgemein als kulinarisch mittelmäßig und für die Küche wenig interessant. Falls er zubereitet wird, empfiehlt es sich, die schmierige Huthaut abzuziehen; vom Sammeln wird jedoch meist abgeraten, da die Fruchtkörper klein und relativ selten sind und von oben leicht mit giftigen rotbehüteten Täublingen verwechselt werden können.",
+      "confusion": "Der Große Schmierling (Gomphidius glutinosus) hat einen schleimigen graubraunen bis purpurbraunen Hut, der typischerweise schwarze Flecken entwickelt, ein deutlich dickeres schleimiges Velum und leuchtend chromgelbes Fleisch in der Stielbasis. Der Kupferrote Gelbfuß (Chroogomphus rutilus) ist meist größer, mit kupferbraunem bis purpurbraunem Hut und durchgehend orangeockerfarbenem Fleisch. Der Kirschrote Speitäubling (Russula emetica) und andere rotbehütete Täublinge (Russula) können von oben ähnlich aussehen, besitzen aber brüchiges weißes Fleisch, nicht herablaufende weiße Lamellen, weißes Sporenpulver und weder Velum noch Ringzone. Der Rasige Purpur-Schneckling (Hygrophorus erubescens) und der Geflecktblättrige Purpur-Schneckling (Hygrophorus russula) haben ebenfalls rosarote Hüte und herablaufende Lamellen, doch bleiben ihre Lamellen blass und ihr Sporenpulver ist weiß. In Nordamerika ist Gomphidius subroseus eine nahe verwandte rosafarbene Art, die mit Suillus lakei statt mit Suillus bovinus vergesellschaftet ist.",
+      "notes": "Eine globale Bewertung aus dem Jahr 2019 stuft diese Art als nicht gefährdet (Least Concern) ein, obwohl sie in Teilen ihres Verbreitungsgebiets zerstreut bis selten ist und in mehreren europäischen Ländern auf der Roten Liste steht. Im Gegensatz zu Suillus bovinus, der problemlos allein fruktifiziert, tritt Gomphidius roseus niemals getrennt von seinem Wirtsröhrling auf, was das Paar zu einem klassischen Beispiel einer dreigliedrigen Pilz-auf-Pilz-auf-Baum-Beziehung macht. Nachweise aus Nordamerika gehören zur eigenständigen Art Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Rosenroter_Schmierling"
+      ]
+    },
+    "es": {
+      "wikipedia": "https://es.wikipedia.org/wiki/Gomphidius_roseus",
+      "description": "Seta pequeña de láminas y color rosa coral propia de pinares ácidos de Europa y Asia templada, ausente en Norteamérica. Crece aislada o en pequeños grupos bajo pinos en suelos arenosos, musgosos o con brezo, casi siempre junto a Suillus bovinus, cuyo micelio parasita, y fructifica desde el verano hasta finales del otoño.",
+      "cap": "De 2–6 cm de diámetro, hemisférico de joven con el margen enrollado y unido al pie por un velo parcial viscoso translúcido, extendiéndose después a convexo, plano o ligeramente deprimido, a veces con un pequeño mamelón central y con el margen que a menudo permanece curvado hacia abajo o algo lobulado. La cutícula, lisa y separable, es viscosa a mucilaginosa en tiempo húmedo y brillante en seco, de color rosa coral vivo a rojo rosado que evoluciona hacia el rojo ladrillo al madurar, sin las manchas negruzcas propias de especies afines de sombrero oscuro.",
+      "hymenium": "Láminas gruesas, bastante espaciadas, ocasionalmente bifurcadas y profundamente decurrentes sobre el pie. Son blanquecinas a gris pálido de jóvenes y se oscurecen pasando por gris ratón ahumado hasta gris oliva o casi negro a medida que maduran las esporas oscuras. Los basidios son claviformes, tetraspóricos y miden 50–55 × 9–14 µm; los queilocistidios cilíndricos miden 100–125 × 10–14 µm, con pleurocistidios de forma similar pero notablemente más pequeños.",
+      "stipe": "De 2,5–7 cm de altura y 0,4–1,5 cm de grosor, cilíndrico o atenuado hacia la base, a menudo enterrado en gran parte de su longitud entre el musgo, la hierba o las acículas de pino. Es blanco en la parte superior y suele teñirse de rosa pálido, rosa vinoso o amarillento pálido hacia abajo, tornándose amarillento o parduzco en la base, y presenta cerca del ápice una zona anular algodonosa-engrosada o glutinosa poco definida cuyo borde suele ennegrecerse por la caída de las esporas.",
+      "flesh": "Firme y compacta, blanquecina en el sombrero y la parte superior del pie, a veces teñida ligeramente de rosa bajo la cutícula o al corte, y que vira a rojiza, amarillo sucio o pardo pálido en la base del pie. El olor es poco definido y el sabor es suave o ligeramente acidulado.",
+      "sporePrint": "Negro parduzco a negro oliváceo. Las basidiosporas son lisas, fusiformes (de tipo boletoide) y miden 16–22 × 4,5–8 µm.",
+      "habitat": "Aparece en bosques de coníferas y mixtos sobre suelos pobres, ácidos y arenosos bajo pinos, especialmente pino silvestre (Pinus sylvestris), a menudo entre brezos, arándanos, musgo o hierba, e invariablemente junto a Suillus bovinus. Aunque históricamente se consideró ectomicorrícica del pino, en realidad es parásita del micelio de Suillus bovinus y forma haustorios en el interior de las células radicales del pino hospedador. Fructifica aislada o en pequeños grupos de julio a octubre en gran parte de la Europa continental, y de agosto a noviembre en Gran Bretaña e Irlanda.",
+      "uses": "Comestible y no tóxica, aunque ampliamente considerada de calidad culinaria mediocre y escaso interés gastronómico. Se recomienda retirar la cutícula viscosa del sombrero si se va a cocinar, si bien su recolección suele desaconsejarse porque los carpóforos son pequeños, relativamente poco frecuentes y fáciles de confundir vistos desde arriba con especies tóxicas de Russula de sombrero rojo.",
+      "confusion": "Gomphidius glutinosus tiene un sombrero viscoso de color pardo grisáceo a pardo purpúreo que suele desarrollar manchas negras, un velo glutinoso mucho más grueso y carne amarillo cromo vivo en la base del pie. Chroogomphus rutilus suele ser mayor, con sombrero pardo cobrizo a pardo purpúreo y carne ocre anaranjada en todo el carpóforo. Russula emetica y otras especies de Russula de sombrero rojo pueden parecer similares vistas desde arriba, pero tienen carne blanca quebradiza, láminas blancas no decurrentes, esporada blanca y carecen de velo o zona anular. Hygrophorus erubescens e Hygrophorus russula también presentan sombreros rojo rosados y láminas decurrentes, pero sus láminas permanecen pálidas y su esporada es blanca. En Norteamérica, Gomphidius subroseus es una especie rosada muy emparentada que se asocia con Suillus lakei en lugar de Suillus bovinus.",
+      "notes": "Una evaluación mundial de 2019 clasifica esta especie como de preocupación menor (Least Concern), aunque es poco común a rara en partes de su área de distribución y figura en varias listas rojas nacionales de Europa. A diferencia de Suillus bovinus, que fructifica libremente por sí solo, Gomphidius roseus nunca se encuentra separado de su boleto hospedador, lo que convierte a esta pareja en un ejemplo clásico de asociación tripartita hongo–hongo–árbol. Las citas de Norteamérica corresponden a una especie distinta, Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://es.wikipedia.org/wiki/Gomphidius_roseus"
+      ]
+    },
+    "et": {
+      "label": "roosa liimik",
+      "wikipedia": "https://et.wikipedia.org/wiki/Roosa_liimik",
+      "description": "Väike korallroosa eoslehtedega seen Euroopa ja parasvöötme Aasia happelistes männimetsades, mis puudub Põhja-Ameerikas. Ta kasvab üksikult või väikeste rühmadena mändide all liivasel, samblasel või kanarbikusel pinnasel, peaaegu alati koos lehmatatikuga (Suillus bovinus), kelle seeneniidistikul ta parasiteerib, ning viljub suvest hilissügiseni.",
+      "cap": "2–6 cm läbimõõduga, noorelt poolkerajas ja sisserullunud servaga, mida ühendab jalaga läbipaistev limane osaline loor; vanemalt kumer, lame või kergelt nõgus ning vahel väikese keskmise kühmuga, kusjuures serv jääb sageli allapoole pöördunuks või kergelt hõlmiseks. Sile, kergesti eemaldatav kübaranahk on niiske ilmaga kleepuv kuni limane ja kuivalt läikiv, ereda korallroosa kuni roosakaspunase värvusega ning vananedes telliskivipunakam, ilma tumedakübaralistele sugulastele omaste mustjate laikudeta.",
+      "hymenium": "Eoslehed on paksud, üsna hõredad, vahel harunevad ja kaugele jalale laskuvad. Noorelt on need valkjad kuni kahvatuhallid ning tumenevad tumedate eoste valmides suitsuse hiirehalli kaudu oliivhalliks või peaaegu mustaks. Basiidiumid on nuikujulised, neljaeoselised ja mõõtmetega 50–55 × 9–14 µm; silindrilised heilotsüstiidid on 100–125 × 10–14 µm, samas kui sarnase kujuga pleurotsüstiidid on märgatavalt väiksemad.",
+      "stipe": "2,5–7 cm kõrge ja 0,4–1,5 cm jäme, silindriline või aluse suunas ahenev, kusjuures suur osa jalast on sageli peitunud samblasse, rohtu või männiokastesse. Ülaosas on see valge ja allpool sageli kahvaturoosa, veinroosa või kahvatukollaka varjundiga, muutudes alusel kollakaks või pruunikaks, ning kannab tipu lähedal villjalt paksenenud või ebaselget limast rõngavöödet, mille serv värvub langevatest eostest sageli mustaks.",
+      "flesh": "Tugev ja tihke, kübaras ja jala ülaosas valkjas, vahel kübaranaha all või lõikepinnal kergelt roosaka varjundiga ning jala alusel punaka, määrdunudkollase või kahvatupruuni tooniga. Lõhn on nõrk ja maitse mahe või kergelt hapukas.",
+      "sporePrint": "Pruunikasmust kuni oliivmust. Basidiospoorid on siledad, käävjad (puravikulaadsed) ja mõõtmetega 16–22 × 4,5–8 µm.",
+      "habitat": "Esineb okas- ja segametsades toitainevaestel, happelistel liivmuldadel mändide, eriti hariliku männi (Pinus sylvestris) all, sageli kanarbiku, mustika, sambla või rohu sees ning alati koos lehmatatikuga (Suillus bovinus). Kuigi liiki peeti varem männiga ektomükoriisat moodustavaks, on ta parasiitne Suillus bovinus'e seeneniidistikul, moodustades peremeesmänni juurerakkudes haustoreid. Viljub üksikult või väikeste rühmadena juulist oktoobrini suures osas Mandri-Euroopast ning augustist novembrini Suurbritannias ja Iirimaal.",
+      "uses": "Söödav ja mittemürgine, kuid üldiselt peetakse teda kulinaarselt keskpäraseks ja vähese toiduväärtusega seeneks. Valmistamisel soovitatakse limane kübaranahk eemaldada, kuid korjamist üldiselt ei soovitata, sest viljakehad on väikesed, suhteliselt haruldased ja pealtvaates kergesti segi aetavad mürgiste punakübaraliste pilvikutega.",
+      "confusion": "Pihkasel liimikul (Gomphidius glutinosus) on limane hallikaspruun kuni purpurpruun kübar, millele tekivad tavaliselt mustad laigud, palju paksem limane loor ja jala alusel ere kroomkollane seeneliha. Männiliimik (Chroogomphus rutilus) on tavaliselt suurem, vaskpruuni kuni purpurpruuni kübara ja läbivalt oranžookri seenelihaga. Kirbe pilvik (Russula emetica) ja teised punakübaralised pilvikud (Russula) võivad pealtvaates sarnaneda, kuid neil on rabe valge seeneliha, mittelaskuvad valged eoslehed, valge eosetolm ning puudub loor ja rõngavööde. Ka liikidel Hygrophorus erubescens ja Hygrophorus russula on roosakaspunane kübar ja laskuvad eoslehed, kuid nende eoslehed jäävad kahvatuks ja eosetolm on valge. Põhja-Ameerikas on Gomphidius subroseus lähedane roosa liik, mis on seotud liigiga Suillus lakei, mitte Suillus bovinus.",
+      "notes": "2019. aasta ülemaailmne hinnang liigitab liigi soodsas seisundis (Least Concern) olevaks, kuigi see on osa levila piires vähearvukas kuni haruldane ja kuulub mitme Euroopa riigi punasesse nimestikku. Erinevalt liigist Suillus bovinus, mis viljub vabalt ka üksi, ei leidu Gomphidius roseus't kunagi oma peremeestatikust eraldi, muutes selle paari klassikaliseks näiteks kolmepoolsest seen-seenel-puul seosest. Põhja-Ameerikast pärinevad leiud kuuluvad eraldi liigile Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Roosa_liimik"
+      ]
+    },
+    "fa": {
+      "description": "قارچی کوچک، تیغه‌دار و به رنگ صورتی مرجانی است که در جنگل‌های اسیدی کاج در سراسر اروپا و آسیای معتدل می‌روید و در آمریکای شمالی وجود ندارد. به صورت تکی یا در گروه‌های کوچک زیر درختان کاج روی زمین‌های شنی، خزه‌ای یا پوشیده از خلنگ می‌روید، تقریباً همیشه در کنار Suillus bovinus دیده می‌شود و بر میسلیوم آن انگلی است، و از تابستان تا اواخر پاییز اندام بارده تولید می‌کند.",
+      "cap": "کلاهک ۲–۶ سانتی‌متر قطر دارد؛ در جوانی نیم‌کروی با لبه‌ای برگشته به داخل است که با پرده‌ای جزئی، نیمه‌شفاف و لزج به ساقه متصل می‌شود، سپس باز شده و به شکل محدب، تخت یا کمی فرورفته درمی‌آید و گاهی برآمدگی مرکزی کوچکی دارد، در حالی که لبه اغلب خمیده به پایین یا کمی لب‌دار باقی می‌ماند. پوستک صاف و قابل پوست‌کندن آن در هوای مرطوب چسبناک تا لزج و در هوای خشک براق است، به رنگ صورتی مرجانی روشن تا سرخ گلی بوده و با رسیدن به سرخ آجری متمایل می‌شود و فاقد لکه‌های سیاه‌رنگی است که در خویشاوندان کلاهک‌تیره دیده می‌شود.",
+      "hymenium": "تیغه‌ها ضخیم، نسبتاً بافاصله، گاهی دوشاخه و به طور عمیق روی ساقه کشیده هستند. در جوانی سفیدفام تا خاکستری کم‌رنگ‌اند و با رسیدن هاگ‌های تیره از خاکستری دودی به خاکستری زیتونی یا تقریباً سیاه تیره می‌شوند. بازیدی‌ها گرزمانند، چهارهاگی و به اندازه ۵۰–۵۵ × ۹–۱۴ میکرومتر هستند؛ کایلوسیستیدیاهای استوانه‌ای ۱۰۰–۱۲۵ × ۱۰–۱۴ میکرومتر اندازه دارند و پلوروسیستیدیاها نیز شکلی مشابه اما به طور محسوسی کوچک‌تر دارند.",
+      "stipe": "ساقه ۲٫۵–۷ سانتی‌متر ارتفاع و ۰٫۴–۱٫۵ سانتی‌متر ضخامت دارد، استوانه‌ای است یا به سمت پایه باریک می‌شود و بخش زیادی از طول آن اغلب در خزه، علف یا برگ‌های سوزنی کاج مدفون است. در بالا سفید است و در پایین اغلب ته‌رنگ صورتی کم‌رنگ، صورتی شرابی یا زرد کم‌رنگ دارد و در پایه به زردفام یا قهوه‌ای‌فام متمایل می‌شود، و در نزدیکی بخش بالایی دارای ناحیه‌ای حلقه‌مانند، پشمی-ضخیم یا لزج و نامشخص است که لبه آن اغلب بر اثر ریزش هاگ‌ها سیاه می‌شود.",
+      "flesh": "گوشت آن سفت و توپر است، در کلاهک و بخش بالایی ساقه سفیدفام بوده و گاهی زیر پوستک کلاهک یا هنگام برش ته‌رنگ صورتی ملایمی پیدا می‌کند و در پایه ساقه به قرمزرنگ، زرد چرک یا قهوه‌ای کم‌رنگ متمایل می‌شود. بوی آن نامشخص و طعمش ملایم یا کمی ترش‌مزه است.",
+      "sporePrint": "نقش هاگ قهوه‌ای-سیاه تا زیتونی-سیاه است. هاگ‌های بازیدی صاف و دوکی‌شکل (بولتی) بوده و اندازه آن‌ها ۱۶–۲۲ × ۴٫۵–۸ میکرومتر است.",
+      "habitat": "در جنگل‌های سوزنی‌برگ و مختلط روی خاک‌های فقیر، اسیدی و شنی زیر درختان کاج، به ویژه کاج اسکاتلندی (Pinus sylvestris)، اغلب میان خلنگ، بلوبری وحشی، خزه یا علف و همواره در کنار Suillus bovinus یافت می‌شود. اگرچه در گذشته با کاج همزیست اکتومیکوریز تلقی می‌شد، در واقع بر میسلیوم Suillus bovinus انگلی است و در سلول‌های ریشه کاج میزبان مکنده‌هایی (هاستوریا) تشکیل می‌دهد. در بیشتر بخش‌های سرزمین اصلی اروپا از ژوئیه تا اکتبر و در بریتانیا و ایرلند از اوت تا نوامبر به صورت تکی یا در گروه‌های کوچک می‌روید.",
+      "uses": "خوراکی و غیرسمی است، اما به طور گسترده از نظر کیفیت آشپزی معمولی و کم‌ارزش برای مصرف غذایی به شمار می‌رود. در صورت آماده‌سازی برای پخت، پوست کندن پوستک لزج کلاهک توصیه می‌شود، هرچند جمع‌آوری آن عموماً توصیه نمی‌شود زیرا اندام‌های بارده کوچک و نسبتاً کمیاب‌اند و از بالا به آسانی با گونه‌های سمی و کلاهک‌قرمز جنس Russula اشتباه گرفته می‌شوند.",
+      "confusion": "گونه Gomphidius glutinosus کلاهکی لزج به رنگ خاکستری-قهوه‌ای تا ارغوانی-قهوه‌ای دارد که معمولاً لکه‌های سیاه روی آن پدید می‌آید، پرده لزج آن بسیار ضخیم‌تر است و گوشت پایه ساقه آن زرد کرومی روشن است. گونه Chroogomphus rutilus معمولاً بزرگ‌تر است و کلاهک مسی-قهوه‌ای تا ارغوانی-قهوه‌ای و گوشتی به رنگ نارنجی-اخرایی در سراسر پیکره دارد. گونه Russula emetica و سایر گونه‌های کلاهک‌قرمز جنس Russula از بالا ممکن است شبیه به نظر برسند، اما گوشت سفید شکننده، تیغه‌های سفید غیرکشیده روی ساقه و نقش هاگ سفید دارند و فاقد پرده یا ناحیه حلقه‌مانند هستند. گونه‌های Hygrophorus erubescens و Hygrophorus russula نیز کلاهک‌های صورتی-قرمز و تیغه‌های کشیده روی ساقه دارند، اما تیغه‌های آن‌ها کم‌رنگ باقی می‌ماند و نقش هاگشان سفید است. در آمریکای شمالی، گونه خویشاوند صورتی‌رنگ Gomphidius subroseus یافت می‌شود که به جای Suillus bovinus با Suillus lakei همراه است.",
+      "notes": "ارزیابی جهانی سال ۲۰۱۹ این گونه را در رده کمترین نگرانی (Least Concern) قرار داده است، هرچند در بخش‌هایی از گستره پراکنش خود کمیاب تا نادر است و در چندین فهرست سرخ ملی در اروپا حضور دارد. برخلاف Suillus bovinus که به تنهایی به راحتی اندام بارده تولید می‌کند، Gomphidius roseus هرگز جدا از قارچ بولت میزبان خود یافت نمی‌شود و این جفت نمونه‌ای کلاسیک از ارتباط سه‌گانه قارچ بر قارچ بر درخت است. گزارش‌های ثبت‌شده از آمریکای شمالی به گونه مجزای Gomphidius subroseus تعلق دارند.",
+      "sourceUrls": []
+    },
+    "fi": {
+      "label": "punanuljaska",
+      "wikipedia": "https://fi.wikipedia.org/wiki/Punanuljaska",
+      "description": "Pieni, korallinpunainen helttasieni Euroopan ja lauhkean Aasian happamissa mäntymetsissä; laji puuttuu Pohjois-Amerikasta. Se kasvaa yksittäin tai pieninä ryhminä mäntyjen alla hiekkaisella, sammaleisella tai kanervaisella maalla, lähes aina nummitatin (Suillus bovinus) seurassa, jonka rihmastossa se loisii, ja tuottaa itiöemiä kesästä myöhäissyksyyn.",
+      "cap": "2–6 cm leveä, nuorena puolipallomainen ja sisäänkiertyneen reunan yhdistäessä jalkaan läpikuultavan limaisen suojuksen avulla; vanhemmiten kupera, laakea tai hieman kuoppainen ja toisinaan pienellä keskuskohoumalla, reunan jäädessä usein alaspäin taipuneeksi tai hieman liuskoittuneeksi. Sileä, helposti irtoava pintakelmu on kostealla säällä tahmea tai limainen ja kuivana kiiltävä, väriltään kirkkaan korallinpunainen tai ruusunpunainen ja ikääntyessään tiilenpunaiseen vivahtava, vailla tummalakkisten sukulaisten mustahkoja laikkuja.",
+      "hymenium": "Heltat ovat paksut, melko harvat, toisinaan haaroittuvat ja pitkälle jalkaan johteiset. Nuorena ne ovat valkeahkot tai vaaleanharmaat ja tummenevat tummien itiöiden kypsyessä savuisen hiirenharmaan kautta oliivinharmaiksi tai lähes mustiksi. Basidit ovat nuijamaisia, neli-itiöisiä ja kooltaan 50–55 × 9–14 µm; lieriömäiset keilokystidit ovat 100–125 × 10–14 µm, ja samanmuotoiset pleurokystidit ovat selvästi pienempiä.",
+      "stipe": "2,5–7 cm pitkä ja 0,4–1,5 cm paksu, tasapaksu tai tyveen kapeneva, usein suurelta osin sammaleeseen, heinikkoon tai männynneulasiin hautautunut. Se on yläosastaan valkoinen ja alempana usein vaaleanpunertavan, viininpunertavan tai vaaleankellertävän sävyinen, tyveä kohti kellertäväksi tai rusehtavaksi muuttuva, ja sen yläosassa on villamaisesti paksuuntunut tai epäselvä limainen rengasvyöhyke, jonka reuna mustuu usein varisevista itiöistä.",
+      "flesh": "Kiinteä ja täyteinen, lakissa ja jalan yläosassa valkeahko, toisinaan heikosti punertava pintakelmun alta tai leikkauspinnasta, ja jalan tyvessä punertavaan, likaisenkeltaiseen tai vaaleanruskeaan vivahtava. Tuoksu on huomaamaton ja maku mieto tai hennosti happamahko.",
+      "sporePrint": "Ruskeanmusta tai oliivinmusta. Basidiosporit ovat sileitä, sukkulamaisia (tattimaisia) ja kooltaan 16–22 × 4,5–8 µm.",
+      "habitat": "Kasvaa havu- ja sekametsissä karuilla, happamilla hiekkamailla mäntyjen, erityisesti männyn (Pinus sylvestris), alla, usein kanervan, mustikan, sammaleen tai heinien seassa ja poikkeuksetta nummitatin (Suillus bovinus) rinnalla. Vaikka lajia pidettiin aiemmin männyn ektomykorritsasienenä, se on Suillus bovinus -lajin rihmaston loinen ja muodostaa haustorioita isäntämännyn juurisoluihin. Tuottaa itiöemiä yksittäin tai pieninä ryhminä heinäkuusta lokakuuhun suuressa osassa Manner-Eurooppaa sekä elokuusta marraskuuhun Britanniassa ja Irlannissa.",
+      "uses": "Syötävä ja myrkytön, mutta sitä pidetään yleisesti ruokasienenä keskinkertaisena ja kulinaristisesti vähämerkityksisenä. Valmistettaessa limainen pintakelmu suositellaan poistamaan, mutta keräämistä ei yleensä suositella, sillä itiöemät ovat pieniä, melko harvinaisia ja ylhäältä päin helposti sekoitettavissa myrkyllisiin punalakkisiin haperoihin.",
+      "confusion": "Limanuljaska (Gomphidius glutinosus) on lakiltaan limaisen harmaanruskea tai purppuranruskea ja saa tyypillisesti mustia laikkuja; sillä on paljon paksumpi limainen suojus ja jalan tyvessä kirkkaan krominkeltainen malto. Kangasnuljaska (Chroogomphus rutilus) on tavallisesti kookkaampi, kuparinruskea- tai purppuranruskealakkinen ja kauttaaltaan oranssinokranmaltoinen. Tulipunahapero (Russula emetica) ja muut punalakkiset haperot (Russula) voivat muistuttaa ylhäältä päin, mutta niillä on hauras valkoinen malto, johteettomat valkoiset heltat, valkoinen itiöpöly eikä lainkaan suojusta tai rengasvyöhykettä. Myös lajeilla Hygrophorus erubescens ja Hygrophorus russula on punertava lakki ja johteiset heltat, mutta niiden heltat pysyvät vaaleina ja itiöpöly on valkoista. Pohjois-Amerikassa Gomphidius subroseus on lähisukuinen punertava laji, joka elää lajin Suillus lakei eikä Suillus bovinus seurassa.",
+      "notes": "Vuoden 2019 maailmanlaajuinen arviointi luokittelee lajin elinvoimaiseksi (Least Concern), vaikka se on osassa levinneisyysaluettaan harvalukuinen tai harvinainen ja kuuluu useiden Euroopan maiden punaisille listoille. Toisin kuin Suillus bovinus, joka tuottaa itiöemiä vapaasti yksinään, Gomphidius roseus ei koskaan esiinny erillään isäntätatistaan, mikä tekee parista klassisen esimerkin sieni–sieni–puu-kolmisuhteesta. Pohjois-Amerikasta tehdyt havainnot kuuluvat erilliseen lajiin Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://fi.wikipedia.org/wiki/Punanuljaska"
+      ]
+    },
+    "fr": {
+      "label": "gomphide rose",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Gomphide_rose",
+      "description": "Petit champignon à lames rose corail des pinèdes acides d'Europe et d'Asie tempérée, absent d'Amérique du Nord. Il pousse isolé ou en petits groupes sous les pins sur sol sableux, moussu ou couvert de bruyère, presque toujours aux côtés de Suillus bovinus dont il parasite le mycélium, et fructifie de l'été à la fin de l'automne.",
+      "cap": "Chapeau de 2–6 cm de diamètre, hémisphérique dans la jeunesse avec une marge enroulée reliée au pied par un voile partiel visqueux translucide, s'étalant ensuite en convexe, plan ou légèrement déprimé, parfois muni d'un petit mamelon central, la marge restant souvent incurvée ou légèrement lobée. La cuticule lisse et séparable est visqueuse à gluante par temps humide et brillante par temps sec, d'un beau rose corail à rouge rosé évoluant vers le rouge brique à maturité, sans les taches noirâtres observées chez les espèces apparentées à chapeau sombre.",
+      "hymenium": "Les lames sont épaisses, assez espacées, parfois fourchues et profondément décurrentes sur le pied. Blanchâtres à gris pâle chez le jeune, elles foncent en passant par le gris souris fuligineux jusqu'au gris olive ou presque noir à mesure que les spores sombres mûrissent. Les basides sont clavées, tétrasporiques et mesurent 50–55 × 9–14 µm ; les cheilocystides cylindriques mesurent 100–125 × 10–14 µm, accompagnées de pleurocystides de forme similaire mais nettement plus petites.",
+      "stipe": "Pied de 2,5–7 cm de haut sur 0,4–1,5 cm d'épaisseur, cylindrique ou atténué vers la base, souvent enfoncé sur une grande partie de sa longueur dans la mousse, l'herbe ou les aiguilles de pin. Blanc en haut et souvent lavé de rose pâle, de rose vineux ou de jaunâtre pâle plus bas, virant au jaunâtre ou au brunâtre à la base, il porte près du sommet une zone annulaire laineuse-épaissie ou glutineuse peu distincte, dont le bord est fréquemment noirci par la chute des spores.",
+      "flesh": "Ferme et compacte, blanchâtre dans le chapeau et le haut du pied, parfois légèrement teintée de rose sous la cuticule ou à la coupe, et virant au rougeâtre, au jaune sale ou au brun pâle à la base du pied. L'odeur est indistincte et la saveur est douce ou légèrement acidulée.",
+      "sporePrint": "Noir brunâtre à noir olivâtre. Les basidiospores sont lisses, fusiformes (de type bolétoïde) et mesurent 16–22 × 4,5–8 µm.",
+      "habitat": "Présent dans les forêts de conifères et les forêts mixtes sur sols pauvres, acides et sableux sous les pins, notamment le pin sylvestre (Pinus sylvestris), souvent parmi la bruyère, les myrtilles, la mousse ou l'herbe, et invariablement en compagnie de Suillus bovinus. Bien qu'historiquement considéré comme ectomycorhizien du pin, il est en réalité parasite du mycélium de Suillus bovinus et forme des haustoriums à l'intérieur des cellules racinaires du pin hôte. Il fructifie isolé ou en petits groupes de juillet à octobre dans une grande partie de l'Europe continentale, et d'août à novembre en Grande-Bretagne et en Irlande.",
+      "uses": "Comestible et non toxique, mais généralement considéré comme de qualité culinaire médiocre et de peu d'intérêt pour la table. Il est recommandé de peler la cuticule visqueuse du chapeau en cas de préparation, mais la cueillette est habituellement déconseillée car les sporophores sont petits, relativement peu communs et faciles à confondre vus de dessus avec des espèces toxiques de Russula à chapeau rouge.",
+      "confusion": "Gomphidius glutinosus possède un chapeau visqueux gris-brun à brun pourpré qui se tache typiquement de noir, un voile glutineux bien plus épais et une chair jaune de chrome vif à la base du pied. Chroogomphus rutilus est généralement plus grand, avec un chapeau brun cuivré à brun violacé et une chair entièrement jaune orangé à ocre. Russula emetica et d'autres Russula à chapeau rouge peuvent paraître semblables vues du dessus, mais présentent une chair blanche cassante, des lames blanches non décurrentes, une sporée blanche et aucun voile ni zone annulaire. Hygrophorus erubescens et Hygrophorus russula ont également un chapeau rouge rosé et des lames décurrentes, mais leurs lames restent pâles et leur sporée est blanche. En Amérique du Nord, Gomphidius subroseus est une espèce rosée très proche qui s'associe à Suillus lakei plutôt qu'à Suillus bovinus.",
+      "notes": "Une évaluation mondiale de 2019 classe cette espèce en préoccupation mineure (Least Concern), bien qu'elle soit peu commune à rare dans certaines parties de son aire et figure sur plusieurs listes rouges nationales en Europe. Contrairement à Suillus bovinus, qui fructifie librement seul, Gomphidius roseus ne se rencontre jamais sans son bolet hôte, ce qui fait de ce couple un exemple classique d'association tripartite champignon–champignon–arbre. Les mentions d'Amérique du Nord se rapportent à une espèce distincte, Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://fr.wikipedia.org/wiki/Gomphide_rose"
+      ]
+    },
+    "he": {
+      "description": "פטרייה קטנה בעלת דפים וצבע ורוד-אלמוגי של יערות אורן חומציים ברחבי אירופה ואסיה הממוזגת, הנעדרת מאמריקה הצפונית. היא גדלה ביחידות או בקבוצות קטנות מתחת לאורנים על קרקע חולית, טחבית או מכוסי אברש, כמעט תמיד לצד Suillus bovinus שעל תפטירה היא טפילה, ומניבה גופי פרי מהקיץ ועד שלהי הסתיו.",
+      "cap": "קוטר הכובע 2–6 cm. בצעירותו הוא חצי-כדורי עם שוליים מקופלים פנימה המחוברים לרגל באמצעות צעיף חלקי רירי ושקוף למחצה, ובהמשך נפתח לקמור, שטוח או שקוע קלות ולעיתים נושא פיטם מרכזי קטן, בעוד השוליים נותרים לרוב כפופים מטה או אונתיים קלות. הקרום החלק והניתן לקילוף דביק עד רירי במזג אוויר לח ומבריק ביובש, צבעו ורוד-אלמוגי עז עד אדום-ורדרד והוא מבשיל לעבר אדום-לבנים, ללא הכתמים השחרחרים הנראים אצל קרובים בעלי כובע כהה.",
+      "hymenium": "הדפים עבים, מרווחים למדי, לעיתים מתפצלים וגולשים עמוק לאורך הרגל. בצעירותם הם לבנבנים עד אפורים בהירים, ומתכהים בהדרגה מאפור-עכבר מעושן לאפור-זית או כמעט שחור עם הבשלת הנבגים הכהים. הבסידיות דמויות אלה, בעלות ארבעה נבגים, ומידותיהן 50–55 × 9–14 µm; כיילוציסטידיות גליליות במידות 100–125 × 10–14 µm, ולצידן פלאורוציסטידיות דומות בצורתן אך קטנות יותר באופן ניכר.",
+      "stipe": "גובה הרגל 2.5–7 cm ועובייה 0.4–1.5 cm; היא גלילית או מוצרת כלפי הבסיס, וחלק ניכר מאורכה קבור לעיתים קרובות בטחב, בעשב או במחטי אורן. היא לבנה בחלקה העליון ולעיתים קרובות בעלת גוון ורוד בהיר, ורוד-יין או צהבהב בהיר בחלקה התחתון, ומשתנה לצהבהב או חום בהיר בבסיס; סמוך לקצה העליון מצוי אזור טבעת מעובה-צמרירי או רירי בלתי מוגדר ששוליו מושחרים לעיתים תכופות מנבגים נושרים.",
+      "flesh": "הבשר מוצק ומלא, לבנבן בכובע ובחלקה העליון של הרגל, לעיתים בעל גוון ורוד קלוש מתחת לקרום הכובע או בחיתוך, ונוטה לאדמדם, צהוב עכור או חום בהיר בבסיס הרגל. הריח אינו מובחן והטעם עדין או חמצמץ קלות.",
+      "sporePrint": "הדפס הנבגים חום-שחור עד שחור-זיתי. הבסידיוספורות חלקות, דמויות כישור (בולטואידיות), ומידותיהן 16–22 × 4.5–8 µm.",
+      "habitat": "מצויה ביערות מחטניים ומעורבים על קרקעות חוליות עניות וחומציות מתחת לאורנים, בעיקר אורן היערות (Pinus sylvestris), לעיתים קרובות בין אברש, אוכמניות בר, טחב או עשב, ותמיד לצד Suillus bovinus. אף שבעבר נחשבה לאקטומיקוריזית עם אורן, היא למעשה טפילה על תפטיר של Suillus bovinus ויוצרת האוסטוריה בתוך תאי שורש האורן הפונדקאי. מניבה גופי פרי ביחידות או בקבוצות קטנות מיולי עד אוקטובר ברוב יבשת אירופה, ומאוגוסט עד נובמבר בבריטניה ובאירלנד.",
+      "uses": "אכילה ואינה רעילה, אך נחשבת בדרך כלל לבעלת איכות קולינרית בינונית וחסרת עניין רב למטבח. אם מכינים אותה לבישול מומלץ לקלף את קרום הכובע הרירי, אולם ליקוטה אינו מומלץ בדרך כלל מכיוון שגופי הפרי קטנים, נדירים יחסית וקל לבלבל אותם במבט מלמעלה עם מיני Russula רעילים בעלי כובע אדום.",
+      "confusion": "ל-Gomphidius glutinosus כובע רירי בצבע אפור-חום עד חום-סגלגל שמפתח לרוב כתמים שחורים, צעיף רירי עבה בהרבה ובשר צהוב-כרום עז בבסיס הרגל. Chroogomphus rutilus גדול יותר בדרך כלל, בעל כובע חום-נחושתי עד חום-סגלגל ובשר כתום-אוכרה לכל אורכו. Russula emetica ומיני Russula אדומים אחרים עשויים להיראות דומים מלמעלה, אך להם בשר לבן שביר, דפים לבנים שאינם גולשים על הרגל, הדפס נבגים לבן וללא צעיף או אזור טבעת. גם ל-Hygrophorus erubescens ול-Hygrophorus russula כובעים ורודים-אדומים ודפים גולשים, אך דפיהם נותרים בהירים והדפס הנבגים שלהם לבן. באמריקה הצפונית מצוי המין הקרוב הוורדרד Gomphidius subroseus, המתקשר ל-Suillus lakei ולא ל-Suillus bovinus.",
+      "notes": "הערכה עולמית משנת 2019 מסווגת מין זה כבעל מעמד ללא חשש (Least Concern), אף שהוא לא שכיח עד נדיר בחלקים מתחום תפוצתו ומופיע במספר רשימות אדומות לאומיות באירופה. בניגוד ל-Suillus bovinus המניב גופי פרי בחופשיות בכוחות עצמו, Gomphidius roseus אינו נמצא לעולם בנפרד מהבולט הפונדקאי שלו, מה שהופך את הצמד לדוגמה קלאסית ליחסי גומלין משולשים של פטרייה-על-פטרייה-על-עץ. תצפיות מאמריקה הצפונית שייכות למין הנפרד Gomphidius subroseus.",
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "यह यूरोप और समशीतोष्ण एशिया के अम्लीय चीड़ वनों में पाया जाने वाला छोटा, गिल्स वाला, मूंगा-गुलाबी रंग का मशरूम है, जो उत्तरी अमेरिका में नहीं पाया जाता। यह चीड़ के पेड़ों के नीचे रेतीली, काईदार या हीथ वाली जमीन पर अकेले या छोटे समूहों में उगता है और लगभग हमेशा Suillus bovinus के साथ मिलता है, जिसके कवकजाल पर यह परजीवी होता है; इसके फलनकाय गर्मियों से लेकर देर शरद ऋतु तक बनते हैं।",
+      "cap": "टोपी का व्यास 2–6 cm होता है। युवा अवस्था में यह अर्धगोलाकार होती है और इसका अंदर की ओर मुड़ा हुआ किनारा एक पारभासी, चिपचिपे आंशिक आवरण द्वारा डंठल से जुड़ा रहता है; बाद में यह फैलकर उत्तल, चपटी या हल्की धँसी हुई हो जाती है और कभी-कभी इसके केंद्र में एक छोटा उभार (अंबो) होता है, जबकि किनारा अक्सर नीचे की ओर मुड़ा या हल्का पालियुक्त बना रहता है। इसकी चिकनी और आसानी से छिलने वाली ऊपरी त्वचा गीले मौसम में चिपचिपी से लसलसी तथा सूखने पर चमकदार होती है; इसका रंग चमकीले मूंगा-गुलाबी से गुलाबी-लाल होता है जो परिपक्व होने पर ईंट-लाल की ओर बदल जाता है, और इसमें गहरे रंग की टोपी वाले संबंधी कवकों जैसे काले धब्बे नहीं होते।",
+      "hymenium": "गिल्स मोटे, अपेक्षाकृत दूर-दूर स्थित, कभी-कभी द्विभाजित और डंठल पर गहराई तक नीचे की ओर उतरे हुए (अधोगामी) होते हैं। युवा अवस्था में ये सफेदी लिए से हल्के धूसर होते हैं और गहरे बीजाणुओं के परिपक्व होने पर धुएँ जैसे मटमैले धूसर से जैतूनी-धूसर या लगभग काले पड़ जाते हैं। बेसिडिया मुगदराकार, चार-बीजाणु वाले और 50–55 × 9–14 µm आकार के होते हैं; बेलनाकार काइलोसिस्टिडिया 100–125 × 10–14 µm के होते हैं, जबकि प्लूरोसिस्टिडिया समान आकार के किंतु स्पष्ट रूप से छोटे होते हैं।",
+      "stipe": "डंठल 2.5–7 cm लंबा और 0.4–1.5 cm मोटा होता है, बेलनाकार या आधार की ओर पतला होता जाता है, और इसकी लंबाई का बड़ा हिस्सा अक्सर काई, घास या चीड़ की सुइयों में दबा रहता है। यह ऊपर से सफेद होता है और नीचे की ओर अक्सर हल्के गुलाबी, वाइन-गुलाबी या हल्के पीले रंग की झलक लिए रहता है, जो आधार पर पीलापन या भूरापन लिए हो जाता है; इसके ऊपरी हिस्से के पास ऊनी-मोटा या अस्पष्ट लसलसा वलय क्षेत्र होता है, जिसका किनारा गिरते बीजाणुओं से अक्सर काला पड़ जाता है।",
+      "flesh": "गूदा सख्त और ठोस होता है, टोपी और डंठल के ऊपरी भाग में सफेदी लिए रहता है, कभी-कभी टोपी की त्वचा के नीचे या काटने पर हल्की गुलाबी झलक दिखाता है, और डंठल के आधार में लालिमा, मटमैले पीले या हल्के भूरे रंग में बदल जाता है। इसकी गंध अस्पष्ट और स्वाद हल्का या थोड़ा अम्लीय होता है।",
+      "sporePrint": "बीजाणु छाप भूरे-काले से जैतूनी-काले रंग की होती है। बेसिडियोबीजाणु चिकने, तकुए के आकार के (बोलेटॉइड) और 16–22 × 4.5–8 µm माप के होते हैं।",
+      "habitat": "यह चीड़ के पेड़ों, विशेषकर स्कॉट्स पाइन (Pinus sylvestris) के नीचे पोषक-तत्वों से कमज़ोर, अम्लीय, रेतीली मिट्टी वाले शंकुधारी और मिश्रित वनों में पाया जाता है, अक्सर हीथर, बिलबेरी, काई या घास के बीच, और अनिवार्य रूप से Suillus bovinus के साथ उगता है। यद्यपि ऐतिहासिक रूप से इसे चीड़ के साथ बाह्य-कवकमूलीय (ectomycorrhizal) माना जाता था, वास्तव में यह Suillus bovinus के कवकजाल पर परजीवी है और परपोषी चीड़ की जड़ की कोशिकाओं के भीतर चूषकांग (haustoria) बनाता है। मुख्यभूमि यूरोप के अधिकांश भागों में यह जुलाई से अक्टूबर तक तथा ब्रिटेन और आयरलैंड में अगस्त से नवंबर तक अकेले या छोटे समूहों में फलता है।",
+      "uses": "यह खाद्य और अविषैला है, किंतु पाक गुणवत्ता के लिहाज से इसे व्यापक रूप से सामान्य और खाने के लिए कम उपयोगी माना जाता है। पकाने के लिए तैयार करते समय टोपी की चिपचिपी ऊपरी त्वचा छील देने की सलाह दी जाती है, फिर भी इसके संग्रह को सामान्यतः हतोत्साहित किया जाता है क्योंकि इसके फलनकाय छोटे और अपेक्षाकृत दुर्लभ होते हैं तथा ऊपर से देखने पर लाल टोपी वाली विषाक्त Russula प्रजातियों से आसानी से भ्रमित हो सकते हैं।",
+      "confusion": "Gomphidius glutinosus की टोपी लसलसी और धूसर-भूरे से बैंगनी-भूरे रंग की होती है जिस पर आमतौर पर काले धब्बे पड़ जाते हैं, इसका लसलसा आवरण कहीं अधिक मोटा होता है और डंठल के आधार का गूदा चमकीला क्रोम-पीला होता है। Chroogomphus rutilus सामान्यतः बड़ा होता है, जिसकी टोपी ताँबाई-भूरे से बैंगनी-भूरे रंग की और पूरा गूदा नारंगी-गेरुआ होता है। Russula emetica और लाल टोपी वाली अन्य Russula प्रजातियाँ ऊपर से समान दिख सकती हैं, लेकिन उनका गूदा भंगुर और सफेद होता है, गिल्स सफेद और अधोगामी नहीं होते, बीजाणु छाप सफेद होती है, और उनमें कोई आवरण या वलय क्षेत्र नहीं होता। Hygrophorus erubescens और Hygrophorus russula में भी गुलाबी-लाल टोपी और अधोगामी गिल्स होते हैं, लेकिन उनके गिल्स हल्के रंग के बने रहते हैं और बीजाणु छाप सफेद होती है। उत्तरी अमेरिका में इसका निकट संबंधी गुलाबी कवक Gomphidius subroseus पाया जाता है, जो Suillus bovinus के बजाय Suillus lakei के साथ जुड़ा होता है।",
+      "notes": "2019 के एक वैश्विक मूल्यांकन में इस प्रजाति को संकटमुक्त (Least Concern) श्रेणी में रखा गया है, हालाँकि यह अपने विस्तार क्षेत्र के कुछ हिस्सों में असामान्य से दुर्लभ है और यूरोप की कई राष्ट्रीय लाल सूचियों में शामिल है। Suillus bovinus के विपरीत, जो स्वयं स्वतंत्र रूप से फलता है, Gomphidius roseus कभी भी अपने परपोषी बोलेट के बिना नहीं पाया जाता, जिससे यह जोड़ी कवक-पर-कवक-पर-वृक्ष के त्रिपक्षीय संबंध का एक उत्कृष्ट उदाहरण बनती है। उत्तरी अमेरिका से दर्ज अभिलेख अलग प्रजाति Gomphidius subroseus के हैं।",
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Manja listićava gljiva koraljnoružičaste boje iz kiselih borovih šuma diljem Europe i umjerenog pojasa Azije, odsutna u Sjevernoj Americi. Raste pojedinačno ili u manjim skupinama ispod borova na pjeskovitom, mahovinastom ili vrištinskom tlu, gotovo uvijek uz vrstu Suillus bovinus, na čijem miceliju parazitira, a plodi od ljeta do kasne jeseni.",
+      "cap": "Promjera 2–6 cm, u mladosti polukuglast s podvijenim rubom povezanim sa stručkom prozirnim sluzavim djelomičnim velom, zatim se širi u konveksan, ravan ili blago ulegnut oblik, povremeno s malim središnjim ispupčenjem i rubom koji često ostaje podvijen ili blago režnjevit. Glatka kožica koja se lako guli po vlažnom je vremenu ljepljiva do sluzava, a po suhom sjajna, jarko koraljnoružičaste do ružičastocrvene boje koja starenjem prelazi u ciglastocrvenu, bez crnkastih mrlja kakve se javljaju kod tamnijih srodnih vrsta.",
+      "hymenium": "Listići su debeli, prilično rijetki, povremeno račvasti i duboko silaze niz stručak. U mladosti su bjelkasti do blijedosivi, a sazrijevanjem tamnih spora tamne preko dimasto mišjesive do maslinastosive ili gotovo crne boje. Bazidiji su batinasti, četverosporni, veličine 50–55 × 9–14 µm; valjkaste heilocistide mjere 100–125 × 10–14 µm, dok su pleurocistide sličnog oblika, ali znatno manje.",
+      "stipe": "Visine 2,5–7 cm i debljine 0,4–1,5 cm, valjkast ili se sužava prema dnu, pri čemu mu je velik dio duljine često skriven u mahovini, travi ili borovim iglicama. U gornjem je dijelu bijel, a u donjem često blijedoružičasto, vinskoružičasto ili blijedožućkasto nahukan, pri dnu prelazi u žućkastu ili smećkastu boju, te blizu vrha nosi vunasto zadebljanu ili nejasnu sluzavu prstenastu zonu čiji rub često pocrni od otpalih spora.",
+      "flesh": "Čvrsto i puno, bjelkasto u klobuku i gornjem dijelu stručka, ponekad blago ružičasto ispod kožice klobuka ili na presjeku, a u dnu stručka prelazi u crvenkastu, prljavožutu ili blijedosmeđu boju. Miris je neizrazit, a okus blag ili blago kiselkast.",
+      "sporePrint": "Smeđecrn do maslinastocrn. Bazidiospore su glatke, vretenaste (boletoidne) i mjere 16–22 × 4,5–8 µm.",
+      "habitat": "Nalazi se u crnogoričnim i mješovitim šumama na siromašnim, kiselim, pjeskovitim tlima ispod borova, osobito običnog bora (Pinus sylvestris), često među vrijesom, borovnicom, mahovinom ili travom, i uvijek zajedno s vrstom Suillus bovinus. Iako se u prošlosti smatrala ektomikoriznom gljivom bora, zapravo je parazitska na miceliju vrste Suillus bovinus te stvara haustorije unutar stanica korijena domaćinskog bora. Plodi pojedinačno ili u malim skupinama od srpnja do listopada diljem većeg dijela kontinentalne Europe te od kolovoza do studenoga u Britaniji i Irskoj.",
+      "uses": "Jestiva i neotrovna gljiva, no općenito se smatra osrednje kulinarske kakvoće i slabog zanimanja za kuhinju. Ako se priprema za jelo, preporučuje se oguliti sluzavu kožicu klobuka, ali se branje općenito ne preporučuje jer su plodišta sitna, razmjerno rijetka i odozgo lako zamjenjiva s otrovnim crvenoklobukim vrstama roda Russula.",
+      "confusion": "Gomphidius glutinosus ima sluzav sivkastosmeđ do ljubičastosmeđ klobuk na kojem se obično razvijaju crne mrlje, znatno deblji sluzavi veo i jarko kromžuto meso pri dnu stručka. Chroogomphus rutilus obično je veći, ima bakrenosmeđ do ljubičastosmeđ klobuk i narančastooker meso u cijelom plodištu. Bljuvara (Russula emetica) i druge crvenoklobuke vrste roda Russula mogu izgledati slično odozgo, ali imaju krhko bijelo meso, nesilazne bijele listiće, bijeli otisak spora te nemaju veo ni prstenastu zonu. Hygrophorus erubescens i Hygrophorus russula također imaju ružičastocrvene klobuke i silazne listiće, no njihovi listići ostaju svijetli, a otisak spora je bijel. U Sjevernoj Americi raste blisko srodna ružičasta vrsta Gomphidius subroseus, koja je povezana s vrstom Suillus lakei umjesto s vrstom Suillus bovinus.",
+      "notes": "Globalna procjena iz 2019. godine svrstava ovu vrstu među najmanje zabrinjavajuće vrste (Least Concern), iako je u dijelovima svog areala rijetka i nalazi se na više nacionalnih crvenih popisa u Europi. Za razliku od vrste Suillus bovinus, koja bez problema plodi samostalno, ova vrsta nikada ne raste bez svog domaćinskog vrganja, pa taj par predstavlja klasičan primjer trostrane povezanosti gljiva–gljiva–stablo. Nalazi iz Sjeverne Amerike pripadaju zasebnoj vrsti Gomphidius subroseus.",
+      "sourceUrls": []
+    },
+    "hu": {
+      "label": "rózsaszínű nyálkásgomba",
+      "wikipedia": "https://hu.wikipedia.org/wiki/R%C3%B3zsasz%C3%ADn%C5%B1_ny%C3%A1lk%C3%A1sgomba",
+      "description": "Kis termetű, lemezes, korallrózsaszínű gomba, amely Európa és a mérsékelt övi Ázsia savanyú talajú fenyveseiben fordul elő, Észak-Amerikából viszont hiányzik. Magányosan vagy kisebb csoportokban nő kéttűs fenyők alatt homokos, mohás vagy csarabos talajon, szinte mindig a Suillus bovinus közelében, amelynek micéliumán élősködik; nyártól késő őszig terem.",
+      "cap": "2–6 cm átmérőjű, fiatalon félgömb alakú, begöngyölt szélét áttetsző, nyálkás részleges fátyol köti össze a tönkkel, majd domborúvá, lapossá vagy enyhén bemélyedővé terül ki, néha kis középső púppal, széle pedig gyakran lehajló vagy kissé karéjos marad. Sima, lehúzható kalapbőre nedves időben ragadós vagy nyálkás, szárazon fényes, élénk korallrózsaszíntől rózsáspirosig terjedő színű, idővel téglavörösesbe hajló, és hiányoznak róla a sötét kalapú rokon fajokra jellemző feketés foltok.",
+      "hymenium": "A lemezek vastagok, meglehetősen ritkán állók, esetenként villásan elágazók és mélyen lefutók a tönkre. Fiatalon fehéresek vagy halványszürkék, majd a sötét spórák érésével füstös egérszürkén át olívszürkésre vagy majdnem feketére sötétednek. A bazídiumok bunkó alakúak, négyspórásak, 50–55 × 9–14 µm méretűek; a hengeres keilocisztídiumok 100–125 × 10–14 µm-esek, a hasonló alakú pleurocisztídiumok pedig feltűnően kisebbek.",
+      "stipe": "2,5–7 cm magas és 0,4–1,5 cm vastag, hengeres vagy a töve felé elvékonyodó, gyakran nagy részben mohába, fűbe vagy fenyőtűk közé mélyed. Fent fehér, lejjebb gyakran halvány rózsaszínnel, borrózsaszínnel vagy halványsárgával futtatott, a tövénél sárgásba vagy barnásba hajló; a csúcsa közelében gyapjasan megvastagodott vagy elmosódott, nyálkás gallérzóna látható, amelynek szélét a lehulló spórák gyakran feketére festik.",
+      "flesh": "Tömör és szilárd, a kalapban és a tönk felső részében fehéres, a kalapbőr alatt vagy vágásra néha halvány rózsaszínes árnyalatú, a tönk tövében pedig vörösesbe, piszkossárgába vagy halványbarnába hajló. Szaga nem jellegzetes, íze enyhe vagy enyhén savanykás.",
+      "sporePrint": "Barnásfeketétől olívfeketéig terjedő színű. A bazídiospórák simák, orsó alakúak (tinóruszerűek), 16–22 × 4,5–8 µm méretűek.",
+      "habitat": "Tűlevelű és vegyes erdőkben, szegény, savanyú, homokos talajokon fordul elő fenyők, különösen erdeifenyő (Pinus sylvestris) alatt, gyakran csarab, fekete áfonya, moha vagy fű között, kivétel nélkül a Suillus bovinus társaságában. Bár korábban a fenyővel alkotott ektomikorrhizás kapcsolatának tulajdonították, valójában a Suillus bovinus micéliumán élősködik, és hausztóriumokat képez a gazda fenyő gyökérsejtjeiben. Magányosan vagy kisebb csoportokban terem júliustól októberig a kontinentális Európa nagy részén, Nagy-Britanniában és Írországban pedig augusztustól novemberig.",
+      "uses": "Ehető és nem mérgező gomba, ugyanakkor gasztronómiai szempontból közepes értékűnek és étkezésre kevéssé érdekesnek tartják. Elkészítés esetén ajánlott a nyálkás kalapbőr lehúzása, de gyűjtése általában nem javasolt, mert termőtestei kicsik, viszonylag ritkák, és felülről könnyen összetéveszthetők mérgező, piros kalapú Russula fajokkal.",
+      "confusion": "A Gomphidius glutinosus kalapja nyálkás, szürkésbarnától bíborbarnáig terjedő színű, rendszerint fekete foltokkal, nyálkás fátyla jóval vastagabb, a tönk tövében pedig élénk krómsárga a húsa. A Chroogomphus rutilus általában nagyobb termetű, rézbarna vagy bíborbarna kalapú, húsa végig narancsokker színű. A Russula emetica és más piros kalapú Russula fajok felülről hasonlíthatnak rá, de húsuk pattanva törő és fehér, lemezeik nem lefutók és fehérek, spóraporuk fehér, és nincs fátyluk vagy gallérzónájuk. A Hygrophorus erubescens és a Hygrophorus russula kalapja szintén rózsáspiros és lemezei lefutók, ám lemezeik világosak maradnak, spóraporuk pedig fehér. Észak-Amerikában egy közeli rokon rózsaszínes faj, a Gomphidius subroseus él, amely a Suillus bovinus helyett a Suillus lakei fajhoz kötődik.",
+      "notes": "Egy 2019-es globális értékelés nem fenyegetett (Least Concern) kategóriába sorolja, bár elterjedési területének egyes részein ritka vagy nem gyakori, és több európai ország vörös listáján is szerepel. Ellentétben a Suillus bovinus fajjal, amely önállóan is szabadon terem, a Gomphidius roseus soha nem fordul elő gazdatinórúja nélkül, így e páros klasszikus példája a háromszereplős gomba–gomba–fa kapcsolatnak. Az észak-amerikai előfordulási adatok egy külön fajhoz, a Gomphidius subroseus fajhoz tartoznak.",
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/R%C3%B3zsasz%C3%ADn%C5%B1_ny%C3%A1lk%C3%A1sgomba"
+      ]
+    },
+    "id": {
+      "description": "Jamur berlamela berukuran kecil berwarna merah muda koral yang tumbuh di hutan pinus asam di Eropa dan Asia beriklim sedang, serta tidak ditemukan di Amerika Utara. Jamur ini tumbuh soliter atau dalam kelompok kecil di bawah pohon pinus pada tanah berpasir, berlumut, atau bersemak heather, hampir selalu berdampingan dengan Suillus bovinus yang miseliumnya ia parasiti, dan berbuah dari musim panas hingga akhir musim gugur.",
+      "cap": "Berdiameter 2–6 cm, berbentuk setengah bola saat muda dengan tepi menggulung ke dalam yang terhubung ke tangkai oleh selubung parsial berlendir dan tembus cahaya, lalu melebar menjadi cembung, rata, atau sedikit cekung dan terkadang memiliki tonjolan kecil di tengah, dengan tepi yang sering tetap melengkung ke bawah atau agak berlekuk. Kutikula yang halus dan mudah dikupas terasa lengket hingga berlendir saat cuaca basah dan mengilap saat kering, berwarna merah muda koral cerah hingga merah mawar dan berubah ke arah merah bata saat menua, tanpa bercak kehitaman seperti yang terlihat pada kerabatnya yang bertudung gelap.",
+      "hymenium": "Lamela tebal, agak jarang, terkadang bercabang dua, dan sangat menurun sepanjang tangkai. Warnanya keputihan hingga abu-abu pucat saat muda, lalu menggelap melalui abu-abu tikus berasap menjadi abu-abu zaitun atau hampir hitam seiring matangnya spora yang gelap. Basidium berbentuk gada, berspora empat, dan berukuran 50–55 × 9–14 µm; keilosistidia berbentuk silindris berukuran 100–125 × 10–14 µm, dengan pleurosistidia berbentuk serupa tetapi jauh lebih kecil.",
+      "stipe": "Tinggi 2,5–7 cm dan tebal 0,4–1,5 cm, berbentuk silindris atau mengecil ke arah pangkal, dengan sebagian besar panjangnya sering terkubur di dalam lumut, rumput, atau jarum pinus. Bagian atasnya putih dan bagian bawahnya sering bersemu merah muda pucat, merah muda anggur, atau kekuningan pucat, lalu beralih menjadi kekuningan atau kecokelatan di pangkal, serta memiliki zona cincin berbulu tebal atau berlendir samar di dekat puncak yang tepinya kerap menghitam akibat spora yang jatuh.",
+      "flesh": "Padat dan berisi, keputihan pada tudung dan tangkai bagian atas, terkadang sedikit bersemu merah muda di bawah kutikula tudung atau saat dipotong, dan beralih menjadi kemerahan, kuning kotor, atau cokelat pucat di pangkal tangkai. Baunya tidak khas dan rasanya ringan atau sedikit asam.",
+      "sporePrint": "Hitam kecokelatan hingga hitam zaitun. Basidiospora halus, berbentuk gelendong (boletoid), dan berukuran 16–22 × 4,5–8 µm.",
+      "habitat": "Ditemukan di hutan konifer dan hutan campuran pada tanah miskin hara, asam, dan berpasir di bawah pohon pinus, terutama pinus Skotlandia (Pinus sylvestris), sering di antara heather, bilberi, lumut, atau rumput, dan selalu berdampingan dengan Suillus bovinus. Meskipun secara historis dianggap bersifat ektomikoriza dengan pinus, spesies ini sebenarnya parasit pada miselium Suillus bovinus dan membentuk haustoria di dalam sel akar pinus inang. Berbuah soliter atau dalam kelompok kecil dari Juli hingga Oktober di sebagian besar daratan Eropa, serta dari Agustus hingga November di Britania dan Irlandia.",
+      "uses": "Dapat dimakan dan tidak beracun, meskipun secara luas dianggap berkualitas kuliner biasa saja dan kurang diminati untuk dikonsumsi. Mengupas kutikula tudung yang berlendir disarankan apabila hendak dimasak, tetapi pemetikan umumnya tidak dianjurkan karena tubuh buahnya kecil, relatif jarang, dan dari atas mudah tertukar dengan spesies Russula bertudung merah yang beracun.",
+      "confusion": "Gomphidius glutinosus memiliki tudung berlendir berwarna cokelat keabu-abuan hingga cokelat keunguan yang biasanya memunculkan bercak hitam, selubung berlendir yang jauh lebih tebal, dan daging berwarna kuning krom cerah di pangkal tangkai. Chroogomphus rutilus biasanya lebih besar dengan tudung cokelat tembaga hingga cokelat keunguan dan daging berwarna jingga-okre di seluruh bagiannya. Russula emetica dan spesies Russula bertudung merah lainnya dapat tampak serupa dari atas, tetapi memiliki daging putih yang rapuh, lamela putih yang tidak menurun, jejak spora putih, serta tidak memiliki selubung atau zona cincin. Hygrophorus erubescens dan Hygrophorus russula juga memiliki tudung merah muda kemerahan dan lamela menurun, tetapi lamelanya tetap pucat dan jejak sporanya putih. Di Amerika Utara, Gomphidius subroseus adalah spesies kemerahan berkerabat dekat yang berasosiasi dengan Suillus lakei, bukan dengan Suillus bovinus.",
+      "notes": "Penilaian global tahun 2019 mengategorikan spesies ini sebagai Risiko Rendah (Least Concern), meskipun tergolong tidak umum hingga langka di sebagian wilayah persebarannya dan tercantum dalam beberapa daftar merah nasional di Eropa. Tidak seperti Suillus bovinus yang berbuah bebas secara mandiri, Gomphidius roseus tidak pernah ditemukan terpisah dari jamur inangnya, sehingga pasangan ini menjadi contoh klasik asosiasi tiga pihak jamur-pada-jamur-pada-pohon. Catatan dari Amerika Utara termasuk ke dalam spesies tersendiri, yaitu Gomphidius subroseus.",
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Piccolo fungo a lamelle di colore rosa corallo tipico delle pinete acide di Europa e Asia temperata, assente in Nord America. Cresce isolato o in piccoli gruppi sotto i pini su terreni sabbiosi, muschiosi o ricoperti di erica, quasi sempre accanto a Suillus bovinus, di cui parassita il micelio, fruttificando dall'estate al tardo autunno.",
+      "cap": "2–6 cm di diametro, emisferico da giovane con margine involuto unito al gambo da un velo parziale vischioso e traslucido, poi convesso, spianato o leggermente depresso, talvolta con un piccolo umbone centrale e con il margine che rimane spesso rivolto verso il basso o leggermente lobato. La cuticola, liscia e separabile, è vischiosa fino a glutinosa con tempo umido e lucida a tempo secco, di colore rosa corallo vivo fino a rosso rosato che vira verso il rosso mattone a maturità, priva delle macchie nerastre tipiche delle specie affini a cappello scuro.",
+      "hymenium": "Lamelle spesse, piuttosto spaziate, talvolta forcate e profondamente decorrenti lungo il gambo. Da giovani sono biancastre o grigio pallido, poi scuriscono passando attraverso il grigio topo fumo fino al grigio oliva o quasi nero con la maturazione delle spore scure. I basidi sono clavati, tetrasporici e misurano 50–55 × 9–14 µm; i cheilocistidi cilindrici misurano 100–125 × 10–14 µm, accompagnati da pleurocistidi di forma simile ma nettamente più piccoli.",
+      "stipe": "Alto 2,5–7 cm e spesso 0,4–1,5 cm, cilindrico o attenuato verso la base, spesso interrato per buona parte della sua lunghezza nel muschio, nell'erba o negli aghi di pino. È bianco in alto e spesso sfumato di rosa pallido, rosa vinoso o giallastro pallido in basso, virando al giallastro o al brunastro alla base, e porta vicino all'apice una zona anulare fioccosa-ispessita o glutinosa poco distinta, il cui bordo è frequentemente annerito dalle spore in caduta.",
+      "flesh": "Soda e compatta, biancastra nel cappello e nella parte superiore del gambo, talvolta debolmente sfumata di rosa sotto la cuticola o al taglio, e sfumata di rossastro, giallo sporco o bruno pallido alla base del gambo. L'odore è indistinto e il sapore è mite o leggermente acidulo.",
+      "sporePrint": "Da nero brunastro a nero olivastro. Le basidiospore sono lisce, fusiformi (boletoidi) e misurano 16–22 × 4,5–8 µm.",
+      "habitat": "Presente nei boschi di conifere e misti su suoli poveri, acidi e sabbiosi sotto i pini, in particolare il pino silvestre (Pinus sylvestris), spesso tra brugo, mirtillo nero, muschio o erba, e immancabilmente accanto a Suillus bovinus. Sebbene storicamente ritenuto ectomicorrizico del pino, è in realtà parassita del micelio di Suillus bovinus e forma austori all'interno delle cellule radicali del pino ospite. Fruttifica isolato o in piccoli gruppi da luglio a ottobre in gran parte dell'Europa continentale, e da agosto a novembre in Gran Bretagna e Irlanda.",
+      "uses": "Commestibile e non velenoso, ma generalmente ritenuto di qualità culinaria mediocre e di scarso interesse per la tavola. Se preparato in cucina è consigliabile asportare la cuticola vischiosa del cappello, ma la raccolta è di solito sconsigliata poiché i carpofori sono piccoli, relativamente poco comuni e facilmente confondibili dall'alto con specie velenose di Russula a cappello rosso.",
+      "confusion": "Gomphidius glutinosus ha un cappello vischioso da grigio-bruno a bruno-porpora che sviluppa tipicamente macchie nere, un velo glutinoso molto più spesso e carne giallo cromo vivo alla base del gambo. Chroogomphus rutilus è solitamente più grande, con cappello bruno ramato o bruno violaceo e carne giallo-arancio ocra in tutto il carpoforo. Russula emetica e altre specie di Russula a cappello rosso possono sembrare simili viste dall'alto, ma presentano carne bianca fragile, lamelle bianche non decorrenti, impronta sporale bianca e nessun velo né zona anulare. Anche Hygrophorus erubescens e Hygrophorus russula hanno cappelli rosso rosato e lamelle decorrenti, ma le loro lamelle rimangono pallide e l'impronta sporale è bianca. In Nord America, Gomphidius subroseus è una specie rosata strettamente affine che si associa a Suillus lakei anziché a Suillus bovinus.",
+      "notes": "Una valutazione globale del 2019 classifica questa specie a rischio minimo (Least Concern), sebbene risulti poco comune o rara in parte del suo areale e compaia in diverse liste rosse nazionali in Europa. A differenza di Suillus bovinus, che fruttifica liberamente da solo, Gomphidius roseus non si trova mai separato dal suo boleto ospite, rendendo questa coppia un esempio classico di associazione tripartita fungo–fungo–albero. Le segnalazioni dal Nord America appartengono a una specie distinta, Gomphidius subroseus.",
+      "sourceUrls": []
+    },
+    "ja": {
+      "label": "オウギタケ",
+      "wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%AE%E3%82%BF%E3%82%B1",
+      "description": "ヨーロッパおよび温帯アジアの酸性のマツ林に発生する、ひだを持つ小型のサンゴピンク色のキノコで、北アメリカには分布しません。砂地やコケ、ヒースの茂る地面のマツの下に単生または小群生し、ほとんど常にSuillus bovinusのそばに発生してその菌糸に寄生し、夏から晩秋にかけて子実体を形成します。",
+      "cap": "傘の直径は2〜6 cmです。幼菌時は半球形で、縁は内側に巻き込み、半透明で粘性のある内被膜によって柄とつながっています。成長するとまんじゅう形から平らに開き、わずかに中央がくぼむこともあれば、小さな中央の突起（中高）を持つこともあります。縁はしばしば下向きに垂れたままになるか、わずかに波打ちます。表面は平滑で皮がむきやすく、湿時には粘性から強いぬめりを帯び、乾時には光沢があります。色は鮮やかなサンゴピンクからバラ赤色で、成熟するとれんが赤色に近づき、暗色の傘を持つ近縁種に見られる黒っぽい斑点は現れません。",
+      "hymenium": "ひだは厚く、やや疎らで、ときどき分岐し、柄に深く垂生します。幼菌時は帯白色から淡灰色ですが、暗色の胞子が成熟するにつれて煙がかったネズミ灰色からオリーブ灰色、あるいはほぼ黒色へと暗色化します。担子器はこん棒形で4胞子性、大きさは50〜55 × 9〜14 µmです。円筒形の縁シスチジアは100〜125 × 10〜14 µmで、側シスチジアも似た形ですが明らかに小型です。",
+      "stipe": "柄は高さ2.5〜7 cm、太さ0.4〜1.5 cmで、円筒形または基部に向かって細くなり、多くの部分がコケや草、マツの落ち葉の中に埋まっていることがよくあります。上部は白色で、下部はしばしば淡ピンク色、ワインピンク色、または淡黄色を帯び、基部に向かって帯黄色または帯褐色になります。上部付近には綿毛状に厚くなった、あるいは不明瞭な粘性のつば状の帯があり、その縁は落下した胞子によってしばしば黒く染まります。",
+      "flesh": "肉は締まって充実しており、傘と柄の上部では帯白色ですが、傘の表皮直下や切断時にかすかにピンク色を帯びることがあり、柄の基部では帯赤色、汚黄色、または淡褐色へと移行します。においは特徴がなく、味は温和またはわずかに酸味があります。",
+      "sporePrint": "胞子紋は帯褐黒色からオリーブ黒色です。担子胞子は平滑な紡錘形（イグチ型）で、大きさは16〜22 × 4.5〜8 µmです。",
+      "habitat": "マツ類、特にヨーロッパアカマツ（Pinus sylvestris）の下の痩せた酸性の砂質土壌の針葉樹林および混交林に発生し、ヒース、ビルベリー、コケ、草の間によく見られ、例外なくSuillus bovinusのそばに現れます。かつてはマツと外生菌根を形成すると考えられていましたが、実際にはSuillus bovinusの菌糸に寄生し、宿主であるマツの根細胞内に吸器を形成します。ヨーロッパ本土の大部分では7月から10月にかけて、イギリスおよびアイルランドでは8月から11月にかけて、単生または小群生します。",
+      "uses": "食用で無毒ですが、食味は凡庸と広くみなされており、食用価値は低いとされています。調理する場合は粘性のある傘の表皮をむくことが勧められますが、子実体が小さく比較的まれであるうえ、上から見ると有毒な赤色系のRussula属の種と混同しやすいため、採取は一般に推奨されません。",
+      "confusion": "Gomphidius glutinosusは粘性のある灰褐色から紫褐色の傘を持ち、通常は黒い斑点が生じ、はるかに厚い粘性の内被膜と柄の基部に鮮やかなクロム黄色の肉があります。Chroogomphus rutilusは一般に大型で、銅褐色から紫褐色の傘と全体が橙黄土色の肉を持ちます。Russula emeticaやその他の赤い傘を持つRussula属の種は上から見ると似ることがありますが、もろい白色の肉、垂生しない白色のひだ、白色の胞子紋を持ち、内被膜やつば状の帯がありません。Hygrophorus erubescensおよびHygrophorus russulaも桃赤色の傘と垂生するひだを持ちますが、ひだは淡色のままで胞子紋は白色です。北アメリカには近縁のピンク色の種であるGomphidius subroseusが分布しますが、Suillus bovinusではなくSuillus lakeiと共生します。",
+      "notes": "2019年の世界評価では軽度懸念（Least Concern）とされていますが、分布域の一部ではまれまたは希少であり、ヨーロッパの複数の国のレッドリストに掲載されています。単独で自由に子実体を形成するSuillus bovinusとは異なり、Gomphidius roseusは宿主のイグチ類から離れて見つかることはなく、菌類が菌類に寄生しさらに樹木と結びつく三者関係の典型例となっています。北アメリカからの記録は別種のGomphidius subroseusに該当します。",
+      "sourceUrls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%AE%E3%82%BF%E3%82%B1"
+      ]
+    },
+    "ko": {
+      "description": "유럽과 온대 아시아의 산성 소나무 숲에서 자라는, 주름살이 있는 작은 산호분홍색 버섯이며 북아메리카에는 분포하지 않습니다. 모래땅이나 이끼, 히스가 덮인 소나무 아래에 홀로 또는 작은 무리를 이루어 자라며, 거의 항상 Suillus bovinus 곁에서 그 균사체에 기생하여 여름부터 늦가을까지 발생합니다.",
+      "cap": "갓의 지름은 2–6 cm입니다. 어릴 때는 반구형이며 가장자리가 안쪽으로 말려 있고 반투명하고 끈적한 부분피막으로 대와 연결되어 있습니다. 자라면서 볼록한 모양에서 편평해지거나 가운데가 약간 오목해지며, 때로 가운데에 작은 돌기가 생기기도 하고 가장자리는 종종 아래로 굽어 있거나 약간 물결 모양을 띱니다. 표면은 매끄럽고 껍질이 잘 벗겨지며 습할 때는 점성이 있거나 끈적끈적하고 건조할 때는 광택이 납니다. 색은 선명한 산호분홍색에서 장미빛 붉은색을 띠며 성숙하면 벽돌색에 가까워지고, 어두운 갓을 가진 근연종에서 보이는 검은빛 얼룩은 나타나지 않습니다.",
+      "hymenium": "주름살은 두껍고 성긴 편이며 때때로 갈라지고 대를 따라 깊게 내린주름살 형태를 띱니다. 어릴 때는 희끄무레하거나 옅은 회색이지만 어두운 포자가 성숙하면서 잿빛 쥐색에서 올리브회색 또는 거의 검은색으로 짙어집니다. 담자기는 곤봉 모양의 4포자성으로 크기는 50–55 × 9–14 µm입니다. 원통형의 연낭상체는 100–125 × 10–14 µm이며, 측낭상체도 비슷한 모양이지만 뚜렷하게 더 작습니다.",
+      "stipe": "대는 높이 2.5–7 cm, 굵기 0.4–1.5 cm로 원통형이거나 밑동을 향해 가늘어지며, 상당 부분이 이끼나 풀, 솔잎 속에 묻혀 있는 경우가 많습니다. 윗부분은 흰색이고 아랫부분은 종종 옅은 분홍색, 포도주빛 분홍색 또는 옅은 황색을 띠며 밑동에서는 누르스름하거나 갈색빛으로 변합니다. 윗부분 근처에는 솜털처럼 두꺼워지거나 뚜렷하지 않은 점질의 턱받이 자국이 있으며, 그 가장자리는 떨어지는 포자 때문에 종종 검게 물듭니다.",
+      "flesh": "살은 단단하고 속이 차 있으며 갓과 대의 윗부분에서는 희끄무레하지만 갓 표피 아래나 자른 면에 희미하게 분홍빛이 돌기도 하고, 대의 밑동에서는 붉은빛, 탁한 황색 또는 옅은 갈색으로 변합니다. 냄새는 뚜렷하지 않으며 맛은 순하거나 약간 시큼합니다.",
+      "sporePrint": "포자문은 갈흑색에서 올리브흑색입니다. 담자포자는 매끄러운 방추형(그물버섯형)이며 크기는 16–22 × 4.5–8 µm입니다.",
+      "habitat": "소나무류, 특히 구주적송(Pinus sylvestris) 아래의 척박하고 산성인 모래 토양의 침엽수림과 혼효림에서 자라며, 히스, 빌베리, 이끼 또는 풀 사이에서 흔히 발견되고 예외 없이 Suillus bovinus와 함께 나타납니다. 과거에는 소나무와 외생균근성 공생을 하는 것으로 여겨졌으나 실제로는 Suillus bovinus의 균사체에 기생하며 숙주 소나무 뿌리 세포 안에 흡기를 형성합니다. 유럽 본토 대부분 지역에서는 7월부터 10월까지, 영국과 아일랜드에서는 8월부터 11월까지 홀로 또는 작은 무리를 이루어 발생합니다.",
+      "uses": "식용 가능하고 독성은 없으나, 식미가 평범하여 식용 가치가 낮은 것으로 널리 알려져 있습니다. 조리할 경우 끈적한 갓 표피를 벗겨 내는 것이 권장되지만, 자실체가 작고 비교적 드물며 위에서 보았을 때 붉은 갓을 가진 독버섯인 Russula 속의 종들과 혼동하기 쉬워 채취는 일반적으로 권장되지 않습니다.",
+      "confusion": "Gomphidius glutinosus는 끈적한 회갈색에서 자갈색의 갓을 가지며 대개 검은 얼룩이 생기고, 훨씬 두꺼운 점질 피막과 대 밑동의 선명한 크롬황색 살을 지닙니다. Chroogomphus rutilus는 보통 더 크며 구리갈색에서 자갈색의 갓과 전체적으로 주황황토색을 띠는 살을 가집니다. Russula emetica와 기타 붉은 갓을 가진 Russula 속의 종들은 위에서 보면 비슷해 보일 수 있으나, 부서지기 쉬운 흰 살과 내리지 않는 흰 주름살, 흰 포자문을 가지며 피막이나 턱받이 자국이 없습니다. Hygrophorus erubescens와 Hygrophorus russula도 분홍빛 붉은 갓과 내린주름살을 가지지만 주름살이 옅은 색으로 유지되고 포자문이 흰색입니다. 북아메리카에는 근연종인 분홍색의 Gomphidius subroseus가 분포하지만 Suillus bovinus가 아니라 Suillus lakei와 연관되어 자랍니다.",
+      "notes": "2019년 세계 평가에서 관심대상(Least Concern)으로 분류되었으나, 분포 지역 일부에서는 드물거나 희귀하여 유럽 여러 국가의 적색목록에 등재되어 있습니다. 단독으로 자유롭게 자실체를 형성하는 Suillus bovinus와 달리 Gomphidius roseus는 숙주인 그물버섯과 떨어져 발견되는 일이 없어, 균류가 균류에 기생하고 다시 나무와 연결되는 3자 관계의 전형적인 사례로 꼽힙니다. 북아메리카의 기록은 별개의 종인 Gomphidius subroseus에 해당합니다.",
+      "sourceUrls": []
+    },
+    "lt": {
+      "label": "rožiaspalvė geltonpėdė",
+      "wikipedia": "https://lt.wikipedia.org/wiki/Ro%C5%BEiaspalv%C4%97_geltonp%C4%97d%C4%97",
+      "description": "Nedidelis lakštelinis koralų rožinės spalvos grybas, augantis rūgščiuose pušynuose visoje Europoje ir vidutinio klimato Azijoje, bet neaptinkamas Šiaurės Amerikoje. Auga pavieniui arba nedidelėmis grupelėmis po pušimis smėlėtoje, samanotoje ar viržynuose esančioje žemėje, beveik visada šalia Suillus bovinus, kurio grybienoje parazituoja; vaisiakūnius formuoja nuo vasaros iki vėlyvo rudens.",
+      "cap": "2–6 cm skersmens, jauna pusrutuliška, su užlenktu kraštu, kurį su kotu jungia permatomas gleivėtas dalinis šydas; vėliau tampa iškila, plokščia arba šiek tiek įdubusi, kartais su nedideliu gūbreliu centre, o kraštas dažnai lieka nuleistas žemyn arba šiek tiek skiautėtas. Lygi, lengvai lupama luobelė drėgnu oru būna gleivėta arba lipni, sausu – blizgi, ryškiai koralų rožinės ar rožinės raudonos spalvos, bręstant tamsėja link plytų raudonumo, be juodų dėmių, būdingų tamsiakepurėms giminingoms rūšims.",
+      "hymenium": "Lakšteliai stori, gana reti, kartais šakoti ir giliai nuaugtiniai kotu žemyn. Jauni būna balsvi arba šviesiai pilki, o bręstant tamsioms sporoms tamsėja per dūminę pelių pilką iki alyvinės pilkos ar beveik juodos spalvos. Bazidijos buožiškos, ketursporės, 50–55 × 9–14 µm dydžio; cilindrinės cheilocistidės yra 100–125 × 10–14 µm dydžio, o panašios formos pleurocistidės – pastebimai mažesnės.",
+      "stipe": "2,5–7 cm aukščio ir 0,4–1,5 cm storio, cilindriškas arba siaurėjantis link pagrindo, dažnai didžiąja dalimi paniręs samanose, žolėje ar pušų spygliuose. Viršutinėje dalyje baltas, žemiau dažnai su blyškiai rožiniu, vyno rožiniu ar blyškiai gelsvu atspalviu, link pagrindo pereinančiu į gelsvą arba rusvą; netoli viršūnės turi pūkuotai sustorėjusią arba neryškią gleivėtą žiedo zoną, kurios kraštą dažnai pajuodina byrančios sporos.",
+      "flesh": "Stangri ir tanki, kepurėlėje ir viršutinėje koto dalyje balsva, po kepurėlės luobele arba perpjovus kartais vos rožinio atspalvio, o koto pagrinde pereinanti į rausvą, nešvariai geltoną arba šviesiai rudą. Kvapas silpnas, neišraiškingas, skonis švelnus arba šiek tiek rūgštokas.",
+      "sporePrint": "Rusvai juodas iki alyviškai juodo. Bazidiosporos lygios, verpstiškos (baravykinio tipo), 16–22 × 4,5–8 µm dydžio.",
+      "habitat": "Auga spygliuočių ir mišriuosiuose miškuose skurdžiuose, rūgščiuose, smėlėtuose dirvožemiuose po pušimis, ypač po paprastąja pušimi (Pinus sylvestris), dažnai tarp viržių, mėlynių, samanų ar žolės, visada šalia Suillus bovinus. Nors anksčiau buvo laikoma ektomikorizine pušų partnere, iš tikrųjų ji parazituoja Suillus bovinus grybienoje, formuodama haustorijas šeimininko pušies šaknų ląstelėse. Vaisiakūniai auga pavieniui arba nedidelėmis grupėmis nuo liepos iki spalio didžiojoje dalyje žemyninės Europos, o Didžiojoje Britanijoje ir Airijoje – nuo rugpjūčio iki lapkričio.",
+      "uses": "Valgomas ir nenuodingas grybas, tačiau plačiai vertinamas kaip menkavertis kulinariniu požiūriu ir mažai tinkamas maistui. Ruošiant maistui rekomenduojama nulupti gleivėtą kepurėlės luobelę, tačiau rinkti šią rūšį paprastai nerekomenduojama, nes vaisiakūniai smulkūs, palyginti reti ir iš viršaus lengvai supainiojami su nuodingomis raudonkepurėmis Russula rūšimis.",
+      "confusion": "Gomphidius glutinosus kepurėlė gleivėta, pilkai ruda ar purpuriškai ruda, paprastai su juodomis dėmėmis, gleivėtas šydas daug storesnis, o koto pagrindo trama ryškiai chromo geltona. Chroogomphus rutilus dažniausiai stambesnis, vario rudos ar purpuriškai rudos spalvos kepurėle ir oranžiškai ochrine trama visame vaisiakūnyje. Russula emetica ir kitos raudonkepurės Russula rūšys iš viršaus gali atrodyti panašiai, tačiau jų trama trapi ir balta, lakšteliai balti ir nenuaugtiniai, sporų atspaudas baltas, be šydo ar žiedo zonos. Hygrophorus erubescens ir Hygrophorus russula taip pat turi rausvai raudonas kepurėles ir nuaugtinius lakštelius, bet jų lakšteliai išlieka šviesūs, o sporų atspaudas baltas. Šiaurės Amerikoje auga artima rausva rūšis Gomphidius subroseus, kuri siejama su Suillus lakei, o ne su Suillus bovinus.",
+      "notes": "2019 m. pasauliniame vertinime rūšis priskirta prie nekelianti susirūpinimo (Least Concern) kategorijos, nors dalyje arealo ji yra reta arba nedažna ir įtraukta į kelių Europos šalių raudonuosius sąrašus. Skirtingai nei Suillus bovinus, kuris laisvai formuoja vaisiakūnius vienas, Gomphidius roseus niekada neaptinkama be savo šeimininko baravykinio grybo, todėl ši pora yra klasikinis trišalės grybo–grybo–medžio sąveikos pavyzdys. Šiaurės Amerikos radiniai priklauso atskirai rūšiai Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://lt.wikipedia.org/wiki/Ro%C5%BEiaspalv%C4%97_geltonp%C4%97d%C4%97"
+      ]
+    },
+    "lv": {
+      "label": "rožsārtā zeltkāte",
+      "description": "Neliela lapiņu sēne koraļļrozā krāsā, kas aug skābos priežu mežos visā Eiropā un mērenajā Āzijā, bet nav sastopama Ziemeļamerikā. Aug pa vienai vai nelielās grupās zem priedēm smilšainā, sūnainā vai virsāju augsnē, gandrīz vienmēr līdzās Suillus bovinus, uz kuras micēlija tā parazitē; augļķermeņus veido no vasaras līdz vēlam rudenim.",
+      "cap": "2–6 cm plata, jaunībā puslodveida ar ieritinātu malu, kuru ar kātiņu savieno caurspīdīgs gļotains daļējais plīvurs, vēlāk izplešas līdz izliektai, plakanai vai viegli ieliektai formai, reizēm ar nelielu pauguru centrā un malu, kas bieži paliek noliekta uz leju vai nedaudz daivaina. Gludā, viegli novelkamā virsmiziņa mitrā laikā ir lipīga līdz gļotaina, sausā – spīdīga, koši koraļļrozā līdz rožaini sarkanā krāsā, briedumā kļūst ķieģeļsarkana, bez melnajiem plankumiem, kas raksturīgi tumšākām radniecīgām sugām.",
+      "hymenium": "Lapiņas biezas, samērā retas, reizēm dakšveidā zarotas un dziļi nolaidenas gar kātiņu. Jaunībā bālganas līdz gaiši pelēkas, bet, tumšajām sporām nogatavojoties, kļūst dūmakaini pelēkas, olīvpelēkas vai gandrīz melnas. Bazīdijas vālesveida, četru sporu, 50–55 × 9–14 µm lielas; cilindriskās heilocistīdas ir 100–125 × 10–14 µm lielas, bet līdzīgas formas pleirocistīdas ir manāmi mazākas.",
+      "stipe": "2,5–7 cm garš un 0,4–1,5 cm resns, cilindrisks vai uz leju sašaurināts, bieži lielā daļā iegrimis sūnās, zālē vai priežu skujās. Augšdaļā balts, zemāk bieži ar bāli rozā, vīnsārtu vai bāli dzeltenīgu nokrāsu, pie pamata pārejot dzeltenīgā vai brūnganā tonī; augšdaļā ar pūkaini sabiezinātu vai neskaidru gļotainu gredzena joslu, kuras malu bieži nomelnina krītošās sporas.",
+      "flesh": "Blīvs un stingrs, cepurītē un kātiņa augšdaļā bālgans, zem cepurītes virsmiziņas vai griezumā reizēm viegli sārts, bet kātiņa pamatnē sarkanīgs, netīri dzeltens vai gaiši brūns. Smarža neizteikta, garša maiga vai viegli skābena.",
+      "sporePrint": "Brūnganmelns līdz olīvmelnam. Bazīdijsporas gludas, vārpstveida (beku tipa), 16–22 × 4,5–8 µm lielas.",
+      "habitat": "Sastopama skujkoku un jauktos mežos nabadzīgās, skābās, smilšainās augsnēs zem priedēm, īpaši zem parastās priedes (Pinus sylvestris), bieži starp viršiem, mellenēm, sūnām vai zāli, un vienmēr līdzās Suillus bovinus. Lai gan agrāk to uzskatīja par priedes ektomikorizas veidotāju, patiesībā tā parazitē uz Suillus bovinus micēlija, veidojot haustorijas saimniekpriedes sakņu šūnās. Augļķermeņi parādās pa vienam vai nelielās grupās no jūlija līdz oktobrim lielākajā daļā kontinentālās Eiropas, bet Lielbritānijā un Īrijā – no augusta līdz novembrim.",
+      "uses": "Ēdama un neindīga sēne, taču plaši uzskatīta par kulināri viduvēju un mazvērtīgu. Gatavojot ieteicams novilkt gļotaino cepurītes virsmiziņu, tomēr vākt to parasti neiesaka, jo augļķermeņi ir sīki, samērā reti un no augšas viegli sajaucami ar indīgajām sarkanajām Russula sugām.",
+      "confusion": "Gomphidius glutinosus ir ar gļotainu pelēkbrūnu līdz purpurbrūnu cepurīti, uz kuras parasti veidojas melni plankumi, daudz biezāku gļotainu plīvuru un koši hromdzeltenu mīkstumu kātiņa pamatnē. Chroogomphus rutilus parasti ir lielāka, ar vara brūnu līdz purpurbrūnu cepurīti un oranžaini okera krāsas mīkstumu visā augļķermenī. Russula emetica un citas sarkancepurītes Russula sugas no augšas var izskatīties līdzīgi, taču tām ir trausls balts mīkstums, nenolaidenas baltas lapiņas, balts sporu nospiedums un nav ne plīvura, ne gredzena joslas. Hygrophorus erubescens un Hygrophorus russula arī ir ar sārtām cepurītēm un nolaidenām lapiņām, taču to lapiņas saglabājas gaišas un sporu nospiedums ir balts. Ziemeļamerikā sastopama tuvu radniecīga sārta suga Gomphidius subroseus, kas saistīta ar Suillus lakei, nevis Suillus bovinus.",
+      "notes": "2019. gada globālajā novērtējumā suga novērtēta kā vismazāk apdraudēta (Least Concern), lai gan daļā areāla tā ir reta vai samērā reta un iekļauta vairāku Eiropas valstu sarkanajos sarakstos. Atšķirībā no Suillus bovinus, kas brīvi veido augļķermeņus patstāvīgi, Gomphidius roseus nekad nav sastopama šķirti no savas saimniekbekas, padarot šo pāri par klasisku trīspusējas sēnes–sēnes–koka mijiedarbības piemēru. Ziemeļamerikas atradumi pieder atsevišķai sugai Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/7889985"
+      ]
+    },
+    "nl": {
+      "label": "Roze spijkerzwam",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Roze_spijkerzwam",
+      "description": "Een kleine, koraalroze plaatjeszwam van zure dennenbossen in Europa en gematigd Azië, die ontbreekt in Noord-Amerika. Hij groeit alleen of in kleine groepjes onder dennen op zandige, bemoste of heideachtige bodems, vrijwel altijd samen met de koeienboleet (Suillus bovinus), op wiens mycelium hij parasiteert, met vruchtlichamen van de zomer tot laat in de herfst.",
+      "cap": "2–6 cm breed, jong halfbolvormig met een ingerolde rand die via een doorschijnend, slijmerig gedeeltelijk velum met de steel verbonden is, later uitspreidend tot gewelfd, vlak of licht verdiept en soms met een kleine centrale bult, waarbij de rand vaak naar beneden gebogen of licht gelobd blijft. De gladde, aftrekbare hoedhuid is kleverig tot slijmerig bij vochtig weer en glanzend bij droogte, helder koraalroze tot rozerood van kleur en bij het ouder worden meer steenrood, zonder de zwartachtige vlekken van donkerhoedige verwanten.",
+      "hymenium": "De plaatjes zijn dik, tamelijk ver uiteenstaand, soms gevorkt en ver op de steel aflopend. Jong zijn ze witachtig tot lichtgrijs, waarna ze via rokerig muisgrijs verkleuren naar olijfgrijs of bijna zwart naarmate de donkere sporen rijpen. De basidiën zijn knotsvormig, viersporig en meten 50–55 × 9–14 µm; cilindrische cheilocystiden meten 100–125 × 10–14 µm, met gelijkvormige maar merkbaar kleinere pleurocystiden.",
+      "stipe": "2,5–7 cm hoog en 0,4–1,5 cm dik, cilindrisch of naar de basis toe versmald, waarbij een groot deel van de steel vaak verborgen zit in mos, gras of dennennaalden. Hij is bovenaan wit en naar beneden toe vaak lichtroze, wijnroze of bleekgeel aangelopen, overgaand in geelachtig of bruinachtig aan de basis, en draagt nabij de top een wollig verdikte of onduidelijke slijmerige ringzone waarvan de rand vaak zwart gekleurd is door neervallende sporen.",
+      "flesh": "Stevig en massief, witachtig in de hoed en het bovenste deel van de steel, soms lichtroze aangelopen onder de hoedhuid of bij doorsnijden, en naar de steelbasis toe roodachtig, vuilgeel of lichtbruin verkleurend. De geur is onopvallend en de smaak mild of licht zuur.",
+      "sporePrint": "Bruinzwart tot olijfzwart. De basidiosporen zijn glad, spoelvormig (boletoïde) en meten 16–22 × 4,5–8 µm.",
+      "habitat": "Komt voor in naald- en gemengde bossen op arme, zure zandgronden onder dennen, vooral grove den (Pinus sylvestris), vaak tussen struikhei, bosbes, mos of gras, en steevast naast de koeienboleet (Suillus bovinus). Hoewel de soort vroeger als ectomycorrhizavormend met den werd beschouwd, leeft hij parasitair op het mycelium van Suillus bovinus en vormt hij haustoriën in de wortelcellen van de waardden. Vormt alleen of in kleine groepjes vruchtlichamen van juli tot oktober op een groot deel van het Europese vasteland, en van augustus tot november in Groot-Brittannië en Ierland.",
+      "uses": "Eetbaar en niet giftig, maar algemeen beschouwd als culinair matig en van weinig belang voor de keuken. Het wordt aanbevolen om de kleverige hoedhuid af te trekken bij bereiding, maar verzamelen wordt doorgaans afgeraden omdat de vruchtlichamen klein en vrij zeldzaam zijn en van bovenaf gemakkelijk verward kunnen worden met giftige roodhoedige russula's.",
+      "confusion": "De Slijmige spijkerzwam (Gomphidius glutinosus) heeft een slijmerige grijsbruine tot purperbruine hoed die doorgaans zwarte vlekken krijgt, een veel dikker slijmerig velum en helder chroomgeel vlees in de steelbasis. De Koperrode spijkerzwam (Chroogomphus rutilus) is meestal groter met een koperbruine tot purperbruine hoed en doorlopend oranje-oker vlees. De Braakrussula (Russula emetica) en andere roodhoedige russula's (Russula) kunnen van bovenaf sterk lijken, maar hebben broos wit vlees, niet-aflopende witte plaatjes, een witte sporenprint en geen velum of ringzone. Hygrophorus erubescens en Hygrophorus russula hebben eveneens rozerode hoeden en aflopende plaatjes, maar hun plaatjes blijven bleek en hun sporenprint is wit. In Noord-Amerika is Gomphidius subroseus een nauw verwante roze soort die samenleeft met Suillus lakei in plaats van Suillus bovinus.",
+      "notes": "Een wereldwijde beoordeling uit 2019 classificeert deze soort als niet bedreigd (Least Concern), hoewel hij in delen van zijn verspreidingsgebied schaars tot zeldzaam is en op verscheidene nationale rode lijsten in Europa voorkomt. Anders dan Suillus bovinus, die zelfstandig vruchtlichamen vormt, wordt Gomphidius roseus nooit los van zijn waardboleet aangetroffen, waardoor het paar een klassiek voorbeeld vormt van een drievoudige schimmel-op-schimmel-op-boom-relatie. Waarnemingen uit Noord-Amerika behoren tot de aparte soort Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://nl.wikipedia.org/wiki/Roze_spijkerzwam"
+      ]
+    },
+    "no": {
+      "label": "rosa sleipsopp",
+      "description": "En liten, korallrosa skivesopp i sur furuskog i Europa og temperert Asia, som mangler i Nord-Amerika. Den vokser enkeltvis eller i små grupper under furu på sandrik, mosegrodd eller lyngkledd mark, nesten alltid sammen med seig kusopp (Suillus bovinus), hvis mycel den snylter på, og danner fruktlegemer fra sommer til sen høst.",
+      "cap": "2–6 cm bred, halvkuleformet som ung med innrullet kant forbundet til stilken med et gjennomsiktig, slimet delsvøp, senere hvelvet, flat eller svakt nedsunket og av og til med en liten midtpukkel, der kanten ofte forblir nedbøyd eller svakt lappet. Den glatte, avtrekkbare hatthuden er klebrig til slimet i fuktig vær og blank i tørt vær, klart korallrosa til rosenrød og mørkner mot teglrød med alderen, uten de svartaktige flekkene som finnes hos mørkhattede slektninger.",
+      "hymenium": "Skivene er tykke, nokså fjerne, av og til gaffeldelte og langt nedløpende på stilken. Som unge er de hvitaktige til blekgrå, før de mørkner via røykaktig musegrå til olivengrå eller nesten svarte etter hvert som de mørke sporene modnes. Basidiene er kølleformede, firesporede og måler 50–55 × 9–14 µm; sylindriske cheilocystider måler 100–125 × 10–14 µm, med tilsvarende formede men merkbart mindre pleurocystider.",
+      "stipe": "2,5–7 cm høy og 0,4–1,5 cm tykk, sylindrisk eller avsmalnende mot basis, ofte med mye av lengden skjult i mose, gress eller furunåler. Den er hvit øverst og ofte svakt rosa, vinrosa eller blekgul nedover, med overgang til gulaktig eller brunlig ved basis, og har en ullent fortykket eller utydelig slimet ringsone nær toppen, der kanten ofte svertes av nedfallende sporer.",
+      "flesh": "Fast og kompakt, hvitaktig i hatten og øvre del av stilken, av og til svakt rosa anløpt under hatthuden eller ved gjennomsnitt, og overgående i rødlig, skittengult eller blekbrunt i stilkbasis. Lukten er ubetydelig og smaken er mild eller svakt syrlig.",
+      "sporePrint": "Brunsvart til olivensvart. Basidiosporene er glatte, spoleformede (boletoide) og måler 16–22 × 4,5–8 µm.",
+      "habitat": "Finnes i bar- og blandingsskog på mager, sur sandjord under furu, særlig furu (Pinus sylvestris), ofte blant røsslyng, blåbær, mose eller gress, og alltid sammen med seig kusopp (Suillus bovinus). Selv om arten tidligere ble regnet som ektomykorrhizadannende med furu, lever den parasittisk på mycelet til Suillus bovinus og danner haustorier inne i vertsfuruas rotceller. Danner fruktlegemer enkeltvis eller i små grupper fra juli til oktober over store deler av det europeiske fastlandet, og fra august til november i Storbritannia og Irland.",
+      "uses": "Spiselig og ugiftig, men regnes allment som middelmådig som matsopp og av liten kulinarisk interesse. Det anbefales å flå av den slimete hatthuden ved tilberedning, men sanking frarådes vanligvis fordi fruktlegemene er små, relativt uvanlige og ovenfra lett kan forveksles med giftige rødhattede kremler.",
+      "confusion": "Stor sleipsopp (Gomphidius glutinosus) har en slimet gråbrun til purpurbrun hatt som typisk får svarte flekker, et mye tykkere slimet svøp og sterkt kromgult kjøtt i stilkbasis. Rabarbrasopp (Chroogomphus rutilus) er vanligvis større med kobberbrun til purpurbrun hatt og oransjeoker kjøtt i hele soppen. Giftkremle (Russula emetica) og andre rødhattede kremler (Russula) kan ligne ovenfra, men har sprøtt hvitt kjøtt, ikke-nedløpende hvite skiver, hvitt sporeavtrykk og mangler svøp og ringsone. Hygrophorus erubescens og Hygrophorus russula har også rosarøde hatter og nedløpende skiver, men skivene forblir bleke og sporeavtrykket er hvitt. I Nord-Amerika er Gomphidius subroseus en nært beslektet rosa art som er knyttet til Suillus lakei i stedet for Suillus bovinus.",
+      "notes": "En global vurdering fra 2019 klassifiserer arten som livskraftig (Least Concern), selv om den er uvanlig til sjelden i deler av utbredelsesområdet og står på flere nasjonale rødlister i Europa. I motsetning til Suillus bovinus, som fritt danner fruktlegemer alene, finnes Gomphidius roseus aldri adskilt fra sin vertsrørsopp, noe som gjør paret til et klassisk eksempel på et tredelt samspill mellom sopp, sopp og tre. Funn fra Nord-Amerika tilhører den selvstendige arten Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/7889985"
+      ]
+    },
+    "pl": {
+      "label": "klejówka różowa",
+      "wikipedia": "https://pl.wikipedia.org/wiki/Klej%C3%B3wka_r%C3%B3%C5%BCowa",
+      "description": "Niewielki grzyb blaszkowy o koraloworóżowym zabarwieniu, występujący w kwaśnych borach sosnowych Europy i strefy umiarkowanej Azji, nieobecny w Ameryce Północnej. Rośnie pojedynczo lub w małych grupach pod sosnami na piaszczystym, mszystym lub wrzosowiskowym podłożu, niemal zawsze w towarzystwie maślaka sitarza (Suillus bovinus), na którego grzybni pasożytuje; owocnikuje od lata do późnej jesieni.",
+      "cap": "Średnicy 2–6 cm, za młodu półkulisty z podwiniętym brzegiem połączonym z trzonem przejrzystą, śluzowatą osłoną częściową, z czasem rozpościerający się do wypukłego, płaskiego lub lekko wklęsłego, niekiedy z niewielkim garbkiem pośrodku i brzegiem często pozostającym podwiniętym lub lekko płatowatym. Gładka, dająca się ściągnąć skórka jest w wilgotną pogodę lepka do śluzowatej, a w suchą błyszcząca, barwy jaskrawo koraloworóżowej do różowoczerwonej, z wiekiem przechodzącej w ceglastoczerwoną, pozbawiona czarniawych plam spotykanych u ciemniejszych gatunków pokrewnych.",
+      "hymenium": "Blaszki są grube, dość rzadkie, niekiedy rozwidlone i głęboko zbiegające na trzon. Za młodu białawe do jasnoszarych, z dojrzewaniem ciemnych zarodników ciemnieją przez dymno mysioszare do oliwkowoszarych lub niemal czarnych. Podstawki są maczugowate, czterozarodnikowe, o wymiarach 50–55 × 9–14 µm; cylindryczne cheilocystydy mierzą 100–125 × 10–14 µm, a podobnie ukształtowane pleurocystydy są wyraźnie mniejsze.",
+      "stipe": "Wysokości 2,5–7 cm i grubości 0,4–1,5 cm, cylindryczny lub zwężający się ku podstawie, często w znacznej części zagłębiony w mchu, trawie lub sosnowym igliwiu. W górnej części biały, poniżej często z bladoróżowym, winnoróżowym lub bladożółtawym nalotem, przechodzącym u podstawy w barwę żółtawą lub brązowawą; w pobliżu wierzchołka nosi wełnisto zgrubiałą lub niewyraźną śluzowatą strefę pierścieniową, której brzeg często bywa poczerniały od osypujących się zarodników.",
+      "flesh": "Jędrny i zwarty, białawy w kapeluszu i górnej części trzonu, niekiedy lekko zaróżowiony pod skórką kapelusza lub po przekrojeniu, przechodzący u podstawy trzonu w barwę czerwonawą, brudnożółtą lub jasnobrązową. Zapach niewyraźny, smak łagodny lub lekko kwaskowaty.",
+      "sporePrint": "Brązowoczarny do oliwkowoczarnego. Zarodniki podstawkowe są gładkie, wrzecionowate (borowikoidalne) i mierzą 16–22 × 4,5–8 µm.",
+      "habitat": "Występuje w lasach iglastych i mieszanych na ubogich, kwaśnych, piaszczystych glebach pod sosnami, zwłaszcza pod sosną zwyczajną (Pinus sylvestris), często wśród wrzosów, borówek, mchów lub traw, i niezmiennie w sąsiedztwie maślaka sitarza (Suillus bovinus). Choć dawniej uznawano go za grzyb ektomikoryzowy sosny, w rzeczywistości jest pasożytem grzybni maślaka sitarza, wytwarzającym ssawki (haustoria) w komórkach korzeni sosny. Owocnikuje pojedynczo lub w małych grupach od lipca do października na przeważającej części kontynentalnej Europy oraz od sierpnia do listopada w Wielkiej Brytanii i Irlandii.",
+      "uses": "Grzyb jadalny i nietrujący, jednak powszechnie uznawany za przeciętny pod względem kulinarnym i mało wartościowy w kuchni. Przed przyrządzeniem zaleca się zdjęcie śluzowatej skórki z kapelusza, lecz zbieranie na ogół się odradza, ponieważ owocniki są drobne, stosunkowo rzadkie i z góry łatwe do pomylenia z trującymi czerwonokapeluszowymi gatunkami gołąbków (Russula).",
+      "confusion": "Klejówka kleista (Gomphidius glutinosus) ma śluzowaty, szarobrązowy do purpurowobrązowego kapelusz, na którym zazwyczaj pojawiają się czarne plamy, znacznie grubszą śluzowatą osłonę oraz jaskrawo chromowożółty miąższ u podstawy trzonu. Klejak rdzawy (Chroogomphus rutilus) jest zwykle większy, ma miedzianobrązowy do purpurowobrązowego kapelusz i pomarańczowoochrowy miąższ w całym owocniku. Gołąbek wymiotny (Russula emetica) oraz inne czerwonokapeluszowe gołąbki (Russula) mogą wyglądać podobnie z góry, mają jednak kruchy biały miąższ, niezbiegające białe blaszki, biały wysyp zarodników oraz nie mają osłony ani strefy pierścieniowej. Wodnicha zaróżowiona (Hygrophorus erubescens) i wodnicha gołąbkowa (Hygrophorus russula) również mają różowoczerwone kapelusze i zbiegające blaszki, lecz ich blaszki pozostają jasne, a wysyp zarodników jest biały. W Ameryce Północnej występuje blisko spokrewniony różowawy gatunek Gomphidius subroseus, związany z Suillus lakei zamiast z Suillus bovinus.",
+      "notes": "Globalna ocena z 2019 roku klasyfikuje ten gatunek jako gatunek najmniejszej troski (Least Concern), choć w części swojego zasięgu jest nieczęsty lub rzadki i figuruje na kilku krajowych czerwonych listach w Europie. W przeciwieństwie do Suillus bovinus, który bez przeszkód owocnikuje samodzielnie, gatunek ten nigdy nie występuje bez swojego grzyba żywicielskiego, stanowiąc klasyczny przykład trójstronnego układu grzyb–grzyb–drzewo. Doniesienia z Ameryki Północnej odnoszą się do odrębnego gatunku Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Klej%C3%B3wka_r%C3%B3%C5%BCowa"
+      ]
+    },
+    "pt": {
+      "wikipedia": "https://pt.wikipedia.org/wiki/Gomphidius_roseus",
+      "description": "Pequeno cogumelo de lâminas e cor rosa-coral próprio de pinhais ácidos da Europa e da Ásia temperada, ausente na América do Norte. Cresce isolado ou em pequenos grupos sob pinheiros em solos arenosos, musgosos ou de urzal, quase sempre junto a Suillus bovinus, cujo micélio parasita, frutificando do verão até ao final do outono.",
+      "cap": "De 2–6 cm de diâmetro, hemisférico quando jovem com margem enrolada ligada ao estipe por um véu parcial viscoso translúcido, abrindo depois para convexo, plano ou ligeiramente deprimido, apresentando ocasionalmente um pequeno mamilo central e uma margem que permanece frequentemente voltada para baixo ou ligeiramente lobada. A cutícula lisa e destacável é viscosa a mucilaginosa em tempo húmido e brilhante em tempo seco, de cor rosa-coral viva a vermelho-rosado, evoluindo para vermelho-tijolo na maturação, sem as manchas enegrecidas observadas em espécies aparentadas de chapéu escuro.",
+      "hymenium": "As lâminas são espessas, bastante espaçadas, ocasionalmente bifurcadas e profundamente decorrentes ao longo do estipe. São esbranquiçadas a cinzento-pálidas quando jovens, escurecendo através de cinzento-rato fumado até cinzento-azeitona ou quase negro à medida que os esporos escuros amadurecem. Os basídios são claviformes, tetraspóricos e medem 50–55 × 9–14 µm; os queilocistídios cilíndricos medem 100–125 × 10–14 µm, com pleurocistídios de forma semelhante mas notoriamente mais pequenos.",
+      "stipe": "Com 2,5–7 cm de altura e 0,4–1,5 cm de espessura, cilíndrico ou atenuado para a base, frequentemente enterrado em grande parte do seu comprimento no musgo, na erva ou nas agulhas de pinheiro. É branco na parte superior e muitas vezes matizado de rosa-pálido, rosa-vinoso ou amarelado-pálido em baixo, passando a amarelado ou acastanhado na base, e apresenta junto ao ápice uma zona anelar lanosa-espessada ou glutinosa pouco distinta, cuja margem fica frequentemente enegrecida pelos esporos que caem.",
+      "flesh": "Firme e compacta, esbranquiçada no chapéu e na parte superior do estipe, por vezes ligeiramente rosada sob a cutícula ou ao corte, passando a avermelhada, amarelo-sujo ou castanho-pálido na base do estipe. O odor é indistinto e o sabor é suave ou ligeiramente acidulado.",
+      "sporePrint": "Negro-acastanhado a negro-oliváceo. Os basidiósporos são lisos, fusiformes (boletoides) e medem 16–22 × 4,5–8 µm.",
+      "habitat": "Ocorre em florestas de coníferas e mistas sobre solos pobres, ácidos e arenosos sob pinheiros, em especial pinheiro-silvestre (Pinus sylvestris), frequentemente entre urze, mirtilo, musgo ou erva, e invariavelmente junto a Suillus bovinus. Embora historicamente tratado como ectomicorrízico do pinheiro, é na realidade parasita do micélio de Suillus bovinus, formando haustórios no interior das células radiculares do pinheiro hospedeiro. Frutifica isolado ou em pequenos grupos de julho a outubro em grande parte da Europa continental, e de agosto a novembro na Grã-Bretanha e na Irlanda.",
+      "uses": "Comestível e não tóxico, embora amplamente considerado de qualidade culinária medíocre e de pouco interesse gastronómico. Recomenda-se retirar a cutícula viscosa do chapéu caso seja preparado para cozinhar, mas a colheita é geralmente desaconselhada porque os carpóforos são pequenos, relativamente pouco comuns e fáceis de confundir vistos de cima com espécies venenosas de Russula de chapéu vermelho.",
+      "confusion": "Gomphidius glutinosus possui um chapéu viscoso cinzento-acastanhado a castanho-arroxeado que desenvolve tipicamente manchas negras, um véu glutinoso muito mais espesso e carne amarelo-crómio viva na base do estipe. Chroogomphus rutilus é geralmente maior, com chapéu castanho-acobreado a castanho-arroxeado e carne ocre-alaranjada em todo o carpóforo. Russula emetica e outras espécies de Russula de chapéu vermelho podem parecer semelhantes vistas de cima, mas têm carne branca quebradiça, lâminas brancas não decorrentes, esporada branca e não apresentam véu nem zona anelar. Hygrophorus erubescens e Hygrophorus russula têm também chapéus vermelho-rosados e lâminas decorrentes, mas as suas lâminas permanecem pálidas e a esporada é branca. Na América do Norte, Gomphidius subroseus é uma espécie rosada estreitamente aparentada que se associa a Suillus lakei em vez de Suillus bovinus.",
+      "notes": "Uma avaliação global de 2019 classifica esta espécie como pouco preocupante (Least Concern), embora seja pouco comum a rara em partes da sua área de distribuição e conste de várias listas vermelhas nacionais na Europa. Ao contrário de Suillus bovinus, que frutifica livremente sozinho, Gomphidius roseus nunca é encontrado separado do seu boleto hospedeiro, tornando este par um exemplo clássico de associação tripartida fungo–fungo–árvore. Os registos da América do Norte pertencem a uma espécie distinta, Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://pt.wikipedia.org/wiki/Gomphidius_roseus"
+      ]
+    },
+    "ro": {
+      "wikipedia": "https://ro.wikipedia.org/wiki/Gomphidius_roseus",
+      "description": "O ciupercă mică cu lamele, de culoare roz-coral, specifică pădurilor acide de pin din Europa și Asia temperată, absentă din America de Nord. Crește solitar sau în grupuri mici sub pini, pe soluri nisipoase, cu mușchi sau iarbă-neagră, aproape întotdeauna alături de Suillus bovinus, al cărui miceliu îl parazitează, fructificând din vară până spre sfârșitul toamnei.",
+      "cap": "Are diametrul de 2–6 cm; la început este emisferică, cu marginea răsfrântă spre interior și unită de picior printr-un văl parțial translucid și mucilaginos, apoi se deschide devenind convexă, plată sau ușor adâncită, prezentând uneori un mic gurgui central, cu marginea care rămâne adesea îndoită în jos sau ușor lobată. Cuticula netedă și ușor de decojit este vâscoasă până la mucilaginoasă pe vreme umedă și lucioasă pe vreme uscată, de un roz-coral viu până la roșu-roz, evoluând la maturitate spre roșu-cărămiziu, fără petele negricioase întâlnite la speciile înrudite cu pălărie închisă la culoare.",
+      "hymenium": "Lamelele sunt groase, destul de rare, ocazional bifurcate și profund decurente pe picior. La început sunt albicioase până la gri-pal, închizându-se treptat spre gri-șobolan fumuriu, gri-oliv sau aproape negru pe măsură ce sporii închiși la culoare ajung la maturitate. Bazidiile sunt clavate, tetrasporice, măsurând 50–55 × 9–14 µm; cheilocistidele cilindrice măsoară 100–125 × 10–14 µm, iar pleurocistidele au formă similară, dar sunt vizibil mai mici.",
+      "stipe": "Are 2,5–7 cm înălțime și 0,4–1,5 cm grosime, este cilindric sau se subțiază spre bază, o mare parte din lungimea sa fiind adesea îngropată în mușchi, iarbă sau ace de pin. Este alb în partea superioară și adesea nuanțat roz-pal, roz-vinaceu sau gălbui-pal spre partea inferioară, trecând spre gălbui sau bruniu la bază, și prezintă în partea de sus o zonă inelară lânoasă îngroșată sau glutinoasă neclară, a cărei margine este frecvent înnegrită de sporii căzuți.",
+      "flesh": "Este fermă și plină, albicioasă în pălărie și în partea superioară a piciorului, uneori ușor nuanțată roz sub cuticula pălăriei sau la tăiere, trecând spre roșiatic, galben-murdar sau brun-pal la baza piciorului. Mirosul este indistinct, iar gustul este blând sau ușor acidulat.",
+      "sporePrint": "Brun-negricioasă până la oliv-negricioasă. Bazidiosporii sunt netezi, fusiformi (boletoizi) și măsoară 16–22 × 4,5–8 µm.",
+      "habitat": "Se întâlnește în păduri de conifere și mixte, pe soluri sărace, acide și nisipoase, sub pini, în special pinul de pădure (Pinus sylvestris), adesea printre iarbă-neagră, afin, mușchi sau iarbă, și invariabil alături de Suillus bovinus. Deși în trecut era considerată ectomicorizică cu pinul, este de fapt parazită pe miceliul speciei Suillus bovinus, formând haustori în interiorul celulelor radiculare ale pinului gazdă. Fructifică solitar sau în grupuri mici din iulie până în octombrie în cea mai mare parte a Europei continentale, iar în Marea Britanie și Irlanda din august până în noiembrie.",
+      "uses": "Este comestibilă și netoxică, dar considerată în general de calitate culinară mediocră și lipsită de interes gastronomic. Dacă este pregătită pentru gătit, se recomandă îndepărtarea cuticulei vâscoase a pălăriei, însă culegerea nu este în general încurajată deoarece corpurile de fructificație sunt mici, relativ rare și pot fi ușor confundate de sus cu specii otrăvitoare de Russula cu pălărie roșie.",
+      "confusion": "Gomphidius glutinosus are o pălărie mucilaginoasă brun-cenușie până la brun-purpurie care dezvoltă de obicei pete negre, un văl glutinos mult mai gros și carne galben-crom intens la baza piciorului. Chroogomphus rutilus este de obicei mai mare, cu pălărie brun-arămie până la brun-purpurie și carne portocaliu-ocru pe toată secțiunea. Russula emetica și alte specii de Russula cu pălărie roșie pot arăta asemănător privite de sus, dar au carne albă și casantă, lamele albe nedecurente, amprentă sporală albă și nu prezintă văl sau zonă inelară. Hygrophorus erubescens și Hygrophorus russula au de asemenea pălării roz-roșiatice și lamele decurente, dar lamelele lor rămân palide, iar amprenta sporală este albă. În America de Nord, Gomphidius subroseus este o specie rozalie strâns înrudită care se asociază cu Suillus lakei, nu cu Suillus bovinus.",
+      "notes": "O evaluare globală din 2019 încadrează această specie în categoria Risc scăzut (Least Concern), deși este puțin frecventă până la rară în anumite părți ale arealului și figurează pe mai multe liste roșii naționale din Europa. Spre deosebire de Suillus bovinus, care fructifică liber de unul singur, Gomphidius roseus nu se găsește niciodată separat de boletele său gazdă, cele două specii constituind un exemplu clasic de asociere tripartită ciupercă-pe-ciupercă-pe-arbore. Semnalările din America de Nord aparțin speciei distincte Gomphidius subroseus.",
+      "sourceUrls": []
+    },
+    "ru": {
+      "label": "мокруха розовая",
+      "wikipedia": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BA%D1%80%D1%83%D1%85%D0%B0_%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F",
+      "description": "Небольшой пластинчатый гриб кораллово-розового цвета, встречающийся в кислых сосновых лесах Европы и умеренной Азии и отсутствующий в Северной Америке. Растет одиночно или небольшими группами под соснами на песчаной, мшистой или вересковой почве, почти всегда рядом с козляком (Suillus bovinus), на мицелии которого паразитирует, плодонося с лета до поздней осени.",
+      "cap": "Диаметром 2–6 см, в молодом возрасте полушаровидная с подвернутым краем, соединенным с ножкой полупрозрачным слизистым частным покрывалом; позже раскрывается до выпуклой, плоской или слегка вдавленной, иногда с небольшим центральным бугорком, при этом край часто остается опущенным или слегка лопастным. Гладкая, легко снимающаяся кожица в сырую погоду клейкая или слизистая, а в сухую блестящая, ярко-кораллово-розовая или розово-красная, с возрастом приобретающая кирпично-красный оттенок, без черноватых пятен, характерных для темношляпковых родственных видов.",
+      "hymenium": "Пластинки толстые, довольно редкие, иногда раздвоенные, глубоко низбегающие по ножке. В молодости они беловатые или бледно-серые, а по мере созревания темных спор темнеют через дымчато-мышино-серый до оливково-серого или почти черного цвета. Базидии булавовидные, четырехспоровые, размером 50–55 × 9–14 мкм; цилиндрические хейлоцистиды достигают 100–125 × 10–14 мкм, а плевроцистиды сходной формы заметно мельче.",
+      "stipe": "Высотой 2,5–7 см и толщиной 0,4–1,5 см, цилиндрическая или сужающаяся к основанию, часто значительной частью погружена в мох, траву или сосновую хвою. Вверху она белая, а ниже нередко с бледно-розовым, винно-розовым или бледно-желтоватым оттенком, переходящим в желтоватый или буроватый у основания; в верхней части имеется ватообразно утолщенная или неясная слизистая кольцевая зона, край которой часто чернеет от осыпающихся спор.",
+      "flesh": "Плотная и сплошная, беловатая в шляпке и верхней части ножки, иногда со слабым розовым оттенком под кожицей шляпки или на срезе, переходящая в красноватую, грязно-желтую или бледно-бурую в основании ножки. Запах невыраженный, вкус мягкий или слегка кисловатый.",
+      "sporePrint": "Буровато-черный до оливково-черного. Базидиоспоры гладкие, веретеновидные (болетоидные), размером 16–22 × 4,5–8 мкм.",
+      "habitat": "Встречается в хвойных и смешанных лесах на бедных кислых песчаных почвах под соснами, особенно под сосной обыкновенной (Pinus sylvestris), часто среди вереска, черники, мха или травы и неизменно рядом с козляком (Suillus bovinus). Хотя исторически вид считали эктомикоризным с сосной, он паразитирует на мицелии Suillus bovinus, образуя гаустории внутри клеток корней сосны-хозяина. Плодоносит одиночно или небольшими группами с июля по октябрь на большей части континентальной Европы и с августа по ноябрь в Великобритании и Ирландии.",
+      "uses": "Съедобный и неядовитый гриб, однако широко считается посредственным по кулинарным качествам и малоинтересным для стола. Перед приготовлением рекомендуется снимать слизистую кожицу со шляпки, но сбор в целом не поощряется, поскольку плодовые тела мелкие, встречаются относительно нечасто, а сверху их легко спутать с ядовитыми видами сыроежек (Russula) с красной шляпкой.",
+      "confusion": "Мокруха еловая (Gomphidius glutinosus) отличается слизистой серовато-коричневой или пурпурно-коричневой шляпкой, на которой обычно появляются черные пятна, значительно более толстым слизистым покрывалом и ярко-хромово-желтой мякотью в основании ножки. Мокруха пурпуровая (Chroogomphus rutilus) обычно крупнее, с медно-коричневой или пурпурно-коричневой шляпкой и оранжево-охристой мякотью по всей длине. Сыроежка жгучеедкая (Russula emetica) и другие красношляпковые виды Russula могут выглядеть похоже сверху, но имеют хрупкую белую мякоть, не низбегающие белые пластинки, белый споровый порошок и не имеют покрывала или кольцевой зоны. Hygrophorus erubescens и Hygrophorus russula также обладают розовато-красными шляпками и низбегающими пластинками, однако пластинки у них остаются светлыми, а споровый порошок белый. В Северной Америке встречается близкородственный розоватый вид Gomphidius subroseus, связанный с Suillus lakei, а не с Suillus bovinus.",
+      "notes": "По глобальной оценке 2019 года виду присвоен статус вызывающий наименьшие опасения (Least Concern), хотя в отдельных частях ареала он нечастый или редкий и внесен в ряд национальных красных списков в Европе. В отличие от козляка (Suillus bovinus), который свободно плодоносит самостоятельно, Gomphidius roseus никогда не встречается отдельно от своего гриба-хозяина, что делает эту пару классическим примером тройственной ассоциации «гриб на грибе на дереве». Находки из Северной Америки относятся к самостоятельному виду Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BA%D1%80%D1%83%D1%85%D0%B0_%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F"
+      ]
+    },
+    "sk": {
+      "label": "sliziak ružový",
+      "description": "Menšia lupeňovitá, koralovoružová huba kyslých borovicových lesov Európy a mierneho pásma Ázie, v Severnej Amerike sa nevyskytuje. Rastie jednotlivo alebo v malých skupinách pod borovicami na piesočnatej, machnatej či vresovitej pôde, takmer vždy v blízkosti masliaka kravského (Suillus bovinus), na ktorého podhubí parazituje; plodnice tvorí od leta do neskorej jesene.",
+      "cap": "2–6 cm široký, za mladi polguľovitý s podvinutým okrajom spojeným s hlúbikom priesvitným slizkým čiastočným závojom (vélom), neskôr klenutý, plochý až mierne preliačený, občas s malým stredovým hrboľom a s okrajom, ktorý často ostáva podhnutý alebo slabo laločnatý. Hladká, olúpateľná pokožka je za vlhka lepkavá až slizká a za sucha lesklá, sfarbená žiarivo koralovoružovo až ružovočerveno, v dospelosti prechádza do tehlovočervenej a nemá černasté škvrny typické pre tmavoklobúkové príbuzné druhy.",
+      "hymenium": "Lupene sú hrubé, pomerne riedke, občas vidlicovito rozkonárené a hlboko zbiehavé na hlúbik. Za mladi sú belavé až bledosivé, dozrievaním tmavých výtrusov tmavnú cez dymovo myšosivú až po olivovosivú či takmer čiernu. Bazídiá sú kyjakovité, štvorvýtrusné, veľké 50–55 × 9–14 µm; valcovité cheilocystidy merajú 100–125 × 10–14 µm, pleurocystidy majú podobný tvar, ale sú zreteľne menšie.",
+      "stipe": "2,5–7 cm vysoký a 0,4–1,5 cm hrubý, valcovitý alebo smerom k báze sa zužujúci, pričom veľká časť jeho dĺžky býva ponorená v machu, tráve alebo borovicovom ihličí. Hore je biely a v dolnej časti máva bledoružový, vínovoružový alebo bledožltkastý nádych, na báze prechádzajúci do žltkastej či hnedastej farby; pri vrchole nesie plstnatý alebo nevýrazný slizký prsteňový pás, ktorého okraj býva často začiernený padajúcimi výtrusmi.",
+      "flesh": "Pevná a plná, v klobúku a hornej časti hlúbika belavá, pod pokožkou klobúka alebo na reze niekedy slabo ružovkastá, v báze hlúbika prechádzajúca do červenkastej, špinavožltej alebo bledohnedej farby. Vôňa je nevýrazná a chuť mierna alebo slabo kyslastá.",
+      "sporePrint": "Hnedočierny až olivovočierny. Bazídiospóry sú hladké, vretenovité (hríbovité) a merajú 16–22 × 4,5–8 µm.",
+      "habitat": "Vyskytuje sa v ihličnatých a zmiešaných lesoch na chudobných, kyslých piesočnatých pôdach pod borovicami, najmä pod borovicou lesnou (Pinus sylvestris), často vo vrese, čučoriedčí, machu alebo v tráve a vždy spolu s masliakom kravským (Suillus bovinus). Hoci sa v minulosti považovala za ektomykoríznu hubu borovíc, v skutočnosti parazituje na podhubí masliaka kravského a v bunkách koreňov hostiteľskej borovice tvorí haustóriá. Rastie jednotlivo alebo v malých skupinách od júla do októbra na väčšine územia pevninskej Európy a od augusta do novembra v Británii a Írsku.",
+      "uses": "Jedlá a nejedovatá huba, no všeobecne sa považuje za kuchynsky priemernú a pre kuchyňu málo zaujímavú. Pri kuchynskej úprave sa odporúča stiahnuť slizkú pokožku klobúka, zber sa však vo všeobecnosti neodporúča, pretože plodnice sú malé, pomerne zriedkavé a zhora ľahko zameniteľné s jedovatými červenoklobúkovými druhmi plávok (Russula).",
+      "confusion": "Sliziak mazľavý (Gomphidius glutinosus) má slizký sivohnedý až purpurovohnedý klobúk, na ktorom sa zvyčajne tvoria čierne škvrny, oveľa hrubšie slizké vélum a žiarivo chrómovožltú dužinu v báze hlúbika. Sliziak smrekový (Chroogomphus rutilus) býva väčší, má medenohnedý až purpurovohnedý klobúk a v celej plodnici oranžovookrovú dužinu. Plávka vrhavá (Russula emetica) a ďalšie červenoklobúkové plávky (Russula) sa môžu zhora podobať, ale majú krehkú bielu dužinu, nezbiehavé biele lupene, biely výtrusný prach a nemajú vélum ani prsteňový pás. Šťavnačka ružovkastá (Hygrophorus erubescens) a šťavnačka plávková (Hygrophorus russula) majú taktiež ružovočervený klobúk a zbiehavé lupene, ale ich lupene ostávajú svetlé a výtrusný prach je biely. V Severnej Amerike rastie blízky ružovkastý druh Gomphidius subroseus, ktorý je viazaný na druh Suillus lakei namiesto druhu Suillus bovinus.",
+      "notes": "Globálne hodnotenie z roku 2019 ju radí medzi málo dotknuté druhy (Least Concern), hoci v častiach svojho areálu je zriedkavá až vzácna a figuruje vo viacerých európskych národných červených zoznamoch. Na rozdiel od druhu Suillus bovinus, ktorý bez problémov plodí aj samostatne, sa tento druh nikdy nevyskytuje bez svojho hostiteľského hríbovitého druhu, takže táto dvojica predstavuje klasický príklad trojstranného vzťahu huba–huba–strom. Nálezy zo Severnej Ameriky patria k samostatnému druhu Gomphidius subroseus.",
+      "sourceUrls": []
+    },
+    "sl": {
+      "label": "rožnati slinar",
+      "description": "Manjša lističarka koralno rožnate barve iz kislih borovih gozdov Evrope in zmernega pasu Azije, ki je v Severni Ameriki ni. Raste posamično ali v manjših skupinah pod bori na peščenih, mahovnatih ali resnatih tleh, skoraj vedno ob prožni lupljivki (Suillus bovinus), na katere podgobju zajeda; obrodi od poletja do pozne jeseni.",
+      "cap": "Premera 2–6 cm, v mladosti polkroglast s podvihanim robom, ki ga z betom povezuje prosojna sluzasta delna koprena, nato se razpre v izbočen, zravnan ali rahlo udrt klobuk, občasno z majhno osrednjo grbo in robom, ki pogosto ostane podvihan ali rahlo krpast. Gladka, lupljiva kožica je v vlažnem vremenu lepljiva do sluzasta, v suhem pa sijoča, živo koralno rožnate do rožnato rdeče barve, ki z zorenjem prehaja v opečnato rdečo in nima črnkastih peg, značilnih za temnoklobučne sorodne vrste.",
+      "hymenium": "Lističi so debeli, precej redki, občasno viličasto razvejani in se globoko spuščajo po betu. V mladosti so belkasti do bledo sivi, z zorenjem temnih trosov pa potemnijo prek dimasto mišje sive do olivno sive ali skoraj črne barve. Bazidiji so kijasti, štiritrosni, veliki 50–55 × 9–14 µm; valjaste heilocistide merijo 100–125 × 10–14 µm, pleurocistide pa so podobne oblike, vendar opazno manjše.",
+      "stipe": "Visok 2,5–7 cm in debel 0,4–1,5 cm, valjast ali proti dnišču zožen, pri čemer je velik del njegove dolžine pogosto zakopan v mahu, travi ali borovih iglicah. Zgoraj je bel, spodaj pa pogosto bledo rožnato, vinsko rožnato ali bledo rumenkasto nadihan, pri dnišču prehaja v rumenkasto ali rjavkasto barvo, blizu vrha pa nosi volnato zadebeljen ali neizrazit sluzast obročasti pas, katerega rob pogosto počrni zaradi odpadajočih trosov.",
+      "flesh": "Čvrsto in polno, v klobuku in zgornjem delu beta belkasto, pod kožico klobuka ali na prerezu včasih rahlo rožnato, v dnišču beta pa prehaja v rdečkasto, umazano rumeno ali bledo rjavo barvo. Vonj je neizrazit, okus pa blag ali rahlo kiselkast.",
+      "sporePrint": "Rjavo črn do olivno črn. Bazidiospore so gladke, vretenaste (boletoidne) in merijo 16–22 × 4,5–8 µm.",
+      "habitat": "Uspeva v iglastih in mešanih gozdovih na revnih, kislih, peščenih tleh pod bori, zlasti pod rdečim borom (Pinus sylvestris), pogosto med reso, borovnicami, mahom ali travo ter vedno ob prožni lupljivki (Suillus bovinus). Čeprav je v preteklosti veljala za ektomikorizno glivo bora, je v resnici zajedavska na podgobju prožne lupljivke in tvori havstorije v celicah korenin gostiteljskega bora. Obrodi posamično ali v manjših skupinah od julija do oktobra v večjem delu celinske Evrope ter od avgusta do novembra v Britaniji in na Irskem.",
+      "uses": "Užitna in nestrupena goba, vendar velja za kulinarično povprečno in za kuhinjo malo zanimivo. Pri pripravi je priporočljivo olupiti sluzasto kožico klobuka, vendar nabiranje na splošno ni priporočljivo, saj so trosnjaki majhni, razmeroma redki in od zgoraj zlahka zamenljivi s strupenimi rdečeklobučnimi vrstami golobic (Russula).",
+      "confusion": "Veliki slinar (Gomphidius glutinosus) ima sluzast sivkasto rjav do vijoličasto rjav klobuk, na katerem se običajno pojavijo črne pege, veliko debelejšo sluzasto kopreno in živo kromovo rumeno meso v dnišču beta. Chroogomphus rutilus je običajno večji, ima bakreno rjav do vijoličasto rjav klobuk in oranžno okrasto meso po celem trosnjaku. Bljuvalna golobica (Russula emetica) in druge rdečeklobučne golobice (Russula) so lahko od zgoraj podobne, vendar imajo krhko belo meso, nespuščajoče se bele lističe, bel trosni prah ter nimajo koprene ali obročastega pasu. Hygrophorus erubescens in Hygrophorus russula imata prav tako rožnato rdeča klobuka in spuščajoče se lističe, toda njuni lističi ostanejo svetli in trosni prah je bel. V Severni Ameriki uspeva bližnja rožnata vrsta Gomphidius subroseus, ki je povezana z vrsto Suillus lakei namesto z vrsto Suillus bovinus.",
+      "notes": "Globalna ocena iz leta 2019 jo uvršča med najmanj ogrožene vrste (Least Concern), čeprav je v delih svojega območja razširjenosti redka in se pojavlja na več nacionalnih rdečih seznamih v Evropi. V nasprotju z vrsto Suillus bovinus, ki brez težav obrodi samostojno, te vrste nikoli ne najdemo ločeno od njene gostiteljske cevarke, zato par predstavlja klasičen primer tristranskega odnosa gliva–gliva–drevo. Najdbe iz Severne Amerike pripadajo ločeni vrsti Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://www.gobe.si/Gobe/GomphidiusRoseus"
+      ]
+    },
+    "sr": {
+      "description": "Мања листићава гљива коралноружичасте боје из киселих борових шума широм Европе и умереног појаса Азије, одсутна у Северној Америци. Расте појединачно или у мањим групама испод борова на песковитом, маховинастом или вресишном тлу, готово увек уз врсту Suillus bovinus, на чијем мицелијуму паразитира, а плодоноси од лета до касне јесени.",
+      "cap": "Пречника 2–6 cm, у младости полулоптаст са подвијеним ободом повезаним са дршком прозирним слузавим делимичним велом, затим се шири у испупчен, раван или благо улегнут облик, повремено са малим средишњим испупчењем и ободом који често остаје подвијен или благо режњевит. Глатка кожица која се лако љушти по влажном времену је лепљива до слузава, а по сувом сјајна, јарко коралноружичасте до ружичастоцрвене боје која сазревањем прелази у цигластоцрвену, без црнкастих мрља какве се јављају код тамнијих сродних врста.",
+      "hymenium": "Листићи су дебели, прилично ретки, повремено рачвасти и дубоко силазе низ дршку. У младости су беличасти до бледосиви, а сазревањем тамних спора тамне преко димасто мишјесиве до маслинастосиве или готово црне боје. Базидије су батинасте, четвороспорне, величине 50–55 × 9–14 µm; ваљкасте хеилоцистиде мере 100–125 × 10–14 µm, док су плеуроцистиде сличног облика, али приметно мање.",
+      "stipe": "Висине 2,5–7 cm и дебљине 0,4–1,5 cm, ваљкаст или се сужава ка основи, при чему је велики део његове дужине често сакривен у маховини, трави или боровим иглицама. У горњем делу је бео, а у доњем често бледоружичасто, винскоружичасто или бледожућкасто нахукан, при основи прелази у жућкасту или смећкасту боју, и близу врха носи вунасто задебљану или нејасну слузаву прстенасту зону чији обод често поцрни од опалих спора.",
+      "flesh": "Чврсто и пуно, беличасто у шеширу и горњем делу дршке, понекад благо ружичасто испод кожице шешира или на пресеку, а у основи дршке прелази у црвенкасту, прљавожуту или бледосмеђу боју. Мирис је неизразит, а укус благ или благо киселкаст.",
+      "sporePrint": "Смеђецрн до маслинастоцрн. Базидиоспоре су глатке, вретенасте (болетоидне) и мере 16–22 × 4,5–8 µm.",
+      "habitat": "Налази се у четинарским и мешовитим шумама на сиромашним, киселим, песковитим земљиштима испод борова, нарочито белог бора (Pinus sylvestris), често међу вресом, боровницом, маховином или травом, и увек заједно са врстом Suillus bovinus. Иако се у прошлости сматрала ектомикоризном гљивом бора, заправо је паразитска на мицелијуму врсте Suillus bovinus и ствара хаусторије унутар ћелија корена домаћинског бора. Плодоноси појединачно или у малим групама од јула до октобра широм већег дела континенталне Европе, а од августа до новембра у Британији и Ирској.",
+      "uses": "Јестива и неотровна гљива, али се широко сматра осредњег кулинарског квалитета и од малог значаја за кухињу. Ако се припрема за јело, препоручује се огулити слузаву кожицу шешира, али се брање уопштено не препоручује јер су плодоносна тела ситна, релативно ретка и одозго лако замењива са отровним црвеношеширним врстама рода Russula.",
+      "confusion": "Gomphidius glutinosus има слузав сивкастосмеђ до љубичастосмеђ шешир на коме се обично развијају црне мрље, знатно дебљи слузави вео и јарко хромжуто месо при основи дршке. Chroogomphus rutilus је обично већи, има бакарносмеђ до љубичастосмеђ шешир и наранџастоокер месо у целом плодоносном телу. Бљувара (Russula emetica) и друге црвеношеширне врсте рода Russula могу изгледати слично одозго, али имају крто бело месо, несилазне беле листиће, бели отисак спора и немају вео ни прстенасту зону. Hygrophorus erubescens и Hygrophorus russula такође имају ружичастоцрвене шешире и силазне листиће, али њихови листићи остају светли, а отисак спора је бео. У Северној Америци расте блиско сродна ружичаста врста Gomphidius subroseus, која је повезана са врстом Suillus lakei уместо са врстом Suillus bovinus.",
+      "notes": "Глобална процена из 2019. године сврстава ову врсту међу најмање забрињавајуће врсте (Least Concern), иако је у деловима свог ареала ретка и појављује се на више националних црвених листа у Европи. За разлику од врсте Suillus bovinus, која без проблема плодоноси самостално, ова врста се никада не налази одвојено од свог домаћинског вргања, па тај пар представља класичан пример тростране повезаности гљива–гљива–дрво. Налази из Северне Америке припадају засебној врсти Gomphidius subroseus.",
+      "sourceUrls": []
+    },
+    "sv": {
+      "label": "rosenslemskivling",
+      "wikipedia": "https://sv.wikipedia.org/wiki/Rosenslemskivling",
+      "description": "En liten, korallrosa skivsvamp i sura tallskogar i Europa och tempererade Asien, som saknas i Nordamerika. Den växer enstaka eller i små grupper under tall på sandig, mossig eller ljungbevuxen mark, nästan alltid tillsammans med örsopp (Suillus bovinus), vars mycel den parasiterar på, och bildar fruktkroppar från sommar till sen höst.",
+      "cap": "2–6 cm bred, halvklotformad som ung med inrullad kant förenad med foten genom ett genomskinligt, slemmigt delhylle, senare utbredd till välvd, plan eller svagt nedsänkt och ibland med en liten central puckel, medan kanten ofta förblir nedböjd eller svagt flikig. Den släta, avdragbara hatthuden är klibbig till slemmig i fuktigt väder och glänsande i torrt väder, klart korallrosa till rosenröd och med åldern mer tegelröd, utan de svartaktiga fläckar som ses hos mörkhattade släktingar.",
+      "hymenium": "Skivorna är tjocka, ganska glesa, ibland gaffelgrenade och långt nedlöpande på foten. De är vitaktiga till blekt grå som unga och mörknar via rökigt musgrå till olivgrå eller nästan svarta allteftersom de mörka sporerna mognar. Basidierna är klubbformade, fyrsporiga och mäter 50–55 × 9–14 µm; cylindriska cheilocystider mäter 100–125 × 10–14 µm, medan de likformade pleurocystiderna är märkbart mindre.",
+      "stipe": "2,5–7 cm hög och 0,4–1,5 cm tjock, cylindrisk eller avsmalnande mot basen, ofta med en stor del av längden dold i mossa, gräs eller tallbarr. Den är vit upptill och ofta svagt rosa, vinrosa eller blekgul nedtill, övergående i gulaktigt eller brunaktigt vid basen, och bär nära toppen en ulligt förtjockad eller otydlig slemmig ringzon vars kant ofta svärtas av nedfallande sporer.",
+      "flesh": "Fast och kompakt, vitaktigt i hatten och övre delen av foten, ibland svagt rosa anlupet under hatthuden eller i snittytan, och övergående i rödaktigt, smutsgult eller blekbrunt i fotbasen. Lukten är obetydlig och smaken mild eller svagt syrlig.",
+      "sporePrint": "Brunsvart till olivsvart. Basidiosporerna är släta, spolformade (boletoida) och mäter 16–22 × 4,5–8 µm.",
+      "habitat": "Förekommer i barr- och blandskogar på mager, sur sandmark under tall, särskilt tall (Pinus sylvestris), ofta bland ljung, blåbär, mossa eller gräs, och alltid tillsammans med örsopp (Suillus bovinus). Trots att arten tidigare betraktades som ektomykorrhizabildande med tall lever den parasitiskt på mycelet hos Suillus bovinus och bildar haustorier inne i värdtallens rotceller. Bildar fruktkroppar enstaka eller i små grupper från juli till oktober i stora delar av det europeiska fastlandet och från augusti till november i Storbritannien och Irland.",
+      "uses": "Ätlig och ogiftig, men betraktas allmänt som kulinariskt medelmåttig och av ringa värde som matsvamp. Det rekommenderas att dra av den slemmiga hatthuden vid tillagning, men plockning avråds vanligen eftersom fruktkropparna är små, relativt ovanliga och uppifrån lätt kan förväxlas med giftiga rödhattade kremlor.",
+      "confusion": "Citronslemskivling (Gomphidius glutinosus) har en slemmig gråbrun till purpurbrun hatt som vanligen får svarta fläckar, ett betydligt tjockare slemmigt hylle och klart kromgult kött i fotbasen. Kopparslemskivling (Chroogomphus rutilus) är oftast större med kopparbrun till purpurbrun hatt och genomgående orangeockra kött. Giftkremla (Russula emetica) och andra rödhattade kremlor (Russula) kan likna uppifrån, men har sprött vitt kött, ej nedlöpande vita skivor, vitt sporavtryck samt saknar hylle och ringzon. Hygrophorus erubescens och Hygrophorus russula har också rosaröda hattar och nedlöpande skivor, men deras skivor förblir bleka och sporavtrycket är vitt. I Nordamerika är Gomphidius subroseus en närbesläktad rosa art som är knuten till Suillus lakei i stället för Suillus bovinus.",
+      "notes": "En global bedömning från 2019 klassificerar arten som livskraftig (Least Concern), även om den är mindre allmän till sällsynt i delar av sitt utbredningsområde och upptas på flera nationella rödlistor i Europa. Till skillnad från Suillus bovinus, som fritt bildar fruktkroppar på egen hand, påträffas Gomphidius roseus aldrig skild från sin värdsopp, vilket gör paret till ett klassiskt exempel på ett trepartsförhållande mellan svamp, svamp och träd. Fynd från Nordamerika tillhör den egna arten Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Rosenslemskivling"
+      ]
+    },
+    "tr": {
+      "description": "Avrupa ve ılıman Asya'daki asidik çam ormanlarında yetişen, Kuzey Amerika'da bulunmayan, mercan pembesi renkli küçük bir lamelli mantardır. Kumlu, yosunlu veya fundalık zeminlerde çamların altında tek tek ya da küçük gruplar hâlinde büyür; neredeyse her zaman miselyumu üzerinde parazit olarak yaşadığı Suillus bovinus ile birlikte görülür ve yazdan geç sonbahara kadar meyve verir.",
+      "cap": "2–6 cm çapındadır; gençken yarım küre biçiminde olup içe kıvrık kenarı yarı saydam, sümüksü bir kısmi örtüyle sapa bağlıdır, olgunlaştıkça dışbükey, düz veya hafif çukur bir biçim alır ve bazen ortada küçük bir çıkıntı taşır; kenarı çoğu zaman aşağı dönük ya da hafif loplu kalır. Düz ve kolayca soyulabilen şapka derisi nemli havalarda yapışkan ile sümüksü arasında, kuru havalarda ise parlaktır; parlak mercan pembesinden gül kırmızısına uzanan rengi olgunlaştıkça tuğla kırmızısına döner ve koyu şapkalı akrabalarında görülen siyahımsı lekeleri taşımaz.",
+      "hymenium": "Lameller kalın, oldukça seyrek, zaman zaman çatallı ve sap boyunca derin biçimde aşağı uzanır. Gençken beyazımsı ile soluk gri arasındadır; koyu renkli sporlar olgunlaştıkça dumanlı fare grisinden zeytin grisine veya neredeyse siyaha kararır. Bazidiyumlar çomak biçimli, dört sporlu ve 50–55 × 9–14 µm boyutlarındadır; silindirik keilosistidler 100–125 × 10–14 µm ölçüsünde olup benzer biçimli pleurosistidler belirgin biçimde daha küçüktür.",
+      "stipe": "2,5–7 cm boyunda ve 0,4–1,5 cm kalınlığındadır; silindirik ya da tabana doğru incelen yapıdadır ve boyunun büyük kısmı çoğu zaman yosun, ot veya çam iğnelerinin içinde gömülü kalır. Üst kısmı beyaz, alt kısmı ise genellikle soluk pembe, şarap pembesi veya soluk sarımsı tonlarda olup tabana doğru sarımsı ya da kahverengimsiye döner; üst kesiminde yünsü kalınlaşmış veya belirsiz yapışkan bir halka bölgesi bulunur ve bunun kenarı dökülen sporlarla sık sık siyahlaşır.",
+      "flesh": "Sert ve dolgun yapıdadır; şapka ve sapın üst kısmında beyazımsı, bazen şapka derisinin hemen altında veya kesildiğinde hafifçe pembe tonlu olup sap tabanında kırmızımsı, kirli sarı veya soluk kahverengiye döner. Kokusu belirsiz, tadı ise hafif ya da hafifçe ekşimsidir.",
+      "sporePrint": "Kahverengimsi siyahtan zeytin siyahına. Bazidiyosporlar düz, iğ biçimli (boletoid) ve 16–22 × 4,5–8 µm boyutlarındadır.",
+      "habitat": "İğne yapraklı ve karışık ormanlarda, fakir, asidik ve kumlu topraklarda çamların, özellikle sarıçamın (Pinus sylvestris) altında, çoğu zaman funda, yaban mersini, yosun veya otların arasında ve her zaman Suillus bovinus ile birlikte bulunur. Tarihsel olarak çamlarla ektomikorizal kabul edilse de aslında Suillus bovinus miselyumu üzerinde parazit olarak yaşar ve konak çamın kök hücreleri içinde haustoryumlar oluşturur. Kıta Avrupası'nın büyük bölümünde temmuzdan ekime, Britanya ve İrlanda'da ise ağustostan kasıma kadar tek tek veya küçük gruplar hâlinde meyve verir.",
+      "uses": "Yenilebilir ve zehirsizdir, ancak mutfak değeri genellikle sıradan kabul edilir ve sofralık açıdan pek ilgi görmez. Pişirilecekse şapkanın yapışkan derisinin soyulması önerilir; buna karşın meyve gövdeleri küçük ve görece seyrek olduğu, ayrıca üstten bakıldığında zehirli kırmızı şapkalı Russula türleriyle kolayca karıştırılabildiği için toplanması genellikle tavsiye edilmez.",
+      "confusion": "Gomphidius glutinosus genellikle siyah lekeler geliştiren sümüksü grimsi kahverengi ile morumsu kahverengi arası bir şapkaya, çok daha kalın yapışkan bir örtüye ve sap tabanında parlak krom sarısı etli kısma sahiptir. Chroogomphus rutilus genellikle daha iridir; bakır kahverenginden morumsu kahverengiye uzanan bir şapkası ve baştan sona turuncu-okra renkli etli kısmı vardır. Russula emetica ve diğer kırmızı şapkalı Russula türleri üstten benzer görünebilir, ancak kırılgan beyaz etli kısma, sapa uzanmayan beyaz lamellere ve beyaz spor izine sahiptir; ayrıca örtü veya halka bölgesi taşımazlar. Hygrophorus erubescens ve Hygrophorus russula da pembemsi kırmızı şapkalara ve sapa uzanan lamellere sahiptir, fakat lamelleri açık renkli kalır ve spor izleri beyazdır. Kuzey Amerika'da bulunan yakın akraba pembemsi tür Gomphidius subroseus ise Suillus bovinus yerine Suillus lakei ile ilişkilidir.",
+      "notes": "2019 tarihli küresel bir değerlendirme bu türü Asgari Endişe (Least Concern) kategorisinde sınıflandırır; bununla birlikte yayılış alanının bazı bölgelerinde seyrek ile nadir arasındadır ve Avrupa'daki çeşitli ulusal kırmızı listelerde yer alır. Tek başına serbestçe meyve veren Suillus bovinus'un aksine Gomphidius roseus konak mantarından ayrı olarak hiç bulunmaz; bu durum ikiliyi mantar-üzerinde-mantar-üzerinde-ağaç biçimindeki üçlü etkileşimin klasik bir örneği hâline getirir. Kuzey Amerika'daki kayıtlar ayrı bir tür olan Gomphidius subroseus'a aittir.",
+      "sourceUrls": []
+    },
+    "uk": {
+      "label": "мокруха рожева",
+      "wikipedia": "https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BA%D1%80%D1%83%D1%85%D0%B0_%D1%80%D0%BE%D0%B6%D0%B5%D0%B2%D0%B0",
+      "description": "Невеликий пластинчастий гриб коралово-рожевого кольору, що трапляється в кислих соснових лісах Європи та помірної Азії й відсутній у Північній Америці. Росте поодинці або невеликими групами під соснами на піщаному, моховитому чи вересовому ґрунті, майже завжди поруч із козляком (Suillus bovinus), на міцелії якого паразитує, плодоносячи з літа до пізньої осені.",
+      "cap": "Діаметром 2–6 см, у молодому віці напівкуляста із загорнутим усередину краєм, з'єднаним із ніжкою напівпрозорим слизовим частковим покривалом; згодом розпростирається до опуклої, плоскої або злегка увігнутої, іноді з невеликим центральним горбиком, при цьому край часто залишається опущеним або злегка лопатевим. Гладенька шкірка, що легко знімається, у вологу погоду клейка чи слизова, а в суху блискуча, яскраво-коралово-рожева або рожево-червона, з віком набуває цегляно-червоного відтінку, без чорнуватих плям, властивих темношапинковим спорідненим видам.",
+      "hymenium": "Пластинки товсті, досить рідкі, іноді роздвоєні, глибоко збігають по ніжці. У молодості вони білуваті або блідо-сірі, а в міру дозрівання темних спор темнішають через димчасто-мишачо-сірий до оливково-сірого або майже чорного кольору. Базидії булавоподібні, чотириспорові, розміром 50–55 × 9–14 мкм; циліндричні хейлоцистиди мають розмір 100–125 × 10–14 мкм, а плевроцистиди подібної форми помітно дрібніші.",
+      "stipe": "Заввишки 2,5–7 см і завтовшки 0,4–1,5 см, циліндрична або звужена до основи, часто значною частиною занурена в мох, траву чи соснову хвою. Угорі вона біла, а нижче нерідко з блідо-рожевим, винно-рожевим або блідо-жовтуватим відтінком, що переходить у жовтуватий чи буруватий біля основи; у верхній частині є повстисто-потовщена або нечітка слизова кільцева зона, край якої часто чорніє від спор, що обсипаються.",
+      "flesh": "Щільна й суцільна, білувата в шапинці та верхній частині ніжки, іноді зі слабким рожевим відтінком під шкіркою шапинки або на зрізі, переходить у червонувату, брудно-жовту чи блідо-буру в основі ніжки. Запах невиразний, смак м'який або злегка кислуватий.",
+      "sporePrint": "Бурувато-чорний до оливково-чорного. Базидіоспори гладенькі, веретеноподібні (болетоїдні), розміром 16–22 × 4,5–8 мкм.",
+      "habitat": "Трапляється у хвойних і мішаних лісах на бідних кислих піщаних ґрунтах під соснами, особливо під сосною звичайною (Pinus sylvestris), часто серед вересу, чорниці, моху або трави й незмінно поруч із козляком (Suillus bovinus). Хоча історично вид вважали ектомікоризним із сосною, насправді він паразитує на міцелії Suillus bovinus, утворюючи гаусторії всередині клітин коренів сосни-хазяїна. Плодоносить поодинці або невеликими групами з липня по жовтень на більшій частині континентальної Європи та з серпня по листопад у Великій Британії та Ірландії.",
+      "uses": "Їстівний і неотруйний гриб, проте здебільшого вважається посереднім за кулінарними якостями й малоцікавим для споживання. Перед приготуванням рекомендується знімати слизову шкірку із шапинки, однак збирання загалом не заохочується, оскільки плодові тіла дрібні, трапляються відносно нечасто, а зверху їх легко сплутати з отруйними видами сироїжок (Russula) з червоною шапинкою.",
+      "confusion": "Мокруха ялинова (Gomphidius glutinosus) має слизову сірувато-коричневу або пурпурно-коричневу шапинку, на якій зазвичай з'являються чорні плями, значно товстіше слизове покривало та яскраво-хромово-жовтий м'якуш в основі ніжки. Мокруха пурпурова (Chroogomphus rutilus) зазвичай більша, з мідно-коричневою або пурпурно-коричневою шапинкою та оранжево-вохристим м'якушем по всій товщині. Сироїжка блювотна (Russula emetica) та інші червоношапинкові види Russula можуть виглядати схоже зверху, але мають крихкий білий м'якуш, незбіжні білі пластинки, білий споровий порошок і позбавлені покривала чи кільцевої зони. Hygrophorus erubescens і Hygrophorus russula також мають рожево-червоні шапинки та збіжні пластинки, але їхні пластинки залишаються світлими, а споровий порошок білий. У Північній Америці поширений близькоспоріднений рожевуватий вид Gomphidius subroseus, пов'язаний із Suillus lakei, а не з Suillus bovinus.",
+      "notes": "За глобальною оцінкою 2019 року вид віднесено до категорії найменший ризик (Least Concern), хоча в окремих частинах ареалу він нечастий або рідкісний і занесений до низки національних червоних списків у Європі. На відміну від козляка (Suillus bovinus), який вільно плодоносить самостійно, Gomphidius roseus ніколи не трапляється окремо від свого гриба-хазяїна, що робить цю пару класичним прикладом тристоронньої асоціації «гриб на грибі на дереві». Знахідки з Північної Америки належать до окремого виду Gomphidius subroseus.",
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BA%D1%80%D1%83%D1%85%D0%B0_%D1%80%D0%BE%D0%B6%D0%B5%D0%B2%D0%B0"
+      ]
+    },
+    "zh": {
+      "label": "紅鉚釘菇",
+      "wikipedia": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E9%93%86%E9%92%89%E8%8F%87",
+      "description": "一種分布於歐洲與溫帶亞洲酸性松林中的小型珊瑚粉紅色褶菌，不見於北美洲。單生或小群生於松樹下的沙質、苔蘚或石楠灌叢地面，幾乎總是伴隨其菌絲寄生對象Suillus bovinus出現，子實體自夏季至晚秋產生。",
+      "cap": "直徑2–6 cm，幼時呈半球形，菌蓋邊緣內捲，並以半透明黏滑的內菌幕與菌柄相連；成熟後展開為凸鏡形、平展或略微下凹，偶具小型中央臍突，邊緣常維持下彎或略呈波狀裂。菌蓋表皮平滑且可剝離，潮濕時黏滑至膠黏，乾燥時具光澤，呈鮮明珊瑚粉紅至玫瑰紅色，成熟後轉向磚紅色，不具深色菌蓋近緣種常見的黑褐色斑點。",
+      "hymenium": "菌褶厚實、較稀疏、偶有分叉，並沿菌柄深延生。幼時呈灰白色至淡灰色，隨著深色孢子成熟，逐漸轉暗為煙燻鼠灰色、橄欖灰色或近黑色。擔子呈棍棒狀，具四孢子，大小50–55 × 9–14 µm；圓柱形褶緣囊狀體大小100–125 × 10–14 µm，褶側囊狀體形狀相似但明顯較小。",
+      "stipe": "高2.5–7 cm、粗0.4–1.5 cm，圓柱形或向基部漸細，大部分長度常埋於苔蘚、草叢或松針中。上部白色，下部常帶淡粉紅、酒紅粉或淡黃色調，基部漸轉為淡黃色或淡褐色；近頂端具絨毛狀加厚或不明顯的黏性菌環區，其邊緣常因落下的孢子而染黑。",
+      "flesh": "質地緊實緻密，菌蓋與菌柄上部呈灰白色，菌蓋表皮下方或切開時有時略帶淡粉紅色，菌柄基部則漸轉為淡紅色、髒黃色或淡褐色。氣味不明顯，味道溫和或略帶微酸。",
+      "sporePrint": "褐黑色至橄欖黑色。擔孢子平滑、紡錘形（牛肝菌型），大小16–22 × 4.5–8 µm。",
+      "habitat": "生長於針葉林與混合林中貧瘠、酸性的沙質土壤上，見於松樹下，尤其是歐洲赤松（Pinus sylvestris），常混生於石楠、越橘、苔蘚或草叢間，且總是與Suillus bovinus伴生。雖然過去被視為與松樹形成外生菌根的真菌，實際上其寄生於Suillus bovinus的菌絲上，並在寄主松樹的根部細胞內形成吸器。在歐洲大陸大部分地區自7月至10月單生或小群出菇，在英國與愛爾蘭則為8月至11月。",
+      "uses": "可食且無毒，但普遍被認為烹飪品質平庸、食用價值不高。若要烹調，建議先剝除黏滑的菌蓋表皮；不過由於子實體小型、相對少見，且從上方容易與有毒的紅色菌蓋紅菇屬（Russula）物種混淆，一般不建議採集。",
+      "confusion": "Gomphidius glutinosus具有黏滑的灰褐色至紫褐色菌蓋且通常會出現黑斑，內菌幕厚實得多，菌柄基部菌肉呈鮮明的鉻黃色。Chroogomphus rutilus通常體型較大，菌蓋呈銅褐色至紫褐色，整體菌肉皆為橙赭色。Russula emetica及其他紅色菌蓋的紅菇屬（Russula）物種從上方看可能相似，但菌肉白色易碎、菌褶白色且不延生、孢子印白色，亦無內菌幕或菌環區。Hygrophorus erubescens與Hygrophorus russula同樣具有粉紅色至紅色菌蓋與延生菌褶，但菌褶維持淡色且孢子印為白色。在北美洲，近緣的粉紅色物種Gomphidius subroseus與Suillus lakei伴生，而非Suillus bovinus。",
+      "notes": "2019年的全球評估將本種列為無危（Least Concern），但其在部分分布區內並不常見甚至罕見，並列入歐洲多國的國家紅色名錄。與能獨自自由產生子實體的Suillus bovinus不同，Gomphidius roseus從不脫離其寄主牛肝菌單獨出現，使這對物種成為「真菌—真菌—樹木」三方關聯的經典案例。北美洲的紀錄屬於獨立物種Gomphidius subroseus。",
+      "sourceUrls": [
+        "https://zh.wikipedia.org/wiki/%E7%BA%A2%E9%93%86%E9%92%89%E8%8F%87"
+      ]
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus glutinosus β roseus",
+      "author": "Fr.",
+      "year": 1821,
+      "rank": "infraspecific",
+      "type": "basionym",
+      "if": 487327
+    },
+    {
+      "name": "Gomphus roseus",
+      "author": "(Fr.) Weinm.",
+      "year": 1828,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Gomphidius glutinosus * roseus",
+      "author": "(Fr.) Fr.",
+      "year": 1838,
+      "rank": "infraspecific",
+      "type": "homotypic"
+    },
+    {
+      "name": "Gomphidius glutinosus var. roseus",
+      "author": "(Fr.) Rabenh.",
+      "year": 1844,
+      "rank": "variety",
+      "type": "homotypic"
+    },
+    {
+      "name": "Gomphus glutinosus var. roseus",
+      "author": "(Fr.) P. Kumm.",
+      "year": 1871,
+      "rank": "variety",
+      "type": "homotypic"
+    },
+    {
+      "name": "Leucogomphidius roseus",
+      "author": "(Fr.) Kotl. & Pouzar",
+      "year": 1972,
+      "rank": "species",
+      "type": "homotypic"
+    }
+  ],
+  "reserved": false,
+  "id": 243,
+  "citation": "Arch. néerl. Sci. Exact. Nat. 2: 13 (1867)"
+},
+{
+  "name": "Daedaleopsis confragosa",
+  "author": "(Bolton) J. Schröt.",
+  "family": "Polyporaceae",
+  "genus": "Daedaleopsis",
+  "order": "Polyporales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Incertae sedis",
+    "Polyporales",
+    "Polyporaceae",
+    "Daedaleopsis"
+  ],
+  "summary": [
+    "Polyporales",
+    "Polyporaceae",
+    "Daedaleopsis"
+  ],
+  "edibility": "inedible",
+  "hymenium": "tubes",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "brown",
+    "white",
+    "red",
+    "dark"
+  ],
+  "capFrom": 3.0,
+  "capTo": 15.0,
+  "stipeHeightFrom": null,
+  "stipeHeightTo": null,
+  "stipeThickFrom": null,
+  "stipeThickTo": null,
+  "fruitingFrom": 1,
+  "fruitingTo": 12,
+  "label": {
+    "en": "blushing bracket",
+    "bg": "обикновен дедалеопсис",
+    "cs": "síťkovec načervenalý",
+    "da": "rødmende læderporesvamp",
+    "de": "Rötender Blätterwirrling",
+    "et": "tava-pajukakk",
+    "fi": "etelänsärmäkääpä",
+    "fr": "tramète rougissante",
+    "hu": "rózsaszínes egyrétűtapló",
+    "ja": "チャミダレアミタケ",
+    "ko": "도장버섯",
+    "lt": "rauplėtasis vingurėlis",
+    "lv": "parastā labirintpiepe",
+    "nl": "roodporiehoutzwam",
+    "no": "teglkjuke",
+    "pl": "gmatwica chropowata",
+    "ru": "дедалеопсис шершавый",
+    "sk": "sieťkovček červenkastý",
+    "sl": "rdečeča zvitocevka",
+    "sv": "tegelticka",
+    "uk": "даделеопсис горбистий",
+    "zh": "粗糙拟迷孔菌"
+  },
+  "names": {
+    "en": [
+      "thin-walled maze polypore",
+      "thin-maze flat polypore",
+      "blood-stained bracket"
+    ],
+    "de": [
+      "Rötende Tramete",
+      "Raue Tramete"
+    ],
+    "fr": [
+      "tramète rougissant"
+    ],
+    "ru": [
+      "дедалеопсис бугристый"
+    ],
+    "zh": [
+      "粗糙擬迷孔菌"
+    ]
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=355679",
+        "detail": "355679"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum",
+        "href": "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=355679",
+        "detail": "355679"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2545670",
+        "detail": "2545670"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q2120850"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Daedaleopsis_confragosa"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/daedaleopsis-confragosa.php"
+      },
+      {
+        "group": "text",
+        "name": "MushroomExpert",
+        "href": "https://www.mushroomexpert.com/daedaleopsis_confragosa.html"
+      },
+      {
+        "group": "text",
+        "name": "Myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Daedaleopsis-confragosa/"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/R%C3%B6tender_Bl%C3%A4tterwirrling",
+        "detail": "de"
+      }
+    ],
+    "bg": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://bg.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD_%D0%B4%D0%B5%D0%B4%D0%B0%D0%BB%D0%B5%D0%BE%D0%BF%D1%81%D0%B8%D1%81",
+        "detail": "bg"
+      }
+    ],
+    "cs": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://cs.wikipedia.org/wiki/S%C3%AD%C5%A5kovec_na%C4%8Dervenal%C3%BD",
+        "detail": "cs"
+      },
+      {
+        "group": "text",
+        "name": "Myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Daedaleopsis-confragosa/"
+      }
+    ],
+    "da": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2545670",
+        "detail": "2545670"
+      }
+    ],
+    "de": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/R%C3%B6tender_Bl%C3%A4tterwirrling",
+        "detail": "de"
+      }
+    ],
+    "es": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://es.wikipedia.org/wiki/Daedaleopsis_confragosa",
+        "detail": "es"
+      }
+    ],
+    "et": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://et.wikipedia.org/wiki/Tava-pajukakk",
+        "detail": "et"
+      }
+    ],
+    "fi": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2545670",
+        "detail": "2545670"
+      }
+    ],
+    "fr": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2545670",
+        "detail": "2545670"
+      }
+    ],
+    "hu": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://hu.wikipedia.org/wiki/R%C3%B3zsasz%C3%ADnes_egyr%C3%A9t%C5%B1tapl%C3%B3",
+        "detail": "hu"
+      }
+    ],
+    "it": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://it.wikipedia.org/wiki/Daedaleopsis_confragosa",
+        "detail": "it"
+      }
+    ],
+    "ja": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2545670",
+        "detail": "2545670"
+      }
+    ],
+    "ko": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2545670",
+        "detail": "2545670"
+      }
+    ],
+    "lt": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2545670",
+        "detail": "2545670"
+      }
+    ],
+    "lv": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2545670",
+        "detail": "2545670"
+      }
+    ],
+    "nl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://nl.wikipedia.org/wiki/Roodporiehoutzwam",
+        "detail": "nl"
+      }
+    ],
+    "no": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2545670",
+        "detail": "2545670"
+      }
+    ],
+    "pl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://pl.wikipedia.org/wiki/Gmatwica_chropowata",
+        "detail": "pl"
+      }
+    ],
+    "pt": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://pt.wikipedia.org/wiki/Daedaleopsis_confragosa",
+        "detail": "pt"
+      }
+    ],
+    "ro": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ro.wikipedia.org/wiki/Daedaleopsis_confragosa",
+        "detail": "ro"
+      }
+    ],
+    "ru": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B4%D0%B0%D0%BB%D0%B5%D0%BE%D0%BF%D1%81%D0%B8%D1%81_%D1%88%D0%B5%D1%80%D1%88%D0%B0%D0%B2%D1%8B%D0%B9",
+        "detail": "ru"
+      }
+    ],
+    "sl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://sl.wikipedia.org/wiki/Rde%C4%8De%C4%8Da_zvitocevka",
+        "detail": "sl"
+      }
+    ],
+    "sv": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://sv.wikipedia.org/wiki/Tegelticka",
+        "detail": "sv"
+      }
+    ],
+    "uk": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://uk.wikipedia.org/wiki/Daedaleopsis_confragosa",
+        "detail": "uk"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2545670",
+        "detail": "2545670"
+      }
+    ],
+    "zh": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://zh.wikipedia.org/wiki/%E7%B2%97%E7%B3%99%E6%93%AC%E8%BF%B7%E5%AD%94%E8%8F%8C",
+        "detail": "zh"
+      }
+    ]
+  },
+  "added": "2026-11-26",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Daedaleopsis_confragosa/Daedaleopsis_confragosa@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Daedaleopsis_confragosa/Daedaleopsis_confragosa@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "license": "All rights reserved",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Daedaleopsis_confragosa/Daedaleopsis_confragosa@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Daedaleopsis_confragosa/Daedaleopsis_confragosa_1.webp",
+      "author": "Martin Cooper from Ipswich, UK",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlushing_Bracket_%28Daedaleopsis_confragosa%29_upper_surface_%2816503456535%29.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Daedaleopsis_confragosa/Daedaleopsis_confragosa_2.webp",
+      "author": "Martin Cooper from Ipswich, UK",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlushing_Bracket_%28Daedaleopsis_confragosa%29_pores_%2816502447572%29.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Daedaleopsis_confragosa/Daedaleopsis_confragosa_3.webp",
+      "author": "gailhampshire",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlushing_Bracket_%28Daedaleopsis_confragosa%29_%2851750051732%29.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Daedaleopsis_confragosa/Daedaleopsis_confragosa_4.webp",
+      "author": "xulescu_g",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File%3ADaedaleopsis_confragosa_%2839701672463%29.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Daedaleopsis_confragosa/Daedaleopsis_confragosa_5.webp",
+      "author": "AJC1 from UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlushing_Bracket_%2829650500064%29.jpg"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Polyporales/Polyporaceae/Daedaleopsis_confragosa/Daedaleopsis_confragosa@1600.webp",
+      "author": "Gemini",
+      "license": "All rights reserved",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Daedaleopsis_confragosa/Daedaleopsis_confragosa@1600.webp"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Polyporales/Polyporaceae/Daedaleopsis_confragosa/Daedaleopsis_confragosa_1.webp",
+      "author": "Martin Cooper from Ipswich, UK",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ABlushing_Bracket_%28Daedaleopsis_confragosa%29_upper_surface_%2816503456535%29.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Polyporales/Polyporaceae/Daedaleopsis_confragosa/Daedaleopsis_confragosa_2.webp",
+      "author": "Martin Cooper from Ipswich, UK",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ABlushing_Bracket_%28Daedaleopsis_confragosa%29_pores_%2816502447572%29.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Polyporales/Polyporaceae/Daedaleopsis_confragosa/Daedaleopsis_confragosa_3.webp",
+      "author": "gailhampshire",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ABlushing_Bracket_%28Daedaleopsis_confragosa%29_%2851750051732%29.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Polyporales/Polyporaceae/Daedaleopsis_confragosa/Daedaleopsis_confragosa_4.webp",
+      "author": "xulescu_g",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADaedaleopsis_confragosa_%2839701672463%29.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Polyporales/Polyporaceae/Daedaleopsis_confragosa/Daedaleopsis_confragosa_5.webp",
+      "author": "AJC1 from UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ABlushing_Bracket_%2829650500064%29.jpg"
+    }
+  ],
+  "text": {
+    "en": {
+      "label": "blushing bracket",
+      "names": [
+        "thin-walled maze polypore",
+        "thin-maze flat polypore",
+        "blood-stained bracket"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Daedaleopsis_confragosa",
+      "description": "A tough, wood-decaying bracket fungus growing singly or in overlapping tiers on dead and wounded hardwoods, especially willows, across temperate Eurasia, North America south to Mexico, and parts of Australia and New Zealand. Fruit bodies develop from summer through autumn and persist through winter, causing an intensive white rot.",
+      "cap": "3–15 cm across (occasionally up to 20 cm), projecting 4–8 cm from the wood and 1–3 cm thick, semicircular to fan-shaped, broadly convex to flat, and attached directly to the substrate without a stipe, sometimes with a slight umbo at the attachment point. The dry, matte upper surface is smooth to minutely hairy, bumpy or radially wrinkled, and concentrically zoned in whitish-grey, greyish-ochre, tan, brownish, and wine-reddish hues, often darkening toward rusty-brown or blackish with age while retaining a sharp, pale whitish growing margin.",
+      "hymenium": "Pores are highly variable, ranging from circular to radially elongated, slot-like, labyrinthine (maze-like), or occasionally nearly gill-like, measuring 0.5–1.5 mm across with thin walls; tubes are 5–15 mm deep. The pore surface is whitish to pale greyish-tan when young, darkening to dingy greyish-ochre or brownish with age, and characteristically bruises salmon-pink, wine-pink, or reddish-brown when fresh. Basidia are cylindrical to club-shaped, measuring 20–40 × 3–5 µm, accompanied by numerous hyphidia 2–3 µm wide.",
+      "stipe": "Absent; the sessile bracket attaches directly by its side or rear margin to the wood.",
+      "flesh": "Tough, leathery to corky when fresh, drying hard and rigid; whitish, pinkish, or pale wood-brown to greyish-brown, with a trimitic hyphal system. All parts turn dark grey to black with potassium hydroxide (KOH). The odour is indistinct and the taste is mild to slightly bitter.",
+      "sporePrint": "White. Basidiospores are smooth, narrowly cylindrical to slightly curved (allantoid), inamyloid, and measure 6–11 × 1.5–3 µm (most commonly 7–11 × 2–3 µm).",
+      "habitat": "Saprotrophic and weakly parasitic on dead or wounded trunks, fallen logs, branches, and occasionally stumps of broadleaved trees, causing an intensive white delignifying rot of sapwood, sometimes accompanied by black zone lines in the decayed wood. Strongly favours willows (Salix), particularly in damp riverside woodlands, and also grows on birch, alder, hazel, beech, hornbeam, rowan, lime, elm, dogwood, and fruit trees, very rarely on conifers. Fresh annual fruit bodies develop from June to December, with spore release peaking from autumn through winter and tapering in early summer, while tough dried brackets persist on the wood year-round.",
+      "uses": "Inedible due to its tough, corky, woody texture.",
+      "confusion": "Daedalea quercina grows primarily on oak, forms larger, thicker brackets (1–8 cm thick) with much thicker, coarser maze-like pore walls, produces smaller spores (5.5–7 × 2.5–3.5 µm), causes brown heart rot, and does not bruise pinkish. Daedaleopsis tricolor has a darker, more uniformly wine-red to reddish-brown cap and a distinctly gill-like, silvery-sheened underside with few or no cross-connections. Cerrena unicolor forms thinner brackets with a black line in the flesh and tubes that split into irregular flattened teeth at maturity. Trametes gibbosa has elongated pores but pure white flesh and lacks reddish bruising. Trametes elegans has a whitish cap, smaller spores (5–7 × 1.5–2.5 µm), no reddish bruising, and flesh that turns yellowish rather than blackish with KOH.",
+      "notes": "Fruit bodies support a rich fauna of wood- and fungus-dwelling beetles, with 54 species across 16 families recorded from a single Russian study. The taxonomic boundary between Daedaleopsis confragosa and Daedaleopsis tricolor has been debated, with intermediate fruit bodies occasionally found and some molecular studies treating the two as varieties of a single species, though current checklists recognize them separately.",
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=355679",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=355679",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=355679",
+        "https://www.gbif.org/species/2545670",
+        "https://www.wikidata.org/wiki/Q2120850",
+        "https://en.wikipedia.org/wiki/Daedaleopsis_confragosa",
+        "https://www.first-nature.com/fungi/daedaleopsis-confragosa.php",
+        "https://www.mushroomexpert.com/daedaleopsis_confragosa.html",
+        "https://www.myko.cz/myko-atlas/Daedaleopsis-confragosa/",
+        "https://de.wikipedia.org/wiki/R%C3%B6tender_Bl%C3%A4tterwirrling"
+      ]
+    },
+    "ar": {
+      "description": "فطر رفّي خشبي قاسٍ مُحلِّل للخشب، ينمو منفردًا أو في طبقات متراكبة على الأخشاب الصلبة الميتة أو المتضررة، ولا سيما الصفصاف، في المناطق المعتدلة من أوراسيا وأمريكا الشمالية جنوبًا حتى المكسيك، وأجزاء من أستراليا ونيوزيلندا. تتطور الأجسام الثمرية من الصيف حتى الخريف وتبقى طوال الشتاء، مسبِّبةً عفنًا أبيض شديدًا.",
+      "cap": "يبلغ عرض القبعة ٣–١٥ سم (وأحيانًا حتى ٢٠ سم)، وتبرز بمقدار ٤–٨ سم من الخشب بسماكة ١–٣ سم، وتكون نصف دائرية إلى مروحية الشكل، محدَّبة بشكل عريض إلى مسطَّحة، وملتصقة مباشرة بالركيزة دون ساق، مع نتوء خفيف أحيانًا عند موضع الالتصاق. السطح العلوي جاف وغير لامع، أملس إلى دقيق الزغب، متعرِّج أو مجعَّد شعاعيًا، ومقسَّم إلى نطاقات متحدة المركز بألوان رمادية مبيضة، ورمادية مغرية، وسمراء فاتحة، وبنية، ومحمرَّة خمرية، وغالبًا ما يميل إلى البني الصدئ أو المسوَدّ مع التقدم في العمر مع احتفاظه بحافة نمو حادة شاحبة مبيضة.",
+      "hymenium": "المسام شديدة التنوع، تتراوح من دائرية إلى مستطيلة شعاعيًا، أو شقّية، أو متاهية، أو شبه صفائحية أحيانًا، بعرض ٠٫٥–١٫٥ مم وبجدران رقيقة؛ ويبلغ عمق الأنابيب ٥–١٥ مم. يكون سطح المسام مبيضًا إلى رمادي أسمر شاحب في الطور الفتي، ثم يغمق إلى رمادي مغري باهت أو بني مع التقدم في العمر، ويتلون بشكل مميز بالوردي السلموني أو الوردي الخمري أو البني المحمر عند الكدم وهو طازج. البازيديا أسطوانية إلى هراوية الشكل، أبعادها ٢٠–٤٠ × ٣–٥ ميكرومتر، وترافقها خيوط عقيمة عديدة (هيفيديا) بعرض ٢–٣ ميكرومتر.",
+      "stipe": "غائبة؛ إذ يلتصق الجسم الثمري الجالس مباشرة بجانبه أو بحافته الخلفية على الخشب.",
+      "flesh": "قاسٍ، جلدي إلى فليني عندما يكون طازجًا، ويصبح صلبًا وجافًا عند الجفاف؛ لونه مبيض أو وردي أو بني خشبي شاحب إلى بني رمادي، وله نظام خيطي ثلاثي. تتحول جميع الأجزاء إلى الرمادي الداكن فالأسود عند تفاعلها مع هيدروكسيد البوتاسيوم (KOH). الرائحة غير مميزة والطعم معتدل إلى مرّ قليلًا.",
+      "sporePrint": "بيضاء. الأبواغ البازيدية ملساء، أسطوانية ضيقة إلى منحنية قليلًا (سجقية الشكل)، غير نشوية، وتبلغ أبعادها ٦–١١ × ١٫٥–٣ ميكرومتر (وغالبًا ٧–١١ × ٢–٣ ميكرومتر).",
+      "habitat": "رمّي ومتطفل بشكل ضعيف على الجذوع الميتة أو المتضررة والأخشاب الساقطة والأغصان، وأحيانًا على بقايا جذوع الأشجار عريضة الأوراق، مسبِّبًا عفنًا أبيض شديدًا مُزيلًا للغنين في الخشب العصاري، ويصاحبه أحيانًا خطوط نطاقية سوداء في الخشب المتحلل. يفضِّل بشدة أشجار الصفصاف (Salix)، خاصة في الغابات الرطبة على ضفاف الأنهار، كما ينمو على البتولا والجار والبندق والزان والنير والغبيراء والزيزفون والدردار والقانيا وأشجار الفاكهة، ونادرًا جدًا على المخروطيات. تتطور الأجسام الثمرية السنوية الطازجة من يونيو إلى ديسمبر، وتبلغ ذروة إطلاق الأبواغ من الخريف حتى الشتاء ثم تتراجع في أوائل الصيف، بينما تبقى الأجسام الجافة القاسية عالقة بالخشب طوال العام.",
+      "uses": "غير صالح للأكل بسبب قوامه القاسي الفليني والخشبي.",
+      "confusion": "ينمو Daedalea quercina أساسًا على البلوط، ويكوِّن أجسامًا ثمرية أكبر وأسمك (١–٨ سم سماكة) ذات جدران مسام متاهية أكثر سماكة وخشونة، وينتج أبواغًا أصغر (٥٫٥–٧ × ٢٫٥–٣٫٥ ميكرومتر)، ويسبِّب عفنًا قلبيًا بنيًا، ولا يتلون بالوردي عند الكدم. يتميز Daedaleopsis tricolor بقبعة أغمق وأكثر تجانسًا باللون الأحمر الخمري إلى البني المحمر، وسطح سفلي صفائحي بوضوح ذي بريق فضي وبروابط عرضية قليلة أو معدومة. يكوِّن Cerrena unicolor أجسامًا ثمرية أرقّ مع خط أسود في اللحم وأنابيب تنشق عند النضج إلى أسنان مسطحة غير منتظمة. يمتلك Trametes gibbosa مسامًا مستطيلة لكن لحمه أبيض ناصع ولا يظهر تلونًا محمرًا عند الكدم. أما Trametes elegans فله قبعة مبيضة، وأبواغ أصغر (٥–٧ × ١٫٥–٢٫٥ ميكرومتر)، ولا يتلون بالمحمر عند الكدم، كما يتحول لحمه إلى المصفرّ بدلًا من الأسود مع محلول KOH.",
+      "notes": "تأوي الأجسام الثمرية مجموعة غنية من الخنافس القاطنة في الخشب والفطريات، حيث سُجِّل ٥٤ نوعًا تنتمي إلى ١٦ فصيلة في دراسة روسية واحدة. وقد أُثير جدل حول الحد التصنيفي بين Daedaleopsis confragosa وDaedaleopsis tricolor، إذ يُعثر أحيانًا على أجسام ثمرية وسطية، كما تعدّهما بعض الدراسات الجزيئية ضربين لنوع واحد، غير أن القوائم المرجعية الحالية تعترف بهما كنوعين منفصلين.",
+      "sourceUrls": []
+    },
+    "bg": {
+      "label": "обикновен дедалеопсис",
+      "wikipedia": "https://bg.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD_%D0%B4%D0%B5%D0%B4%D0%B0%D0%BB%D0%B5%D0%BE%D0%BF%D1%81%D0%B8%D1%81",
+      "description": "Жилава, дърворазрушаваща гъба, растяща поединично или керемидообразно на етажи върху мъртва и наранена широколистна дървесина, особено върби, в умерения пояс на Евразия, Северна Америка на юг до Мексико и части от Австралия и Нова Зеландия. Плодните тела се развиват от лятото до есента и се запазват през зимата, като причиняват интензивно бяло гниене.",
+      "cap": "3–15 см широка (понякога до 20 см), издадена на 4–8 см от дървесината и дебела 1–3 см, полукръгла до ветрилообразна, широко изпъкнала до плоска и прикрепена директно към субстрата без пънче, понякога със слаба гърбица в основата. Сухата, матова горна повърхност е гладка до фино мъхеста, неравна или радиално набръчкана и концентрично зонирана в белезникавосиви, сивоохрени, светлокафяви, кафеникави и виненочервеникави оттенъци, като с възрастта често потъмнява до ръждивокафяво или черникаво, запазвайки остър, блед белезникав нарастващ ръб.",
+      "hymenium": "Порите са силно променливи — от кръгли до радиално удължени, цепнатиновидни, лабиринтовидни или понякога почти ламеловидни, широки 0,5–1,5 мм с тънки стени; тръбичките са дълбоки 5–15 мм. Поровата повърхност е белезникава до бледосивокафява при младите плодни тела, потъмнява с възрастта до мръсносивоохрена или кафеникава и при натиск в свежо състояние характерно се оцветява в сьомговорозово, виненорозово или червеникавокафяво. Базидиите са цилиндрични до бухалковидни, с размери 20–40 × 3–5 мкм, придружени от многобройни хифидии с ширина 2–3 мкм.",
+      "stipe": "Липсва; приседналото плодно тяло се прикрепва директно със страничния или задния си ръб към дървесината.",
+      "flesh": "Жилаво, кожесто до коркоподобно в свежо състояние, при изсъхване става твърдо и твърде плътно; белезникаво, розовеещо или бледо дървеснокафяво до сивокафяво, с тримитна хифна система. Всички части потъмняват до тъмносиво или черно при реакция с калиева основа (KOH). Миризмата е неизразителна, а вкусът е мек до леко горчив.",
+      "sporePrint": "Бял. Базидиоспорите са гладки, тясно цилиндрични до леко извити (алантоидни), неамилоидни и с размери 6–11 × 1,5–3 мкм (най-често 7–11 × 2–3 мкм).",
+      "habitat": "Сапротрофен и слабо паразитен вид върху мъртви или наранени стволове, паднали трупи, клони и понякога пънове на широколистни дървета, където причинява интензивно бяло делигнифициращо гниене на беловината, понякога съпроводено с черни ограничителни линии в загнилата дървесина. Силно предпочита върби (Salix), особено във влажни крайречни гори, и расте също върху бреза, елша, леска, бук, габър, офика, липа, бряст, дрян и овощни дървета, много рядко върху иглолистни. Свежите едногодишни плодни тела се развиват от юни до декември, като отделянето на спори достига пик от есента през зимата и отслабва в началото на лятото, докато жилавите изсъхнали плодни тела остават върху дървесината целогодишно.",
+      "uses": "Неядлива поради жилавото, коркоподобно и вдървесено месо.",
+      "confusion": "Daedalea quercina расте предимно върху дъб, образува по-едри и по-дебели плодни тела (1–8 см дебели) със значително по-дебели и по-груби лабиринтовидни стени на порите, има по-дребни спори (5,5–7 × 2,5–3,5 мкм), причинява кафяво сърцевинно гниене и не порозовява при натиск. Daedaleopsis tricolor има по-тъмна, по-равномерно виненочервена до червеникавокафява гугла и ясно ламеловидна, сребристо лъскава долна повърхност с малко или никакви напречни връзки. Cerrena unicolor образува по-тънки плодни тела с черна линия в месото и тръбички, които при узряване се разцепват на неправилни сплеснати шипчета. Trametes gibbosa има удължени пори, но чисто бяло месо и не почервенява при натиск. Trametes elegans има белезникава гугла, по-дребни спори (5–7 × 1,5–2,5 мкм), не почервенява при натиск и месото ѝ пожълтява, а не почернява от KOH.",
+      "notes": "Плодните тела поддържат богата фауна от дървесни и гъбни бръмбари — в едно руско изследване са установени 54 вида от 16 семейства. Таксономичната граница между Daedaleopsis confragosa и Daedaleopsis tricolor е обсъждана, тъй като понякога се намират преходни плодни тела и някои молекулярни проучвания ги разглеждат като вариетети на един вид, макар че съвременните списъци ги признават поотделно.",
+      "sourceUrls": [
+        "https://bg.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD_%D0%B4%D0%B5%D0%B4%D0%B0%D0%BB%D0%B5%D0%BE%D0%BF%D1%81%D0%B8%D1%81"
+      ]
+    },
+    "cs": {
+      "label": "síťkovec načervenalý",
+      "wikipedia": "https://cs.wikipedia.org/wiki/S%C3%AD%C5%A5kovec_na%C4%8Dervenal%C3%BD",
+      "description": "Tuhá, dřevokazná konzolovitá houba rostoucí jednotlivě nebo ve střechovitě uspořádaných trsech na odumřelém a poraněném dřevě listnáčů, zejména vrb, v mírném pásmu Eurasie, v Severní Americe na jih až po Mexiko a v částech Austrálie a Nového Zélandu. Plodnice se tvoří od léta do podzimu a vytrvávají přes zimu, přičemž způsobují intenzivní bílou hnilobu dřeva.",
+      "cap": "3–15 cm široký (ojediněle až 20 cm), od dřeva odstává 4–8 cm a je 1–3 cm tlustý, půlkruhovitý až vějířovitý, široce vyklenutý až plochý, přirostlý přímo k substrátu bez třeně, někdy s mírným hrbolem v místě přirostění. Suchý, matný horní povrch je hladký až jemně pýřitý, hrbolatý nebo radiálně vrásčitý a soustředně pásovaný v bělavě šedých, šedookrových, žlutohnědavých, nahnědlých a vínově načervenalých odstínech; stářím často tmavne do rezavě hněda až černa, ale zachovává si ostrý, bledě bělavý dorůstající okraj.",
+      "hymenium": "Póry jsou velmi proměnlivé, od okrouhlých po radiálně protažené, štěrbinovité, labyrintické až místy téměř lupenité, široké 0,5–1,5 mm s tenkými stěnami; rourky jsou 5–15 mm hluboké. Povrch pórů je v mládí bělavý až bledě šedohnědavý, stářím tmavne do špinavě šedookrova až hněda a v čerstvém stavu po otlačení charakteristicky červená do lososově růžova, vínově růžova či červenohněda. Bazidie jsou válcovité až kyjovité, 20–40 × 3–5 µm, doprovázené četnými hyfidiemi o šířce 2–3 µm.",
+      "stipe": "Chybí; přisedlá plodnice přirůstá bokem nebo zadním okrajem přímo ke dřevu.",
+      "flesh": "Za čerstva tuhá, kožovitá až korkovitá, po zaschnutí tvrdá a pevná; bělavá, narůžovělá nebo bledě dřevohnědá až šedohnědá, s trimitickým hyfovým systémem. Všechny části s hydroxidem draselným (KOH) tmavnou do tmavě šeda až černa. Vůně je nevýrazná a chuť mírná až slabě nahořklá.",
+      "sporePrint": "Bílý. Bazidiospory jsou hladké, úzce válcovité až mírně prohnuté (alantoidní), neamyloidní, o rozměrech 6–11 × 1,5–3 µm (nejčastěji 7–11 × 2–3 µm).",
+      "habitat": "Saprotrofní a slabě parazitická houba na odumřelých či poraněných kmenech, padlých kmenech, větvích a občas na pařezech listnatých stromů, kde způsobuje intenzivní bílou delignifikační hnilobu bělového dřeva, někdy provázenou černými zónovými liniemi v rozloženém dřevě. Výrazně upřednostňuje vrby (Salix), zejména ve vlhkých pobřežních porostech, ale roste také na bříze, olši, lísce, buku, habru, jeřábu, lípě, jilmu, svídě a ovocných stromech, velmi vzácně na jehličnanech. Čerstvé jednoleté plodnice se vyvíjejí od června do prosince, přičemž uvolňování výtrusů vrcholí od podzimu do zimy a slábne počátkem léta, zatímco tuhé zaschlé plodnice vytrvávají na dřevě celoročně.",
+      "uses": "Nejedlá pro svou tuhou, korkovitou a dřevnatou dužninu.",
+      "confusion": "Daedalea quercina roste především na dubu, tvoří větší a silnější plodnice (tlusté 1–8 cm) s podstatně silnějšími, hrubě labyrintickými stěnami pórů, vytváří menší výtrusy (5,5–7 × 2,5–3,5 µm), způsobuje hnědou hnilobu jádrového dřeva a po otlačení nerůžoví. Daedaleopsis tricolor má tmavší, rovnoměrněji vínově červený až červenohnědý klobouk a výrazně lupenitou, stříbřitě lesklou spodní stranu s málo četnými nebo žádnými příčnými spojkami. Cerrena unicolor tvoří tenčí plodnice s černou linií v dužnině a rourky se ve zralosti rozpadávají v nepravidelné zploštělé zoubky. Trametes gibbosa má protažené póry, ale čistě bílou dužninu a po otlačení nečervená. Trametes elegans má bělavý klobouk, menší výtrusy (5–7 × 1,5–2,5 µm), po otlačení nečervená a její dužnina se po aplikaci KOH zbarvuje žlutavě, nikoli černavě.",
+      "notes": "Plodnice hostí bohatou faunu dřevokazných a houbových brouků; v jedné ruské studii bylo zaznamenáno 54 druhů ze 16 čeledí. Taxonomická hranice mezi Daedaleopsis confragosa a Daedaleopsis tricolor je předmětem diskusí, neboť se občas nacházejí přechodné plodnice a některé molekulární studie je hodnotí jako variety jediného druhu, ačkoli současné seznamy druhů je uznávají samostatně.",
+      "sourceUrls": [
+        "https://cs.wikipedia.org/wiki/S%C3%AD%C5%A5kovec_na%C4%8Dervenal%C3%BD",
+        "https://www.myko.cz/myko-atlas/Daedaleopsis-confragosa/"
+      ]
+    },
+    "da": {
+      "label": "rødmende læderporesvamp",
+      "description": "En sej, trænedbrydende konsolsvamp, der vokser enkeltvis eller i taglagte rækker på dødt og beskadiget løvtræ, især pil, i det tempererede Eurasien, i Nordamerika sydpå til Mexico samt i dele af Australien og New Zealand. Frugtlegemerne udvikles fra sommer til efterår og bliver siddende vinteren over, hvor de forårsager en intensiv hvidmuld.",
+      "cap": "3–15 cm bred (undertiden op til 20 cm), 4–8 cm udstående fra veddet og 1–3 cm tyk, halvcirkelformet til vifteformet, bredt hvælvet til flad og fæstnet direkte til substratet uden stok, undertiden med en svag pukkel ved fæstepunktet. Den tørre, matte overside er glat til fint håret, ujævn eller radialt rynket og koncentrisk zoneret i hvidgrå, gråokker, lysebrune, brunlige og vinrødlige nuancer, som ofte mørkner mod rustbrun eller sortagtig med alderen, mens en skarp, blegt hvidlig vækstrand bevares.",
+      "hymenium": "Porerne er meget variable, fra runde til radialt forlængede, spalteformede, labyrintiske eller undertiden næsten lamelagtige, 0,5–1,5 mm brede med tynde vægge; rørene er 5–15 mm dybe. Porefladen er hvidlig til blegt gråbrun som ung, mørkner til smudsigt gråokker eller brunlig med alderen og anløber i frisk tilstand karakteristisk lakserosa, vinrosa eller rødbrun ved tryk. Basidierne er cylindriske til kølleformede, 20–40 × 3–5 µm, ledsaget af talrige hyfidier på 2–3 µm i bredden.",
+      "stipe": "Mangler; det siddende konsolformede frugtlegeme er fæstnet direkte til veddet med siden eller bagkanten.",
+      "flesh": "Sejt, læderagtigt til korkagtigt som friskt, hårdt og stift ved tørring; hvidligt, rosafarvet eller blegt træbrunt til gråbrunt, med et trimitisk hyfesystem. Alle dele farves mørkegrå til sorte med kaliumhydroxid (KOH). Lugten er ubestemmelig, og smagen er mild til let bitter.",
+      "sporePrint": "Hvidt. Basidiosporerne er glatte, smalt cylindriske til let krummede (allantoide), inamyloide og måler 6–11 × 1,5–3 µm (oftest 7–11 × 2–3 µm).",
+      "habitat": "Saprotrof og svagt parasitisk på døde eller sårede stammer, væltede stammer, grene og undertiden stubbe af løvtræer, hvor den forårsager en intensiv ligninnedbrydende hvidmuld i splintveddet, sommetider ledsaget af sorte afgrænsningslinjer i det nedbrudte ved. Foretrækker stærkt pil (Salix), især i fugtige vandløbsnære skove, og vokser også på birk, el, hassel, bøg, avnbøg, røn, lind, elm, kornel og frugttræer, meget sjældent på nåletræer. Friske etårige frugtlegemer udvikles fra juni til december med størst sporeudskillelse fra efterår til vinter og aftagende i forsommeren, mens de seje, indtørrede konsoller bliver siddende på veddet året rundt.",
+      "uses": "Uspiselig på grund af det seje, korkagtige og træagtige kød.",
+      "confusion": "Daedalea quercina vokser overvejende på eg, danner større og tykkere konsoller (1–8 cm tykke) med langt tykkere, grovere labyrintiske porevægge, har mindre sporer (5,5–7 × 2,5–3,5 µm), forårsager brunmuld i kerneveddet og anløber ikke rosa ved tryk. Daedaleopsis tricolor har en mørkere, mere ensartet vinrød til rødbrun hat og en tydeligt lamelagtig, sølvskinnende underside med få eller ingen tværforbindelser. Cerrena unicolor danner tyndere konsoller med en sort linje i kødet og rør, som ved modenhed spaltes i uregelmæssige affladede tænder. Trametes gibbosa har forlængede porer, men rent hvidt kød og mangler rødlig anløbning. Trametes elegans har hvidlig hat, mindre sporer (5–7 × 1,5–2,5 µm), ingen rødlig anløbning og kød, der farves gulligt i stedet for sortagtigt med KOH.",
+      "notes": "Frugtlegemerne huser en rig fauna af ved- og svampelevende biller, med 54 arter fordelt på 16 familier registreret i et enkelt russisk studie. Den taksonomiske grænse mellem Daedaleopsis confragosa og Daedaleopsis tricolor har været omdiskuteret, idet mellemformer undertiden findes, og nogle molekylære studier behandler de to som varieteter af én art, selv om nutidige tjeklister anerkender dem hver for sig.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/2545670"
+      ]
+    },
+    "de": {
+      "label": "Rötender Blätterwirrling",
+      "names": [
+        "Rötende Tramete",
+        "Raue Tramete"
+      ],
+      "wikipedia": "https://de.wikipedia.org/wiki/R%C3%B6tender_Bl%C3%A4tterwirrling",
+      "description": "Ein zäher, holzzersetzender Konsolenpilz, der einzeln oder in dachziegelartig übereinanderstehenden Reihen an totem und verletztem Laubholz, vor allem an Weiden, in den gemäßigten Zonen Eurasiens, in Nordamerika südwärts bis Mexiko sowie in Teilen Australiens und Neuseelands wächst. Die Fruchtkörper bilden sich vom Sommer bis in den Herbst, überdauern den Winter und verursachen eine intensive Weißfäule.",
+      "cap": "3–15 cm breit (gelegentlich bis 20 cm), 4–8 cm vom Holz abstehend und 1–3 cm dick, halbkreisförmig bis fächerförmig, breit gewölbt bis flach und ohne Stiel direkt am Substrat angewachsen, an der Ansatzstelle mitunter leicht gebuckelt. Die trockene, matte Oberseite ist glatt bis fein behaart, höckerig oder radial runzelig und konzentrisch in weißlich-grauen, grauockerfarbenen, gelbbraunen, bräunlichen und weinrötlichen Tönen gezont; im Alter dunkelt sie oft rostbraun bis schwärzlich nach, behält jedoch einen scharfen, blass weißlichen Zuwachsrand.",
+      "hymenium": "Die Poren sind sehr variabel und reichen von rundlich über radial langgestreckt, schlitzförmig und labyrinthisch bis gelegentlich fast lamellenartig; sie messen 0,5–1,5 mm im Durchmesser bei dünnen Wänden, die Röhren sind 5–15 mm tief. Die Porenfläche ist jung weißlich bis blass graubräunlich, dunkelt im Alter schmutzig grauocker bis bräunlich nach und verfärbt sich im frischen Zustand auf Druck charakteristisch lachsrosa, weinrosa oder rotbraun. Die Basidien sind zylindrisch bis keulig, 20–40 × 3–5 µm groß, begleitet von zahlreichen 2–3 µm breiten Hyphidien.",
+      "stipe": "Fehlt; der sitzende Konsolenpilz ist seitlich oder mit dem hinteren Rand direkt am Holz angewachsen.",
+      "flesh": "Frisch zäh, lederig bis korkig, getrocknet hart und starr; weißlich, rosafarben oder blass holzbraun bis graubraun, mit trimitischem Hyphensystem. Alle Teile färben sich mit Kalilauge (KOH) dunkelgrau bis schwarz. Der Geruch ist unauffällig, der Geschmack mild bis schwach bitter.",
+      "sporePrint": "Weiß. Die Basidiosporen sind glatt, schmal zylindrisch bis leicht gekrümmt (allantoid), inamyloid und messen 6–11 × 1,5–3 µm (meist 7–11 × 2–3 µm).",
+      "habitat": "Saprotroph und schwach parasitisch an toten oder verletzten Stämmen, liegenden Stämmen, Ästen und gelegentlich Stümpfen von Laubbäumen, wo er eine intensive delignifizierende Weißfäule im Splintholz verursacht, mitunter begleitet von schwarzen Demarkationslinien im zersetzten Holz. Er bevorzugt deutlich Weiden (Salix), besonders in feuchten Uferwäldern, wächst aber auch an Birke, Erle, Hasel, Buche, Hainbuche, Eberesche, Linde, Ulme, Hartriegel und Obstbäumen, sehr selten an Nadelbäumen. Frische einjährige Fruchtkörper entwickeln sich von Juni bis Dezember, wobei die Sporenabgabe vom Herbst bis in den Winter ihren Höhepunkt erreicht und im Frühsommer abklingt, während die zähen getrockneten Fruchtkörper ganzjährig am Holz verbleiben.",
+      "uses": "Ungenießbar wegen seines zähen, korkigen und holzigen Fleisches.",
+      "confusion": "Daedalea quercina wächst überwiegend an Eiche, bildet größere, dickere Konsolen (1–8 cm dick) mit deutlich dickeren, gröberen labyrinthischen Porenwänden, besitzt kleinere Sporen (5,5–7 × 2,5–3,5 µm), verursacht eine braune Kernfäule und rötet auf Druck nicht. Daedaleopsis tricolor hat einen dunkleren, gleichmäßiger weinroten bis rotbraunen Hut sowie eine ausgeprägt lamellenartige, silbrig glänzende Unterseite mit wenigen oder keinen Querverbindungen. Cerrena unicolor bildet dünnere Fruchtkörper mit einer schwarzen Linie im Fleisch, und die Röhren zerschlitzen im Alter zu unregelmäßigen abgeflachten Zähnchen. Trametes gibbosa hat ebenfalls langgestreckte Poren, jedoch rein weißes Fleisch und rötet nicht. Trametes elegans hat einen weißlichen Hut, kleinere Sporen (5–7 × 1,5–2,5 µm), rötet nicht und ihr Fleisch färbt sich mit KOH gelblich statt schwärzlich.",
+      "notes": "Die Fruchtkörper beherbergen eine artenreiche Fauna aus holz- und pilzbewohnenden Käfern; in einer russischen Studie wurden 54 Arten aus 16 Familien nachgewiesen. Die taxonomische Abgrenzung zwischen Daedaleopsis confragosa und Daedaleopsis tricolor ist umstritten, da gelegentlich Übergangsformen auftreten und einige molekulare Untersuchungen beide als Varietäten einer einzigen Art einstufen, während aktuelle Artenlisten sie getrennt führen.",
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/R%C3%B6tender_Bl%C3%A4tterwirrling"
+      ]
+    },
+    "es": {
+      "wikipedia": "https://es.wikipedia.org/wiki/Daedaleopsis_confragosa",
+      "description": "Hongo lignícola coriáceo en forma de consola que crece solitario o en pisos imbricados sobre madera muerta o herida de frondosas, especialmente sauces, en la Eurasia templada, Norteamérica hasta México y partes de Australia y Nueva Zelanda. Los cuerpos fructíferos se desarrollan desde el verano hasta el otoño y persisten durante el invierno, provocando una intensa podredumbre blanca.",
+      "cap": "De 3–15 cm de anchura (ocasionalmente hasta 20 cm), sobresaliendo 4–8 cm de la madera y de 1–3 cm de grosor, semicircular a flabeliforme, anchamente convexo a plano y unido directamente al sustrato sin pie, a veces con un ligero mamelón en el punto de inserción. La superficie superior, seca y mate, es lisa a finamente aterciopelada, abollada o arrugada radialmente, y presenta zonas concéntricas en tonos gris blanquecino, ocre grisáceo, pardo claro, parduzco y rojo vinoso, oscureciéndose a menudo hacia el pardo herrumbroso o negruzco con la edad mientras conserva un margen de crecimiento fino y blanquecino.",
+      "hymenium": "Los poros son muy variables, desde circulares hasta alargados radialmente, en forma de hendidura, laberínticos o en ocasiones casi laminiformes, de 0,5–1,5 mm de anchura y con paredes delgadas; los tubos alcanzan 5–15 mm de profundidad. La superficie porosa es blanquecina a beige grisáceo pálido en ejemplares jóvenes, oscureciéndose a ocre grisáceo sucio o parduzco con la edad, y al roce en fresco se mancha de forma característica de rosa salmón, rosa vinoso o pardo rojizo. Los basidios son cilíndricos a claviformes, de 20–40 × 3–5 µm, acompañados de numerosos hifidios de 2–3 µm de anchura.",
+      "stipe": "Ausente; la consola sésil se adhiere directamente a la madera por el costado o el borde posterior.",
+      "flesh": "Tenaz, coriácea a suberosa en fresco, endureciéndose y volviéndose rígida al secarse; blanquecina, rosácea o pardo madera pálido a pardo grisáceo, con sistema hifal trimítico. Todas las partes se tornan gris oscuro a negro con hidróxido potásico (KOH). El olor es indistinto y el sabor, suave a ligeramente amargo.",
+      "sporePrint": "Blanca. Las basidiosporas son lisas, estrechamente cilíndricas a ligeramente curvadas (alantoides), inamiloides, y miden 6–11 × 1,5–3 µm (con mayor frecuencia 7–11 × 2–3 µm).",
+      "habitat": "Saprótrofo y débilmente parásito sobre troncos muertos o heridos, troncos caídos, ramas y ocasionalmente tocones de árboles frondosos, donde provoca una intensa podredumbre blanca deslignificante de la albura, a veces acompañada de líneas negras de demarcación en la madera degradada. Muestra una marcada preferencia por los sauces (Salix), sobre todo en bosques de ribera húmedos, y crece también sobre abedul, aliso, avellano, haya, carpe, serbal, tilo, olmo, cornejo y árboles frutales, muy raramente sobre coníferas. Los cuerpos fructíferos anuales frescos se desarrollan de junio a diciembre, con una liberación de esporas máxima del otoño al invierno que disminuye a principios del verano, mientras que las consolas secas y coriáceas persisten sobre la madera durante todo el año.",
+      "uses": "No comestible debido a su textura tenaz, suberosa y leñosa.",
+      "confusion": "Daedalea quercina crece principalmente sobre roble, forma consolas más grandes y gruesas (1–8 cm de grosor) con paredes de poros laberínticos mucho más gruesas y toscas, produce esporas más pequeñas (5,5–7 × 2,5–3,5 µm), provoca podredumbre parda del duramen y no se tiñe de rosado al roce. Daedaleopsis tricolor tiene un sombrero más oscuro, más uniformemente rojo vinoso a pardo rojizo, y una cara inferior claramente laminiforme con brillo plateado y pocas o ninguna conexión transversal. Cerrena unicolor forma consolas más delgadas con una línea negra en la carne y tubos que se rasgan en dientes aplanados irregulares al madurar. Trametes gibbosa posee poros alargados pero carne blanco puro y carece de enrojecimiento al roce. Trametes elegans presenta sombrero blanquecino, esporas más pequeñas (5–7 × 1,5–2,5 µm), no enrojece al roce y su carne amarillea en lugar de ennegrecerse con KOH.",
+      "notes": "Los cuerpos fructíferos albergan una rica fauna de coleópteros lignícolas y micetófagos, con 54 especies pertenecientes a 16 familias registradas en un solo estudio ruso. El límite taxonómico entre Daedaleopsis confragosa y Daedaleopsis tricolor ha sido objeto de debate, ya que ocasionalmente se encuentran cuerpos fructíferos intermedios y algunos estudios moleculares tratan ambos taxones como variedades de una sola especie, aunque las listas de referencia actuales los reconocen por separado.",
+      "sourceUrls": [
+        "https://es.wikipedia.org/wiki/Daedaleopsis_confragosa"
+      ]
+    },
+    "et": {
+      "label": "tava-pajukakk",
+      "wikipedia": "https://et.wikipedia.org/wiki/Tava-pajukakk",
+      "description": "Sitke, puitu lagundav torikseen, mis kasvab üksikult või katusekivitaoliselt ülestikku surnud ja kahjustatud lehtpuudel, eriti pajudel, Euraasia parasvöötmes, Põhja-Ameerikas kuni Mehhikoni ning kohati Austraalias ja Uus-Meremaal. Viljakehad arenevad suvest sügiseni ja püsivad üle talve, põhjustades intensiivset valgemädanikku.",
+      "cap": "3–15 cm lai (vahel kuni 20 cm), puidust 4–8 cm eenduv ja 1–3 cm paks, poolringjas kuni lehvikjas, laialt kumer kuni lame ja ilma jalata otse substraadile kinnitunud, mõnikord kinnituskohas väikese kühmuga. Kuiv matt ülapind on sile kuni peenkarvane, mügarlik või radiaalselt kortsuline ning kontsentriliselt vöödiline valkjashallides, hallikasookrites, helepruunides, pruunikates ja veinipunakates toonides; vananedes tumeneb see sageli roostepruuniks või mustjaks, säilitades terava heleda valkja kasvuserva.",
+      "hymenium": "Poorid on väga muutlikud, ulatudes ümmargustest radiaalselt piklike, pilujate, labürintjate või vahel peaaegu eoslehetaolisteni, läbimõõduga 0,5–1,5 mm ja õhukeste vaheseintega; torukesed on 5–15 mm sügavad. Pooride pind on noorelt valkjas kuni kahvatult hallikaspruun, tumeneb vananedes määrdunud hallikasookriks või pruunikaks ning värvub värskena puudutamisel iseloomulikult lõheroosaks, veiniroosaks või punakaspruuniks. Basiidiumid on silindrilised kuni nuijad, mõõtmetega 20–40 × 3–5 µm, koos arvukate 2–3 µm laiuste hüfiididega.",
+      "stipe": "Puudub; jalata viljakeha kinnitub külje- või tagaservaga otse puidule.",
+      "flesh": "Värskena sitke, nahkjas kuni korkjas, kuivades kõva ja jäik; valkjas, roosakas või kahvatult puidupruun kuni hallikaspruun, trimiitse hüüfisüsteemiga. Kõik osad värvuvad kaaliumhüdroksiidiga (KOH) tumehalliks kuni mustaks. Lõhn on nõrk ja maitse mahe kuni kergelt kibe.",
+      "sporePrint": "Valge. Basidiospoorid on siledad, kitsalt silindrilised kuni kergelt kõverad (allantoidsed), inamüloidsed, mõõtmetega 6–11 × 1,5–3 µm (kõige sagedamini 7–11 × 2–3 µm).",
+      "habitat": "Saprotroofne ja nõrgalt parasiitne lehtpuude surnud või kahjustatud tüvedel, lamapuidul, okstel ja vahel kändudel, põhjustades maltspuidus intensiivset ligniini lagundavat valgemädanikku, millega kaasnevad mõnikord mustad piirdejooned kõdunenud puidus. Eelistab tugevalt pajusid (Salix), eriti niisketes lammimetsades, ning kasvab ka kasel, lepal, sarapuul, pöögil, valgepöögil, pihlakal, pärnal, jalakal, kontpuul ja viljapuudel, väga harva okaspuudel. Värsked üheaastased viljakehad arenevad juunist detsembrini; eoste eraldumine on haripunktis sügisest talveni ja vaibub varasuvel, samas kui sitked kuivanud viljakehad püsivad puidul aasta ringi.",
+      "uses": "Mittesöödav sitke, korkja ja puitunud seeneliha tõttu.",
+      "confusion": "Daedalea quercina kasvab peamiselt tammel, moodustab suuremaid ja paksemaid viljakehi (1–8 cm paksud) palju paksemate ja jämedamate labürintjate pooriseintega, annab väiksemaid eoseid (5,5–7 × 2,5–3,5 µm), põhjustab pruuni lülipuidumädanikku ega värvu puudutamisel roosakaks. Daedaleopsis tricolor on tumedama, ühtlasemalt veinipunase kuni punakaspruuni kübara ning selgelt eoslehetaolise hõbedase läikega alapinnaga, millel on vähe ristühendusi või puuduvad need üldse. Cerrena unicolor moodustab õhemaid viljakehi, mille seenelihas on must joon ja mille torukesed lõhenevad küpsedes ebakorrapärasteks lamedateks narmasteks. Trametes gibbosa on piklike pooridega, kuid puhasvalge seenelihaga ega puneta muljumisel. Trametes elegans on valkja kübara ja väiksemate eostega (5–7 × 1,5–2,5 µm), ei värvu puudutamisel punakaks ning selle seeneliha värvub KOH-ga kollakaks, mitte mustjaks.",
+      "notes": "Viljakehades elab rikkalik puidu- ja seenemardikate fauna: ühes Venemaa uuringus registreeriti neist 54 liiki 16 sugukonnast. Taksonoomiline piir liikide Daedaleopsis confragosa ja Daedaleopsis tricolor vahel on olnud vaieldav, kuna aeg-ajalt leitakse vahepealseid viljakehi ja mõned molekulaaruuringud käsitlevad neid ühe liigi teisenditena, kuigi praegused nimestikud tunnustavad neid eraldi liikidena.",
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Tava-pajukakk"
+      ]
+    },
+    "fa": {
+      "description": "قارچ تاقچه‌ای چوب‌پوسان و سفت است که به‌صورت تکی یا در ردیف‌های هم‌پوشان روی درختان پهن‌برگ مرده و آسیب‌دیده، به‌ویژه بیدها، در سراسر مناطق معتدل اوراسیا، آمریکای شمالی تا جنوب مکزیک، و بخش‌هایی از استرالیا و نیوزیلند می‌روید. اندام‌های بارده از تابستان تا پاییز شکل می‌گیرند و در طول زمستان پایدار می‌مانند و باعث پوسیدگی سفید شدید می‌شوند.",
+      "cap": "عرض کلاهک ۳–۱۵ سانتی‌متر (گاهی تا ۲۰ سانتی‌متر) است، ۴–۸ سانتی‌متر از چوب بیرون می‌زند و ۱–۳ سانتی‌متر ضخامت دارد؛ نیم‌دایره‌ای تا بادبزنی‌شکل، به‌طور پهن محدب تا تخت است و بدون ساقه مستقیماً به بستر می‌چسبد و گاهی در محل اتصال برجستگی کوچکی دارد. سطح بالایی خشک و مات، صاف تا اندکی کرک‌دار، ناهموار یا دارای چروک‌های شعاعی است و نوارهای هم‌مرکز به رنگ‌های سفید مایل به خاکستری، خاکستری اخرایی، برنزی روشن، قهوه‌ای و قرمز شرابی دارد که اغلب با افزایش سن به قهوه‌ای زنگاری یا سیاه متمایل می‌شود، در حالی که لبه رشد آن تیز و سفید کمرنگ باقی می‌ماند.",
+      "hymenium": "روزنه‌ها بسیار متغیرند و از گرد تا کشیده شعاعی، شکاف‌مانند، هزارتویی یا گاهی تقریباً تیغه‌مانند دیده می‌شوند؛ قطر آن‌ها ۰٫۵–۱٫۵ میلی‌متر با دیواره‌های نازک و عمق لوله‌ها ۵–۱۵ میلی‌متر است. سطح روزنه‌ها در جوانی سفید تا خاکستری مایل به برنزی کمرنگ است، با افزایش سن به خاکستری اخرایی کدر یا قهوه‌ای تیره می‌شود و در حالت تازه هنگام کوفتگی به‌طور مشخص به صورتی ماهی‌آزاد، صورتی شرابی یا قهوه‌ای مایل به قرمز تغییر رنگ می‌دهد. بازیدی‌ها استوانه‌ای تا چماقی به ابعاد ۲۰–۴۰ × ۳–۵ میکرومتر هستند و با هیفیدیاهای فراوان به عرض ۲–۳ میکرومتر همراهند.",
+      "stipe": "ندارد؛ اندام بارده بدون پایه است و مستقیماً از پهلو یا لبه عقبی به چوب متصل می‌شود.",
+      "flesh": "در حالت تازه سفت و چرمی تا چوب‌پنبه‌ای است و پس از خشک شدن سخت و صلب می‌گردد؛ سفید، صورتی یا قهوه‌ای چوبی کمرنگ تا قهوه‌ای خاکستری بوده و دارای سامانه هیفی سه‌گانه (تریمیتیک) است. همه بخش‌ها در تماس با هیدروکسید پتاسیم (KOH) به خاکستری تیره تا سیاه تبدیل می‌شوند. بو نامشخص و طعم ملایم تا اندکی تلخ است.",
+      "sporePrint": "سفید است. بازیدیوسپورها صاف، باریک و استوانه‌ای تا اندکی خمیده (سوسیسی‌شکل)، غیرآمیلوئید و به ابعاد ۶–۱۱ × ۱٫۵–۳ میکرومتر (بیشتر ۷–۱۱ × ۲–۳ میکرومتر) هستند.",
+      "habitat": "ساپروتروف و انگل ضعیف روی تنه‌های مرده یا آسیب‌دیده، کُنده‌های افتاده، شاخه‌ها و گاهی کُنده‌های باقی‌مانده درختان پهن‌برگ است و باعث پوسیدگی سفید شدید لیگنین‌زدای چوب برون می‌شود که گاهی با خطوط سیاه مرزی در چوب پوسیده همراه است. به‌شدت درختان بید (Salix) را به‌ویژه در جنگل‌های مرطوب حاشیه رودخانه‌ها ترجیح می‌دهد و همچنین روی توس، توسکا، فندق، راش، ممرز، بارانک، نمدار، نارون، زغال‌اخته و درختان میوه می‌روید و بسیار به‌ندرت روی سوزنی‌برگ‌ها دیده می‌شود. اندام‌های بارده سالانه تازه از ژوئن تا دسامبر رشد می‌کنند، رهاسازی هاگ از پاییز تا زمستان به اوج می‌رسد و در اوایل تابستان کاهش می‌یابد، در حالی که اندام‌های خشک و سفت در تمام طول سال روی چوب باقی می‌مانند.",
+      "uses": "به دلیل بافت سفت، چوب‌پنبه‌ای و چوبی، غیرخوراکی است.",
+      "confusion": "گونه Daedalea quercina عمدتاً روی بلوط می‌روید، اندام‌های بارده بزرگ‌تر و ضخیم‌تری (۱–۸ سانتی‌متر ضخامت) با دیواره‌های روزنه هزارتویی بسیار ضخیم‌تر و درشت‌تر می‌سازد، هاگ‌های کوچک‌تری (۵٫۵–۷ × ۲٫۵–۳٫۵ میکرومتر) تولید می‌کند، باعث پوسیدگی قهوه‌ای مغز چوب می‌شود و هنگام کوفتگی صورتی نمی‌شود. گونه Daedaleopsis tricolor کلاهکی تیره‌تر و یکدست‌تر به رنگ قرمز شرابی تا قهوه‌ای مایل به قرمز دارد و سطح زیرین آن کاملاً تیغه‌مانند با درخشش نقره‌ای و با اتصالات عرضی اندک یا بدون اتصال است. گونه Cerrena unicolor اندام‌های نازک‌تری با یک خط سیاه در گوشت و لوله‌هایی دارد که در بلوغ به دندانه‌های پهن و نامنظم شکافته می‌شوند. گونه Trametes gibbosa روزنه‌های کشیده دارد اما گوشت آن کاملاً سفید است و تغییر رنگ قرمز در اثر کوفتگی ندارد. گونه Trametes elegans کلاهک مایل به سفید، هاگ‌های کوچک‌تر (۵–۷ × ۱٫۵–۲٫۵ میکرومتر)، نبود تغییر رنگ قرمز و گوشتی دارد که با KOH به‌جای سیاه شدن به زرد متمایل می‌شود.",
+      "notes": "اندام‌های بارده زیستگاه مجموعه غنی از سوسک‌های چوب‌زی و قارچ‌زی هستند، به‌طوری‌که در یک پژوهش در روسیه ۵۴ گونه از ۱۶ تیره در آن‌ها ثبت شده است. مرز رده‌بندی میان Daedaleopsis confragosa و Daedaleopsis tricolor محل بحث بوده است؛ گاهی اندام‌های بارده میانی یافت می‌شوند و برخی پژوهش‌های مولکولی این دو را واریته‌های یک گونه می‌دانند، هرچند فهرست‌های کنونی آن‌ها را جداگانه به رسمیت می‌شناسند.",
+      "sourceUrls": []
+    },
+    "fi": {
+      "label": "etelänsärmäkääpä",
+      "description": "Sitkeä, puuta lahottava kääpä, joka kasvaa yksittäin tai limittäisinä ryhminä kuolleilla ja vahingoittuneilla lehtipuilla, erityisesti pajuilla, lauhkeassa Euraasiassa, Pohjois-Amerikassa Meksikoon saakka sekä paikoin Australiassa ja Uudessa-Seelannissa. Itiöemät kehittyvät kesästä syksyyn ja säilyvät talven yli, ja sieni aiheuttaa voimakasta valkolahoa.",
+      "cap": "3–15 cm leveä (joskus jopa 20 cm), puusta 4–8 cm ulkoneva ja 1–3 cm paksu, puolipyöreä tai viuhkamainen, loivasti kupera tai laakea ja jalatta suoraan alustaan kiinnittynyt, toisinaan tyveltään heikosti kyhmyinen. Kuiva, himmeä yläpinta on sileä tai hienonukkainen, muhkurainen tai säteittäin ryppyinen ja samankeskisesti vyöhykkeinen valkeanharmaan, harmaanokran, kellanruskean, ruskehtavan ja viininpunertavan sävyin; iän myötä se tummuu usein ruosteenruskeaksi tai mustahkoksi säilyttäen terävän, vaalean valkeahkon kasvureunan.",
+      "hymenium": "Pillit ovat hyvin vaihtelevia: pyöreistä säteittäisesti venyneisiin, rakomaisiin, sokkeloisiin tai toisinaan lähes helttamaisiin, läpimitaltaan 0,5–1,5 mm ja ohutseinäisiä; pillikerros on 5–15 mm paksu. Pillistö on nuorena valkeahko tai vaalean harmaanruskea, tummuu vanhetessaan likaisen harmaanokraksi tai ruskehtavaksi ja värjäytyy tuoreena kosketuksesta luonteenomaisesti lohenpunaiseksi, viininpunaiseksi tai punaruskeaksi. Basidiot ovat lieriömäisiä tai nuijamaisia, kooltaan 20–40 × 3–5 µm, ja niiden joukossa on runsaasti 2–3 µm leveitä hyfidioita.",
+      "stipe": "Puuttuu; jalaton itiöemä kiinnittyy suoraan sivustaan tai takareunastaan puuhun.",
+      "flesh": "Tuoreena sitkeää, nahkamaista tai korkkimaista, kuivuessaan kovaa ja jäykkää; valkeahkoa, punertavaa tai vaalean puunruskeasta harmaanruskeaan, rihmastorakenteeltaan trimiittistä. Kaikki osat värjäytyvät kaliumhydroksidilla (KOH) tummanharmaiksi tai mustiksi. Tuoksu on heikko ja maku mieto tai hieman kitkerä.",
+      "sporePrint": "Valkoinen. Itiöt ovat sileitä, kapean lieriömäisiä tai hieman käyriä (allantoidisia), inamyloideja ja kooltaan 6–11 × 1,5–3 µm (yleisimmin 7–11 × 2–3 µm).",
+      "habitat": "Lahottaja ja heikko loinen lehtipuiden kuolleilla tai vahingoittuneilla rungoilla, maapuilla, oksilla ja toisinaan kannoilla; aiheuttaa pintapuuhun voimakasta ligniiniä hajottavaa valkolahoa, johon liittyy joskus mustia rajaviivoja lahonneessa puussa. Suosii voimakkaasti pajuja (Salix), erityisesti kosteissa rantametsissä, ja kasvaa myös koivulla, lepällä, pähkinäpensaalla, pyökillä, valkopyökillä, pihlajalla, lehmuksella, jalavalla, kanukalla ja hedelmäpuilla, hyvin harvoin havupuilla. Tuoreet yksivuotiset itiöemät kehittyvät kesäkuusta joulukuuhun; itiöiden vapautuminen on vilkkaimmillaan syksystä talveen ja hiipuu alkukesällä, kun taas sitkeät kuivuneet itiöemät pysyvät puussa ympäri vuoden.",
+      "uses": "Syötäväksi kelpaamaton sitkeän, korkkimaisen ja puisevan maltonsa vuoksi.",
+      "confusion": "Daedalea quercina kasvaa pääasiassa tammella, muodostaa suurempia ja paksumpia itiöemiä (1–8 cm paksuja) huomattavasti paksumpiseinäisine ja karkeampine sokkelopilleineen, tuottaa pienempiä itiöitä (5,5–7 × 2,5–3,5 µm), aiheuttaa ruskeaa sydänlahoa eikä punerru kosketuksesta. Daedaleopsis tricolor on lakiltaan tummempi, tasaisemmin viininpunainen tai punaruskea, ja sen alapinta on selvästi helttamainen ja hopeanhohtoinen, vain vähäisin poikkiliitoksin tai ilman niitä. Cerrena unicolor muodostaa ohuempia itiöemiä, joiden maltossa on musta rajaviiva ja joiden pillit halkeavat vanhemmiten epäsäännöllisiksi litteiksi piikeiksi. Trametes gibbosa omaa venyneet pillit, mutta sen malto on puhtaanvalkoista eikä pillistö punerru. Trametes elegans on lakiltaan valkeahko, sen itiöt ovat pienemmät (5–7 × 1,5–2,5 µm), se ei punerru kosketuksesta ja sen malto värjäytyy KOH:lla kellertäväksi eikä mustahkoksi.",
+      "notes": "Itiöemissä elää runsas puu- ja sienikuoriaislajisto: yhdessä venäläisessä tutkimuksessa niistä todettiin 54 lajia 16 heimosta. Lajien Daedaleopsis confragosa ja Daedaleopsis tricolor välisestä taksonomisesta rajasta on keskusteltu, sillä välimuotoisia itiöemiä tavataan toisinaan ja jotkin molekyylitutkimukset pitävät niitä saman lajin muunnoksina, vaikka nykyiset lajiluettelot tunnustavat ne erillisiksi lajeiksi.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/2545670"
+      ]
+    },
+    "fr": {
+      "label": "tramète rougissante",
+      "names": [
+        "tramète rougissant"
+      ],
+      "description": "Champignon lignicole coriace en console poussant isolément ou en étages imbriqués sur le bois mort ou blessé de feuillus, en particulier les saules, dans l'Eurasie tempérée, en Amérique du Nord jusqu'au Mexique, ainsi que dans certaines régions d'Australie et de Nouvelle-Zélande. Les sporophores se développent de l'été à l'automne et persistent durant l'hiver, provoquant une pourriture blanche intense.",
+      "cap": "3–15 cm de largeur (occasionnellement jusqu'à 20 cm), faisant saillie de 4–8 cm sur le bois et épais de 1–3 cm, semi-circulaire à flabelliforme, largement convexe à plat et attaché directement au substrat sans pied, parfois muni d'un léger mamelon au point d'insertion. La surface supérieure sèche et mate est lisse à finement veloutée, bosselée ou ridée radialement, et zonée concentriquement dans des teintes gris blanchâtre, ocre grisâtre, beige, brunâtre et rouge vineux, s'assombrissant souvent vers le brun rouille ou le noirâtre avec l'âge tout en conservant une marge de croissance mince et blanchâtre.",
+      "hymenium": "Les pores sont très variables, allant de circulaires à allongés radialement, en fentes, labyrinthiformes ou parfois presque lamelliformes, mesurant 0,5–1,5 mm de largeur à parois minces ; les tubes atteignent 5–15 mm de profondeur. La surface porée est blanchâtre à beige grisâtre pâle chez les jeunes spécimens, fonçant vers l'ocre grisâtre terne ou le brunâtre avec l'âge, et rosit de façon caractéristique en rose saumon, rose vineux ou brun rougeâtre au froissement à l'état frais. Les basides sont cylindriques à clavées, mesurant 20–40 × 3–5 µm, accompagnées de nombreuses hyphidies larges de 2–3 µm.",
+      "stipe": "Absent ; la console sessile s'attache directement au bois par le côté ou le bord postérieur.",
+      "flesh": "Coriace, subéreuse à liégeuse à l'état frais, devenant dure et rigide en séchant ; blanchâtre, rosâtre ou brun bois pâle à brun grisâtre, à système hyphal trimitique. Toutes les parties noircissent ou virent au gris foncé au contact de l'hydroxyde de potassium (KOH). L'odeur est indistincte et la saveur douce à légèrement amère.",
+      "sporePrint": "Blanche. Les basidiospores sont lisses, étroitement cylindriques à légèrement arquées (allantoïdes), inamyloïdes, et mesurent 6–11 × 1,5–3 µm (le plus souvent 7–11 × 2–3 µm).",
+      "habitat": "Saprotrophe et faiblement parasite sur les troncs morts ou blessés, les billes tombées, les branches et parfois les souches de feuillus, provoquant une intense pourriture blanche délignifiante de l'aubier, parfois accompagnée de lignes de démarcation noires dans le bois décomposé. Affectionne fortement les saules (Salix), en particulier dans les forêts riveraines humides, et pousse aussi sur bouleau, aulne, noisetier, hêtre, charme, sorbier, tilleul, orme, cornouiller et arbres fruitiers, très rarement sur conifères. Les sporophores annuels frais apparaissent de juin à décembre, avec une sporulation maximale de l'automne à l'hiver qui décroît au début de l'été, tandis que les consoles desséchées et coriaces persistent sur le bois toute l'année.",
+      "uses": "Non comestible en raison de sa texture coriace, liégeuse et ligneuse.",
+      "confusion": "Daedalea quercina pousse principalement sur chêne, forme des consoles plus grandes et plus épaisses (1–8 cm d'épaisseur) à parois de pores labyrinthiformes beaucoup plus épaisses et grossières, produit des spores plus petites (5,5–7 × 2,5–3,5 µm), provoque une pourriture brune du cœur et ne rosit pas au froissement. Daedaleopsis tricolor possède un chapeau plus foncé, plus uniformément rouge vineux à brun rougeâtre, et une face inférieure nettement lamelliforme à reflets argentés présentant peu ou pas d'anastomoses. Cerrena unicolor forme des consoles plus minces parcourues par une ligne noire dans la chair et des tubes qui se déchirent en dents aplaties irrégulières à maturité. Trametes gibbosa présente des pores allongés mais une chair blanc pur et ne rougit pas au froissement. Trametes elegans possède un chapeau blanchâtre, des spores plus petites (5–7 × 1,5–2,5 µm), ne rougit pas au froissement et sa chair jaunit plutôt que de noircir au KOH.",
+      "notes": "Les sporophores abritent une riche faune de coléoptères lignicoles et mycétophages, avec 54 espèces appartenant à 16 familles recensées dans une seule étude russe. La limite taxonomique entre Daedaleopsis confragosa et Daedaleopsis tricolor fait l'objet de débats, des sporophores intermédiaires étant parfois observés et certaines études moléculaires traitant les deux taxons comme des variétés d'une même espèce, bien que les listes de référence actuelles les reconnaissent séparément.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/2545670"
+      ]
+    },
+    "he": {
+      "description": "פטריית מדף קשיחה ומפרקת עץ, הגדלה בודדת או בשכבות חופפות על עצי עלים מתים ופצועים, במיוחד ערבות, ברחבי האזורים הממוזגים של אירואסיה, אמריקה הצפונית דרומה עד מקסיקו וחלקים מאוסטרליה ומניו זילנד. גופי הפרי מתפתחים מהקיץ עד הסתיו ונשארים לאורך החורף, וגורמים לריקבון לבן אינטנסיבי.",
+      "cap": "רוחב הכובע 3–15 ס\"מ (לעיתים עד 20 ס\"מ), בולט 4–8 ס\"מ מהעץ ועוביו 1–3 ס\"מ; צורתו חצי-עגולה עד דמוית מניפה, קמורה רחבה עד שטוחה, והוא מחובר ישירות למצע ללא רגל, לעיתים עם בליטה קלה בנקודת החיבור. פני השטח העליונים יבשים ועמומים, חלקים עד שעירים קלות, גבשושיים או מקומטים רדיאלית, ובעלי אזורים קונצנטריים בגווני אפור-לבנבן, אפור-אוקר, חום בהיר, חום ואדום-יין, שלעיתים קרובות מתכהים לחום-חלודה או לשחור עם הגיל תוך שמירה על שוליי גדילה חדים ולבנבנים-חיוורים.",
+      "hymenium": "הנקבוביות משתנות מאוד, מעגולות ועד מוארכות רדיאלית, דמויות חריץ, מבוכיות או לעיתים כמעט דמויות דפים, ברוחב 0.5–1.5 מ\"מ עם דפנות דקות; עומק הצינורות 5–15 מ\"מ. משטח הנקבוביות לבנבן עד אפור-חום חיוור בצעירותו, מתכהה לאפור-אוקר עמום או חום עם הגיל, ובאופן אופייני משנה את צבעו לוורוד-סלמון, ורוד-יין או חום-אדמדם בעת חבלה כשהוא טרי. הבסידיות גליליות עד דמויות אלה, בגודל 20–40 × 3–5 מיקרומטר, ומלוות בהיפידיות רבות ברוחב 2–3 מיקרומטר.",
+      "stipe": "נעדרת; גוף הפרי היושב מחובר ישירות בצדו או בשוליו האחוריים אל העץ.",
+      "flesh": "קשיח, עורי עד שעם כשהוא טרי, ומתייבש לקשה ונוקשה; צבעו לבנבן, ורדרד או חום-עץ חיוור עד חום-אפרפר, בעל מערכת קורים תלת-מיטית. כל החלקים הופכים לאפור כהה עד שחור במגע עם אשלגן הידרוקסידי (KOH). הריח בלתי מובהק והטעם עדין עד מריר קלות.",
+      "sporePrint": "לבן. הבסידיוספורות חלקות, גליליות צרות עד כפופות קלות (דמויות נקניקייה), לא-עמילואידות, וגודלן 6–11 × 1.5–3 מיקרומטר (לרוב 7–11 × 2–3 מיקרומטר).",
+      "habitat": "סאפרוטרופי וטפילי חלש על גזעים מתים או פצועים, בולי עץ נפולים, ענפים ולעיתים גדמים של עצים רחבי-עלים, וגורם לריקבון לבן אינטנסיבי המפרק ליגנין בעצת ההובלה, לעיתים מלווה בקווי תיחום שחורים בעץ הרקוב. מעדיף במובהק ערבות (Salix), במיוחד בחורשות לחות לגדות נהרות, וגדל גם על שדר, אלנוס, לוז, אשור, אלה לבנה (קרפינוס), בן-חוזרר, תרזה, בוקיצה, קרנית ועצי פרי, ורק לעיתים נדירות מאוד על מחטניים. גופי פרי חד-שנתיים טריים מתפתחים מיוני עד דצמבר, כאשר שחרור הנבגים מגיע לשיאו מהסתיו עד החורף ונחלש בתחילת הקיץ, ואילו גופי הפרי היבשים והקשיחים נשארים על העץ כל השנה.",
+      "uses": "לא למאכל בשל מרקמו הקשיח, השעמי והעצי.",
+      "confusion": "Daedalea quercina גדלה בעיקר על אלון, יוצרת מדפים גדולים ועבים יותר (עובי 1–8 ס\"מ) עם דפנות נקבוביות מבוכיות עבות וגסות בהרבה, מייצרת נבגים קטנים יותר (5.5–7 × 2.5–3.5 מיקרומטר), גורמת לריקבון לב חום ואינה מכתמת בוורוד. ל-Daedaleopsis tricolor כובע כהה ואחיד יותר בצבע אדום-יין עד חום-אדמדם וצד תחתון דמוי דפים מובהק בעל ברק כסוף עם מעט חיבורי רוחב או ללא חיבורים כלל. Cerrena unicolor יוצרת מדפים דקים יותר עם קו שחור בבשר וצינורות המתפצלים בבגרותם לשיניים שטוחות ובלתי סדירות. ל-Trametes gibbosa נקבוביות מוארכות אך בשר לבן טהור וללא האדמה בחבלה. ל-Trametes elegans כובע לבנבן, נבגים קטנים יותר (5–7 × 1.5–2.5 מיקרומטר), ללא האדמה בחבלה, ובשר המצהיב ולא משחיר במגע עם KOH.",
+      "notes": "גופי הפרי תומכים בפאונה עשירה של חיפושיות שוכנות עץ ופטריות, עם 54 מינים מ-16 משפחות שתועדו במחקר רוסי אחד. הגבול הטקסונומי בין Daedaleopsis confragosa ל-Daedaleopsis tricolor שנוי במחלוקת, שכן לעיתים נמצאים גופי פרי בעלי תכונות ביניים וחלק מהמחקרים המולקולריים מתייחסים לשניהם כזנים של מין אחד, אם כי רשימות עדכניות מכירות בהם בנפרד.",
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "यह एक सख्त, लकड़ी सड़ाने वाला ब्रैकेट कवक है जो मृत और क्षतिग्रस्त चौड़ी पत्ती वाले पेड़ों, विशेष रूप से विलो (बेंत) पर अकेले या एक-दूसरे के ऊपर परतदार समूहों में उगता है। यह समशीतोष्ण यूरेशिया, उत्तरी अमेरिका (दक्षिण में मेक्सिको तक), तथा ऑस्ट्रेलिया और न्यूज़ीलैंड के कुछ हिस्सों में पाया जाता है। इसके फलनकाय गर्मियों से शरद ऋतु तक विकसित होते हैं और सर्दियों भर बने रहते हैं, तथा लकड़ी में तीव्र सफेद सड़न पैदा करते हैं।",
+      "cap": "टोपी 3–15 सेमी चौड़ी (कभी-कभी 20 सेमी तक), लकड़ी से 4–8 सेमी बाहर निकली हुई और 1–3 सेमी मोटी होती है। यह अर्धवृत्ताकार से पंखे के आकार की, चौड़ी उत्तल से चपटी होती है और बिना डंठल के सीधे आधार से जुड़ी रहती है, जिसमें जुड़ाव के स्थान पर कभी-कभी हल्का उभार होता है। सूखी, चमकहीन ऊपरी सतह चिकनी से लेकर सूक्ष्म रोएंदार, ऊबड़-खाबड़ या त्रिज्यीय रूप से झुर्रीदार होती है, और इस पर सफेदी लिए भूरे, भूरे-गेरुए, हल्के बादामी, भूरे तथा वाइन-लाल रंग के संकेंद्रित घेरे होते हैं। उम्र बढ़ने के साथ यह अक्सर जंग-भूरे या कालेपन की ओर गहरा हो जाता है, जबकि इसका बढ़ता हुआ किनारा तीखा और हल्का सफेद बना रहता है।",
+      "hymenium": "छिद्र अत्यंत परिवर्तनशील होते हैं, जो गोल से लेकर त्रिज्यीय रूप से लंबे, दरारनुमा, भूलभुलैया जैसे या कभी-कभी लगभग गिल्स जैसे होते हैं; इनकी चौड़ाई 0.5–1.5 मिमी और दीवारें पतली होती हैं, तथा नलिकाएं 5–15 मिमी गहरी होती हैं। युवा अवस्था में छिद्रों की सतह सफेदी लिए या हल्के भूरे-बादामी रंग की होती है, उम्र के साथ मटमैले भूरे-गेरुए या भूरे रंग की हो जाती है, और ताज़ा अवस्था में दबाने या चोट लगने पर विशिष्ट रूप से सैल्मन-गुलाबी, वाइन-गुलाबी या लाल-भूरे रंग की हो जाती है। बेसिडिया बेलनाकार से गदाकार होते हैं, जिनका माप 20–40 × 3–5 माइक्रोमीटर होता है, और इनके साथ 2–3 माइक्रोमीटर चौड़े अनेक हाइफिडिया पाए जाते हैं।",
+      "stipe": "अनुपस्थित; डंठलहीन फलनकाय अपने पार्श्व या पिछले किनारे से सीधे लकड़ी से जुड़ा रहता है।",
+      "flesh": "ताज़ा अवस्था में सख्त, चमड़े जैसा से कॉर्क जैसा, जो सूखने पर कठोर और कड़ा हो जाता है; रंग में सफेदी लिए, गुलाबी या हल्के लकड़ी-भूरे से भूरे-सलेटी होता है और इसमें त्रि-सूत्रक (ट्राइमिटिक) कवकजाल तंत्र होता है। पोटैशियम हाइड्रॉक्साइड (KOH) के संपर्क में आने पर सभी भाग गहरे भूरे से काले हो जाते हैं। गंध अस्पष्ट होती है और स्वाद हल्का से थोड़ा कड़वा होता है।",
+      "sporePrint": "सफेद। बेसिडियोबीजाणु चिकने, संकरे बेलनाकार से हल्के मुड़े हुए (एलैंटॉइड), नॉन-एमाइलॉइड होते हैं और इनका माप 6–11 × 1.5–3 माइक्रोमीटर (अधिकतर 7–11 × 2–3 माइक्रोमीटर) होता है।",
+      "habitat": "यह चौड़ी पत्ती वाले पेड़ों के मृत या घायल तनों, गिरे हुए लट्ठों, शाखाओं और कभी-कभी ठूंठों पर मृतोपजीवी तथा दुर्बल परजीवी के रूप में उगता है, और रसदारु में तीव्र सफेद लिग्निन-अपघटक सड़न पैदा करता है, जिसमें कभी-कभी सड़ी लकड़ी में काली रेखाएं बन जाती हैं। यह विशेष रूप से नदियों के किनारे नम वनों में विलो (Salix) को प्राथमिकता देता है, और भोजपत्र (बर्च), एल्डर, हेज़ल, बीच, हॉर्नबीम, रोवन, लाइम, एल्म, डॉगवुड तथा फलदार पेड़ों पर भी उगता है; शंकुधारी पेड़ों पर यह बहुत ही कम मिलता है। ताज़े वार्षिक फलनकाय जून से दिसंबर तक विकसित होते हैं, बीजाणु मुक्ति शरद से सर्दियों तक चरम पर होती है और शुरुआती गर्मियों में कम हो जाती है, जबकि सख्त सूखे फलनकाय साल भर लकड़ी पर बने रहते हैं।",
+      "uses": "अपने सख्त, कॉर्क जैसे और काष्ठीय बनावट के कारण अखाद्य।",
+      "confusion": "Daedalea quercina मुख्य रूप से ओक पर उगता है, अधिक बड़े और मोटे फलनकाय (1–8 सेमी मोटे) बनाता है जिनकी भूलभुलैया जैसी छिद्र दीवारें काफी मोटी और खुरदरी होती हैं, इसके बीजाणु छोटे (5.5–7 × 2.5–3.5 माइक्रोमीटर) होते हैं, यह भूरा अंतःकाष्ठ सड़न पैदा करता है और दबाने पर गुलाबी नहीं पड़ता। Daedaleopsis tricolor की टोपी अधिक गहरी और एकसमान वाइन-लाल से लाल-भूरे रंग की होती है, और निचली सतह स्पष्ट रूप से गिल्स जैसी तथा चांदी जैसी चमक वाली होती है जिसमें अनुप्रस्थ जुड़ाव कम या अनुपस्थित होते हैं। Cerrena unicolor पतले फलनकाय बनाता है जिनके गूदे में एक काली रेखा होती है और परिपक्व होने पर नलिकाएं अनियमित चपटे दांतों में फट जाती हैं। Trametes gibbosa में लंबे छिद्र होते हैं, लेकिन इसका गूदा शुद्ध सफेद होता है और इसमें लाल रंग का दाग नहीं पड़ता। Trametes elegans की टोपी सफेदी लिए होती है, बीजाणु छोटे (5–7 × 1.5–2.5 माइक्रोमीटर) होते हैं, इसमें लाल दाग नहीं पड़ता, और KOH के साथ इसका गूदा काले होने के बजाय पीला पड़ जाता है।",
+      "notes": "इसके फलनकाय लकड़ी और कवक में रहने वाले भृंगों (बीटल्स) के समृद्ध जीव-समूह को आश्रय देते हैं; एक रूसी अध्ययन में 16 कुलों की 54 प्रजातियां दर्ज की गई थीं। Daedaleopsis confragosa और Daedaleopsis tricolor के बीच वर्गीकरण सीमा पर बहस रही है, क्योंकि कभी-कभी मध्यवर्ती लक्षणों वाले फलनकाय मिलते हैं और कुछ आणविक अध्ययन इन्हें एक ही प्रजाति की किस्में मानते हैं, हालांकि वर्तमान सूचियां इन्हें अलग-अलग प्रजातियों के रूप में मान्यता देती हैं।",
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Žilava, lignikolna konzolasta gljiva koja raste pojedinačno ili crijepasto poredana na mrtvom i oštećenom drvu bjelogoričnog drveća, osobito vrba, u umjerenom pojasu Euroazije, u Sjevernoj Americi na jug do Meksika te u dijelovima Australije i Novog Zelanda. Plodna tijela razvijaju se od ljeta do jeseni i opstaju tijekom zime, uzrokujući intenzivnu bijelu trulež.",
+      "cap": "Širok 3–15 cm (povremeno do 20 cm), strši 4–8 cm od drva i debeo je 1–3 cm, polukružan do lepezast, široko ispupčen do ravan te bez stručka izravno prirastao za podlogu, ponekad s blagim ispupčenjem na mjestu prirastanja. Suha, mat gornja površina glatka je do sitno dlakava, kvrgava ili radijalno naborana te koncentrično pojasasta u bjelkastosivim, sivookerskim, žutosmećkastim, smećkastim i vinsko crvenkastim nijansama; starenjem često tamni prema hrđavosmeđoj ili crnkastoj boji, ali zadržava oštar, blijedo bjelkast rub rasta.",
+      "hymenium": "Pore su vrlo promjenjive, od okruglih do radijalno izduženih, pukotinastih, labirintastih ili povremeno gotovo listićastih, široke 0,5–1,5 mm s tankim stijenkama; cjevčice su duboke 5–15 mm. Površina pora u mladosti je bjelkasta do blijedo sivosmećkasta, starenjem tamni u prljavo sivookersku ili smećkastu, a u svježem stanju na pritisak karakteristično poprima lososovo ružičastu, vinsko ružičastu ili crvenosmeđu boju. Bazidiji su cilindrični do batinasti, veličine 20–40 × 3–5 µm, praćeni brojnim hifidijima širokim 2–3 µm.",
+      "stipe": "Odsutan; sjedeće plodno tijelo bočno ili stražnjim rubom izravno prirasta za drvo.",
+      "flesh": "U svježem stanju žilavo, kožasto do plutasto, sušenjem postaje tvrdo i kruto; bjelkasto, ružičasto ili blijedo drvosmeđe do sivosmeđe, s trimitičkim hifnim sustavom. Svi dijelovi s kalijevim hidroksidom (KOH) tamne u tamnosivu do crnu boju. Miris je neizrazit, a okus blag do blago gorak.",
+      "sporePrint": "Bijel. Bazidiospore su glatke, usko cilindrične do blago zakrivljene (alantoidne), neamiloidne i mjere 6–11 × 1,5–3 µm (najčešće 7–11 × 2–3 µm).",
+      "habitat": "Saprotrofna i slabo parazitska gljiva na mrtvim ili oštećenim deblima, oborenim trupcima, granama i povremeno panjevima bjelogoričnog drveća, gdje uzrokuje intenzivnu bijelu delignifikacijsku trulež bjeljike, ponekad popraćenu crnim zonskim linijama u razgrađenom drvu. Izrazito preferira vrbe (Salix), osobito u vlažnim obalnim šumama, a raste i na brezi, johi, lijeski, bukvi, grabu, jarebiki, lipi, brijestu, drijenu i voćkama, vrlo rijetko na četinjačama. Svježa jednogodišnja plodna tijela razvijaju se od lipnja do prosinca, pri čemu otpuštanje spora dosiže vrhunac od jeseni do zime i slabi početkom ljeta, dok žilava osušena plodna tijela ostaju na drvu cijele godine.",
+      "uses": "Nejestiva zbog žilavog, plutastog i drvenastog mesa.",
+      "confusion": "Daedalea quercina raste ponajprije na hrastu, tvori veća i deblja plodna tijela (debljine 1–8 cm) sa znatno debljim, grubljim labirintastim stijenkama pora, ima manje spore (5,5–7 × 2,5–3,5 µm), uzrokuje smeđu trulež srži i na pritisak ne poprima ružičastu boju. Daedaleopsis tricolor ima tamniji, ujednačenije vinsko crven do crvenosmeđ klobuk te izrazito listićastu donju stranu srebrnastog sjaja s malo ili nimalo poprečnih spojeva. Cerrena unicolor tvori tanja plodna tijela s crnom linijom u mesu, a cjevčice se u zrelosti rascjepljuju u nepravilne spljoštene zubiće. Trametes gibbosa ima izdužene pore, ali čisto bijelo meso i ne crveni na pritisak. Trametes elegans ima bjelkast klobuk, manje spore (5–7 × 1,5–2,5 µm), ne crveni, a meso joj s KOH poprima žućkastu umjesto crnkaste boje.",
+      "notes": "Plodna tijela podržavaju bogatu faunu kornjaša vezanih uz drvo i gljive; u jednom ruskom istraživanju zabilježene su 54 vrste iz 16 porodica. Taksonomska granica između Daedaleopsis confragosa i Daedaleopsis tricolor predmet je rasprava jer se povremeno nalaze prijelazna plodna tijela, a neka molekularna istraživanja oba taksona smatraju varijetetima iste vrste, iako ih suvremeni popisi vrsta priznaju odvojeno.",
+      "sourceUrls": []
+    },
+    "hu": {
+      "label": "rózsaszínes egyrétűtapló",
+      "wikipedia": "https://hu.wikipedia.org/wiki/R%C3%B3zsasz%C3%ADnes_egyr%C3%A9t%C5%B1tapl%C3%B3",
+      "description": "Szívós, fabontó taplógomba, amely magányosan vagy zsindelyszerűen egymás fölött nő elhalt és sérült lombos fák, különösen füzek fáján Eurázsia mérsékelt övi területein, Észak-Amerikában délen Mexikóig, valamint Ausztrália és Új-Zéland egyes részein. Termőtestei nyártól őszig fejlődnek és áttelelnek, miközben intenzív fehérkorhadást okoznak.",
+      "cap": "3–15 cm széles (ritkán akár 20 cm), a fától 4–8 cm-re áll el és 1–3 cm vastag, félkör vagy legyező alakú, szélesen domborútól laposig terjedő, tönk nélkül, közvetlenül az aljzathoz nőtt, a tapadási pontnál néha enyhe púppal. Száraz, matt felszíne sima vagy finoman szőrös, dudoros vagy sugarasan ráncolt, és koncentrikusan zónázott fehéresszürke, szürkésokker, sárgásbarna, barnás és borvöröses árnyalatokban; idősebben gyakran rozsdabarnára vagy feketésre sötétedik, miközben éles, halvány fehéres növekedési szegélyét megőrzi.",
+      "hymenium": "A pórusok rendkívül változatosak, a kerekdedtől a sugarasan megnyúlt, rés-, labirintusszerű vagy olykor csaknem lemezes alakig, 0,5–1,5 mm szélesek, vékony falúak; a csövek 5–15 mm mélyek. A pórusfelület fiatalon fehéres vagy halvány szürkésbarna, idővel piszkos szürkésokkerre vagy barnásra sötétedik, frissen pedig nyomásra jellegzetesen lazacrózsaszínűre, borrózsaszínűre vagy vörösbarnára színeződik. A bazídiumok hengeresek vagy bunkósak, 20–40 × 3–5 µm méretűek, számos 2–3 µm széles hifídium kíséretében.",
+      "stipe": "Nincs; az ülő termőtest oldalával vagy hátsó szélével közvetlenül a fához nő.",
+      "flesh": "Frissen szívós, bőrszerű vagy parafaszerű, száradva kemény és merev; fehéres, rózsaszínes vagy halvány faszínűtől szürkésbarnáig terjedő, trimitikus hifarendszerű. Minden része kálium-hidroxid (KOH) hatására sötétszürkére vagy feketére színeződik. Szaga nem jellegzetes, íze enyhe vagy enyhén kesernyés.",
+      "sporePrint": "Fehér. A bazidiospórák simák, keskenyen hengeresek vagy enyhén hajlottak (allantoidok), nem amiloidok, méretük 6–11 × 1,5–3 µm (leggyakrabban 7–11 × 2–3 µm).",
+      "habitat": "Szaprotróf és gyengén parazita lombos fák elhalt vagy sérült törzsein, kidőlt rönkjein, ágain és időnként tuskóin, ahol a szíjács intenzív, lignint bontó fehérkorhadását okozza, amelyet néha fekete zónavonalak kísérnek a korhadó fában. Kifejezetten kedveli a füzeket (Salix), különösen nedves vízparti erdőkben, de előfordul nyíren, égeren, mogyorón, bükkön, gyertyánon, berkenyén, hárson, szilen, somon és gyümölcsfákon is, tűlevelűeken nagyon ritkán. A friss, egyéves termőtestek júniustól decemberig fejlődnek, a spóraszórás ősztől télig tetőzik és kora nyáron alábbhagy, míg a szívós, megszáradt termőtestek egész évben megmaradnak a fán.",
+      "uses": "Nem ehető szívós, parafaszerű, fás húsa miatt.",
+      "confusion": "A Daedalea quercina főként tölgyön nő, nagyobb és vastagabb termőtesteket képez (1–8 cm vastag) jóval vastagabb, durvább labirintusszerű pórusfalakkal, kisebb spórái vannak (5,5–7 × 2,5–3,5 µm), barna gesztkorhadást okoz, és nyomásra nem rózsaszínesedik. A Daedaleopsis tricolor kalapja sötétebb, egyenletesebben borvörös vagy vörösbarna, termőrétege pedig kifejezetten lemezes, ezüstösen fénylő, kevés harántösszeköttetéssel vagy azok nélkül. A Cerrena unicolor vékonyabb termőtesteket képez, húsában fekete vonal húzódik, csövei pedig éretten szabálytalan, lapított fogakká hasadoznak. A Trametes gibbosa pórusai szintén megnyúltak, de húsa tiszta fehér, és sérülésre nem vörösödik. A Trametes elegans kalapja fehéres, spórái kisebbek (5–7 × 1,5–2,5 µm), nem vörösödik, húsa pedig KOH hatására feketés helyett sárgás színűre változik.",
+      "notes": "Termőtestei gazdag fa- és gombalakó bogárfaunának adnak otthont; egyetlen oroszországi vizsgálat 16 családból 54 fajt mutatott ki belőlük. A Daedaleopsis confragosa és a Daedaleopsis tricolor közötti rendszertani határ vitatott, mivel időnként átmeneti termőtestek is előfordulnak, és egyes molekuláris vizsgálatok egyetlen faj változatainak tekintik őket, bár a jelenlegi fajlisták külön fajként tartják nyilván mindkettőt.",
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/R%C3%B3zsasz%C3%ADnes_egyr%C3%A9t%C5%B1tapl%C3%B3"
+      ]
+    },
+    "id": {
+      "description": "Jamur braket pelapuk kayu yang liat, tumbuh tunggal atau bertingkat saling menumpuk pada kayu keras yang mati dan terluka, terutama dedalu, di seluruh Eurasia beriklim sedang, Amerika Utara ke selatan hingga Meksiko, serta sebagian Australia dan Selandia Baru. Tubuh buah berkembang dari musim panas hingga musim gugur dan bertahan sepanjang musim dingin, menyebabkan busuk putih yang intensif.",
+      "cap": "Lebar tudung 3–15 cm (terkadang hingga 20 cm), menonjol 4–8 cm dari kayu dengan ketebalan 1–3 cm, berbentuk setengah lingkaran hingga menyerupai kipas, cembung lebar hingga datar, dan menempel langsung pada substrat tanpa tangkai, kadang dengan tonjolan kecil di titik perlekatan. Permukaan atas kering dan kusam, halus hingga berambut sangat halus, berbenjol atau berkerut secara radial, serta berzona konsentris dalam nuansa abu-abu keputihan, abu-abu oker, cokelat muda, kecokelatan, dan merah anggur, sering menggelap menjadi cokelat karat atau kehitaman seiring bertambahnya usia sambil mempertahankan tepi pertumbuhan yang tajam dan putih pucat.",
+      "hymenium": "Pori sangat bervariasi, mulai dari bulat hingga memanjang secara radial, berbentuk celah, menyerupai labirin, atau sesekali hampir seperti lamela, berukuran lebar 0,5–1,5 mm dengan dinding tipis; tabung sedalam 5–15 mm. Permukaan pori berwarna keputihan hingga cokelat keabu-abuan pucat saat muda, menggelap menjadi abu-abu oker kusam atau kecokelatan seiring usia, dan secara khas memar menjadi merah muda salmon, merah muda anggur, atau cokelat kemerahan saat masih segar. Basidium berbentuk silindris hingga gada, berukuran 20–40 × 3–5 µm, disertai banyak hifidia selebar 2–3 µm.",
+      "stipe": "Tidak ada; tubuh buah yang duduk ini menempel langsung melalui sisi atau tepi belakangnya pada kayu.",
+      "flesh": "Liat, seperti kulit hingga gabus saat segar, mengering menjadi keras dan kaku; berwarna keputihan, merah muda, atau cokelat kayu pucat hingga cokelat keabu-abuan, dengan sistem hifa trimitik. Semua bagian berubah menjadi abu-abu tua hingga hitam dengan kalium hidroksida (KOH). Baunya tidak khas dan rasanya ringan hingga sedikit pahit.",
+      "sporePrint": "Putih. Basidiospora halus, silindris sempit hingga sedikit melengkung (alantoid), inamiloid, dan berukuran 6–11 × 1,5–3 µm (paling umum 7–11 × 2–3 µm).",
+      "habitat": "Saprotrof dan parasit lemah pada batang mati atau terluka, kayu tumbang, cabang, dan sesekali tunggul pohon berdaun lebar, menyebabkan busuk putih delignifikasi yang intensif pada kayu gubal, kadang disertai garis zona hitam di dalam kayu yang lapuk. Sangat menyukai pohon dedalu (Salix), terutama di hutan tepi sungai yang lembap, serta tumbuh pada betula, alder, hazel, beech, hornbeam, rowan, limau-limauan (lime), elm, dogwood, dan pohon buah-buahan, sangat jarang pada konifera. Tubuh buah tahunan yang segar berkembang dari Juni hingga Desember, dengan pelepasan spora memuncak dari musim gugur hingga musim dingin dan menurun pada awal musim panas, sementara tubuh buah kering yang liat bertahan di kayu sepanjang tahun.",
+      "uses": "Tidak dapat dimakan karena teksturnya yang liat, seperti gabus, dan berkayu.",
+      "confusion": "Daedalea quercina tumbuh terutama pada pohon ek, membentuk braket yang lebih besar dan tebal (tebal 1–8 cm) dengan dinding pori labirin yang jauh lebih tebal dan kasar, menghasilkan spora lebih kecil (5,5–7 × 2,5–3,5 µm), menyebabkan busuk hati cokelat, dan tidak memar kemerahan. Daedaleopsis tricolor memiliki tudung lebih gelap dan lebih seragam berwarna merah anggur hingga cokelat kemerahan serta bagian bawah yang jelas menyerupai lamela dengan kilau keperakan dan sedikit atau tanpa sambungan silang. Cerrena unicolor membentuk braket lebih tipis dengan garis hitam pada dagingnya dan tabung yang terbelah menjadi gigi-gigi pipih tidak beraturan saat dewasa. Trametes gibbosa memiliki pori memanjang tetapi daging putih murni dan tidak mengalami memar kemerahan. Trametes elegans memiliki tudung keputihan, spora lebih kecil (5–7 × 1,5–2,5 µm), tidak memar kemerahan, dan daging yang berubah kekuningan alih-alih kehitaman dengan KOH.",
+      "notes": "Tubuh buahnya mendukung fauna kumbang penghuni kayu dan jamur yang kaya, dengan 54 spesies dari 16 famili tercatat dalam satu penelitian di Rusia. Batas taksonomi antara Daedaleopsis confragosa dan Daedaleopsis tricolor masih diperdebatkan, karena tubuh buah perantara sesekali ditemukan dan beberapa studi molekuler memperlakukan keduanya sebagai varietas dari satu spesies, meskipun daftar periksa terkini mengakuinya secara terpisah.",
+      "sourceUrls": []
+    },
+    "it": {
+      "wikipedia": "https://it.wikipedia.org/wiki/Daedaleopsis_confragosa",
+      "description": "Fungo lignicolo coriaceo a mensola che cresce isolato o in gruppi embricati su legno morto o ferito di latifoglie, specialmente salici, nell'Eurasia temperata, in Nord America fino al Messico e in alcune aree di Australia e Nuova Zelanda. I corpi fruttiferi si sviluppano dall'estate all'autunno e persistono per tutto l'inverno, causando un'intensa carie bianca.",
+      "cap": "Largo 3–15 cm (occasionalmente fino a 20 cm), sporgente 4–8 cm dal legno e spesso 1–3 cm, semicircolare o a ventaglio, da largamente convesso a piano e attaccato direttamente al substrato senza gambo, talvolta con un lieve umbone nel punto d'inserzione. La superficie superiore, asciutta e opaca, è liscia o finemente vellutata, gibbosa o rugosa radialmente, e zonata concentricamente in tonalità grigio-biancastre, ocra-grigiastre, beige, brunastre e rosso-vinose, spesso scurendosi verso il bruno-ruggine o il nerastro con l'età pur mantenendo un margine di accrescimento sottile e biancastro.",
+      "hymenium": "I pori sono molto variabili, da circolari a radialmente allungati, a fessura, labirintiformi o talvolta quasi lamelliformi, larghi 0,5–1,5 mm con pareti sottili; i tubuli sono profondi 5–15 mm. La superficie porosa è biancastra o beige-grigiastra chiara negli esemplari giovani, scurendosi in ocra-grigiastro sporco o brunastro con l'età, e al tocco da fresca vira caratteristicamente al rosa salmone, rosa vinoso o bruno-rossastro. I basidi sono cilindrici o clavati, di 20–40 × 3–5 µm, accompagnati da numerosi ifidi larghi 2–3 µm.",
+      "stipe": "Assente; la mensola sessile si inserisce direttamente sul legno con il lato o il margine posteriore.",
+      "flesh": "Tenace, da coriacea a suberosa da fresca, dura e rigida allo stato secco; biancastra, rosata o bruno-legno chiara fino a bruno-grigiastra, con sistema ifale trimitico. Tutte le parti virano al grigio scuro o al nero con idrossido di potassio (KOH). L'odore è indistinto e il sapore da mite a leggermente amaro.",
+      "sporePrint": "Bianca. Le basidiospore sono lisce, strettamente cilindriche o leggermente ricurve (allantoidi), inamiloidi, e misurano 6–11 × 1,5–3 µm (più comunemente 7–11 × 2–3 µm).",
+      "habitat": "Saprotrofo e debolmente parassita su tronchi morti o feriti, tronchi caduti, rami e occasionalmente ceppaie di latifoglie, dove provoca un'intensa carie bianca delignificante dell'alburno, talvolta accompagnata da linee nere di demarcazione nel legno degradato. Predilige nettamente i salici (Salix), in particolare nei boschi ripariali umidi, e cresce anche su betulla, ontano, nocciolo, faggio, carpino, sorbo, tiglio, olmo, corniolo e alberi da frutto, molto raramente su conifere. I corpi fruttiferi annuali freschi si sviluppano da giugno a dicembre, con un picco di sporulazione dall'autunno all'inverno che si attenua all'inizio dell'estate, mentre le mensole secche e coriacee persistono sul legno per tutto l'anno.",
+      "uses": "Non commestibile a causa della consistenza tenace, suberosa e legnosa.",
+      "confusion": "Daedalea quercina cresce principalmente su quercia, forma mensole più grandi e spesse (1–8 cm di spessore) con pareti dei pori labirintiformi molto più spesse e grossolane, produce spore più piccole (5,5–7 × 2,5–3,5 µm), provoca una carie bruna del durame e non arrossa al tocco. Daedaleopsis tricolor ha un cappello più scuro, più uniformemente rosso vinoso fino a bruno-rossastro, e una faccia inferiore nettamente lamelliforme con riflessi argentei e poche o nessuna anastomosi. Cerrena unicolor forma mensole più sottili con una linea nera nella carne e tubuli che a maturità si lacerano in denti appiattiti irregolari. Trametes gibbosa presenta pori allungati ma carne bianco puro e non arrossa al tocco. Trametes elegans ha cappello biancastro, spore più piccole (5–7 × 1,5–2,5 µm), non arrossa al tocco e la sua carne ingiallisce anziché annerire con KOH.",
+      "notes": "I corpi fruttiferi ospitano una ricca fauna di coleotteri lignicoli e micetofagi, con 54 specie appartenenti a 16 famiglie registrate in un singolo studio russo. Il confine tassonomico tra Daedaleopsis confragosa e Daedaleopsis tricolor è stato a lungo dibattuto, poiché talvolta si rinvengono corpi fruttiferi intermedi e alcuni studi molecolari trattano i due taxa come varietà di un'unica specie, sebbene le checklist attuali li riconoscano separatamente.",
+      "sourceUrls": [
+        "https://it.wikipedia.org/wiki/Daedaleopsis_confragosa"
+      ]
+    },
+    "ja": {
+      "label": "チャミダレアミタケ",
+      "description": "枯死木や傷ついた広葉樹、とくにヤナギ類に単生または重なり合って棚状に発生する、硬質の木材腐朽性キノコです。温帯ユーラシア、メキシコ以北の北アメリカ、さらにオーストラリアおよびニュージーランドの一部に分布します。子実体は夏から秋にかけて発達して冬まで残り、強い白色腐朽を引き起こします。",
+      "cap": "傘は幅3–15 cm（まれに20 cmまで）、材からの張り出しは4–8 cm、厚さ1–3 cmで、半円形から扇形、広凸面から平坦となり、柄をもたず基質に直接付着し、付着部にわずかな膨らみをもつことがあります。上面は乾燥して光沢がなく、平滑から微毛状、凹凸や放射状のしわがあり、灰白色、灰黄土色、淡褐色、褐色、ワイン赤色などの同心円状の環紋をもち、老成すると錆褐色から黒褐色に暗色化しますが、生長縁は鋭く淡白色を保ちます。",
+      "hymenium": "管孔は非常に変異が大きく、円形から放射状に伸長した裂け目状、迷路状、あるいはまれにほぼひだ状となり、孔口幅は0.5–1.5 mmで隔壁は薄く、管孔の深さは5–15 mmです。孔口面は幼時に白色から淡灰褐色で、老成するとくすんだ灰黄土色や褐色に暗色化し、新鮮なものは傷つけると特徴的にサーモンピンク、ワインピンク、または赤褐色に変色します。担子器は円筒形からこん棒形で20–40 × 3–5 µm、幅2–3 µmの多数の菌糸状シスチジア（ヒフィディア）を伴います。",
+      "stipe": "ありません。無柄の子実体が側面または後縁で材に直接付着します。",
+      "flesh": "新鮮なときは強靭で革質からコルク質ですが、乾燥すると硬く剛直になります。色は白色、淡桃色、または淡木褐色から灰褐色で、三菌糸型です。水酸化カリウム（KOH）溶液で全部分が暗灰色から黒色に変わります。においは不明瞭で、味は温和からわずかに苦みがあります。",
+      "sporePrint": "白色です。担子胞子は平滑、狭円筒形からわずかに湾曲したソーセージ形（アラントイド）、非アミロイドで、大きさは6–11 × 1.5–3 µm（通常は7–11 × 2–3 µm）です。",
+      "habitat": "広葉樹の枯死幹や傷ついた幹、倒木、枯れ枝、まれに切り株に腐生性および弱寄生性として発生し、辺材に強い脱リグニン性の白色腐朽を引き起こし、腐朽材中に黒色帯線を伴うことがあります。とくに川沿いの湿潤な林のヤナギ属（Salix）を強く好みますが、カバノキ、ハンノキ、ハシバミ、ブナ、シデ、ナナカマド、シナノキ、ニレ、ミズキ、果樹類にも発生し、針葉樹ではきわめてまれです。新鮮な一年生子実体は6月から12月にかけて発達し、胞子の放出は秋から冬にかけて最盛期を迎えて初夏に減衰しますが、硬く乾燥した子実体は周年材上に残存します。",
+      "uses": "強靭でコルク質・木質の肉質のため、不食です。",
+      "confusion": "Daedalea quercinaは主にナラ類に発生し、より大型で厚い子実体（厚さ1–8 cm）と著しく厚く粗い迷路状の管孔壁をもち、胞子が小さく（5.5–7 × 2.5–3.5 µm）、褐色心材腐朽を起こし、傷つけても桃色に変色しません。Daedaleopsis tricolorは傘がより暗色で均一なワイン赤色から赤褐色を帯び、下面は明瞭なひだ状で銀色の光沢があり、横脈がほとんどまたはまったくありません。Cerrena unicolorは子実体がより薄く、肉に黒色線があり、成熟すると管孔が不規則な扁平の歯状に裂けます。Trametes gibbosaは伸長した管孔をもちますが、肉が純白で赤褐色の変色を欠きます。Trametes elegansは白っぽい傘とより小さな胞子（5–7 × 1.5–2.5 µm）をもち、赤変せず、肉がKOHで黒色ではなく黄色味を帯びます。",
+      "notes": "子実体は材棲・菌棲甲虫類の豊かな動物相を支えており、ロシアの単一の研究で16科54種が記録されています。Daedaleopsis confragosaとDaedaleopsis tricolorの分類学的境界については議論があり、中間型の子実体がまれに見つかることや、両者を同一種の変種として扱う分子系統研究もありますが、現在の種目録では別種として認められています。",
+      "sourceUrls": [
+        "https://www.gbif.org/species/2545670"
+      ]
+    },
+    "ko": {
+      "label": "도장버섯",
+      "description": "죽거나 상처 입은 활엽수, 특히 버드나무류에 홀로 또는 기와처럼 겹쳐 자라는 질긴 목재부후성 버섯입니다. 온대 유라시아, 멕시코 이북의 북아메리카, 그리고 오스트레일리아와 뉴질랜드 일부 지역에 분포합니다. 자실체는 여름부터 가을까지 발달하여 겨울 내내 남아 있으며, 강한 백색부후를 일으킵니다.",
+      "cap": "갓은 지름 3–15 cm(드물게 20 cm까지)이며, 나무에서 4–8 cm 돌출하고 두께는 1–3 cm입니다. 반원형에서 부채형으로 넓게 볼록하거나 편평하며, 대 없이 기질에 직접 붙고 부착 부위에 약간의 돌기가 있기도 합니다. 건조하고 광택이 없는 윗면은 매끄럽거나 미세한 털이 있으며 울퉁불퉁하거나 방사상으로 주름지고, 회백색, 회황토색, 황갈색, 갈색, 포도주적색의 동심원 무늬를 띱니다. 노숙하면 녹갈색에서 흑갈색으로 어두워지지만 날카롭고 옅은 백색의 생장 가장자리를 유지합니다.",
+      "hymenium": "관공은 변이가 매우 커서 원형에서 방사상으로 길어진 틈새형, 미로형, 드물게는 거의 주름살 모양에 이르며, 폭은 0.5–1.5 mm이고 격벽이 얇으며 관공 깊이는 5–15 mm입니다. 관공면은 어릴 때 백색에서 옅은 회갈색을 띠다가 노숙하면 탁한 회황토색이나 갈색으로 어두워지며, 신선할 때 상처를 입으면 특징적으로 연어분홍색, 포도주분홍색 또는 적갈색으로 변색합니다. 담자기는 원통형에서 곤봉형으로 크기가 20–40 × 3–5 µm이며, 폭 2–3 µm의 수많은 균사상 낭상체(히피디아)가 동반됩니다.",
+      "stipe": "없습니다. 대가 없는 자실체가 측면 또는 뒤쪽 가장자리로 나무에 직접 부착합니다.",
+      "flesh": "신선할 때는 질기고 가죽질에서 코르크질이며, 마르면 단단하고 뻣뻣해집니다. 색은 백색, 분홍빛, 또는 옅은 목갈색에서 회갈색이며 삼균사형 구조를 가집니다. 수산화칼륨(KOH) 용액에 닿으면 모든 부위가 짙은 회색에서 검은색으로 변합니다. 냄새는 뚜렷하지 않으며 맛은 순하거나 약간 씁니다.",
+      "sporePrint": "백색입니다. 담자포자는 매끄럽고 좁은 원통형에서 약간 굽은 소시지형(알란토이드)이며 비아밀로이드성으로, 크기는 6–11 × 1.5–3 µm(대부분 7–11 × 2–3 µm)입니다.",
+      "habitat": "활엽수의 죽거나 상처 입은 줄기, 쓰러진 통나무, 가지, 드물게 그루터기에 부생성 및 약한 기생성으로 자라며, 변재에 리그닌을 분해하는 강한 백색부후를 일으키고 때때로 부후된 목재 안에 검은 대선을 형성합니다. 특히 강가 습윤한 숲의 버드나무속(Salix)을 강하게 선호하며, 자작나무, 오리나무, 개암나무, 너도밤나무, 서어나무, 마가목, 피나무, 느릅나무, 층층나무, 과수에도 자라고 침엽수에서는 매우 드뭅니다. 신선한 일년생 자실체는 6월부터 12월까지 발달하며, 포자 방출은 가을부터 겨울까지 절정에 이르렀다가 초여름에 줄어드는 반면, 질기고 마른 자실체는 연중 나무에 남아 있습니다.",
+      "uses": "질기고 코르크질이며 목질화된 육질 때문에 식용 부적합합니다.",
+      "confusion": "Daedalea quercina는 주로 참나무류에 자라며, 훨씬 두껍고 거친 미로형 관공벽을 가진 더 크고 두꺼운 자실체(두께 1–8 cm)를 형성하고, 포자가 더 작으며(5.5–7 × 2.5–3.5 µm), 갈색 심재부후를 일으키고 상처 시 분홍색으로 변색하지 않습니다. Daedaleopsis tricolor는 갓이 더 어둡고 균일한 포도주적색에서 적갈색을 띠며, 아랫면이 뚜렷한 주름살 모양으로 은빛 광택이 나고 가로 연결이 거의 없거나 전혀 없습니다. Cerrena unicolor는 자실체가 더 얇고 살 속에 검은 선이 있으며, 성숙하면 관공이 불규칙하고 납작한 침형으로 갈라집니다. Trametes gibbosa는 길어진 관공을 가지지만 살이 순백색이고 적색 변색이 없습니다. Trametes elegans는 희끄무레한 갓과 더 작은 포자(5–7 × 1.5–2.5 µm)를 가지며 적색 변색이 없고, KOH에 닿았을 때 살이 검은색이 아니라 황색을 띱니다.",
+      "notes": "자실체는 목재 및 버섯 서식 딱정벌레류의 풍부한 동물상을 부양하며, 러시아의 단일 연구에서 16과 54종이 기록되었습니다. Daedaleopsis confragosa와 Daedaleopsis tricolor 사이의 분류학적 경계에 대해서는 논란이 있어 왔으며, 중간 형태의 자실체가 드물게 발견되고 일부 분자 연구에서는 두 종을 한 종의 변종으로 다루기도 하지만, 현재의 종목록에서는 별개의 종으로 인정합니다.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/2545670"
+      ]
+    },
+    "lt": {
+      "label": "rauplėtasis vingurėlis",
+      "description": "Standus, medieną ardantis kempininis grybas, augantis pavieniui arba čerpiškomis eilėmis ant negyvos ir pažeistos lapuočių medienos, ypač gluosnių, vidutinio klimato Eurazijoje, Šiaurės Amerikoje iki Meksikos bei dalyje Australijos ir Naujosios Zelandijos. Vaisiakūniai formuojasi nuo vasaros iki rudens ir išlieka per žiemą, sukeldami intensyvų baltąjį puvinį.",
+      "cap": "3–15 cm pločio (kartais iki 20 cm), 4–8 cm atsikišusi nuo medienos ir 1–3 cm storio, pusapvalė arba vėduokliška, plačiai iškila iki plokščios, be koto prisitvirtinusi tiesiogiai prie substrato, kartais su nedideliu gumburu prisitvirtinimo vietoje. Sausas, matinis viršutinis paviršius yra lygus arba smulkiai plaukuotas, nelygus ar spinduliškai raukšlėtas, koncentriškai dryžuotas balsvai pilkais, pilkšvai ochriniais, gelsvai rudais, rusvais ir vyno raudonumo atspalviais; sendamas dažnai patamsėja iki rūdžių rudumo ar juosvumo, išlaikydamas aštrų, šviesų balsvą augimo kraštą.",
+      "hymenium": "Poros labai kintamos – nuo apvalių iki spinduliškai pailgų, plyšiškų, labirintiškų arba kartais beveik lakšteliškų, 0,5–1,5 mm pločio, plonomis sienelėmis; vamzdeliai 5–15 mm gylio. Porų paviršius jaunystėje balsvas ar šviesiai pilkšvai rudas, sendamas patamsėja iki nešvariai pilkšvai ochrinio ar rusvo, o šviežias paspaustas būdingai nusidažo lašišų rožine, vyno rožine arba rausvai ruda spalva. Bazidijos cilindriškos arba kuokiškos, 20–40 × 3–5 µm dydžio, kartu su gausiomis 2–3 µm pločio hifidijomis.",
+      "stipe": "Nėra; bekotis vaisiakūnis šoniniu arba užpakaliniu kraštu prisitvirtina tiesiogiai prie medienos.",
+      "flesh": "Šviežia trama standi, odiška arba kamštiška, išdžiūvusi tampa kieta ir nelanksti; balsva, rausva arba šviesiai medienos rudumo iki pilkšvai rudos, trimitinės hifų sistemos. Visos dalys nuo kalio hidroksido (KOH) patamsėja iki tamsiai pilkos ar juodos spalvos. Kvapas neryškus, skonis švelnus arba šiek tiek kartokas.",
+      "sporePrint": "Baltas. Bazidiosporos lygios, siaurai cilindriškos arba lengvai lenktos (alantoidinės), neamiloidinės, 6–11 × 1,5–3 µm dydžio (dažniausiai 7–11 × 2–3 µm).",
+      "habitat": "Saprotrofinis ir silpnai parazitinis grybas, augantis ant negyvų ar pažeistų lapuočių kamienų, virtėlių, šakų ir kartais kelmų; sukelia intensyvų baltąjį ligniną ardantį balanos puvinį, kurį pūvančioje medienoje kartais lydi juodos ribinės linijos. Labai mėgsta gluosnius (Salix), ypač drėgnuose paupių miškuose, taip pat auga ant beržo, alksnio, lazdyno, buko, skroblo, šermukšnio, liepos, guobos, sedulos ir vaismedžių, labai retai – ant spygliuočių. Švieži vienmečiai vaisiakūniai formuojasi nuo birželio iki gruodžio; sporų barstymas pasiekia piką nuo rudens iki žiemos ir slopsta vasaros pradžioje, o standūs sudžiūvę vaisiakūniai ant medienos išlieka ištisus metus.",
+      "uses": "Nevalgomas dėl standžios, kamštiškos ir sumedėjusios tramos.",
+      "confusion": "Daedalea quercina auga daugiausia ant ąžuolo, formuoja didesnius ir storesnius vaisiakūnius (1–8 cm storio) su gerokai storesnėmis, grubesnėmis labirintiškomis porų sienelėmis, brandina mažesnes sporas (5,5–7 × 2,5–3,5 µm), sukelia rudąjį branduolio puvinį ir paspausta nerausvėja. Daedaleopsis tricolor turi tamsesnę, tolygiau vyno raudonumo ar rausvai rudą kepurėlę ir ryškiai lakštelišką, sidabriškai blizgančią apatinę pusę su nedaug skersinių jungčių arba be jų. Cerrena unicolor formuoja plonesnius vaisiakūnius su juoda linija tramoje ir vamzdeliais, kurie subrendę suskyla į netaisyklingus suplotus dygliukus. Trametes gibbosa turi pailgas poras, tačiau grynai baltą tramą ir paspausta nerausta. Trametes elegans pasižymi balsva kepurėle, mažesnėmis sporomis (5–7 × 1,5–2,5 µm), nerausta paspausta, o jos trama nuo KOH pagelsta, o ne pajuoduoja.",
+      "notes": "Vaisiakūniuose gyvena gausi medienos ir grybų vabalų fauna – viename Rusijos tyrime juose užfiksuotos 54 rūšys iš 16 šeimų. Taksonominė riba tarp Daedaleopsis confragosa ir Daedaleopsis tricolor yra diskutuotina, nes kartais randama tarpinių vaisiakūnių, o kai kurie molekuliniai tyrimai jas laiko vienos rūšies varietetais, tačiau dabartiniai sąrašai pripažįsta jas atskiromis rūšimis.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/2545670"
+      ]
+    },
+    "lv": {
+      "label": "parastā labirintpiepe",
+      "description": "Sīksta, koksni noārdoša piepe, kas aug pa vienai vai jumstiņveidā uz atmirušas un bojātas lapu koku koksnes, īpaši vītoliem, Eirāzijas mērenajā joslā, Ziemeļamerikā līdz Meksikai, kā arī vietām Austrālijā un Jaunzēlandē. Augļķermeņi attīstās no vasaras līdz rudenim un saglabājas ziemā, izraisot intensīvu balto trupi.",
+      "cap": "3–15 cm plata (reizēm līdz 20 cm), izvirzās 4–8 cm no koksnes un ir 1–3 cm bieza, pusapaļa līdz vēdekļveida, plaši izliekta līdz plakana un bez kātiņa tieši piestiprināta pie substrāta, reizēm ar nelielu pauguru piestiprināšanās vietā. Sausā, matētā augšpuse ir gluda līdz smalki pūkaina, nelīdzena vai radiāli grumbaina un koncentriski joslaina bālgani pelēkos, pelēki okera, gaiši brūnos, brūnganos un vīnsarkanīgos toņos; ar vecumu tā bieži kļūst rūsas brūna vai melngana, saglabājot asu, bālgani gaišu augšanas malu.",
+      "hymenium": "Poras ir ļoti mainīgas — no apaļām līdz radiāli izstieptām, spraugveida, labirintveida vai reizēm gandrīz lapiņveida, 0,5–1,5 mm platas ar plānām sieniņām; stobriņi ir 5–15 mm dziļi. Poru virsma jaunībā ir bālgana līdz gaiši pelēkbrūna, ar vecumu kļūst netīri pelēki okera vai brūngana, un svaigā stāvoklī pieskaroties raksturīgi iekrāsojas lašrozā, vīnrozā vai sarkanbrūnā krāsā. Bazīdijas ir cilindriskas līdz vālīšveida, 20–40 × 3–5 µm lielas, kopā ar daudzām 2–3 µm platām hifīdijām.",
+      "stipe": "Nav; sēdošais augļķermenis ar sānu vai aizmugurējo malu piestiprinās tieši pie koksnes.",
+      "flesh": "Svaigs ir sīksts, ādains līdz korķveida, izžūstot kļūst ciets un stīvs; bālgans, sārts vai gaiši koksnes brūns līdz pelēkbrūns, ar trimītisku hifu sistēmu. Visas daļas kālija hidroksīda (KOH) ietekmē iekrāsojas tumši pelēkas līdz melnas. Smarža ir neizteikta, bet garša — maiga līdz viegli rūgtena.",
+      "sporePrint": "Balts. Bazīdijsporas ir gludas, šauri cilindriskas līdz viegli izliektas (alantoīdas), inamiloīdas, 6–11 × 1,5–3 µm lielas (visbiežāk 7–11 × 2–3 µm).",
+      "habitat": "Saprotrofs un vājš parazīts uz lapu koku atmirušiem vai bojātiem stumbriem, kritalām, zariem un reizēm celmiem; izraisa intensīvu aplievas lignīnu noārdošu balto trupi, ko satrupējušajā koksnē dažkārt pavada melnas norobežojošās līnijas. Īpaši iecienījusi vītolus (Salix), sevišķi mitros upmalu mežos, un aug arī uz bērza, alkšņa, lazdas, dižskābarža, skābarža, pīlādža, liepas, gobas, grimoņa un augļu kokiem, ļoti reti uz skujkokiem. Svaigi viengadīgi augļķermeņi attīstās no jūnija līdz decembrim; sporu izsēšanās maksimumu sasniedz no rudens līdz ziemai un samazinās vasaras sākumā, savukārt sīkstie izžuvušie augļķermeņi uz koksnes saglabājas visu gadu.",
+      "uses": "Neēdama sīkstā, korķveida un pārkoksnētā mīkstuma dēļ.",
+      "confusion": "Daedalea quercina aug galvenokārt uz ozola, veido lielākus un biezākus augļķermeņus (1–8 cm biezus) ar daudz biezākām un rupjākām labirintveida poru sieniņām, rada mazākas sporas (5,5–7 × 2,5–3,5 µm), izraisa brūno kodoltrupi un pieskaroties neiekrāsojas sārta. Daedaleopsis tricolor ir ar tumšāku, vienmērīgāk vīnsarkanu līdz sarkanbrūnu cepurīti un skaidri lapiņveida, sudrabaini spīdīgu apakšpusi ar maz šķērssavienojumiem vai bez tiem. Cerrena unicolor veido plānākus augļķermeņus ar melnu līniju mīkstumā un stobriņiem, kas briedumā sašķeļas neregulāros saplacinātos dzelonīšos. Trametes gibbosa ir ar izstieptām porām, taču tīri baltu mīkstumu un bez sarkanīga iekrāsojuma pieskaroties. Trametes elegans ir ar bālganu cepurīti, mazākām sporām (5–7 × 1,5–2,5 µm), bez sarkanīga iekrāsojuma un ar mīkstumu, kas KOH ietekmē kļūst dzeltenīgs, nevis melngans.",
+      "notes": "Augļķermeņos mājo bagātīga koksnes un sēņu vaboļu fauna — vienā Krievijas pētījumā konstatētas 54 sugas no 16 dzimtām. Taksonomiskā robeža starp Daedaleopsis confragosa un Daedaleopsis tricolor ir tikusi apspriesta, jo reizēm sastopami pārejas formas augļķermeņi un daži molekulārie pētījumi abas uzskata par vienas sugas varietātēm, tomēr mūsdienu sugu saraksti tās atzīst kā atsevišķas sugas.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/2545670"
+      ]
+    },
+    "nl": {
+      "label": "roodporiehoutzwam",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Roodporiehoutzwam",
+      "description": "Een taaie, houtafbrekende consolezwam die alleenstaand of dakpansgewijs in lagen groeit op dood en beschadigd loofhout, vooral wilgen, in gematigd Eurazië, Noord-Amerika tot in Mexico en delen van Australië en Nieuw-Zeeland. De vruchtlichamen ontwikkelen zich van de zomer tot de herfst en blijven de winter door aanwezig, waarbij ze een intensieve witrot veroorzaken.",
+      "cap": "3–15 cm breed (soms tot 20 cm), 4–8 cm afstaand van het hout en 1–3 cm dik, halfrond tot waaiervormig, breed gewelfd tot vlak en zonder steel direct aan het substraat gehecht, soms met een zwakke bult bij de aanhechtingsplaats. De droge, matte bovenzijde is glad tot fijn behaard, bobbelig of radiaal gerimpeld en concentrisch gezoneerd in witgrijs, grijsoker, lichtbruin, bruin en wijnroodachtige tinten, met de ouderdom vaak verdonkerend naar roestbruin of zwartachtig, terwijl een scherpe, bleek witachtige groeirand behouden blijft.",
+      "hymenium": "De poriën zijn zeer variabel, van rond tot radiaal langgerekt, spleetvormig, doolhofachtig of soms bijna plaatjesachtig, 0,5–1,5 mm breed met dunne wanden; de buisjes zijn 5–15 mm diep. Het poriënoppervlak is jong witachtig tot bleek grijsbruin, met de ouderdom verkleurend naar vuil grijsoker of bruinachtig, en verkleurt bij vers aanraken kenmerkend zalmroze, wijnroze of roodbruin. De basidiën zijn cilindrisch tot knotsvormig, 20–40 × 3–5 µm, vergezeld van talrijke hyfidiën van 2–3 µm breed.",
+      "stipe": "Afwezig; het zittende consolevormige vruchtlichaam is zijdelings of met de achterrand direct aan het hout gehecht.",
+      "flesh": "Taai, leerachtig tot kurkachtig in verse toestand, hard en stijf bij indrogen; witachtig, rozig of bleek houtbruin tot grijsbruin, met een trimitisch hyfensysteem. Alle delen kleuren donkergrijs tot zwart met kaliumhydroxide (KOH). De geur is onopvallend en de smaak mild tot licht bitter.",
+      "sporePrint": "Wit. De basidiosporen zijn glad, smal cilindrisch tot licht gebogen (allantoïd), inamyloïd en meten 6–11 × 1,5–3 µm (meestal 7–11 × 2–3 µm).",
+      "habitat": "Saprotroof en zwak parasitair op dode of beschadigde stammen, liggende stammen, takken en soms stronken van loofbomen, waar hij een intensieve delignificerende witrot van het spinthout veroorzaakt, soms met zwarte demarcatielijnen in het aangetaste hout. Heeft een sterke voorkeur voor wilgen (Salix), vooral in vochtige oeverbossen, en groeit daarnaast op berk, els, hazelaar, beuk, haagbeuk, lijsterbes, linde, iep, kornoelje en fruitbomen, zeer zelden op naaldbomen. Verse eenjarige vruchtlichamen ontwikkelen zich van juni tot december, met een piek in de sporenproductie van de herfst tot de winter die in de vroege zomer afneemt, terwijl de taaie verdroogde consoles het hele jaar door op het hout blijven zitten.",
+      "uses": "Niet eetbaar vanwege het taaie, kurkachtige en houtige vlees.",
+      "confusion": "Daedalea quercina groeit voornamelijk op eik, vormt grotere en dikkere consoles (1–8 cm dik) met veel dikkere, grovere doolhofachtige poriënwanden, heeft kleinere sporen (5,5–7 × 2,5–3,5 µm), veroorzaakt bruinrot in het kernhout en verkleurt niet roze bij druk. Daedaleopsis tricolor heeft een donkerdere, egaler wijnrode tot roodbruine hoed en een duidelijk plaatjesachtige, zilverglanzende onderzijde met weinig of geen dwarsverbindingen. Cerrena unicolor vormt dunnere consoles met een zwarte lijn in het vlees en buisjes die bij rijpheid uiteenvallen in onregelmatige afgeplatte tanden. Trametes gibbosa heeft langgerekte poriën maar zuiver wit vlees en verkleurt niet roodachtig bij druk. Trametes elegans heeft een witachtige hoed, kleinere sporen (5–7 × 1,5–2,5 µm), verkleurt niet roodachtig en heeft vlees dat met KOH gelig in plaats van zwartachtig kleurt.",
+      "notes": "De vruchtlichamen herbergen een rijke fauna van hout- en zwambewonende kevers, met 54 soorten uit 16 families vastgesteld in één enkele Russische studie. De taxonomische grens tussen Daedaleopsis confragosa en Daedaleopsis tricolor is omstreden, aangezien er soms tussenvormen worden gevonden en sommige moleculaire studies beide als variëteiten van één soort beschouwen, al erkennen actuele soortenlijsten ze afzonderlijk.",
+      "sourceUrls": [
+        "https://nl.wikipedia.org/wiki/Roodporiehoutzwam"
+      ]
+    },
+    "no": {
+      "label": "teglkjuke",
+      "description": "En seig, vednedbrytende konsollsopp som vokser enkeltvis eller taklagt i etasjer på død og skadet løvved, særlig vier og selje, i temperert Eurasia, i Nord-Amerika sørover til Mexico samt i deler av Australia og New Zealand. Fruktlegemene utvikles fra sommer til høst og blir sittende gjennom vinteren, der de forårsaker en intens hvitråte.",
+      "cap": "3–15 cm bred (av og til opptil 20 cm), 4–8 cm utstående fra veden og 1–3 cm tykk, halvsirkelformet til vifteformet, bredt hvelvet til flat og festet direkte til substratet uten stilk, av og til med en svak pukkel ved festepunktet. Den tørre, matte oversiden er glatt til fint håret, ujevn eller radialt rynket og konsentrisk sonert i hvitgrå, gråoker, lysebrune, brunlige og vinrødlige nyanser, og mørkner ofte mot rustbrun eller svartaktig med alderen samtidig som en skarp, blekt hvitaktig vekstsone langs kanten beholdes.",
+      "hymenium": "Porene er svært variable, fra runde til radialt forlengede, spalteformede, labyrintiske eller av og til nesten skiveaktige, 0,5–1,5 mm brede med tynne vegger; rørene er 5–15 mm dype. Poreflaten er hvitaktig til blekt gråbrun hos unge eksemplarer, mørkner til skittent gråoker eller brunlig med alderen og anløper i frisk tilstand karakteristisk lakserosa, vinrosa eller rødbrun ved trykk. Basidiene er sylindriske til kølleformede, 20–40 × 3–5 µm, ledsaget av tallrike hyfidier som er 2–3 µm brede.",
+      "stipe": "Mangler; det sittende konsollformede fruktlegemet er festet direkte til veden med siden eller bakkanten.",
+      "flesh": "Seigt, læraktig til korkaktig som ferskt, og blir hardt og stivt ved tørking; hvitaktig, rosaskjær eller blekt trebrunt til gråbrunt, med et trimitisk hyfesystem. Alle deler farges mørkegrå til svarte med kaliumhydroksid (KOH). Lukten er ubestemmelig og smaken mild til svakt bitter.",
+      "sporePrint": "Hvitt. Basidiosporene er glatte, smalt sylindriske til svakt bøyde (allantoide), inamyloide og måler 6–11 × 1,5–3 µm (vanligst 7–11 × 2–3 µm).",
+      "habitat": "Saprotrof og svakt parasittisk på døde eller skadde stammer, falne stammer, greiner og av og til stubber av løvtrær, der den forårsaker en intens ligninnedbrytende hvitråte i yteveden, av og til med svarte avgrensningslinjer i den nedbrutte veden. Foretrekker sterkt arter i seljeslekta (Salix), særlig i fuktige flom- og bekkedalskoger, og vokser også på bjørk, or, hassel, bøk, agnbøk, rogn, lind, alm, kornell og frukttrær, svært sjelden på bartrær. Friske ettårige fruktlegemer utvikles fra juni til desember, med størst sporedannelse fra høst til vinter som avtar på forsommeren, mens seige, inntørkede konsoller blir sittende på veden året rundt.",
+      "uses": "Ikke matsopp på grunn av det seige, korkaktige og treaktige kjøttet.",
+      "confusion": "Daedalea quercina vokser hovedsakelig på eik, danner større og tykkere konsoller (1–8 cm tykke) med langt tykkere, grovere labyrintiske porevegger, har mindre sporer (5,5–7 × 2,5–3,5 µm), forårsaker brunråte i kjerneveden og anløper ikke rosa ved trykk. Daedaleopsis tricolor har en mørkere, mer ensartet vinrød til rødbrun hatt og en tydelig skiveaktig, sølvglinsende underside med få eller ingen tverrforbindelser. Cerrena unicolor danner tynnere konsoller med en svart linje i kjøttet og rør som ved modning spaltes opp i uregelmessige flate tenner. Trametes gibbosa har forlengede porer, men rent hvitt kjøtt og mangler rødlig anløping. Trametes elegans har hvitaktig hatt, mindre sporer (5–7 × 1,5–2,5 µm), ingen rødlig anløping og kjøtt som farges gulaktig i stedet for svartaktig med KOH.",
+      "notes": "Fruktlegemene huser en rik fauna av ved- og sopplevende biller, med 54 arter fordelt på 16 familier registrert i en enkelt russisk studie. Den taksonomiske grensen mellom Daedaleopsis confragosa og Daedaleopsis tricolor har vært omdiskutert, ettersom mellomformer av og til blir funnet og enkelte molekylære studier behandler dem som varieteter av én art, selv om gjeldende artslister anerkjenner dem separat.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/2545670"
+      ]
+    },
+    "pl": {
+      "label": "gmatwica chropowata",
+      "wikipedia": "https://pl.wikipedia.org/wiki/Gmatwica_chropowata",
+      "description": "Twardy, rozkładający drewno grzyb konsolowaty rosnący pojedynczo lub dachówkowato na martwym i uszkodzonym drewnie drzew liściastych, zwłaszcza wierzb, w strefie umiarkowanej Eurazji, w Ameryce Północnej na południe po Meksyk oraz w części Australii i Nowej Zelandii. Owocniki rozwijają się od lata do jesieni i utrzymują przez zimę, wywołując intensywną białą zgniliznę drewna.",
+      "cap": "Szerokości 3–15 cm (wyjątkowo do 20 cm), odstający od drewna na 4–8 cm i grubości 1–3 cm, półkolisty do wachlarzowatego, szeroko wypukły do płaskiego, przyrośnięty bezpośrednio do podłoża bez trzonu, czasem z niewielkim garbkiem w miejscu przyrośnięcia. Sucha, matowa górna powierzchnia jest gładka do drobno owłosionej, guzkowata lub promieniście pomarszczona i koncentrycznie strefowana w odcieniach białawoszarych, szaroochrowych, płowych, brązowawych i winnoczerwonawych; z wiekiem często ciemnieje do rdzawobrązowej lub czarniawej, zachowując jednak ostry, blado białawy brzeg przyrostowy.",
+      "hymenium": "Pory są bardzo zmienne, od okrągłych po promieniście wydłużone, szczelinowate, labiryntowate, a niekiedy niemal blaszkowate, o średnicy 0,5–1,5 mm i cienkich ściankach; rurki mają głębokość 5–15 mm. Powierzchnia porów jest za młodu biaława do blado szaropłowej, z wiekiem ciemnieje do brudnoszaroochrowej lub brązowawej, a w stanie świeżym po uciśnięciu charakterystycznie przebarwia się na łososioworóżowo, winnoróżowo lub czerwonobrązowo. Podstawki są cylindryczne do maczugowatych, o wymiarach 20–40 × 3–5 µm, z licznymi hyfidiami szerokości 2–3 µm.",
+      "stipe": "Brak; siedzący owocnik przyrasta bokiem lub tylnym brzegiem bezpośrednio do drewna.",
+      "flesh": "Za młodu i w stanie świeżym łykowaty, skórzasty do korkowatego, po wyschnięciu twardy i sztywny; białawy, różowawy lub blado drewnobrązowy do szarobrązowego, o trimitycznym systemie strzępkowym. Wszystkie części pod wpływem wodorotlenku potasu (KOH) ciemnieją do ciemnoszarego lub czarnego. Zapach jest niewyraźny, a smak łagodny do lekko gorzkawego.",
+      "sporePrint": "Biały. Zarodniki podstawkowe są gładkie, wąsko cylindryczne do lekko wygiętych (alantoidalne), nieamyloidalne, o wymiarach 6–11 × 1,5–3 µm (najczęściej 7–11 × 2–3 µm).",
+      "habitat": "Gatunek saprotroficzny i słabo pasożytniczy na martwych lub uszkodzonych pniach, leżących kłodach, gałęziach oraz sporadycznie pniakach drzew liściastych, wywołujący intensywną białą zgniliznę delignifikującą bielu, czasem z czarnymi liniami strefowymi w rozłożonym drewnie. Wyraźnie preferuje wierzby (Salix), szczególnie w wilgotnych lasach nadrzecznych, ale rośnie także na brzozie, olszy, leszczynie, buku, grabie, jarzębie, lipie, wiązie, dereniu i drzewach owocowych, bardzo rzadko na iglastych. Świeże jednoroczne owocniki pojawiają się od czerwca do grudnia, przy czym wysyp zarodników osiąga szczyt od jesieni do zimy i słabnie wczesnym latem, natomiast twarde zaschnięte owocniki pozostają na drewnie przez cały rok.",
+      "uses": "Niejadalny ze względu na łykowaty, korkowaty i zdrewniały miąższ.",
+      "confusion": "Daedalea quercina rośnie głównie na dębie, tworzy większe i grubsze owocniki (grubości 1–8 cm) ze znacznie grubszymi, bardziej masywnymi labiryntowatymi ściankami porów, wytwarza mniejsze zarodniki (5,5–7 × 2,5–3,5 µm), powoduje brunatną zgniliznę twardzieli i nie różowieje po uciśnięciu. Daedaleopsis tricolor ma ciemniejszy, bardziej jednolicie winnoczerwony do czerwonobrązowego kapelusz oraz wyraźnie blaszkowaty, srebrzyście połyskujący spód z nielicznymi lub bez połączeń poprzecznych. Cerrena unicolor tworzy cieńsze owocniki z czarną linią w miąższu, a jej rurki w dojrzałości rozszczepiają się na nieregularne spłaszczone ząbki. Trametes gibbosa ma wydłużone pory, ale czysto biały miąższ i nie czerwienieje po uszkodzeniu. Trametes elegans ma białawy kapelusz, mniejsze zarodniki (5–7 × 1,5–2,5 µm), nie czerwienieje, a jej miąższ barwi się z KOH na żółtawo, a nie czarniawo.",
+      "notes": "Owocniki stanowią siedlisko bogatej fauny chrząszczy związanych z drewnem i grzybami; w jednym rosyjskim badaniu odnotowano 54 gatunki z 16 rodzin. Granica taksonomiczna między Daedaleopsis confragosa a Daedaleopsis tricolor bywa przedmiotem dyskusji, ponieważ sporadycznie spotyka się owocniki pośrednie, a część badań molekularnych traktuje oba taksony jako odmiany jednego gatunku, choć współczesne wykazy uznają je za odrębne gatunki.",
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Gmatwica_chropowata"
+      ]
+    },
+    "pt": {
+      "wikipedia": "https://pt.wikipedia.org/wiki/Daedaleopsis_confragosa",
+      "description": "Fungo lignícola coriáceo em forma de consola que cresce isolado ou em andares imbricados sobre madeira morta ou ferida de folhosas, especialmente salgueiros, na Eurásia temperada, na América do Norte até ao México e em partes da Austrália e da Nova Zelândia. Os corpos frutíferos desenvolvem-se do verão ao outono e persistem durante o inverno, provocando uma intensa podridão branca.",
+      "cap": "Com 3–15 cm de largura (ocasionalmente até 20 cm), projetando-se 4–8 cm a partir da madeira e com 1–3 cm de espessura, semicircular a flabeliforme, amplamente convexo a plano e fixo diretamente ao substrato sem estipe, por vezes com um ligeiro umbo no ponto de inserção. A superfície superior, seca e mate, é lisa a finamente aveludada, irregular ou enrugada radialmente, e zonada concentricamente em tons cinzento-esbranquiçados, ocre-acinzentados, bege, acastanhados e vermelho-vinosos, escurecendo frequentemente para castanho-ferrugem ou enegrecido com a idade, mantendo uma margem de crescimento fina e esbranquiçada.",
+      "hymenium": "Os poros são muito variáveis, desde circulares a radialmente alongados, em fenda, labirínticos ou ocasionalmente quase lameliformes, medindo 0,5–1,5 mm de largura com paredes finas; os tubos têm 5–15 mm de profundidade. A superfície porosa é esbranquiçada a bege-acinzentada pálida quando jovem, escurecendo para ocre-acinzentado sujo ou acastanhado com a idade, e ao toque em fresco mancha-se caracteristicamente de rosa-salmão, rosa-vinoso ou castanho-avermelhado. Os basídios são cilíndricos a clavados, medindo 20–40 × 3–5 µm, acompanhados por numerosos hifídios com 2–3 µm de largura.",
+      "stipe": "Ausente; a consola séssil fixa-se diretamente à madeira pela lateral ou pela margem posterior.",
+      "flesh": "Tenaz, coriácea a suberosa em fresco, ficando dura e rígida ao secar; esbranquiçada, rosada ou castanho-madeira pálido a castanho-acinzentada, com sistema hifal trimítico. Todas as partes ficam cinzento-escuras a pretas com hidróxido de potássio (KOH). O odor é indistinto e o sabor é suave a ligeiramente amargo.",
+      "sporePrint": "Branca. Os basidiósporos são lisos, estreitamente cilíndricos a ligeiramente curvos (alantoides), inamiloides, medindo 6–11 × 1,5–3 µm (mais frequentemente 7–11 × 2–3 µm).",
+      "habitat": "Saprotrófico e fracamente parasita em troncos mortos ou feridos, troncos caídos, ramos e ocasionalmente cepos de árvores folhosas, causando uma intensa podridão branca deslignificante do alburno, por vezes acompanhada por linhas negras de demarcação na madeira decomposta. Prefere marcadamente salgueiros (Salix), sobretudo em bosques ribeirinhos húmidos, e cresce também em bétula, amieiro, aveleira, faia, cárpino, sorveira, tília, ulmeiro, corniso e árvores de fruto, muito raramente em coníferas. Os corpos frutíferos anuais frescos desenvolvem-se de junho a dezembro, com a libertação de esporos a atingir o pico do outono ao inverno e a diminuir no início do verão, enquanto as consolas secas e coriáceas persistem na madeira durante todo o ano.",
+      "uses": "Não comestível devido à sua textura tenaz, suberosa e lenhosa.",
+      "confusion": "Daedalea quercina cresce sobretudo em carvalho, forma consolas maiores e mais espessas (1–8 cm de espessura) com paredes de poros labirínticos muito mais grossas e grosseiras, produz esporos menores (5,5–7 × 2,5–3,5 µm), causa podridão castanha do cerne e não fica rosada ao toque. Daedaleopsis tricolor tem um chapéu mais escuro, mais uniformemente vermelho-vinoso a castanho-avermelhado, e uma face inferior nitidamente lameliforme com brilho prateado e poucas ou nenhumas ligações transversais. Cerrena unicolor forma consolas mais finas com uma linha negra na carne e tubos que se fendem em dentes achatados irregulares na maturidade. Trametes gibbosa apresenta poros alongados mas carne branco-pura e não avermelha ao toque. Trametes elegans tem chapéu esbranquiçado, esporos mais pequenos (5–7 × 1,5–2,5 µm), não avermelha ao toque e a sua carne amarelece em vez de enegrecer com KOH.",
+      "notes": "Os corpos frutíferos sustentam uma rica fauna de coleópteros lignícolas e micetófagos, com 54 espécies pertencentes a 16 famílias registadas num único estudo russo. A fronteira taxonómica entre Daedaleopsis confragosa e Daedaleopsis tricolor tem sido debatida, encontrando-se ocasionalmente corpos frutíferos intermédios e tratando alguns estudos moleculares ambos os táxones como variedades de uma mesma espécie, embora as listas de referência atuais os reconheçam separadamente.",
+      "sourceUrls": [
+        "https://pt.wikipedia.org/wiki/Daedaleopsis_confragosa"
+      ]
+    },
+    "ro": {
+      "wikipedia": "https://ro.wikipedia.org/wiki/Daedaleopsis_confragosa",
+      "description": "Ciupercă lignicolă tenace, în formă de consolă, care crește solitar sau în etaje imbricate pe lemn mort ori rănit de foioase, în special sălcii, în Eurasia temperată, în America de Nord până în Mexic și în unele regiuni din Australia și Noua Zeelandă. Corpurile de fructificație se dezvoltă din vară până toamna și persistă peste iarnă, provocând un putregai alb intens.",
+      "cap": "Lat de 3–15 cm (ocazional până la 20 cm), ieșind în afară 4–8 cm de pe lemn și gros de 1–3 cm, semicircular până la flabeliform, larg convex până la plat și fixat direct pe substrat fără picior, uneori cu un ușor gheb la punctul de prindere. Suprafața superioară uscată și mată este netedă până la fin păroasă, denivelată sau ridată radial și zonată concentric în nuanțe de gri-albicios, ocru-cenușiu, bej, bruniu și roșu-vinițiu, închizându-se adesea spre brun-ruginiu sau negricios cu vârsta, dar păstrând o margine de creștere subțire și albicioasă.",
+      "hymenium": "Porii sunt foarte variabili, de la circulari la alungiți radial, în formă de fante, labirintiformi sau ocazional aproape lameliformi, măsurând 0,5–1,5 mm lățime, cu pereți subțiri; tuburile au 5–15 mm adâncime. Suprafața poroasă este albicioasă până la bej-cenușiu palid în tinerețe, închizându-se spre ocru-cenușiu murdar sau bruniu cu vârsta, și se pătează caracteristic la atingere în stare proaspătă în roz-somon, roz-vinițiu sau brun-roșcat. Bazidiile sunt cilindrice până la clavate, de 20–40 × 3–5 µm, însoțite de numeroase hifidii late de 2–3 µm.",
+      "stipe": "Absent; consola sesilă se prinde direct de lemn cu latura sau marginea posterioară.",
+      "flesh": "Tenace, pieloasă până la suberoasă în stare proaspătă, devenind tare și rigidă la uscare; albicioasă, rozalie sau brun-lemnos palid până la brun-cenușiu, cu sistem hifal trimitic. Toate părțile devin gri închis până la negru la contactul cu hidroxidul de potasiu (KOH). Mirosul este indistinct, iar gustul blând până la ușor amar.",
+      "sporePrint": "Albă. Bazidiosporii sunt netezi, îngust cilindrici până la ușor curbați (alantoizi), inamiloizi și măsoară 6–11 × 1,5–3 µm (cel mai frecvent 7–11 × 2–3 µm).",
+      "habitat": "Saprotrof și slab parazit pe trunchiuri moarte sau rănite, bușteni căzuți, ramuri și ocazional cioate de arbori foioși, provocând un putregai alb intens, delignifiant, al alburnului, însoțit uneori de linii negre de demarcație în lemnul descompus. Preferă puternic sălciile (Salix), îndeosebi în pădurile riverane umede, și crește de asemenea pe mesteacăn, arin, alun, fag, carpen, scoruș, tei, ulm, corn și pomi fructiferi, foarte rar pe conifere. Corpurile de fructificație anuale proaspete apar din iunie până în decembrie, cu eliberarea sporilor atingând maximul din toamnă până iarna și scăzând la începutul verii, în timp ce consolele uscate și tenace persistă pe lemn tot anul.",
+      "uses": "Necomestibil din cauza texturii sale tenace, suberoase și lemnoase.",
+      "confusion": "Daedalea quercina crește în principal pe stejar, formează console mai mari și mai groase (1–8 cm grosime) cu pereți ai porilor labirintiformi mult mai groși și grosieri, produce spori mai mici (5,5–7 × 2,5–3,5 µm), provoacă putregai brun al duramenului și nu se înroșește la atingere. Daedaleopsis tricolor are o pălărie mai închisă, mai uniform roșu-viniție până la brun-roșcată, și o față inferioară clar lameliformă, cu luciu argintiu și puține sau fără legături transversale. Cerrena unicolor formează console mai subțiri, cu o linie neagră în carne și tuburi care se despică la maturitate în dinți aplatizați neregulați. Trametes gibbosa prezintă pori alungiți, dar are carnea alb-pură și nu se înroșește la atingere. Trametes elegans are pălăria albicioasă, spori mai mici (5–7 × 1,5–2,5 µm), nu se înroșește la atingere, iar carnea sa se îngălbenește în loc să se înnegrească cu KOH.",
+      "notes": "Corpurile de fructificație adăpostesc o faună bogată de coleoptere lignicole și micetofage, 54 de specii din 16 familii fiind înregistrate într-un singur studiu rusesc. Limita taxonomică dintre Daedaleopsis confragosa și Daedaleopsis tricolor a fost dezbătută, fiind găsite ocazional corpuri de fructificație intermediare, iar unele studii moleculare tratează cele două taxoane ca varietăți ale aceleiași specii, deși listele de referință actuale le recunosc separat.",
+      "sourceUrls": [
+        "https://ro.wikipedia.org/wiki/Daedaleopsis_confragosa"
+      ]
+    },
+    "ru": {
+      "label": "дедалеопсис шершавый",
+      "names": [
+        "дедалеопсис бугристый"
+      ],
+      "wikipedia": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B4%D0%B0%D0%BB%D0%B5%D0%BE%D0%BF%D1%81%D0%B8%D1%81_%D1%88%D0%B5%D1%80%D1%88%D0%B0%D0%B2%D1%8B%D0%B9",
+      "description": "Жесткий дереворазрушающий трутовик, растущий одиночно или черепитчатыми группами на мертвой и поврежденной древесине лиственных пород, особенно ив, в умеренной зоне Евразии, Северной Америке к югу до Мексики, а также в отдельных районах Австралии и Новой Зеландии. Плодовые тела развиваются с лета до осени и сохраняются зимой, вызывая интенсивную белую гниль.",
+      "cap": "3–15 см в поперечнике (иногда до 20 см), выступающая на 4–8 см от древесины и 1–3 см толщиной, полукруглая до вееровидной, широковыпуклая до плоской, прикрепляющаяся непосредственно к субстрату без ножки, иногда со слабым бугорком у основания. Сухая, матовая верхняя поверхность гладкая до тонкоопушенной, бугристая или радиально-морщинистая, с концентрическими зонами беловато-серого, серо-охристого, светло-коричневого, буроватого и винно-красноватого оттенков; с возрастом она часто темнеет до ржаво-бурой или черноватой, сохраняя острый светлый беловатый растущий край.",
+      "hymenium": "Поры весьма изменчивы — от округлых до радиально вытянутых, щелевидных, лабиринтовидных или иногда почти пластинчатых, шириной 0,5–1,5 мм с тонкими стенками; трубочки 5–15 мм глубиной. Поверхность гименофора у молодых плодовых тел беловато-серая или бледно-серовато-охристая, с возрастом темнеет до грязно-серо-охристой или буроватой и при надавливании в свежем состоянии характерно окрашивается в лососево-розовый, винно-розовый или красновато-бурый цвет. Базидии цилиндрические до булавовидных, размером 20–40 × 3–5 мкм, сопровождаются многочисленными гифидиями шириной 2–3 мкм.",
+      "stipe": "Отсутствует; сидячее плодовое тело прикрепляется к древесине непосредственно боковым или задним краем.",
+      "flesh": "В свежем состоянии жесткая, кожистая до пробковидной, при высыхании твердая и негибкая; беловатого, розоватого или светло-древесного до серо-бурого цвета, с тримитической гифальной системой. Все части плодового тела окрашиваются гидроксидом калия (KOH) в темно-серый до черного цвет. Запах невыраженный, вкус мягкий до слегка горьковатого.",
+      "sporePrint": "Белый. Базидиоспоры гладкие, узкоцилиндрические до слегка изогнутых (аллантоидные), неамилоидные, размером 6–11 × 1,5–3 мкм (чаще всего 7–11 × 2–3 мкм).",
+      "habitat": "Сапротрофный и слабо паразитический вид на мертвых или поврежденных стволах, валеже, ветвях и изредка пнях лиственных деревьев, вызывающий интенсивную белую делигнифицирующую гниль заболони, иногда с черными разграничительными линиями в разлагающейся древесине. Явно предпочитает ивы (Salix), особенно во влажных приречных лесах, а также растет на березе, ольхе, лещине, буке, грабе, рябине, липе, вязе, дерене и плодовых деревьях, очень редко на хвойных. Свежие однолетние плодовые тела развиваются с июня по декабрь; спороношение достигает пика с осени по зиму и затухает в начале лета, тогда как жесткие высохшие плодовые тела сохраняются на древесине круглый год.",
+      "uses": "Несъедобный из-за жесткой, пробковидной и деревянистой мякоти.",
+      "confusion": "Daedalea quercina растет преимущественно на дубе, образует более крупные и толстые плодовые тела (1–8 см толщиной) со значительно более толстыми и грубыми лабиринтовидными стенками пор, имеет более мелкие споры (5,5–7 × 2,5–3,5 мкм), вызывает бурую ядровую гниль и не розовеет при надавливании. Daedaleopsis tricolor отличается более темной, равномерно винно-красной до красно-бурой шляпкой и отчетливо пластинчатой, серебристо блестящей нижней стороной с единичными поперечными перемычками или без них. Cerrena unicolor образует более тонкие плодовые тела с черной линией в мякоти и трубочками, которые при созревании расщепляются на неправильные уплощенные шипики. Trametes gibbosa имеет вытянутые поры, но чисто-белую мякоть и не краснеет при повреждении. Trametes elegans отличается беловатой шляпкой, более мелкими спорами (5–7 × 1,5–2,5 мкм), отсутствием покраснения и мякотью, желтеющей, а не чернеющей от KOH.",
+      "notes": "Плодовые тела поддерживают богатую фауну древесных и грибных жуков: в одном российском исследовании было отмечено 54 вида из 16 семейств. Таксономическая граница между Daedaleopsis confragosa и Daedaleopsis tricolor остается предметом дискуссий, поскольку иногда встречаются переходные плодовые тела, а некоторые молекулярные исследования рассматривают их как разновидности одного вида, хотя современные сводки признают их самостоятельными видами.",
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B4%D0%B0%D0%BB%D0%B5%D0%BE%D0%BF%D1%81%D0%B8%D1%81_%D1%88%D0%B5%D1%80%D1%88%D0%B0%D0%B2%D1%8B%D0%B9"
+      ]
+    },
+    "sk": {
+      "label": "sieťkovček červenkastý",
+      "description": "Tvrdá, drevokazná konzolovitá huba rastúca jednotlivo alebo v strechovito usporiadaných trsoch na odumretom a poranenom dreve listnáčov, najmä vŕb, v miernom pásme Eurázie, v Severnej Amerike smerom na juh až po Mexiko a v častiach Austrálie a Nového Zélandu. Plodnice sa tvoria od leta do jesene a vytrvávajú cez zimu, pričom spôsobujú intenzívnu bielu hnilobu dreva.",
+      "cap": "3–15 cm široký (ojedinele až do 20 cm), od dreva odstáva 4–8 cm a má hrúbku 1–3 cm, je polkruhovitý až vejárovitý, široko klenutý až plochý, prirastený priamo k substrátu bez hlúbika, niekedy s miernym hrboľom v mieste prirastenia. Suchý, matný vrchný povrch je hladký až jemne plstnatý, hrboľatý alebo radiálne vráskavý, sústredne pásovaný v belavosivých, sivookrových, žltohnedastých, hnedastých a vínovočervenkastých odtieňoch, pričom vekom často tmavne do hrdzavohneda až čierna, no zachováva si ostrý, bledo belavý rastúci okraj.",
+      "hymenium": "Póry sú veľmi premenlivé, od okrúhlych cez radiálne pretiahnuté, štrbinovité a labyrintické až po miestami takmer lupeňovité, široké 0,5–1,5 mm s tenkými stenami; rúrky sú 5–15 mm hlboké. Pórovitý povrch je za mladi belavý až bledo sivožltohnedý, vekom tmavne na špinavo sivookrový až hnedastý a v čerstvom stave po otlačení charakteristicky ružovie do lososovoružova, vínovoružova až červenohneda. Bazídiá sú valcovité až kyjakovité, 20–40 × 3–5 µm, sprevádzané početnými hyfídiami širokými 2–3 µm.",
+      "stipe": "Chýba; sediaca plodnica prirastá bokom alebo zadným okrajom priamo k drevu.",
+      "flesh": "Za čerstva tuhá, kožovitá až korkovitá, po vysušení tvrdá a pevná; belavá, ružovkastá alebo bledo drevohnedá až sivohnedá, s trimitickým hýfovým systémom. Všetky časti s hydroxidom draselným (KOH) tmavnú do tmavosiva až čierna. Vôňa je nevýrazná a chuť mierna až mierne horkastá.",
+      "sporePrint": "Biely. Bazídiospóry sú hladké, úzko valcovité až mierne zakrivené (alantoidné), neamyloidné, s rozmermi 6–11 × 1,5–3 µm (najčastejšie 7–11 × 2–3 µm).",
+      "habitat": "Saprotrofná a slabo parazitická huba na odumretých alebo poranených kmeňoch, padnutých kmeňoch, konároch a ojedinele na pňoch listnatých stromov, kde spôsobuje intenzívnu bielu delignifikačnú hnilobu beľového dreva, niekedy sprevádzanú čiernymi demarkačnými líniami v rozloženom dreve. Výrazne uprednostňuje vŕby (Salix), najmä vo vlhkých brehových porastoch, no rastie aj na breze, jelši, lieske, buku, hrabe, jarabine, lipe, breste, drieni a ovocných stromoch, veľmi zriedkavo na ihličnanoch. Čerstvé jednoročné plodnice sa vyvíjajú od júna do decembra, pričom uvoľňovanie výtrusov vrcholí od jesene do zimy a slabne začiatkom leta, zatiaľ čo tuhé vyschnuté plodnice vytrvávajú na dreve celoročne.",
+      "uses": "Nejedlá pre svoju tuhú, korkovitú a drevnatú dužinu.",
+      "confusion": "Daedalea quercina rastie predovšetkým na dube, tvorí väčšie a hrubšie plodnice (hrubé 1–8 cm) s podstatne hrubšími, hrubo labyrintickými stenami pórov, má menšie výtrusy (5,5–7 × 2,5–3,5 µm), spôsobuje hnedú hnilobu jadrového dreva a po otlačení neružovie. Daedaleopsis tricolor má tmavší, rovnomernejšie vínovočervený až červenohnedý klobúk a výrazne lupeňovitú, striebristo lesklú spodnú stranu s minimálnymi alebo žiadnymi priečnymi prepojeniami. Cerrena unicolor tvorí tenšie plodnice s čiernou líniou v dužine a rúrky sa v dospelosti rozpadávajú na nepravidelné ploché zúbky. Trametes gibbosa má pretiahnuté póry, no čisto bielu dužinu a po otlačení nečervenie. Trametes elegans má belavý klobúk, menšie výtrusy (5–7 × 1,5–2,5 µm), po otlačení nečervenie a jej dužina sa po pridaní KOH sfarbuje dožlta, nie dočierna.",
+      "notes": "Plodnice hostia bohatú faunu drevokazných a hubových chrobákov; v jednej ruskej štúdii bolo zaznamenaných 54 druhov zo 16 čeľadí. Taxonomická hranica medzi Daedaleopsis confragosa a Daedaleopsis tricolor je predmetom diskusií, keďže sa občas nachádzajú prechodné plodnice a niektoré molekulárne štúdie ich hodnotia ako variety jedného druhu, hoci súčasné zoznamy druhov ich uznávajú samostatne.",
+      "sourceUrls": []
+    },
+    "sl": {
+      "label": "rdečeča zvitocevka",
+      "wikipedia": "https://sl.wikipedia.org/wiki/Rde%C4%8De%C4%8Da_zvitocevka",
+      "description": "Žilava, lesna konzolasta gliva, ki raste posamično ali strehasto razporejena na odmrlem in poškodovanem lesu listavcev, zlasti vrb, v zmernem pasu Evrazije, v Severni Ameriki proti jugu do Mehike ter v delih Avstralije in Nove Zelandije. Trosnjaki se razvijajo od poletja do jeseni in vztrajajo čez zimo ter povzročajo intenzivno belo trohnobo.",
+      "cap": "Širok 3–15 cm (občasno do 20 cm), od lesa štrli 4–8 cm in je debel 1–3 cm, polkrožen do pahljačast, široko izbočen do raven ter brez beta neposredno priraščen na podlago, včasih z rahlo grbico na mestu prirastišča. Suha, mat zgornja površina je gladka do drobno dlakava, grbasta ali radialno nagubana in koncentrično pasasta v belkasto sivih, sivo okrastih, rjavkasto rumenih, rjavkastih in vinsko rdečkastih odtenkih; s starostjo pogosto potemni v rjasto rjavo ali črnkasto, pri čemer ohrani oster, bledo belkast rastni rob.",
+      "hymenium": "Pore so zelo spremenljive, od okroglih do radialno podolgovatih, režastih, labirintastih ali občasno skoraj lističastih, široke 0,5–1,5 mm s tankimi stenami; cevke so globoke 5–15 mm. Površina por je mlada belkasta do bledo sivo rjavkasta, s starostjo potemni v umazano sivo okrasto ali rjavkasto, sveža pa na pritisk značilno pordi v lososovo rožnato, vinsko rožnato ali rdečerjavo. Bazidiji so valjasti do kijasti, veliki 20–40 × 3–5 µm, spremljajo pa jih številni hifidiji, široki 2–3 µm.",
+      "stipe": "Ga ni; sedeči trosnjak je s stranjo ali zadnjim robom priraščen neposredno na les.",
+      "flesh": "Sveže je žilavo, usnjato do plutasto, posušeno pa trdo in togo; belkasto, rožnato ali bledo lesno rjavo do sivo rjavo, s trimitičnim hifnim sistemom. Vsi deli s kalijevim hidroksidom (KOH) potemnijo v temno sivo do črno. Vonj je neizrazit, okus pa blag do rahlo grenak.",
+      "sporePrint": "Bel. Bazidiospore so gladke, ozko valjaste do rahlo ukrivljene (alantoidne), neamiloidne in merijo 6–11 × 1,5–3 µm (najpogosteje 7–11 × 2–3 µm).",
+      "habitat": "Saprotrofna in šibko zajedavska gliva na odmrlih ali poškodovanih deblih, podrtih deblih, vejah in občasno štorih listavcev, kjer povzroča intenzivno belo delignifikacijsko trohnobo beljave, včasih s črnimi conalnimi črtami v razpadajočem lesu. Izrazito daje prednost vrbam (Salix), zlasti v vlažnih obrežnih gozdovih, raste pa tudi na brezi, jelši, leski, bukvi, gabru, jerebiki, lipi, brestu, drenu in sadnem drevju, zelo redko na iglavcih. Sveži enoletni trosnjaki se razvijajo od junija do decembra, pri čemer je izločanje trosov najmočnejše od jeseni do zime in pojenja zgodaj poleti, žilavi posušeni trosnjaki pa vztrajajo na lesu vse leto.",
+      "uses": "Neuživna zaradi žilavega, plutastega in olesenelega mesa.",
+      "confusion": "Daedalea quercina raste predvsem na hrastu, tvori večje in debelejše trosnjake (debele 1–8 cm) z bistveno debelejšimi, grobimi labirintastimi stenami por, ima manjše trose (5,5–7 × 2,5–3,5 µm), povzroča rjavo trohnobo jedrovine in na pritisk ne poroženi. Daedaleopsis tricolor ima temnejši, bolj enakomerno vinsko rdeč do rdečerjav klobuk ter izrazito lističasto, srebrnkasto lesketajočo se spodnjo stran z malo ali nič prečnih povezav. Cerrena unicolor tvori tanjše trosnjake s črno črto v mesu, njene cevke pa se v zrelosti razcepijo v nepravilne sploščene zobce. Trametes gibbosa ima podolgovate pore, vendar povsem belo meso in ne rdeči. Trametes elegans ima belkast klobuk, manjše trose (5–7 × 1,5–2,5 µm), ne rdeči, njeno meso pa se s KOH obarva rumenkasto namesto črnkasto.",
+      "notes": "Trosnjaki gostijo bogato favno lesnih in glivnih hroščev; v eni ruski raziskavi so zabeležili 54 vrst iz 16 družin. Taksonomska meja med Daedaleopsis confragosa in Daedaleopsis tricolor ostaja predmet razprav, saj se občasno najdejo vmesni trosnjaki in ju nekatere molekularne študije obravnavajo kot varieteti iste vrste, čeprav ju sedanji seznami vrst priznavajo ločeno.",
+      "sourceUrls": [
+        "https://sl.wikipedia.org/wiki/Rde%C4%8De%C4%8Da_zvitocevka"
+      ]
+    },
+    "sr": {
+      "description": "Жилава, лигниколна конзоласта гљива која расте појединачно или црепасто поређана на мртвом и оштећеном дрвету листопадног дрвећа, нарочито врба, у умереном појасу Евроазије, у Северној Америци на југ до Мексика и у деловима Аустралије и Новог Зеланда. Плодна тела се развијају од лета до јесени и опстају током зиме, изазивајући интензивну белу трулеж.",
+      "cap": "Широк 3–15 cm (повремено до 20 cm), штрчи 4–8 cm од дрвета и дебео је 1–3 cm, полукружан до лепезаст, широко испупчен до раван и без дршке непосредно прирастао за подлогу, понекад са благим испупчењем на месту прирастања. Сува, мат горња површина је глатка до ситно длакава, квргава или радијално наборана и концентрично појасаста у беличастосивим, сивоокер, жутосмећкастим, смећкастим и вински црвенкастим нијансама; старењем често тамни ка рђастосмеђој или црнкастој боји, али задржава оштар, бледо беличаст руб раста.",
+      "hymenium": "Поре су веома променљиве, од округлих до радијално издужених, пукотинастих, лавиринтастих или повремено готово листићастих, широке 0,5–1,5 mm са танким зидовима; цевчице су дубоке 5–15 mm. Површина пора је у младости беличаста до бледо сивосмећкаста, старењем тамни у прљаво сивоокер или смећкасту, а у свежем стању на притисак карактеристично поприма лососово ружичасту, вински ружичасту или црвеносмеђу боју. Базидије су цилиндричне до батинасте, величине 20–40 × 3–5 µm, праћене бројним хифидијама ширине 2–3 µm.",
+      "stipe": "Одсутна; седеће плодно тело бочно или задњим рубом непосредно прираста за дрво.",
+      "flesh": "У свежем стању жилаво, кожасто до плутасто, сушењем постаје тврдо и круто; беличасто, ружичасто или бледо дрвосмеђе до сивосмеђе, са тримитичким хифним системом. Сви делови са калијум-хидроксидом (KOH) тамне у тамносиву до црну боју. Мирис је неизразит, а укус благ до благо горак.",
+      "sporePrint": "Бео. Базидиоспоре су глатке, уско цилиндричне до благо закривљене (алантоидне), неамилоидне и мере 6–11 × 1,5–3 µm (најчешће 7–11 × 2–3 µm).",
+      "habitat": "Сапротрофна и слабо паразитска гљива на мртвим или оштећеним стаблима, обореним деблима, гранама и повремено пањевима листопадног дрвећа, где изазива интензивну белу делигнификациону трулеж бељике, понекад праћену црним зонским линијама у разложеном дрвету. Изразито преферира врбе (Salix), нарочито у влажним приобалним шумама, а расте и на брези, јови, лески, букви, грабу, јаребики, липи, бресту, дрену и воћкама, веома ретко на четинарима. Свежа једногодишња плодна тела развијају се од јуна до децембра, при чему ослобађање спора достиже врхунац од јесени до зиме и слаби почетком лета, док жилава осушена плодна тела остају на дрвету током целе године.",
+      "uses": "Нејестива због жилавог, плутастог и дрвенастог меса.",
+      "confusion": "Daedalea quercina расте првенствено на храсту, образује већа и дебља плодна тела (дебљине 1–8 cm) са знатно дебљим, грубљим лавиринтастим зидовима пора, има мање споре (5,5–7 × 2,5–3,5 µm), изазива смеђу трулеж сржи и на притисак не поприма ружичасту боју. Daedaleopsis tricolor има тамнији, уједначеније вински црвен до црвеносмеђ шешир и изразито листићасту доњу страну сребрнастог сјаја са мало или нимало попречних спојева. Cerrena unicolor образује тања плодна тела са црном линијом у месу, а цевчице се у зрелости расцепљују у неправилне спљоштене зубиће. Trametes gibbosa има издужене поре, али чисто бело месо и не црвени на притисак. Trametes elegans има беличаст шешир, мање споре (5–7 × 1,5–2,5 µm), не црвени, а месо јој са KOH поприма жућкасту уместо црнкасте боје.",
+      "notes": "Плодна тела подржавају богату фауну тврдокрилаца везаних за дрво и гљиве; у једном руском истраживању забележене су 54 врсте из 16 породица. Таксономска граница између Daedaleopsis confragosa и Daedaleopsis tricolor предмет је расправа јер се повремено налазе прелазна плодна тела, а нека молекуларна истраживања оба таксона сматрају варијететима исте врсте, иако их савремени спискови врста признају одвојено.",
+      "sourceUrls": []
+    },
+    "sv": {
+      "label": "tegelticka",
+      "wikipedia": "https://sv.wikipedia.org/wiki/Tegelticka",
+      "description": "En seg, vedlevande ticka som växer enstaka eller i taktegellagda grupper på död och skadad lövved, särskilt viden, i tempererade delar av Eurasien, Nordamerika söderut till Mexiko samt delar av Australien och Nya Zeeland. Fruktkropparna utvecklas från sommar till höst och sitter kvar under vintern, och svampen orsakar en intensiv vitröta.",
+      "cap": "3–15 cm bred (ibland upp till 20 cm), utskjutande 4–8 cm från veden och 1–3 cm tjock, halvcirkelformad till solfjädersformad, brett välvd till plan och fäst direkt mot substratet utan fot, ibland med en svag puckel vid fästpunkten. Den torra, matta ovansidan är slät till fint hårig, knölig eller radiärt rynkig och koncentriskt zonerad i vitgrå, gråockra, ljusbruna, brunaktiga och vinröda nyanser; med åldern mörknar den ofta mot rostbrunt eller svartaktigt men behåller en skarp, ljust vitaktig tillväxtkant.",
+      "hymenium": "Porerna är mycket variabla och sträcker sig från runda till radiärt utdragna, springformade, labyrintiska eller ibland nästan skivliknande, 0,5–1,5 mm breda med tunna väggar; rören är 5–15 mm djupa. Porytan är vitaktig till ljust gråbrun som ung, mörknar med åldern till smutsigt gråockra eller brunaktig och får karakteristiska laxrosa, vinrosa eller rödbruna fläckar vid beröring i färskt tillstånd. Basidierna är cylindriska till klubblika, 20–40 × 3–5 µm, åtföljda av talrika hyfidier som är 2–3 µm breda.",
+      "stipe": "Saknas; den oskaftade fruktkroppen är fäst direkt med sin sida eller bakkant mot veden.",
+      "flesh": "Segt, läderartat till korkartat i färskt tillstånd och hårt och styvt vid torkning; vitaktigt, rosaaktigt eller ljust vedbrunt till gråbrunt, med trimitiskt hyfsystem. Alla delar färgas mörkgrå till svarta av kaliumhydroxid (KOH). Lukten är obetydlig och smaken mild till svagt bitter.",
+      "sporePrint": "Vitt. Basidiesporerna är släta, smalt cylindriska till svagt böjda (allantoida), inamyloida och mäter 6–11 × 1,5–3 µm (vanligast 7–11 × 2–3 µm).",
+      "habitat": "Saprotrof och svagt parasitisk på döda eller skadade stammar, lågor, grenar och ibland stubbar av lövträd, där den orsakar en intensiv, delignifierande vitröta i splintveden, ibland med svarta avgränsningslinjer i den rötade veden. Föredrar starkt viden (Salix), särskilt i fuktiga strandskogar, och växer även på björk, al, hassel, bok, avenbok, rönn, lind, alm, kornell och fruktträd, mycket sällan på barrträd. Färska ettåriga fruktkroppar utvecklas från juni till december, med sporspridning som har sin topp från höst till vinter och avtar i början av sommaren, medan sega, torkade fruktkroppar sitter kvar på veden året runt.",
+      "uses": "Oätlig på grund av sitt sega, korkartade och vedartade kött.",
+      "confusion": "Daedalea quercina växer främst på ek, bildar större och tjockare fruktkroppar (1–8 cm tjocka) med betydligt tjockare och grövre labyrintiska porväggar, har mindre sporer (5,5–7 × 2,5–3,5 µm), orsakar brun kärnröta och rodnar inte vid beröring. Daedaleopsis tricolor har en mörkare, mer enhetligt vinröd till rödbrun hatt och en tydligt skivliknande, silvrigt glänsande undersida med få eller inga tvärförbindelser. Cerrena unicolor bildar tunnare fruktkroppar med en svart linje i köttet och rör som vid mognad spricker upp i oregelbundna, tillplattade taggar. Trametes gibbosa har utdragna porer men rent vitt kött och saknar rödaktig blånad vid tryck. Trametes elegans har vitaktig hatt, mindre sporer (5–7 × 1,5–2,5 µm), rodnar inte vid beröring och har kött som färgas gulaktigt snarare än svartaktigt av KOH.",
+      "notes": "Fruktkropparna hyser en rik fauna av ved- och svamplevande skalbaggar, med 54 arter ur 16 familjer registrerade i en enskild rysk studie. Den taxonomiska gränsen mellan Daedaleopsis confragosa och Daedaleopsis tricolor har varit omdiskuterad, eftersom mellanformer ibland påträffas och vissa molekylära studier har behandlat dem som varieteter av samma art, även om aktuella checklistor erkänner dem som skilda arter.",
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Tegelticka"
+      ]
+    },
+    "tr": {
+      "description": "Ölü ve yaralı geniş yapraklı ağaçlarda, özellikle söğütlerde tek tek veya üst üste binen katmanlar halinde büyüyen sert, odun çürüten bir raf mantarıdır. Ilıman Avrasya, Meksika'ya kadar güneye inen Kuzey Amerika ile Avustralya ve Yeni Zelanda'nın bazı bölgelerinde yayılış gösterir. Üreme yapıları yazdan sonbahara kadar gelişir ve kış boyunca kalıcı olup yoğun beyaz çürüklüğe neden olur.",
+      "cap": "Şapka 3–15 cm genişliğinde (bazen 20 cm'ye kadar), odundan 4–8 cm dışa çıkıntılı ve 1–3 cm kalınlığındadır; yarım daire ile yelpaze biçimli, genişçe dışbükeyden düze doğru olup sapsız olarak doğrudan substrata tutunur ve bazen tutunma noktasında hafif bir çıkıntı bulunur. Kuru, mat üst yüzeyi düzden ince tüylüye kadar değişir, engebeli veya ışınsal kırışıklıdır; beyazımsı gri, grimsi aşıboyası, açık kahverengi, kahverengimsi ve şarap kırmızısı tonlarda eş merkezli kuşaklara sahiptir ve yaşlandıkça genellikle pas kahverengisine veya siyahımsıya koyulaşırken keskin, soluk beyazımsı büyüme kenarını korur.",
+      "hymenium": "Gözenekler oldukça değişkendir; yuvarlaktan ışınsal olarak uzamış, yarık biçimli, labirentimsi veya bazen neredeyse lamelimsi yapılara kadar değişir, 0,5–1,5 mm genişliğinde ve ince duvarlıdır; borucuklar 5–15 mm derinliğindedir. Gözenek yüzeyi gençken beyazımsı ile soluk grimsi açık kahverengi arasındadır, yaşlandıkça donuk grimsi aşıboyası veya kahverengimsiye koyulaşır ve tazeyken zedelendiğinde karakteristik olarak somon pembesi, şarap pembesi veya kırmızımsı kahverengiye döner. Bazidiyumlar silindirikten çomak biçimliye kadar olup 20–40 × 3–5 µm ölçülerindedir ve 2–3 µm genişliğinde çok sayıda hifidya ile birlikte bulunur.",
+      "stipe": "Yoktur; sapsız raf şeklindeki üreme yapısı yan veya arka kenarıyla doğrudan oduna tutunur.",
+      "flesh": "Tazeyken sert, derimsi ile mantarımsı arası, kuruduğunda sert ve katıdır; beyazımsı, pembemsi veya soluk odun kahverengisinden grimsi kahverengiye kadar değişir ve trimitik hif sistemine sahiptir. Potasyum hidroksit (KOH) ile tüm kısımlar koyu griden siyaha döner. Kokusu belirsiz, tadı hafif ile az acımsı arasındadır.",
+      "sporePrint": "Beyazdır. Bazidiyosporlar düz, dar silindirikten hafif eğriye (alantoid), inamiloid ve 6–11 × 1,5–3 µm (çoğunlukla 7–11 × 2–3 µm) boyutlarındadır.",
+      "habitat": "Geniş yapraklı ağaçların ölü veya yaralı gövdelerinde, devrilmiş kütüklerinde, dallarında ve bazen kök kütüklerinde saprotrof ve zayıf parazit olarak gelişir; diri odunda yoğun lignin parçalayıcı beyaz çürüklüğe neden olur ve çürümüş odunda bazen siyah sınır çizgileri görülür. Özellikle nemli dere kenarı ormanlarındaki söğütleri (Salix) güçlü biçimde tercih eder; ayrıca huş, kızılağaç, fındık, kayın, gürgen, üvez, ıhlamur, karaağaç, kızılcık ve meyve ağaçlarında da büyür, iğne yapraklılarda ise çok nadirdir. Taze tek yıllık üreme yapıları hazirandan aralığa kadar gelişir; spor salımı sonbahardan kışa kadar doruğa ulaşır ve yaz başında azalır, sertleşip kuruyan yapılar ise yıl boyunca odun üzerinde kalır.",
+      "uses": "Sert, mantarımsı ve odunsu dokusu nedeniyle yenmez.",
+      "confusion": "Daedalea quercina başlıca meşe üzerinde büyür, çok daha kalın ve kaba labirentimsi gözenek duvarlarına sahip daha büyük ve kalın (1–8 cm kalınlığında) üreme yapıları oluşturur, daha küçük sporlar (5,5–7 × 2,5–3,5 µm) üretir, kahverengi öz odun çürüklüğüne yol açar ve zedelendiğinde pembeleşmez. Daedaleopsis tricolor daha koyu ve daha homojen şarap kırmızısı ile kırmızımsı kahverengi bir şapkaya ve çok az çapraz bağlantılı ya da bağlantısız, belirgin biçimde lamelimsi ve gümüşi parlaklıkta bir alt yüzeye sahiptir. Cerrena unicolor etli kısmında siyah bir çizgi bulunan daha ince yapılar oluşturur ve olgunlukta borucukları düzensiz yassı dişlere bölünür. Trametes gibbosa uzamış gözeneklere sahiptir ancak etli kısmı saf beyazdır ve kırmızımsı renk değişimi göstermez. Trametes elegans beyazımsı bir şapkaya, daha küçük sporlara (5–7 × 1,5–2,5 µm) sahiptir, kırmızımsı renk değişimi göstermez ve etli kısmı KOH ile siyahlaşmak yerine sarımsı bir renk alır.",
+      "notes": "Üreme yapıları odun ve mantarlarda yaşayan zengin bir kınkanatlı faunasını barındırır; Rusya'daki tek bir çalışmada 16 familyadan 54 tür kaydedilmiştir. Daedaleopsis confragosa ile Daedaleopsis tricolor arasındaki taksonomik sınır tartışmalıdır; zaman zaman ara özellikli üreme yapıları bulunmakta ve bazı moleküler çalışmalar ikisini tek bir türün varyeteleri olarak ele almaktadır, ancak güncel kontrol listeleri onları ayrı türler olarak kabul eder.",
+      "sourceUrls": []
+    },
+    "uk": {
+      "label": "даделеопсис горбистий",
+      "wikipedia": "https://uk.wikipedia.org/wiki/Daedaleopsis_confragosa",
+      "description": "Жорсткий дереворуйнівний трутовик, що росте поодиноко або черепичастими рядами на мертвій і пошкодженій деревині листяних порід, особливо верб, у помірній зоні Євразії, Північній Америці на південь до Мексики та в окремих районах Австралії й Нової Зеландії. Плодові тіла розвиваються з літа до осені й зберігаються взимку, спричиняючи інтенсивну білу гниль.",
+      "cap": "3–15 см завширшки (інколи до 20 см), виступає на 4–8 см від деревини й має товщину 1–3 см, напівкругла до віялоподібної, широкоопукла до плоскої, прикріплена безпосередньо до субстрату без ніжки, іноді зі слабким горбиком біля основи. Суха, матова верхня поверхня гладенька до дрібноопушеної, горбиста або радіально зморшкувата, із концентричними зонами білувато-сірих, сірувато-охристих, світло-коричневих, буруватих і винно-червонуватих відтінків; із віком часто темнішає до іржаво-бурої або чорнуватої, зберігаючи гострий, блідий білуватий край росту.",
+      "hymenium": "Пори дуже мінливі — від округлих до радіально витягнутих, щілиноподібних, лабіринтоподібних або іноді майже пластинчастих, завширшки 0,5–1,5 мм із тонкими стінками; трубочки завглибшки 5–15 мм. Поверхня пор у молодих плодових тіл білувата до блідо-сірувато-коричневої, із віком темнішає до брудно-сірувато-охристої чи буруватої, а в свіжому стані при натисканні характерно забарвлюється в лососево-рожевий, винно-рожевий або червонувато-бурий колір. Базидії циліндричні до булавоподібних, розміром 20–40 × 3–5 мкм, супроводжуються численними гіфідіями завширшки 2–3 мкм.",
+      "stipe": "Відсутня; сидяче плодове тіло прикріплюється до деревини безпосередньо бічним або заднім краєм.",
+      "flesh": "У свіжому стані жорсткий, шкірястий до коркоподібного, при висиханні стає твердим і негнучким; білуватий, рожевуватий або блідо-деревинно-бурий до сірувато-бурого, із тримітичною гіфальною системою. Усі частини під дією гідроксиду калію (KOH) темнішають до темно-сірого чи чорного кольору. Запах невиразний, смак м'який до злегка гіркуватого.",
+      "sporePrint": "Білий. Базидіоспори гладенькі, вузькоциліндричні до злегка зігнутих (алантоїдні), неамілоїдні, розміром 6–11 × 1,5–3 мкм (найчастіше 7–11 × 2–3 мкм).",
+      "habitat": "Сапротрофний і слабко паразитичний вид на мертвих або пошкоджених стовбурах, повалених колодах, гілках і зрідка пнях листяних дерев, що спричиняє інтенсивну білу делігніфікуючу гниль заболоні, інколи з чорними межовими лініями в ураженій деревині. Виразно віддає перевагу вербам (Salix), особливо у вологих прирічкових лісах, а також росте на березі, вільсі, ліщині, буку, грабі, горобині, липі, в'язі, дерені та плодових деревах, дуже рідко на хвойних. Свіжі однорічні плодові тіла розвиваються з червня по грудень; вивільнення спор досягає піка з осені по зиму й спадає на початку літа, тоді як жорсткі висохлі плодові тіла залишаються на деревині цілий рік.",
+      "uses": "Неїстівний через жорсткий, коркоподібний і дерев'янистий м'якуш.",
+      "confusion": "Daedalea quercina росте переважно на дубі, утворює більші й товстіші плодові тіла (1–8 см завтовшки) зі значно товстішими й грубішими лабіринтоподібними стінками пор, має дрібніші спори (5,5–7 × 2,5–3,5 мкм), спричиняє буру серцевинну гниль і не рожевіє при натисканні. Daedaleopsis tricolor має темнішу, рівномірніше винно-червону до червонувато-бурої шапинку та чітко пластинчасту, сріблясто-блискучу нижню поверхню з поодинокими поперечними перетинками або без них. Cerrena unicolor утворює тонші плодові тіла з чорною лінією в м'якуші та трубочками, які при дозріванні розщеплюються на неправильні сплюснуті шипи. Trametes gibbosa має витягнуті пори, але суто білий м'якуш і не червоніє при пошкодженні. Trametes elegans вирізняється білуватою шапинкою, дрібнішими спорами (5–7 × 1,5–2,5 мкм), відсутністю почервоніння та м'якушем, що жовтіє, а не чорніє від KOH.",
+      "notes": "Плодові тіла підтримують багату фауну деревних і грибних жуків: в одному російському дослідженні зафіксовано 54 види з 16 родин. Таксономічна межа між Daedaleopsis confragosa та Daedaleopsis tricolor є предметом дискусій, оскільки іноді трапляються проміжні плодові тіла, а деякі молекулярні дослідження розглядають їх як різновиди одного виду, хоча сучасні переліки визнають їх окремими видами.",
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/Daedaleopsis_confragosa",
+        "https://www.gbif.org/species/2545670"
+      ]
+    },
+    "zh": {
+      "label": "粗糙拟迷孔菌",
+      "names": [
+        "粗糙擬迷孔菌"
+      ],
+      "wikipedia": "https://zh.wikipedia.org/wiki/%E7%B2%97%E7%B3%99%E6%93%AC%E8%BF%B7%E5%AD%94%E8%8F%8C",
+      "description": "一種質地堅韌的木腐多孔菌，單生或覆瓦狀疊生於枯死及受損的闊葉樹上，尤其偏好柳樹，分布於溫帶歐亞大陸、北美洲南至墨西哥，以及澳洲和紐西蘭部分地區。子實體於夏季至秋季發育並持續越冬，引起強烈的白色腐朽。",
+      "cap": "菌蓋寬3–15 cm（偶爾可達20 cm），自木材伸出4–8 cm，厚1–3 cm，半圓形至扇形，寬凸起至平展，無菌柄而直接附著於基質上，附著處有時具輕微突起。上表面乾燥無光澤，平滑至具微細絨毛，凹凸不平或具放射狀皺紋，並具灰白色、灰赭色、淺褐色、褐色及酒紅色的同心環帶，老熟時常變暗呈鏽褐色或黑褐色，但仍保有銳利、淡白色的生長邊緣。",
+      "hymenium": "菌管孔形態變化極大，從圓形至放射狀拉長、狹縫狀、迷宮狀，偶爾近菌褶狀，孔寬0.5–1.5 mm且孔壁薄；菌管深5–15 mm。孔口面幼時灰白色至淡灰褐色，老熟後變暗呈暗灰赭色或褐色，新鮮時受傷會明顯變為鮭魚粉紅色、酒粉紅色或紅褐色。擔子圓柱形至棒狀，大小為20–40 × 3–5 µm，並伴生許多寬2–3 µm的菌絲狀側絲（hyphidia）。",
+      "stipe": "無；無柄的子實體直接以側面或後緣附著於木材上。",
+      "flesh": "新鮮時堅韌、革質至軟木質，乾燥後堅硬挺直；顏色呈灰白色、粉紅色或淡木褐色至灰褐色，具三系菌絲系統。所有部位遇氫氧化鉀（KOH）均變為暗灰色至黑色。氣味不明顯，味道溫和至微苦。",
+      "sporePrint": "白色。擔孢子平滑，窄圓柱形至微彎（臘腸形），非澱粉質，大小為6–11 × 1.5–3 µm（最常見為7–11 × 2–3 µm）。",
+      "habitat": "腐生並弱寄生於闊葉樹枯死或受損的樹幹、倒木、樹枝及偶見於樹樁上，在邊材引起強烈的去木質素白色腐朽，腐朽木材中偶爾可見黑色界線。強烈偏好柳屬（Salix），尤見於潮濕的河岸林地，亦生長於樺木、榿木、榛木、山毛櫸、鵝耳櫪、花楸、椴樹、榆樹、山茱萸及果樹上，極少見於針葉樹。新鮮的一年生子實體於6月至12月發育，孢子釋放於秋季至冬季達高峰並於初夏減弱，而堅韌乾燥的子實體可全年留存於木材上。",
+      "uses": "因質地堅韌、呈軟木質與木質化而不可食。",
+      "confusion": "Daedalea quercina主要生長於櫟樹上，形成更大、更厚的子實體（厚1–8 cm），具明顯更厚且粗獷的迷宮狀孔壁，孢子較小（5.5–7 × 2.5–3.5 µm），引起褐色心材腐朽，且受傷不呈粉紅色。Daedaleopsis tricolor的菌蓋較暗且更均勻地呈酒紅色至紅褐色，下表面呈明顯的菌褶狀並具銀色光澤，橫向連結極少或無。Cerrena unicolor形成的子實體較薄，菌肉內有一條黑線，且菌管成熟時會分裂為不規則的扁平齒狀突起。Trametes gibbosa具拉長的菌管孔，但菌肉純白且受傷不變紅。Trametes elegans具灰白色菌蓋、較小的孢子（5–7 × 1.5–2.5 µm）、受傷不變紅，且菌肉遇KOH呈黃色而非黑色。",
+      "notes": "子實體孕育了豐富的棲木與棲菌甲蟲群落，單一俄羅斯研究即記錄到16科共54種。Daedaleopsis confragosa與Daedaleopsis tricolor之間的分類界線曾具爭議，偶爾可見中間形態的子實體，部分分子研究亦將兩者視為同一種的變種，但現行名錄仍將其分別認可。",
+      "sourceUrls": [
+        "https://zh.wikipedia.org/wiki/%E7%B2%97%E7%B3%99%E6%93%AC%E8%BF%B7%E5%AD%94%E8%8F%8C"
+      ]
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Boletus confragosus",
+      "author": "Bolton",
+      "year": 1792,
+      "rank": "species",
+      "type": "basionym",
+      "if": 204177
+    },
+    {
+      "name": "Daedalea confragosa",
+      "author": "(Bolton) Pers.",
+      "year": 1801,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Polyporus confragosus",
+      "author": "(Bolton) P. Kumm.",
+      "year": 1871,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Striglia confragosa",
+      "author": "(Bolton) Kuntze",
+      "year": 1891,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Lenzites confragosus",
+      "author": "(Bolton) Pat.",
+      "year": 1900,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Agaricus confragosus",
+      "author": "(Bolton) Murrill",
+      "year": 1905,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Trametes confragosa",
+      "author": "(Bolton) Jørst.",
+      "year": 1936,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Ischnoderma confragosum",
+      "author": "(Bolton) Zmitr.",
+      "year": 2001,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Boletus angustatus",
+      "author": "Sowerby",
+      "year": 1799,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Daedalea angustata",
+      "author": "(Sowerby) Fr.",
+      "year": 1821,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Daedalea rubescens",
+      "author": "Alb. & Schwein.",
+      "year": 1805,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Trametes rubescens",
+      "author": "(Alb. & Schwein.) Fr.",
+      "year": 1838,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Polyporus rubescens",
+      "author": "(Alb. & Schwein.) P. Kumm.",
+      "year": 1871,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Daedaleopsis rubescens",
+      "author": "(Alb. & Schwein.) Imazeki",
+      "year": 1943,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Daedalea intermedia",
+      "author": "Berk.",
+      "year": 1881,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Striglia intermedia",
+      "author": "(Berk.) Kuntze",
+      "year": 1891,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Lenzites sibiricus",
+      "author": "P. Karst.",
+      "year": 1904,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Daedalea variegata",
+      "author": "P. Karst.",
+      "year": 1911,
+      "rank": "species",
+      "type": "heterotypic"
+    }
+  ],
+  "reserved": false,
+  "id": 244,
+  "citation": "in Cohn, Krypt.-Fl. Schlesien (Breslau) 3.1(25–32): 492 (1888) [1889]"
 }
 ];

@@ -1222,5 +1222,16 @@ export const TAXA = {
   },
   Butyriboletus: {
     rank: "genus"
+  },
+  Gomphidiaceae: {
+    rank: "family",
+    sk: "sliziakovité"
+  },
+  Gomphidius: {
+    rank: "genus",
+    sk: "sliziak"
+  },
+  Daedaleopsis: {
+    rank: "genus"
   }
 };
