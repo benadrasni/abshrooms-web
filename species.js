@@ -246366,5 +246366,914 @@ export const CATALOG = [
   "reserved": false,
   "id": 244,
   "citation": "in Cohn, Krypt.-Fl. Schlesien (Breslau) 3.1(25–32): 492 (1888) [1889]"
+},
+{
+  "name": "Trametes cinnabarina",
+  "author": "(Jacq.) Fr.",
+  "family": "Polyporaceae",
+  "genus": "Trametes",
+  "order": "Polyporales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Incertae sedis",
+    "Polyporales",
+    "Polyporaceae",
+    "Trametes"
+  ],
+  "summary": [
+    "Polyporales",
+    "Polyporaceae",
+    "Trametes"
+  ],
+  "edibility": "inedible",
+  "hymenium": "tubes",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "red",
+    "yellow"
+  ],
+  "capFrom": 2.0,
+  "capTo": 13.0,
+  "stipeHeightFrom": null,
+  "stipeHeightTo": null,
+  "stipeThickFrom": null,
+  "stipeThickTo": null,
+  "fruitingFrom": 6,
+  "fruitingTo": 11,
+  "label": {
+    "en": "cinnabar polypore",
+    "bg": "оранжево-червен пикнопорус",
+    "cs": "outkovka rumělková",
+    "da": "cinnoberporesvamp",
+    "de": "Nördlicher Zinnoberschwamm",
+    "es": "yesquero bermellón",
+    "et": "punapoorik",
+    "fi": "punakääpä",
+    "fr": "tramète cinabre",
+    "hu": "cinóbertapló",
+    "ja": "シュタケ",
+    "ko": "주걱간버섯",
+    "lt": "tikroji raudonpintė",
+    "lv": "parastā cinobrpiepe",
+    "nl": "Vermiljoenhoutzwam",
+    "no": "sinoberkjuke",
+    "pl": "wrośniak cynobrowy",
+    "ru": "пикнопорус киноварно-красный",
+    "sk": "červenica rumelková",
+    "sl": "cinobrasti drobnoluknjičar",
+    "sv": "cinnoberticka",
+    "uk": "пікнопор кіноварно-червоний",
+    "zh": "朱紅密孔菌"
+  },
+  "names": {
+    "en": [
+      "cinnabar bracket",
+      "cinnabar-red polypore",
+      "northern cinnabar polypore"
+    ],
+    "bg": [
+      "червен пикнопорус"
+    ],
+    "de": [
+      "Zinnoberschwamm",
+      "Zinnoberrote Tramete",
+      "Zinnobertramete"
+    ],
+    "es": [
+      "trametes rojo-cinabrio"
+    ],
+    "fr": [
+      "pycnopore cinabre"
+    ],
+    "pl": [
+      "gęstoporek cynobrowy"
+    ],
+    "zh": [
+      "鮮紅密孔菌"
+    ]
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=204756",
+        "detail": "204756"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum",
+        "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=204756",
+        "detail": "204756"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/9227816",
+        "detail": "9227816"
+      },
+      {
+        "group": "name",
+        "name": "Wikispecies",
+        "href": "https://species.wikimedia.org/wiki/Pycnoporus_cinnabarinus"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q205101"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Pycnoporus_cinnabarinus"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/pycnoporus-cinnabarinus.php"
+      },
+      {
+        "group": "text",
+        "name": "MushroomExpert",
+        "href": "https://www.mushroomexpert.com/pycnoporus_cinnabarinus.html"
+      },
+      {
+        "group": "text",
+        "name": "Myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Pycnoporus-cinnabarinus/"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/N%C3%B6rdlicher_Zinnoberschwamm",
+        "detail": "de"
+      }
+    ]
+  },
+  "added": "2026-11-26",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Trametes_cinnabarina/Trametes_cinnabarina@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Trametes_cinnabarina/Trametes_cinnabarina@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "license": "All rights reserved",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Trametes_cinnabarina/Trametes_cinnabarina@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Trametes_cinnabarina/Trametes_cinnabarina_1.webp",
+      "author": "Björn S...",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Pycnoporus_cinnabarinus_(24758167808).jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Trametes_cinnabarina/Trametes_cinnabarina_2.webp",
+      "author": "Björn S...",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Pycnoporus_cinnabarinus_(28539038664).jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Trametes_cinnabarina/Trametes_cinnabarina_3.webp",
+      "author": "Hartmut Schmidt Heidelberg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Northern_cinnebar_fungus_(Pycnoporus_cinnebarinus),_L%C3%A6s%C3%B8,_DK.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Trametes_cinnabarina/Trametes_cinnabarina_4.webp",
+      "author": "Henk Monster",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:A_young_Pycnoporus_cinnabarinus_(Cinnabar_Bracket,_D%3D_Zinnobertramete,_NL%3D_Vermiljoenhoutzwam)_at_a_birchtree_at_Deelerwoud_17_August_2013_-_panoramio.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Trametes_cinnabarina/Trametes_cinnabarina_5.webp",
+      "author": "Holger Krisp",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Zinnober-Tramete_Pycnoporus_cinnabarinus.jpg"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Polyporales/Polyporaceae/Trametes_cinnabarina/Trametes_cinnabarina@1600.webp",
+      "author": "Gemini",
+      "license": "All rights reserved",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Trametes_cinnabarina/Trametes_cinnabarina@1600.webp"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Polyporales/Polyporaceae/Trametes_cinnabarina/Trametes_cinnabarina_1.webp",
+      "author": "Björn S...",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pycnoporus_cinnabarinus_(24758167808).jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Polyporales/Polyporaceae/Trametes_cinnabarina/Trametes_cinnabarina_2.webp",
+      "author": "Björn S...",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pycnoporus_cinnabarinus_(28539038664).jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Polyporales/Polyporaceae/Trametes_cinnabarina/Trametes_cinnabarina_3.webp",
+      "author": "Hartmut Schmidt Heidelberg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Northern_cinnebar_fungus_(Pycnoporus_cinnebarinus),_L%C3%A6s%C3%B8,_DK.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Polyporales/Polyporaceae/Trametes_cinnabarina/Trametes_cinnabarina_4.webp",
+      "author": "Henk Monster",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_young_Pycnoporus_cinnabarinus_(Cinnabar_Bracket,_D%3D_Zinnobertramete,_NL%3D_Vermiljoenhoutzwam)_at_a_birchtree_at_Deelerwoud_17_August_2013_-_panoramio.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Polyporales/Polyporaceae/Trametes_cinnabarina/Trametes_cinnabarina_5.webp",
+      "author": "Holger Krisp",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zinnober-Tramete_Pycnoporus_cinnabarinus.jpg"
+    }
+  ],
+  "text": {
+    "en": {
+      "label": "cinnabar polypore",
+      "names": [
+        "cinnabar bracket",
+        "cinnabar-red polypore",
+        "northern cinnabar polypore"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Pycnoporus_cinnabarinus",
+      "description": "A striking, bright orange-red wood-decaying bracket fungus growing singly or in small overlapping tiers on sun-exposed dead hardwoods across the Holarctic, from warm-temperate to boreal zones of Europe, northern Asia, and North America, with rarer records in South America and southern Asia. Annual fruit bodies appear from summer through autumn and cause a white rot.",
+      "cap": "2–13 cm across (occasionally smaller, 1.5–3 cm, on thin branches in dry montane habitats), projecting 4–6 cm from the wood and 0.5–2 cm thick, semicircular, kidney-shaped, or fan-shaped, broadly convex to flat, and attached laterally without a stipe. The dry upper surface is uneven, bumpy, or wrinkled, finely downy to suede-like when young and becoming smoother or slightly glossy and pocked with age, sometimes faintly concentrically zoned near the margin. Fresh fruit bodies are vivid cinnabar-orange to scarlet-red, fading toward dull orange, pinkish, or bleached whitish when weathered; the margin is rounded in youth and becomes sharper and slightly wavy at maturity. Potassium hydroxide (KOH) turns the cap surface purplish to reddish, then grey to black.",
+      "hymenium": "Pores are round to angular, occasionally slightly elongated or maze-like, dense at 2–4 per mm; tubes are 2–8 mm deep, pale orange to cinnabar-red, and occasionally decurrent onto the substrate below the bracket. The pore surface is vivid cinnabar-red to bright orange-red, turning olive-green with KOH. Cystidia are absent.",
+      "stipe": "Absent; the sessile bracket attaches directly by its side or rear margin to the wood.",
+      "flesh": "Tough, leathery-hard to corky, faintly zoned, reddish to pale orange, with a trimitic hyphal system. KOH turns the flesh slowly reddish to blackish (or yellowish in older specimens). The odour is indistinct or faintly fragrant, and the taste is mild and indistinct.",
+      "sporePrint": "White. Basidiospores are smooth, cylindrical to slightly curved (allantoid) or long-elliptical, hyaline in KOH, inamyloid, and measure 4.5–8 × 2–3 µm.",
+      "habitat": "Saprotrophic on dead wood of broadleaved trees—especially European beech, birch, wild cherry, rowan, oak, and willow—and rarely on conifers, causing a white delignifying rot. A strongly light- and warmth-loving pioneer decomposer of sun-exposed fallen trunks, logs, and branches with intact bark in clearings, forest edges, open dry hardwood woodlands, hedges, orchards, and parks, often fruiting alongside Trametes hirsuta. Annual (occasionally biennial) fresh fruit bodies develop mainly from June to November, while tough older brackets commonly persist through winter and into spring.",
+      "uses": "Inedible due to its tough, corky texture.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) is a mainly tropical to subtropical relative that forms much thinner brackets (under 0.5 cm thick) with denser pores, a shinier seared-looking upper surface, and often a pinched, stem-like base. Hapalopilus rutilans (Hapalopilus nidulans) forms softer, stockier, dull cinnamon-orange brackets whose flesh turns vivid violet-purple with KOH. Pycnoporellus fulgens grows on dead conifers rather than hardwoods, has a hairier orange-brown cap and larger angular-to-labyrinthine pores, and typically breaks down before winter. Fistulina hepatica is soft, juicy, and fleshy rather than tough and corky, with pale pinkish-cream tubes and a pinkish-yellow spore print.",
+      "notes": "Fruit bodies contain cinnabarinic acid and related phenoxazinone pigments that produce the vivid red-orange colour and provide antibacterial activity. In biotechnology, the fungus is widely studied for its laccases and oxidases, including the bioconversion of ferulic acid into natural vanillin. Although widespread across the Northern Hemisphere, it has undergone marked population fluctuations in parts of Europe and is very rare in Atlantic regions; in Britain it was listed as Endangered in 1992 and Extinct in 2006.",
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=204756",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=204756",
+        "https://www.gbif.org/species/9227816",
+        "https://species.wikimedia.org/wiki/Pycnoporus_cinnabarinus",
+        "https://www.wikidata.org/wiki/Q205101",
+        "https://en.wikipedia.org/wiki/Pycnoporus_cinnabarinus",
+        "https://www.first-nature.com/fungi/pycnoporus-cinnabarinus.php",
+        "https://www.mushroomexpert.com/pycnoporus_cinnabarinus.html",
+        "https://www.myko.cz/myko-atlas/Pycnoporus-cinnabarinus/",
+        "https://de.wikipedia.org/wiki/N%C3%B6rdlicher_Zinnoberschwamm"
+      ]
+    },
+    "ar": {
+      "description": "فطر رفّي بارز ومحلِّل للخشب، برتقالي محمر زاهٍ، ينمو منفرداً أو في طبقات صغيرة متراكبة على أخشاب الأشجار عريضة الأوراق الميتة المعرّضة للشمس عبر المنطقة القطبية الشمالية، من المناطق المعتدلة الدافئة إلى الشمالية في أوروبا وشمال آسيا وأمريكا الشمالية، مع تسجيلات أندر في أمريكا الجنوبية وجنوب آسيا. تظهر الأجسام الثمرية الحولية من الصيف حتى الخريف وتسبب تعفّناً أبيض.",
+      "cap": "القبعة عرضها ٢–١٣ سم (وأحياناً أصغر، ١٫٥–٣ سم، على الأغصان الرفيعة في المواطن الجبلية الجافة)، بارزة بمقدار ٤–٦ سم عن الخشب وبسماكة ٠٫٥–٢ سم، نصف دائرية أو كلوية أو مروحية الشكل، محدّبة عريضة إلى مسطّحة، ومتصلة جانبياً من دون ساق. السطح العلوي جاف وغير مستوٍ أو متعرّج أو مجعّد، ناعم الزغب إلى شبيه بالجلد المخملي في الصغر، ويصبح أكثر ملساً أو لامعاً قليلاً ومثقّباً مع التقدّم في العمر، وأحياناً ذو مناطق دائرية باهتة قرب الحافة. الأجسام الثمرية الطازجة برتقالية زنجفرية زاهية إلى حمراء قرمزية، وتبهت نحو البرتقالي الباهت أو الوردي أو الأبيض المبيّض عند تعرّضها للعوامل الجوية؛ والحافة مستديرة في الصغر ثم تصبح أكثر حدة ومتموّجة قليلاً عند النضج. يُحوِّل هيدروكسيد البوتاسيوم (KOH) سطح القبعة إلى أرجواني مائل إلى الأحمر، ثم إلى رمادي فأسود.",
+      "hymenium": "المسام مستديرة إلى زاوية، وأحياناً متطاولة قليلاً أو متاهية الشكل، كثيفة بمعدل ٢–٤ لكل مم؛ والأنابيب بعمق ٢–٨ مم، برتقالية شاحبة إلى حمراء زنجفرية، وأحياناً متدلية على الركيزة أسفل الجسم الثمري. سطح المسام أحمر زنجفري زاهٍ إلى برتقالي محمر لامع، ويتحول إلى أخضر زيتوني مع KOH. السيستيديا غائبة.",
+      "stipe": "غائبة؛ يتصل الجسم الثمري الجالس مباشرة بجانبه أو بحافته الخلفية بالخشب.",
+      "flesh": "اللحم متين، جلدي صلب إلى فلّيني، ذو تمنطق باهت، محمر إلى برتقالي شاحب، وبنظام خيطي ثلاثي (trimitic). يُحوِّل KOH اللحم ببطء إلى محمر ثم مسوّد (أو مصفرّ في العينات الأقدم). الرائحة غير مميّزة أو عطرية خفيفة، والطعم خفيف وغير مميّز.",
+      "sporePrint": "أبيض. الأبواغ الدعامية ملساء، أسطوانية إلى منحنية قليلاً أو إهليلجية متطاولة، شفافة في KOH، غير أميلويدية، وتقيس ٤٫٥–٨ × ٢–٣ ميكرومتر.",
+      "habitat": "فطر رمّي على الخشب الميت للأشجار عريضة الأوراق — خصوصاً الزان الأوروبي والبتولا والكرز البري والغبيراء والبلوط والصفصاف — ونادراً على المخروطيات، مسبباً تعفّناً أبيض مُزيلاً للّجنين. وهو مُحلِّل رائد محبّ بشدة للضوء والدفء، ينمو على الجذوع الساقطة والأخشاب والأغصان ذات اللحاء السليم المعرّضة للشمس في الفسحات وحواف الغابات والغابات العريضة الأوراق الجافة المفتوحة والأسوار النباتية والبساتين والحدائق، وغالباً ما يثمر إلى جانب Trametes hirsuta. تنمو الأجسام الثمرية الطازجة الحولية (وأحياناً ثنائية الحول) أساساً من يونيو إلى نوفمبر، بينما تستمر الأجسام الأقدم المتينة عادةً طوال الشتاء وحتى الربيع.",
+      "uses": "غير صالح للأكل بسبب قوامه المتين والفلّيني.",
+      "confusion": "يُعد Trametes sanguinea (Pycnoporus sanguineus) قريباً استوائياً إلى شبه استوائي أساساً، يُكوّن أجساماً ثمرية أرق بكثير (بسماكة أقل من ٠٫٥ سم) بمسام أكثر كثافة، وسطح علوي أكثر لمعاناً يبدو كأنه مصقول، وغالباً بقاعدة متضيّقة تشبه الساق. يُكوّن Hapalopilus rutilans (Hapalopilus nidulans) أجساماً ثمرية أطرى وأثخن وبلون برتقالي قرفي باهت، يتحول لحمها إلى بنفسجي أرجواني زاهٍ مع KOH. ينمو Pycnoporellus fulgens على المخروطيات الميتة لا على الأشجار عريضة الأوراق، وله قبعة برتقالية بنية أكثر زغباً ومسام أكبر زاوية إلى متاهية، ويتحلل عادةً قبل الشتاء. أما Fistulina hepatica فطريّ وعصاري ولحمي بدلاً من كونه متيناً وفلّينياً، بأنابيب كريمية وردية شاحبة وطبعة أبواغ صفراء وردية.",
+      "notes": "تحتوي الأجسام الثمرية على حمض السينابارينيك وصبغات فينوكسازينون مرتبطة به تُنتج اللون الأحمر البرتقالي الزاهي وتوفّر نشاطاً مضاداً للبكتيريا. وفي التقانة الحيوية، يُدرس هذا الفطر على نطاق واسع لإنتاجه إنزيمات اللاكاز والأوكسيداز، بما في ذلك التحويل الحيوي لحمض الفيروليك إلى الفانيلين الطبيعي. وعلى الرغم من انتشاره الواسع في نصف الكرة الشمالي، فقد شهد تقلبات سكانية ملحوظة في أجزاء من أوروبا وهو نادر جداً في المناطق الأطلسية.",
+      "sourceUrls": []
+    },
+    "bg": {
+      "label": "оранжево-червен пикнопорус",
+      "names": [
+        "червен пикнопорус"
+      ],
+      "description": "Ярка, оранжево-червена дърворазрушаваща гъба, растяща поединично или на малки керемидообразни групи върху огрявана от слънцето мъртва широколистна дървесина в цялата Холарктика — от топлоумерените до бореалните зони на Европа, Северна Азия и Северна Америка, с по-редки находища в Южна Америка и Южна Азия. Едногодишните плодни тела се появяват от лятото до есента и причиняват бяло гниене.",
+      "cap": "Широка 2–13 см (понякога по-малка, 1,5–3 см, по тънки клони в сухи планински местообитания), стърчаща на 4–6 см от дървесината и дебела 0,5–2 см; полукръгла, бъбрековидна или ветрилообразна, широко изпъкнала до плоска и странично прираснала без пънче. Сухата горна повърхност е неравна, грапава или набръчкана, в младост фино мъхеста до велурена, а с възрастта става по-гладка или леко лъскава и с дребни вдлъбнатини, понякога със слабо концентрично зониране близо до ръба. Свежите плодни тела са ярко цинобърно-оранжеви до аленочервени, като при изветряване избледняват до матово оранжево, розовеещо или избеляло белезникаво; ръбът в младост е заоблен, а в зрялост става по-остър и леко вълнообразен. Калиевата основа (KOH) оцветява повърхността на гуглата в пурпурно до червеникаво, а след това в сиво до черно.",
+      "hymenium": "Порите са кръгли до ъгловати, понякога леко удължени или лабиринтовидни, гъсти, 2–4 на мм; тръбичките са дълбоки 2–8 мм, бледооранжеви до цинобърночервени, понякога низбягващи по субстрата под плодното тяло. Поровата повърхност е ярко цинобърночервена до ярко оранжево-червена и с KOH става маслиненозелена. Цистиди липсват.",
+      "stipe": "Липсва; приседналото плодно тяло се прикрепва със страничния или задния си ръб направо към дървесината.",
+      "flesh": "Жилава, кожесто-твърда до коркова, слабо зонирана, червеникава до бледооранжева, с тримитична хифна система. С KOH месото бавно почервенява до черникаво (или пожълтява при по-стари екземпляри). Миризмата е неопределена или слабо ароматна, а вкусът е мек и неизразен.",
+      "sporePrint": "Бял. Базидиоспорите са гладки, цилиндрични до леко извити (алантоидни) или удължено елипсовидни, безцветни в KOH, неамилоидни, с размери 4,5–8 × 2–3 мкм.",
+      "habitat": "Сапротрофна върху мъртва дървесина на широколистни дървета — особено обикновен бук, бреза, дива череша, офика, дъб и върба — и рядко върху иглолистни, причинявайки бяло делигнифициращо гниене. Силно светло- и топлолюбив пионерен разложител на огрявани от слънцето паднали стъбла, трупи и клони с ненарушена кора по сечища, горски покрайнини, светли сухи широколистни гори, живи плетове, овощни градини и паркове, често плододаваща заедно с Trametes hirsuta. Едногодишните (понякога двугодишни) свежи плодни тела се развиват главно от юни до ноември, докато жилавите стари плодни тела често се запазват през зимата до пролетта.",
+      "uses": "Неядлива поради жилавата си, коркова консистенция.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) е предимно тропичен до субтропичен сроден вид, който образува много по-тънки плодни тела (под 0,5 см дебелина) с по-гъсти пори, по-лъскава, сякаш опърлена горна повърхност и често стеснена, пънчевидна основа. Hapalopilus rutilans (Hapalopilus nidulans) образува по-меки, по-дебели, матово канелено-оранжеви плодни тела, чието месо с KOH се оцветява в ярко виолетово-пурпурно. Pycnoporellus fulgens расте върху мъртви иглолистни вместо широколистни дървета, има по-влакнеста оранжево-кафява гугла и по-едри ъгловати до лабиринтовидни пори и обикновено се разпада преди зимата. Fistulina hepatica е мека, сочна и месеста вместо жилава и коркова, с бледо розово-кремави тръбички и розово-жълт споров прашец.",
+      "notes": "Плодните тела съдържат цинабаринова киселина и сродни феноксазинонови пигменти, които придават яркия червено-оранжев цвят и осигуряват антибактериална активност. В биотехнологията гъбата е широко изследвана заради своите лакази и оксидази, включително биоконверсията на ферулова киселина в естествен ванилин. Макар да е широко разпространена в Северното полукълбо, в части от Европа е преминала през осезаеми колебания в популациите и е много рядка в атлантическите райони.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q205101"
+      ]
+    },
+    "cs": {
+      "label": "outkovka rumělková",
+      "description": "Nápadná, zářivě oranžovočervená dřevokazná konzolovitá houba rostoucí jednotlivě nebo v malých střechovitě uspořádaných trsech na sluncem exponovaném odumřelém dřevě listnáčů napříč holarktickou oblastí, od teplých mírných po boreální pásma Evropy, severní Asie a Severní Ameriky, se vzácnějšími nálezy v Jižní Americe a jižní Asii. Jednoleté plodnice se objevují od léta do podzimu a způsobují bílou hnilobu dřeva.",
+      "cap": "2–13 cm široký (ojediněle menší, 1,5–3 cm, na tenkých větvích na suchých horských stanovištích), od dřeva odstává 4–6 cm a je 0,5–2 cm tlustý, půlkruhovitý, ledvinovitý nebo vějířovitý, široce klenutý až plochý, přirostlý bokem bez třeně. Suchý svrchní povrch je nerovný, hrbolatý nebo vrásčitý, v mládí jemně plstnatý až semišový, stářím hladší nebo slabě lesklý a ďubkovaný, někdy nevýrazně soustředně pásovaný u okraje. Čerstvé plodnice jsou zářivě rumělkově oranžové až šarlatově červené, zvětráváním blednou do matně oranžové, narůžovělé nebo vybledlé bělavé barvy; okraj je v mládí zaoblený a v dospělosti ostřejší a mírně zvlněný. Hydroxid draselný (KOH) zbarvuje povrch klobouku purpurově až červeně, poté šedě až černě.",
+      "hymenium": "Póry jsou okrouhlé až hranaté, občas mírně protažené nebo labyrintické, husté, 2–4 na mm; rourky jsou 2–8 mm hluboké, světle oranžové až rumělkově červené a občas sbíhají na substrát pod plodnicí. Pórovitý povrch je zářivě rumělkově červený až jasně oranžovočervený a s KOH se zbarvuje olivově zeleně. Cystidy chybějí.",
+      "stipe": "Chybí; přisedlá plodnice přirůstá bokem nebo zadním okrajem přímo ke dřevu.",
+      "flesh": "Tuhá, kožovitě tvrdá až korkovitá, slabě pásovaná, načervenalá až světle oranžová, s trimitickým hyfovým systémem. KOH zbarvuje dužninu pomalu červenavě až černavě (u starších plodnic nažloutle). Vůně je nevýrazná nebo slabě příjemná a chuť mírná a nevýrazná.",
+      "sporePrint": "Bílý. Bazidiospory jsou hladké, válcovité až mírně prohnuté (alantoidní) nebo podlouhle elipsoidní, v KOH hyalinní, neamyloidní, o rozměrech 4,5–8 × 2–3 µm.",
+      "habitat": "Saprotrofní na odumřelém dřevě listnatých stromů – zejména buku lesního, břízy, třešně ptačí, jeřábu, dubu a vrby – a vzácně na jehličnanech, kde způsobuje bílou delignifikační hnilobu. Výrazně světlomilný a teplomilný pionýrský rozkladač sluncem exponovaných padlých kmenů, klád a větví s neporušenou kůrou na pasekách, okrajích lesů, v prosvětlených suchých listnatých lesích, živých plotech, sadech a parcích, kde často plodí společně s Trametes hirsuta. Jednoleté (ojediněle dvouleté) čerstvé plodnice se vyvíjejí hlavně od června do listopadu, zatímco tuhé starší plodnice běžně vytrvávají přes zimu až do jara.",
+      "uses": "Nejedlá pro svou tuhou, korkovitou konzistenci.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) je převážně tropický až subtropický příbuzný druh, který tvoří mnohem tenčí plodnice (tenčí než 0,5 cm) s hustšími póry, lesklejším, jakoby ožehnutým svrchním povrchem a často zúženou, třeňovitou bází. Hapalopilus rutilans (Hapalopilus nidulans) tvoří měkčí, zavalitější, matně skořicově oranžové plodnice, jejichž dužnina se s KOH zbarvuje zářivě fialovopurpurově. Pycnoporellus fulgens roste na odumřelých jehličnanech místo listnáčů, má chlupatější oranžovohnědý klobouk a větší hranaté až labyrintické póry a obvykle se rozpadá před zimou. Fistulina hepatica je měkká, šťavnatá a masitá místo tuhé a korkovité, se světle růžovokrémovými rourkami a růžovožlutým výtrusným prachem.",
+      "notes": "Plodnice obsahují kyselinu cinabarinovou a příbuzné fenoxazinonové pigmenty, které dávají houbě zářivě červenooranžové zbarvení a mají antibakteriální účinek. V biotechnologiích je tato houba široce zkoumána pro své lakázy a oxidázy, včetně biokonverze kyseliny ferulové na přírodní vanilin. Přestože je široce rozšířena po celé severní polokouli, v některých částech Evropy prošla výraznými výkyvy populací a v atlantických oblastech je velmi vzácná.",
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Pycnoporus-cinnabarinus/",
+        "https://cs.wikipedia.org/wiki/Outkovka_rum%C4%9Blkov%C3%A1"
+      ]
+    },
+    "da": {
+      "label": "cinnoberporesvamp",
+      "description": "En iøjnefaldende, kraftigt orangerød, trænedbrydende konsolsvamp, der vokser enkeltvis eller i små taglagte rækker på solbeskinnet dødt løvtræ i hele det holarktiske område, fra varmt tempererede til boreale zoner i Europa, Nordasien og Nordamerika, med sjældnere fund i Sydamerika og Sydasien. De etårige frugtlegemer fremkommer fra sommer til efterår og forårsager hvidmuld.",
+      "cap": "2–13 cm bred (undertiden mindre, 1,5–3 cm, på tynde grene i tørre bjergegne), 4–6 cm udstående fra veddet og 0,5–2 cm tyk, halvcirkelformet, nyreformet eller vifteformet, bredt hvælvet til flad og fæstnet sideværts uden stok. Den tørre overside er ujævn, knudret eller rynket, fint dunet til ruskindagtig som ung og bliver glattere eller let skinnende og smågrubet med alderen, undertiden svagt koncentrisk zoneret nær randen. Friske frugtlegemer er kraftigt cinnoberorange til skarlagenrøde og falmer ved forvitring mod mat orange, rosa eller afbleget hvidlig; randen er afrundet som ung og bliver skarpere og let bølget ved modenhed. Kaliumhydroxid (KOH) farver hatoverfladen purpur- til rødlig, derefter grå til sort.",
+      "hymenium": "Porerne er runde til kantede, undertiden let forlængede eller labyrintiske, tætte med 2–4 pr. mm; rørene er 2–8 mm dybe, blegt orange til cinnoberrøde og undertiden nedløbende på substratet under konsollen. Porefladen er kraftigt cinnoberrød til lysende orangerød og farves olivengrøn med KOH. Cystider mangler.",
+      "stipe": "Mangler; det siddende konsolformede frugtlegeme er fæstnet direkte til veddet med siden eller bagkanten.",
+      "flesh": "Sejt, læderagtigt-hårdt til korkagtigt, svagt zoneret, rødligt til blegt orange, med et trimitisk hyfesystem. KOH farver kødet langsomt rødligt til sortagtigt (eller gulligt hos ældre eksemplarer). Lugten er ubestemmelig eller svagt aromatisk, og smagen er mild og ubestemmelig.",
+      "sporePrint": "Hvidt. Basidiosporerne er glatte, cylindriske til let krummede (allantoide) eller langstrakt elliptiske, hyaline i KOH, inamyloide og måler 4,5–8 × 2–3 µm.",
+      "habitat": "Saprotrof på dødt ved af løvtræer – især bøg, birk, fuglekirsebær, røn, eg og pil – og sjældent på nåletræer, hvor den forårsager ligninnedbrydende hvidmuld. En stærkt lys- og varmekrævende pionernedbryder af solbeskinnede væltede stammer, kævler og grene med intakt bark i lysninger, skovbryn, lyse tørre løvskove, hegn, frugthaver og parker, hvor den ofte danner frugtlegemer sammen med Trametes hirsuta. Etårige (undertiden toårige) friske frugtlegemer udvikles hovedsageligt fra juni til november, mens seje ældre konsoller ofte bliver siddende gennem vinteren og ind i foråret.",
+      "uses": "Uspiselig på grund af den seje, korkagtige konsistens.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) er en overvejende tropisk til subtropisk slægtning, der danner meget tyndere konsoller (under 0,5 cm tykke) med tættere porer, en blankere, ligesom svedet overside og ofte en indsnævret, stoklignende basis. Hapalopilus rutilans (Hapalopilus nidulans) danner blødere, mere kompakte, mat kanelorange konsoller, hvis kød farves kraftigt violetpurpur med KOH. Pycnoporellus fulgens vokser på dødt nåletræ i stedet for løvtræ, har en mere håret orangebrun hat og større kantede til labyrintiske porer samt nedbrydes typisk før vinteren. Fistulina hepatica er blød, saftig og kødfuld i stedet for sej og korkagtig, med blegt rosacremefarvede rør og et rosagulligt sporeaftryk.",
+      "notes": "Frugtlegemerne indeholder cinnabarinsyre og beslægtede fenoxazinonpigmenter, som giver den kraftige rødorangerøde farve og har antibakteriel virkning. Inden for bioteknologien studeres svampen bredt for sine lakkaser og oxidaser, herunder biokonvertering af ferulasyre til naturlig vanillin. Selv om den er vidt udbredt på den nordlige halvkugle, har den gennemgået markante bestandssvingninger i dele af Europa og er meget sjælden i atlantiske områder.",
+      "sourceUrls": [
+        "https://svampe.databasen.org/taxon/19550"
+      ]
+    },
+    "de": {
+      "label": "Nördlicher Zinnoberschwamm",
+      "names": [
+        "Zinnoberschwamm",
+        "Zinnoberrote Tramete",
+        "Zinnobertramete"
+      ],
+      "wikipedia": "https://de.wikipedia.org/wiki/N%C3%B6rdlicher_Zinnoberschwamm",
+      "description": "Ein auffälliger, leuchtend orangeroter, holzzersetzender Konsolenpilz, der einzeln oder in kleinen dachziegelartig übereinanderstehenden Reihen an sonnenexponiertem totem Laubholz in der gesamten Holarktis wächst, von den warm-gemäßigten bis zu den borealen Zonen Europas, Nordasiens und Nordamerikas, mit selteneren Nachweisen in Südamerika und Südasien. Die einjährigen Fruchtkörper erscheinen vom Sommer bis in den Herbst und verursachen eine Weißfäule.",
+      "cap": "2–13 cm breit (gelegentlich kleiner, 1,5–3 cm, an dünnen Ästen in trockenen montanen Lebensräumen), 4–6 cm vom Holz abstehend und 0,5–2 cm dick, halbkreisförmig, nierenförmig oder fächerförmig, breit gewölbt bis flach und ohne Stiel seitlich angewachsen. Die trockene Oberseite ist uneben, höckerig oder runzelig, jung fein flaumig bis wildlederartig und im Alter glatter oder schwach glänzend und grubig, nahe dem Rand mitunter schwach konzentrisch gezont. Frische Fruchtkörper sind leuchtend zinnoberorange bis scharlachrot und verblassen bei Verwitterung zu stumpfem Orange, Rosa oder ausgebleichtem Weißlich; der Rand ist jung abgerundet und wird bei Reife schärfer und leicht wellig. Kalilauge (KOH) verfärbt die Hutoberfläche purpur- bis rötlich, dann grau bis schwarz.",
+      "hymenium": "Die Poren sind rundlich bis eckig, gelegentlich leicht langgestreckt oder labyrinthisch, dicht stehend mit 2–4 pro mm; die Röhren sind 2–8 mm tief, blass orange bis zinnoberrot und gelegentlich unterhalb der Konsole am Substrat herablaufend. Die Porenfläche ist leuchtend zinnoberrot bis kräftig orangerot und verfärbt sich mit KOH olivgrün. Zystiden fehlen.",
+      "stipe": "Fehlt; die sitzende Konsole ist seitlich oder mit dem hinteren Rand direkt am Holz angewachsen.",
+      "flesh": "Zäh, lederig-hart bis korkig, schwach gezont, rötlich bis blass orange, mit trimitischem Hyphensystem. Mit KOH verfärbt sich das Fleisch langsam rötlich bis schwärzlich (oder gelblich bei älteren Exemplaren). Der Geruch ist unauffällig oder schwach aromatisch, der Geschmack mild und unauffällig.",
+      "sporePrint": "Weiß. Die Basidiosporen sind glatt, zylindrisch bis leicht gekrümmt (allantoid) oder langellipsoid, in KOH hyalin, inamyloid und messen 4,5–8 × 2–3 µm.",
+      "habitat": "Saprotroph an totem Holz von Laubbäumen – besonders Rotbuche, Birke, Vogelkirsche, Eberesche, Eiche und Weide – sowie selten an Nadelbäumen, wo er eine delignifizierende Weißfäule verursacht. Ein stark licht- und wärmeliebender Pionierzersetzer sonnenexponierter liegender Stämme, Baumstämme und Äste mit intakter Rinde auf Lichtungen, an Waldrändern, in lichten trockenen Laubwäldern, Hecken, Obstgärten und Parks, häufig gemeinsam mit Trametes hirsuta fruktifizierend. Einjährige (gelegentlich zweijährige) frische Fruchtkörper entwickeln sich hauptsächlich von Juni bis November, während zähe ältere Konsolen oft über den Winter bis ins Frühjahr überdauern.",
+      "uses": "Ungenießbar wegen seiner zähen, korkigen Beschaffenheit.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) ist eine überwiegend tropische bis subtropische Verwandte, die deutlich dünnere Konsolen (unter 0,5 cm dick) mit dichteren Poren, einer glänzenderen, wie angesengt wirkenden Oberseite und oft einer verschmälerten, stielartigen Basis bildet. Hapalopilus rutilans (Hapalopilus nidulans) bildet weichere, gedrungenere, stumpf zimtorangefarbene Konsolen, deren Fleisch sich mit KOH leuchtend violettpurpur verfärbt. Pycnoporellus fulgens wächst an totem Nadelholz statt an Laubholz, hat einen stärker behaarten orangebraunen Hut sowie größere eckige bis labyrinthische Poren und vergeht typischerweise vor dem Winter. Fistulina hepatica ist weich, saftig und fleischig statt zäh und korkig, mit blass rosacremefarbenen Röhren und einem rosagelblichen Sporenpulver.",
+      "notes": "Die Fruchtkörper enthalten Cinnabarinsäure und verwandte Phenoxazinon-Pigmente, die die leuchtend rotorange Farbe hervorrufen und antibakteriell wirken. In der Biotechnologie wird der Pilz intensiv wegen seiner Laccasen und Oxidasen erforscht, darunter für die Biokonversion von Ferulasäure zu natürlichem Vanillin. Obwohl er auf der Nordhalbkugel weit verbreitet ist, unterlag er in Teilen Europas ausgeprägten Bestandsschwankungen und ist in atlantischen Regionen sehr selten.",
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/N%C3%B6rdlicher_Zinnoberschwamm"
+      ]
+    },
+    "es": {
+      "label": "yesquero bermellón",
+      "names": [
+        "trametes rojo-cinabrio"
+      ],
+      "description": "Un llamativo hongo lignícola en consola de color rojo anaranjado brillante que crece aislado o en pequeños grupos imbricados sobre madera muerta de frondosas expuesta al sol en toda la región holártica, desde las zonas templado-cálidas hasta las boreales de Europa, el norte de Asia y Norteamérica, con registros más escasos en Sudamérica y el sur de Asia. Sus cuerpos fructíferos anuales aparecen del verano al otoño y provocan una podredumbre blanca.",
+      "cap": "De 2–13 cm de anchura (en ocasiones más pequeño, de 1,5–3 cm, sobre ramas finas en hábitats montanos secos), sobresaliendo 4–6 cm de la madera y de 0,5–2 cm de grosor, semicircular, reniforme o en abanico, anchamente convexo a plano, fijado lateralmente sin pie. La superficie superior seca es irregular, gibosa o arrugada, finamente vellosa a aterciopelada en la juventud y volviéndose más lisa o ligeramente brillante y punteada con la edad, a veces débilmente zonada concéntricamente cerca del margen. Los cuerpos fructíferos frescos son de un naranja cinabrio vivo a rojo escarlata, decolorándose hacia naranja apagado, rosáceo o blanquecino deslavado al envejecer a la intemperie; el margen es redondeado de joven y se vuelve más agudo y ligeramente ondulado en la madurez. El hidróxido potásico (KOH) tiñe la superficie del sombrero de violáceo a rojizo y después de gris a negro.",
+      "hymenium": "Los poros son redondos a angulosos, en ocasiones ligeramente alargados o laberínticos, densos, de 2–4 por mm; los tubos tienen 2–8 mm de longitud, son de color naranja pálido a rojo cinabrio y a veces decurrentes sobre el sustrato por debajo de la consola. La superficie porosa es de un rojo cinabrio vivo a rojo anaranjado brillante, virando a verde oliva con KOH. Carece de cistidios.",
+      "stipe": "Ausente; la consola sésil se fija directamente a la madera por el costado o el borde posterior.",
+      "flesh": "Tenaz, coriácea-dura a suberosa, débilmente zonada, rojiza a naranja pálido, con sistema hifal trimítico. El KOH tiñe la carne lentamente de rojizo a negruzco (o amarillento en ejemplares viejos). El olor es indistinto o suavemente aromático y el sabor es suave e indistinto.",
+      "sporePrint": "Blanca. Las basidiosporas son lisas, cilíndricas a ligeramente curvadas (alantoides) o largamente elípticas, hialinas en KOH, inamiloides, y miden 4,5–8 × 2–3 µm.",
+      "habitat": "Saprótrofo sobre madera muerta de árboles de hoja ancha —especialmente haya europea, abedul, cerezo silvestre, serbal de los cazadores, roble y sauce— y raramente sobre coníferas, donde causa una podredumbre blanca deslignificante. Descomponedor pionero muy heliófilo y termófilo de troncos caídos, maderos y ramas con corteza intacta expuestos al sol en claros, bordes de bosque, bosques secos y abiertos de frondosas, setos, huertos y parques, fructificando a menudo junto a Trametes hirsuta. Los cuerpos fructíferos anuales (ocasionalmente bienales) frescos se desarrollan sobre todo de junio a noviembre, mientras que las consolas viejas y tenaces suelen persistir durante todo el invierno hasta la primavera.",
+      "uses": "No comestible por su textura tenaz y suberosa.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) es una especie emparentada principalmente tropical a subtropical que forma consolas mucho más delgadas (de menos de 0,5 cm de grosor) con poros más densos, una superficie superior más brillante de aspecto chamuscado y a menudo una base estrechada a modo de pie. Hapalopilus rutilans (Hapalopilus nidulans) forma consolas más blandas, rechonchas y de color naranja canela apagado cuya carne vira a violeta púrpura vivo con KOH. Pycnoporellus fulgens crece sobre coníferas muertas en lugar de frondosas, presenta un sombrero pardo anaranjado más peloso y poros más grandes, angulosos a laberínticos, y suele descomponerse antes del invierno. Fistulina hepatica es blanda, jugosa y carnosa en lugar de tenaz y suberosa, con tubos crema rosáceo pálido y esporada amarillo rosácea.",
+      "notes": "Los cuerpos fructíferos contienen ácido cinabarínico y pigmentos fenoxazinónicos afines que producen su vivo color rojo anaranjado y aportan actividad antibacteriana. En biotecnología, este hongo se estudia ampliamente por sus lacasas y oxidasas, incluida la bioconversión del ácido ferúlico en vainillina natural. Aunque está muy extendido por todo el hemisferio norte, ha sufrido acusadas fluctuaciones poblacionales en partes de Europa y es muy raro en las regiones atlánticas.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/9227816"
+      ]
+    },
+    "et": {
+      "label": "punapoorik",
+      "wikipedia": "https://et.wikipedia.org/wiki/Punapoorik",
+      "description": "Silmatorkav, erksalt oranžikaspunane puitu lagundav torikseen, mis kasvab üksikult või väikeste katusekivitaoliste rühmadena päikesele avatud surnud lehtpuidul kogu Holarktikas alates Euroopa, Põhja-Aasia ja Põhja-Ameerika soojast parasvöötmest kuni boreaalse vööndini, harvemate leidudega Lõuna-Ameerikas ja Lõuna-Aasias. Üheaastased viljakehad ilmuvad suvest sügiseni ja põhjustavad valgemädanikku.",
+      "cap": "2–13 cm lai (vahel väiksem, 1,5–3 cm, peenikestel okstel kuivades mägielupaikades), puidust 4–6 cm eenduv ja 0,5–2 cm paks, poolringjas, neerjas või lehvikjas, laialt kumer kuni lame ning ilma jalata külgepidi substraadile kinnitunud. Kuiv ülapind on ebatasane, mügarlik või kortsuline, noorelt peenkarvane kuni seemisnahkne, muutudes vananedes siledamaks või kergelt läikivaks ja lohuliseks, vahel serva lähedal nõrgalt kontsentriliselt vöödiline. Värsked viljakehad on erksalt kinaveroranžid kuni helepunased, pleekides ilmastiku mõjul tuhmoranžiks, roosakaks või valkjaks; serv on noorelt ümar ning muutub küpsedes teravamaks ja kergelt laineliseks. Kaaliumhüdroksiid (KOH) värvib kübara ülapinna lillakaks kuni punakaks, seejärel halliks kuni mustaks.",
+      "hymenium": "Poorid on ümmargused kuni nurgelised, vahel kergelt piklikud või labürintjad, tihedad, 2–4 tk mm kohta; torukesed on 2–8 mm sügavad, kahvatuoranžid kuni kinaverpunased ja ulatuvad mõnikord viljakeha all substraadile. Pooride pind on erksalt kinaverpunane kuni hele oranžikaspunane ja värvub KOH-ga oliivroheliseks. Tsüstiidid puuduvad.",
+      "stipe": "Puudub; jalata viljakeha kinnitub külje- või tagaservaga otse puidule.",
+      "flesh": "Sitke, nahkjalt kõva kuni korkjas, nõrgalt vöödiline, punakas kuni kahvatuoranž, trimiitse hüüfisüsteemiga. KOH värvib seeneliha aeglaselt punakaks kuni mustjaks (vanematel viljakehadel kollakaks). Lõhn on nõrk või õrnalt meeldiv ja maitse mahe ning tagasihoidlik.",
+      "sporePrint": "Valge. Basidiospoorid on siledad, silindrilised kuni kergelt kõverad (allantoidsed) või piklik-elliptilised, KOH-s värvitud, inamüloidsed, mõõtmetega 4,5–8 × 2–3 µm.",
+      "habitat": "Saprotroofne surnud lehtpuidul – eriti pöögil, kasel, maguskirsipuul, pihlakal, tammel ja pajul – ning harva okaspuudel, põhjustades ligniini lagundavat valgemädanikku. Tugevalt valgus- ja soojalembene pioneerlagundaja päikesele avatud koorega lamatüvedel, palkidel ja okstel lagendikel, metsaservas, hõredates kuivades lehtmetsades, hekkides, viljapuuaedades ja parkides, moodustades viljakehi sageli kõrvuti liigiga Trametes hirsuta. Üheaastased (vahel kaheaastased) värsked viljakehad arenevad peamiselt juunist novembrini, samas kui sitked vanemad viljakehad püsivad sageli üle talve kuni kevadeni.",
+      "uses": "Mittesöödav sitke, korkja konsistentsi tõttu.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) on peamiselt troopiline kuni subtroopiline sugulasliik, mis moodustab palju õhemaid viljakehi (alla 0,5 cm paksud) tihedamate pooride, läikivama, otsekui kõrbenud ilmega ülapinna ning sageli kitsenenud jalataolise alusega. Hapalopilus rutilans (Hapalopilus nidulans) moodustab pehmemaid, jässakamaid tuhmkaneeloranže viljakehi, mille seeneliha värvub KOH-ga erksalt violetjaslillaks. Pycnoporellus fulgens kasvab lehtpuidu asemel surnud okaspuidul, sellel on karvasem oranžikaspruun kübar ja suuremad nurgelised kuni labürintjad poorid ning see laguneb tavaliselt enne talve. Fistulina hepatica on pehme, mahlane ja lihakas, mitte sitke ja korkjas, kahvatute roosakaskreemide torukeste ja roosakaskollase eosetolmuga.",
+      "notes": "Viljakehad sisaldavad tsinabariinhapet ja sellega seotud fenoksasinoonpigmente, mis annavad erksa punakasoranži värvuse ja millel on antibakteriaalne toime. Biotehnoloogias uuritakse seent laialdaselt tema lakkaaside ja oksüdaaside tõttu, sealhulgas feruulhappe biokonversiooniks looduslikuks vanilliiniks. Kuigi liik on põhjapoolkeral laialt levinud, on tema arvukus osades Euroopa piirkondades tugevalt kõikunud ning Atlandi-äärsetel aladel on ta väga haruldane.",
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Punapoorik"
+      ]
+    },
+    "fa": {
+      "description": "قارچ طاقچه‌ای چوب‌پوسان و چشم‌نواز به رنگ نارنجی-قرمز درخشان که به‌صورت تکی یا در ردیف‌های کوچک و هم‌پوشان روی چوب‌های مرده و آفتاب‌گیر درختان پهن‌برگ در سراسر منطقه هولارکتیک، از نواحی معتدل گرم تا بورهآل در اروپا، شمال آسیا و آمریکای شمالی می‌روید و گزارش‌های کمیاب‌تری از آمریکای جنوبی و جنوب آسیا دارد. اندام‌های بارده یک‌ساله از تابستان تا پاییز ظاهر می‌شوند و پوسیدگی سفید ایجاد می‌کنند.",
+      "cap": "کلاهک به عرض ۲–۱۳ سانتی‌متر (گاه کوچک‌تر، ۱٫۵–۳ سانتی‌متر، روی شاخه‌های باریک در زیستگاه‌های خشک کوهستانی)، با برآمدگی ۴–۶ سانتی‌متر از سطح چوب و ضخامت ۰٫۵–۲ سانتی‌متر، نیم‌دایره‌ای، کلیوی یا بادبزنی‌شکل، پهن‌محدب تا مسطح و از پهلو بدون ساقه متصل است. سطح بالایی خشک، ناهموار، برآمده یا چروکیده است؛ در جوانی کرک‌دار ریز تا جیرمانند بوده و با افزایش سن صاف‌تر یا اندکی براق و حفره‌دار می‌شود و گاهی نزدیک لبه، نوارهای هم‌مرکز کم‌رنگی دارد. اندام‌های بارده تازه به رنگ نارنجی شنگرفی زنده تا قرمز ارغوانی هستند و در اثر فرسایش هوا به نارنجی کدر، صورتی یا سفید رنگ‌پریده متمایل می‌شوند؛ لبه در جوانی گرد است و در بلوغ تیزتر و اندکی موج‌دار می‌شود. هیدروکسید پتاسیم (KOH) سطح کلاهک را به بنفش تا قرمز و سپس خاکستری تا سیاه تغییر رنگ می‌دهد.",
+      "hymenium": "روزنه‌ها گرد تا زاویه‌دار و گاهی اندکی کشیده یا مارپیچی بوده و با تراکم ۲–۴ عدد در هر میلی‌متر قرار دارند؛ لوله‌ها ۲–۸ میلی‌متر عمق دارند، به رنگ نارنجی کم‌رنگ تا قرمز شنگرفی هستند و گاهی روی بستر زیر طاقچه امتداد می‌یابند. سطح روزنه‌دار به رنگ قرمز شنگرفی زنده تا نارنجی-قرمز روشن است و با KOH به سبز زیتونی تبدیل می‌شود. سیستیدیا وجود ندارد.",
+      "stipe": "ندارد؛ اندام بارده بی‌ساقه به‌طور مستقیم از پهلو یا لبه عقبی خود به چوب متصل می‌شود.",
+      "flesh": "گوشت سخت، چرمی-محکم تا چوب‌پنبه‌ای، دارای نواربندی محو، مایل به قرمز تا نارنجی کم‌رنگ و دارای سامانه هیفی سه‌گانه (trimitic) است. KOH گوشت را به‌آرامی مایل به قرمز تا سیاه (یا در نمونه‌های مسن‌تر مایل به زرد) می‌کند. بو نامشخص یا اندکی معطر و طعم ملایم و نامشخص است.",
+      "sporePrint": "سفید. بازیدیوسپورها صاف، استوانه‌ای تا اندکی خمیده (آلانتوئید) یا بیضی کشیده، در KOH شفاف، غیرآمیلوئید و به ابعاد ۴٫۵–۸ × ۲–۳ میکرومتر هستند.",
+      "habitat": "ساپروتروف روی چوب مرده درختان پهن‌برگ — به‌ویژه راش اروپایی، توس، گیلاس وحشی، بارانک، بلوط و بید — و به‌ندرت روی سوزنی‌برگان است و پوسیدگی سفید لیگنین‌زدا ایجاد می‌کند. تجزیه‌کننده‌ای پیشگام، به‌شدت نورپسند و گرمادوست روی تنه‌های افتاده، کُنده‌ها و شاخه‌های آفتاب‌گیر با پوست سالم در فضاهای باز جنگل، حاشیه جنگل‌ها، بیشه‌های خشک و باز پهن‌برگ، پرچین‌ها، باغ‌های میوه و پارک‌هاست و اغلب در کنار Trametes hirsuta باردهی می‌کند. اندام‌های بارده تازه یک‌ساله (و گاه دوساله) عمدتاً از ژوئن تا نوامبر رشد می‌کنند، در حالی که اندام‌های مسن‌تر و سخت معمولاً در طول زمستان و تا بهار باقی می‌مانند.",
+      "uses": "به‌دلیل بافت سخت و چوب‌پنبه‌ای غیرخوراکی است.",
+      "confusion": "گونه Trametes sanguinea (Pycnoporus sanguineus) خویشاوندی عمدتاً گرمسیری تا نیمه‌گرمسیری است که اندام‌های بارده بسیار نازک‌تری (با ضخامت کمتر از ۰٫۵ سانتی‌متر) با روزنه‌های متراکم‌تر، سطح بالایی براق‌تر و اغلب پایه‌ای باریک‌شده و ساقه‌مانند تشکیل می‌دهد. Hapalopilus rutilans (Hapalopilus nidulans) اندام‌های بارده نرم‌تر، ضخیم‌تر و به رنگ نارنجی دارچینی کدر می‌سازد که گوشت آن با KOH به بنفش-ارغوانی زنده تبدیل می‌شود. Pycnoporellus fulgens به‌جای پهن‌برگان روی سوزنی‌برگان مرده می‌روید، کلاهک نارنجی-قهوه‌ای پرموتر و روزنه‌های بزرگ‌تر زاویه‌دار تا مارپیچی دارد و معمولاً پیش از زمستان تجزیه می‌شود. Fistulina hepatica برخلاف بافت سخت و چوب‌پنبه‌ای، نرم، آبدار و گوشتی است و لوله‌های کرم مایل به صورتی کم‌رنگ و نقش هاگ زرد مایل به صورتی دارد.",
+      "notes": "اندام‌های بارده حاوی اسید سینابارینیک و رنگدانه‌های فنوکسازینون مرتبط هستند که رنگ قرمز-نارنجی زنده را ایجاد می‌کنند و خاصیت ضدباکتریایی دارند. در زیست‌فناوری، این قارچ به‌دلیل آنزیم‌های لاکاز و اکسیداز خود، از جمله تبدیل زیستی اسید فرولیک به وانیلین طبیعی، به‌طور گسترده مطالعه می‌شود. اگرچه در سراسر نیم‌کره شمالی پراکنش وسیعی دارد، در بخش‌هایی از اروپا دچار نوسانات جمعیتی قابل‌توجهی شده و در مناطق آتلانتیک بسیار کمیاب است.",
+      "sourceUrls": []
+    },
+    "fi": {
+      "label": "punakääpä",
+      "wikipedia": "https://fi.wikipedia.org/wiki/Punak%C3%A4%C3%A4p%C3%A4",
+      "description": "Näyttävä, kirkkaan oranssinpunainen, puuta lahottava kääpä, joka kasvaa yksittäin tai pieninä limittäisinä ryhminä auringonpaisteisella kuolleella lehtipuulla koko holarktisella alueella Euroopan, Pohjois-Aasian ja Pohjois-Amerikan lämpimänlauhkeilta vyöhykkeiltä boreaaliselle vyöhykkeelle, ja harvinaisemmin Etelä-Amerikassa ja Etelä-Aasiassa. Yksivuotiset itiöemät ilmestyvät kesästä syksyyn ja aiheuttavat valkolahoa.",
+      "cap": "2–13 cm leveä (toisinaan pienempi, 1,5–3 cm, ohuilla oksilla kuivilla vuoristokasvupaikoilla), puusta 4–6 cm ulkoneva ja 0,5–2 cm paksu, puolipyöreä, munuais- tai viuhkamainen, loivasti kupera tai laakea ja jalatta sivustaan alustaan kiinnittynyt. Kuiva yläpinta on epätasainen, muhkurainen tai ryppyinen, nuorena hienonukkainen tai mokkamainen ja vanhetessaan sileämpi tai hieman kiiltävä ja kuoppainen, toisinaan reunan läheltä heikosti samankeskisesti vyöhykkeinen. Tuoreet itiöemät ovat kirkkaan sinooperinoransseja tai helakanpunaisia ja haalistuvat säiden armoilla himmeän oransseiksi, vaaleanpunertaviksi tai valkeahkoiksi; reuna on nuorena pyöristynyt ja muuttuu täysikasvuisena terävämmäksi ja hieman aaltoilevaksi. Kaliumhydroksidi (KOH) värjää lakin yläpinnan purppuran- tai punertavansävyiseksi ja sen jälkeen harmaasta mustaksi.",
+      "hymenium": "Pillit ovat pyöreitä tai kulmikkaita, toisinaan hieman venyneitä tai sokkeloisia, tiheitä, 2–4 kpl/mm; pillikerros on 2–8 mm paksu, vaaleanoranssista sinooperinpunaiseen ja toisinaan itiöemän alapuolelle alustalle johteinen. Pillistö on kirkkaan sinooperinpunainen tai heleän oranssinpunainen ja värjäytyy KOH:lla oliivinvihreäksi. Kystidit puuttuvat.",
+      "stipe": "Puuttuu; jalaton itiöemä kiinnittyy suoraan sivustaan tai takareunastaan puuhun.",
+      "flesh": "Sitkeää, nahkamaisen kovaa tai korkkimaista, heikosti vyöhykkeistä, punertavasta vaaleanoranssiin, rihmastorakenteeltaan trimiittistä. KOH värjää malton hitaasti punertavasta mustahkoksi (tai vanhemmissa itiöemissä kellertäväksi). Tuoksu on heikko tai miedosti miellyttävä ja maku mieto ja huomaamaton.",
+      "sporePrint": "Valkoinen. Itiöt ovat sileitä, lieriömäisiä tai hieman käyriä (allantoidisia) tai pitkulaisen soikeita, KOH:ssa värittömiä, inamyloideja ja kooltaan 4,5–8 × 2–3 µm.",
+      "habitat": "Lahottaja kuolleella lehtipuulla – erityisesti pyökillä, koivulla, imeläkirsikalla, pihlajalla, tammella ja pajulla – ja harvoin havupuilla; aiheuttaa ligniiniä hajottavaa valkolahoa. Voimakkaasti valon- ja lämmönsuosija, joka toimii pioneerilahottajana auringonpaisteisilla kuorellisilla maapuilla, rungoilla ja oksilla hakkuuaukoilla, metsänreunoissa, valoisissa kuivissa lehtimetsissä, pensasaidoissa, hedelmätarhoissa ja puistoissa, kasvaen usein yhdessä lajin Trametes hirsuta kanssa. Yksivuotiset (toisinaan kaksivuotiset) tuoreet itiöemät kehittyvät pääasiassa kesäkuusta marraskuuhun, kun taas sitkeät vanhat itiöemät säilyvät yleisesti talven yli kevääseen.",
+      "uses": "Syötäväksi kelpaamaton sitkeän, korkkimaisen rakenteensa vuoksi.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) on pääasiassa trooppinen ja subtrooppinen sukulaislaji, joka muodostaa paljon ohuempia itiöemiä (alle 0,5 cm paksuja), joilla on tiheämmät pillit, kiiltävämpi ja ikään kuin kärventyneen näköinen yläpinta sekä usein kapeneva, jalkamainen tyvi. Hapalopilus rutilans (Hapalopilus nidulans) muodostaa pehmeämpiä, tanakampia ja himmeän kanelinoransseja itiöemiä, joiden malto värjäytyy KOH:lla kirkkaan violetinpurppuraiseksi. Pycnoporellus fulgens kasvaa kuolleella havupuulla lehtipuun sijaan, sillä on karvaisempi oranssinruskea lakki sekä suuremmat kulmikkaat tai sokkeloiset pillit, ja se hajoaa tyypillisesti ennen talvea. Fistulina hepatica on pehmeä, mehukas ja maltoisa eikä sitkeä ja korkkimainen, ja sillä on vaalean punertavankermainen pillistö sekä punertavankeltainen itiöpöly.",
+      "notes": "Itiöemät sisältävät sinnabariinihappoa ja samansukuisia fenoksatsinonipigmenttejä, jotka saavat aikaan kirkkaan punaoranssin värin ja toimivat antibakteerisesti. Biotekniikassa sientä tutkitaan laajalti sen lakkaasien ja oksidaasien vuoksi, mukaan lukien ferulahapon biokonversio luonnolliseksi vanilliiniksi. Vaikka laji on laajalle levinnyt pohjoisella pallonpuoliskolla, sen kannat ovat vaihdelleet voimakkaasti osissa Eurooppaa ja se on hyvin harvinainen atlanttisilla alueilla.",
+      "sourceUrls": [
+        "https://fi.wikipedia.org/wiki/Punak%C3%A4%C3%A4p%C3%A4"
+      ]
+    },
+    "fr": {
+      "label": "tramète cinabre",
+      "names": [
+        "pycnopore cinabre"
+      ],
+      "description": "Un champignon lignicole en console d’un rouge-orangé vif et saisissant, poussant isolément ou en petits groupes imbriqués sur le bois mort de feuillus exposé au soleil dans toute la région holarctique, des zones tempérées chaudes aux zones boréales d’Europe, d’Asie septentrionale et d’Amérique du Nord, avec des mentions plus rares en Amérique du Sud et en Asie méridionale. Ses fructifications annuelles apparaissent de l’été à l’automne et provoquent une pourriture blanche.",
+      "cap": "De 2–13 cm de large (parfois plus petit, 1,5–3 cm, sur de fines branches en milieux montagnards secs), faisant saillie de 4–6 cm sur le bois et épais de 0,5–2 cm, semi-circulaire, réniforme ou en éventail, largement convexe à plat, attaché latéralement sans pied. La surface supérieure sèche est inégale, bosselée ou ridée, finement duveteuse à veloutée chez les jeunes exemplaires puis devenant plus lisse ou légèrement luisante et ponctuée avec l’âge, parfois faiblement zonée concentriquement près de la marge. Les fructifications fraîches sont d’un orange cinabre vif à rouge écarlate, pâlissant vers un orange terne, un rosâtre ou un blanchâtre délavé sous l’effet des intempéries ; la marge est arrondie dans la jeunesse puis devient plus aiguë et légèrement ondulée à maturité. L’hydroxyde de potassium (KOH) fait virer la surface du chapeau au violacé puis au rougeâtre, et enfin au gris à noir.",
+      "hymenium": "Les pores sont ronds à anguleux, parfois légèrement allongés ou labyrinthes, serrés à raison de 2–4 par mm ; les tubes mesurent 2–8 mm de profondeur, sont orange pâle à rouge cinabre et parfois décurrents sur le substrat sous la console. La surface porée est d’un rouge cinabre vif à rouge-orangé brillant, virant au vert olive au KOH. Les cystides sont absentes.",
+      "stipe": "Absent ; la console sessile est fixée directement au bois par son côté ou sa marge postérieure.",
+      "flesh": "Tenace, coriace-dure à subéreuse, faiblement zonée, rougeâtre à orange pâle, à système hyphal trimitique. Le KOH fait virer lentement la chair au rougeâtre puis au noirâtre (ou au jaunâtre chez les vieux spécimens). L’odeur est indistincte ou faiblement aromatique, et la saveur est douce et indistincte.",
+      "sporePrint": "Blanche. Les basidiospores sont lisses, cylindriques à légèrement courbées (allantoïdes) ou longuement elliptiques, hyalines dans le KOH, non amyloïdes, et mesurent 4,5–8 × 2–3 µm.",
+      "habitat": "Saprotrophe sur le bois mort de feuillus — en particulier hêtre européen, bouleau, merisier, sorbier des oiseleurs, chêne et saule — et rarement sur conifères, provoquant une pourriture blanche délignifiante. Décomposeur pionnier fortement héliophile et thermophile des troncs tombés, grumes et branches à écorce intacte exposés au soleil dans les clairières, lisières forestières, bois clairs et secs de feuillus, haies, vergers et parcs, fructifiant souvent aux côtés de Trametes hirsuta. Les fructifications fraîches annuelles (occasionnellement bisannuelles) se développent surtout de juin à novembre, tandis que les vieilles consoles coriaces persistent fréquemment tout l’hiver jusqu’au printemps.",
+      "uses": "Non comestible en raison de sa texture tenace et subéreuse.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) est une espèce proche surtout tropicale à subtropicale qui forme des consoles nettement plus minces (moins de 0,5 cm d’épaisseur) aux pores plus serrés, à surface supérieure plus luisante d’aspect roussi et présentant souvent une base rétrécie d’allure stipitée. Hapalopilus rutilans (Hapalopilus nidulans) forme des consoles plus molles, plus trapues et d’un orange cannelle terne, dont la chair vire au violet-pourpre vif au KOH. Pycnoporellus fulgens pousse sur bois mort de conifères plutôt que de feuillus, possède un chapeau brun-orangé plus velu et des pores plus grands, anguleux à labyrinthiformes, et se décompose généralement avant l’hiver. Fistulina hepatica est molle, juteuse et charnue plutôt que tenace et subéreuse, avec des tubes crème rosâtre pâle et une sporée jaune rosâtre.",
+      "notes": "Les fructifications contiennent de l’acide cinnabarinique et des pigments phénoxazinones apparentés responsables de la coloration rouge-orangé vif et d’une activité antibactérienne. En biotechnologie, ce champignon est largement étudié pour ses laccases et ses oxydases, notamment pour la bioconversion de l’acide férulique en vanilline naturelle. Bien que largement répandu dans l’hémisphère Nord, il a connu des fluctuations de population marquées dans certaines régions d’Europe et reste très rare dans les régions atlantiques.",
+      "sourceUrls": [
+        "https://fr.wikipedia.org/wiki/Pycnoporus_cinnabarinus",
+        "https://www.gbif.org/species/9227816"
+      ]
+    },
+    "he": {
+      "description": "פטריית מדף מפרקת עץ מרשימה בצבע כתום-אדום עז, הגדלה כיחידה או בשכבות קטנות חופפות על עץ מת חשוף לשמש של עצים רחבי עלים ברחבי האזור ההולארקטי, מאזורים ממוזגים-חמים ועד בוראליים באירופה, צפון אסיה ואמריקה הצפונית, עם תצפיות נדירות יותר באמריקה הדרומית ובדרום אסיה. גופי הפרי החד-שנתיים מופיעים מהקיץ עד הסתיו וגורמים לרקבון לבן.",
+      "cap": "כובע ברוחב 2–13 ס\"מ (לעיתים קטן יותר, 1.5–3 ס\"מ, על ענפים דקים בבתי גידול הרריים יבשים), בולט 4–6 ס\"מ מהעץ ובעובי 0.5–2 ס\"מ, חצי-עגול, דמוי כליה או דמוי מניפה, קמור רחב עד שטוח, ומחובר מן הצד ללא רגל. המשטח העליון יבש, לא אחיד, גבשושי או מקומט, פלומתי עדין עד דמוי זמש בצעירותו ונעשה חלק יותר או מבריק קלות ומגומם עם הגיל, לעיתים בעל אזורים קונצנטריים קלושים ליד השוליים. גופי פרי טריים צבעם כתום-צינובר עז עד אדום שני, ודוהים לכתום עמום, ורדרד או לבנבן מולבן כשהם בלויים; השוליים מעוגלים בצעירותם ונעשים חדים יותר וגליים קלות בבגרות. אשלגן הידרוקסידי (KOH) הופך את פני הכובע לסגלגל עד אדמדם, ולאחר מכן לאפור עד שחור.",
+      "hymenium": "הנקבוביות עגולות עד זוויתיות, לעיתים מוארכות קלות או מבוכיות, צפופות בשיעור של 2–4 למ\"מ; הצינורות בעומק 2–8 מ\"מ, כתומים חיוורים עד אדום-צינובר, ולעיתים גולשים על גבי המצע שמתחת למדף. פני הנקבוביות בצבע אדום-צינובר עז עד כתום-אדום בהיר, והופכים לירוק-זית במגע עם KOH. ציסטידיות נעדרות.",
+      "stipe": "נעדרת; גוף הפרי היושב מחובר ישירות מצידו או משוליו האחוריים אל העץ.",
+      "flesh": "הבשר קשיח, עורני-קשה עד שעם, בעל אזוריות קלושה, אדמדם עד כתום חיוור, ובעל מערכת קורים טרימיטית. KOH הופך את הבשר באטיות לאדמדם עד שחרחר (או צהבהב בפרטים מבוגרים יותר). הריח בלתי מובהק או ריחני קלות, והטעם עדין ובלתי מובהק.",
+      "sporePrint": "לבן. הבסידיוספורות חלקות, גליליות עד כפופות קלות (אלנטואידיות) או אליפטיות מוארכות, שקופות ב-KOH, לא-עמילואידיות, וגודלן 4.5–8 × 2–3 מיקרומטר.",
+      "habitat": "סאפרוטרופי על עץ מת של עצים רחבי עלים — במיוחד אשור אירופי, שדר, דובדבן בר, בן-חוזרר, אלון וערבה — ולעיתים נדירות על מחטניים, תוך גרימת רקבון לבן מפרק ליגנין. מפרק חלוץ אוהב אור וחום במיוחד, הגדל על גזעים שנפלו, בולי עץ וענפים חשופים לשמש בעלי קליפה שלמה בקרחות יער, שולי יערות, חורשות רחבות עלים יבשות ופתוחות, משוכות, מטעים ופארקים, ולעיתים קרובות מניב לצד Trametes hirsuta. גופי פרי טריים חד-שנתיים (ולעיתים דו-שנתיים) מתפתחים בעיקר מיוני עד נובמבר, בעוד שמדפים ותיקים וקשיחים שורדים לרוב לאורך החורף ועד האביב.",
+      "uses": "לא למאכל בשל מרקמו הקשיח והשעמי.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) הוא קרוב משפחה טרופי עד סובטרופי בעיקרו, היוצר מדפים דקים בהרבה (בעובי של פחות מ-0.5 ס\"מ) עם נקבוביות צפופות יותר, משטח עליון מבריק יותר ולעיתים קרובות בסיס מוצר דמוי רגל. Hapalopilus rutilans (Hapalopilus nidulans) יוצר מדפים רכים וגוצים יותר בצבע כתום-קינמון עמום, שבשרם הופך לסגול-ארגמן עז במגע עם KOH. Pycnoporellus fulgens גדל על מחטניים מתים ולא על רחבי עלים, בעל כובע כתום-חום שעיר יותר ונקבוביות גדולות יותר זוויתיות עד מבוכיות, ולרוב מתפרק לפני החורף. Fistulina hepatica רך, עסיסי ובשרני ולא קשיח ושעמי, עם צינורות בגוון קרם-ורדרד חיוור והדפס נבגים צהוב-ורדרד.",
+      "notes": "גופי הפרי מכילים חומצה צינברינית ופיגמנטים פנוקסאזינוניים קשורים היוצרים את הצבע האדום-כתום העז ומקנים פעילות אנטיבקטריאלית. בביוטכנולוגיה נחקרת הפטרייה בהרחבה בזכות אנזימי הלקאז והאוקסידאז שלה, כולל המרה ביולוגית של חומצה פרולית לוונילין טבעי. אף שהיא נפוצה ברחבי חצי הכדור הצפוני, היא עברה תנודות אוכלוסייה ניכרות בחלקים מאירופה ונדירה מאוד באזורים האטלנטיים.",
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "एक आकर्षक, चमकीला नारंगी-लाल लकड़ी सड़ाने वाला ब्रैकेट कवक, जो होलार्कटिक क्षेत्र में यूरोप, उत्तरी एशिया और उत्तरी अमेरिका के गर्म-समशीतोष्ण से बोरियल क्षेत्रों तक धूप में पड़ी मृत चौड़ी पत्ती वाली लकड़ियों पर अकेले या छोटी-छोटी परतों में उगता है, जबकि दक्षिण अमेरिका और दक्षिणी एशिया में इसके दुर्लभ अभिलेख मिलते हैं। इसके वार्षिक फलनकाय गर्मियों से पतझड़ तक दिखाई देते हैं और सफेद सड़न पैदा करते हैं।",
+      "cap": "टोपी 2–13 cm चौड़ी (सूखे पर्वतीय आवासों में पतली शाखाओं पर कभी-कभी छोटी, 1.5–3 cm), लकड़ी से 4–6 cm बाहर निकली हुई और 0.5–2 cm मोटी, अर्धवृत्ताकार, गुर्दे के आकार की या पंखे जैसी, चौड़ी उत्तल से चपटी, और बिना डंठल के बगल से जुड़ी होती है। सूखी ऊपरी सतह असमान, उभरी हुई या झुर्रीदार होती है, युवावस्था में बारीक रोएंदार से मखमली होती है और उम्र बढ़ने पर अधिक चिकनी या हल्की चमकदार व गड्ढेदार हो जाती है, तथा कभी-कभी किनारे के पास हल्के संकेंद्रित घेरे दिखते हैं। ताजे फलनकाय चमकीले सिंदूरी-नारंगी से सुर्ख लाल होते हैं, जो मौसम के प्रभाव से फीके नारंगी, गुलाबी या सफेद-से पड़ जाते हैं; किनारा युवावस्था में गोल होता है और परिपक्व होने पर अधिक तीखा और हल्का लहरदार हो जाता है। पोटेशियम हाइड्रॉक्साइड (KOH) टोपी की सतह को बैंगनी से लालिमा लिए हुए और फिर धूसर से काला कर देता है।",
+      "hymenium": "छिद्र गोल से कोणीय, कभी-कभी हल्के लंबे या भूलभुलैया जैसे होते हैं और प्रति mm 2–4 की सघनता में होते हैं; नलिकाएं 2–8 mm गहरी, हल्के नारंगी से सिंदूरी-लाल होती हैं और कभी-कभी ब्रैकेट के नीचे के आधार पर नीचे की ओर फैली रहती हैं। छिद्र सतह चमकीले सिंदूरी-लाल से तेज नारंगी-लाल होती है और KOH के साथ जैतून-हरी हो जाती है। सिस्टिडिया अनुपस्थित होते हैं।",
+      "stipe": "अनुपस्थित; डंठलविहीन ब्रैकेट अपने किनारे या पिछले सिरे से सीधे लकड़ी से जुड़ा रहता है।",
+      "flesh": "गूदा सख्त, चमड़े जैसा कड़ा से कॉर्क जैसा, हल्के घेरों वाला, लालिमा लिए हुए से हल्का नारंगी, और त्रिसूत्री (trimitic) कवकतंतु प्रणाली वाला होता है। KOH गूदे को धीरे-धीरे लालिमा लिए हुए से काला (या पुराने नमूनों में पीलापन लिए हुए) कर देता है। गंध अस्पष्ट या हल्की सुगंधित होती है, और स्वाद हल्का व अस्पष्ट होता है।",
+      "sporePrint": "सफेद। बेसिडियोबीजाणु चिकने, बेलनाकार से हल्के मुड़े हुए (एलैंटॉइड) या लंबे-अंडाकार, KOH में पारदर्शी, नॉन-एमिलॉइड होते हैं और 4.5–8 × 2–3 µm माप के होते हैं।",
+      "habitat": "चौड़ी पत्ती वाले पेड़ों की मृत लकड़ी—विशेष रूप से यूरोपीय बीच, बर्च, जंगली चेरी, रोवन, ओक और विलो—पर तथा शायद ही कभी शंकुधारी पेड़ों पर मृतोपजीवी, जो लिग्निन को विघटित करने वाली सफेद सड़न पैदा करता है। यह धूप और गर्मी को अत्यधिक पसंद करने वाला प्रारंभिक अपघटक है, जो खुले स्थानों, जंगल के किनारों, सूखे खुले चौड़ी पत्ती वाले वनों, बाड़ों, फलों के बागों और पार्कों में साबुत छाल वाले धूप में पड़े गिरे हुए तनों, लट्ठों और शाखाओं पर उगता है और अक्सर Trametes hirsuta के साथ फलता है। वार्षिक (कभी-कभी द्विवार्षिक) ताजे फलनकाय मुख्य रूप से जून से नवंबर तक विकसित होते हैं, जबकि पुराने सख्त ब्रैकेट आमतौर पर सर्दियों से होकर वसंत तक बने रहते हैं।",
+      "uses": "अपनी सख्त, कॉर्क जैसी बनावट के कारण अखाद्य है।",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) मुख्य रूप से उष्णकटिबंधीय से उपोष्णकटिबंधीय संबंधी प्रजाति है जो बहुत पतले ब्रैकेट (0.5 cm से कम मोटे), अधिक घने छिद्र, अधिक चमकदार ऊपरी सतह और अक्सर संकुचित, डंठल-जैसे आधार बनाती है। Hapalopilus rutilans (Hapalopilus nidulans) अधिक नरम, मोटे और फीके दालचीनी-नारंगी ब्रैकेट बनाता है जिसका गूदा KOH के साथ चमकीला बैंगनी हो जाता है। Pycnoporellus fulgens चौड़ी पत्ती वाली लकड़ी के बजाय मृत शंकुधारी पेड़ों पर उगता है, इसकी टोपी अधिक रोएंदार नारंगी-भूरी और छिद्र बड़े कोणीय से भूलभुलैया जैसे होते हैं, और यह आमतौर पर सर्दी से पहले गल जाता है। Fistulina hepatica सख्त और कॉर्क जैसा होने के बजाय नरम, रसदार और मांसल होता है, जिसकी नलिकाएं हल्की गुलाबी-क्रीम और बीजाणु छाप गुलाबी-पीली होती है।",
+      "notes": "फलनकायों में सिनाबारिनिक अम्ल और संबंधित फेनोक्साजिनोन वर्णक होते हैं जो चमकीला लाल-नारंगी रंग उत्पन्न करते हैं और जीवाणुरोधी गतिविधि प्रदान करते हैं। जैव प्रौद्योगिकी में, इस कवक का इसके लैकेज़ और ऑक्सीडेज़ एंजाइमों के लिए व्यापक अध्ययन किया जाता है, जिसमें फेरुलिक अम्ल का प्राकृतिक वैनिलिन में जैव-रूपांतरण शामिल है। यद्यपि यह उत्तरी गोलार्ध में व्यापक रूप से फैला हुआ है, यूरोप के कुछ हिस्सों में इसकी आबादी में उल्लेखनीय उतार-चढ़ाव देखा गया है और यह अटलांटिक क्षेत्रों में अत्यंत दुर्लभ है।",
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Upadljiva, jarko narančastocrvena lignikolna gljiva koja raste pojedinačno ili u malim crijepasto poredanim skupinama na osunčanom mrtvom drvu listača diljem Holarktika, od toploumjerene do borealne zone Europe, sjeverne Azije i Sjeverne Amerike, uz rjeđe nalaze u Južnoj Americi i južnoj Aziji. Jednogodišnja plodišta pojavljuju se od ljeta do jeseni i uzrokuju bijelu trulež drva.",
+      "cap": "Širok 2–13 cm (povremeno manji, 1,5–3 cm, na tankim granama na suhim planinskim staništima), strši 4–6 cm od drva i debeo je 0,5–2 cm; polukružan, bubrežast ili lepezast, široko ispupčen do ravan, bočno prirastao bez stručka. Suha gornja površina je neravna, grbava ili naborana, u mladosti fino baršunasta do antilopasta, a s vremenom postaje glađa ili blago sjajna i jamičasta, ponekad slabo koncentrično pojasasta uz rub. Svježa plodišta su živo cinobernarančasta do grimiznocrvena, a na vremenskim prilikama blijede u zagasito narančastu, ružičastu ili izblijedjelu bjelkastu boju; rub je u mladosti zaobljen, a u zrelosti postaje oštriji i blago valovit. Kalijeva lužina (KOH) oboji površinu klobuka ljubičastocrveno do crvenkasto, a zatim sivo do crno.",
+      "hymenium": "Pore su okrugle do uglate, povremeno blago izdužene ili labirintaste, guste, 2–4 po mm; cjevčice su duboke 2–8 mm, blijedonarančaste do cinobercrvene, povremeno se spuštaju niz podlogu ispod plodišta. Površina pora je živo cinobercrvena do jarko narančastocrvena, a s KOH postaje maslinastozelena. Cistide nedostaju.",
+      "stipe": "Nedostaje; sjedeće plodište prirasta bočnim ili stražnjim rubom izravno uz drvo.",
+      "flesh": "Žilavo, kožasto tvrdo do plutasto, slabo pojasasto, crvenkasto do blijedonarančasto, s trimitičkim hifnim sustavom. S KOH meso polako pocrveni do crnkasto (ili požuti kod starijih primjeraka). Miris je neizražen ili blago ugodan, a okus blag i neizražen.",
+      "sporePrint": "Bijel. Bazidiospore su glatke, cilindrične do blago savijene (alantoidne) ili izduženo elipsoidne, hijaline u KOH, neamiloidne, dimenzija 4,5–8 × 2–3 µm.",
+      "habitat": "Saprotrofna na mrtvom drvu bjelogoričnog drveća – osobito obične bukve, breze, divlje trešnje, jarebike, hrasta i vrbe – te rijetko na četinjačama, uzrokujući bijelu delignifikacijsku trulež. Izrazito svjetloljubiv i toploljubiv pionirski razlagač osunčanih palih debala, trupaca i grana s očuvanom korom na sječinama, šumskim rubovima, u otvorenim suhim bjelogoričnim šumama, živicama, voćnjacima i parkovima, često plodonoseći uz Trametes hirsuta. Jednogodišnja (povremeno dvogodišnja) svježa plodišta razvijaju se uglavnom od lipnja do studenoga, dok žilava starija plodišta često opstaju preko zime sve do proljeća.",
+      "uses": "Nejestiva zbog svoje žilave, plutaste teksture.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) uglavnom je tropska do suptropska srodna vrsta koja stvara znatno tanja plodišta (tanja od 0,5 cm) s gušćim porama, sjajnijom, naizgled oprljenom gornjom površinom i često suženom, stručkolikom bazom. Hapalopilus rutilans (Hapalopilus nidulans) stvara mekša, zdepastija, zagasito cimetnonarančasta plodišta čije meso s KOH postaje živo ljubičastopurpurno. Pycnoporellus fulgens raste na mrtvim četinjačama umjesto na bjelogorici, ima dlakaviji narančastosmeđi klobuk i veće uglate do labirintaste pore te se obično raspada prije zime. Fistulina hepatica je mekana, sočna i mesnata umjesto žilava i plutasta, s blijedoružičastokrem cjevčicama i ružičastožutim otiskom spora.",
+      "notes": "Plodišta sadrže cinabarinsku kiselinu i srodne fenoksazinonske pigmente koji daju živo crvenonarančastu boju i pružaju antibakterijsko djelovanje. U biotehnologiji se gljiva opsežno proučava zbog svojih lakaza i oksidaza, uključujući biokonverziju ferulinske kiseline u prirodni vanilin. Iako je široko rasprostranjena diljem sjeverne polutke, u dijelovima Europe zabilježila je izražena kolebanja populacija i vrlo je rijetka u atlantskim područjima.",
+      "sourceUrls": []
+    },
+    "hu": {
+      "label": "cinóbertapló",
+      "wikipedia": "https://hu.wikipedia.org/wiki/Cin%C3%B3bertapl%C3%B3",
+      "description": "Feltűnő, élénk narancsvörös, fabontó taplógomba, amely magányosan vagy kisebb, zsindelyszerűen egymás fölött álló csoportokban nő napfénynek kitett elhalt lombos fákon az egész holarktikus térségben, Európa, Észak-Ázsia és Észak-Amerika meleg mérsékelt övétől a boreális övig, ritkább előfordulásokkal Dél-Amerikában és Dél-Ázsiában. Egyéves termőtestei nyártól őszig jelennek meg, és fehérkorhadást okoznak.",
+      "cap": "2–13 cm széles (száraz hegyvidéki élőhelyeken vékony ágakon néha kisebb, 1,5–3 cm), a fától 4–6 cm-re áll el és 0,5–2 cm vastag, félkör, vese vagy legyező alakú, szélesen domborútól laposig terjedő, tönk nélkül oldalával nő az aljzathoz. Száraz felszíne egyenetlen, dudoros vagy ráncolt, fiatalon finoman pelyhes vagy velúrszerű, idővel simábbá vagy kissé fényessé és gödröcskéssé válik, néha a szegély közelében halványan koncentrikusan zónázott. A friss termőtestek élénk cinóbernarancs vagy skarlátvörös színűek, időjárás hatására fakó narancssárgára, rózsaszínesre vagy kifakult fehéresre halványodnak; a szegély fiatalon lekerekített, éretten élesebbé és enyhén hullámossá válik. Kálium-hidroxid (KOH) hatására a kalap felszíne bíborosra vagy vörösesre, majd szürkére vagy feketére színeződik.",
+      "hymenium": "A pórusok kerekdedek vagy szögletesek, néha enyhén megnyúltak vagy labirintusszerűek, sűrűek, 2–4 db/mm; a csövek 2–8 mm mélyek, halvány narancssárgától cinóbervörösig terjedők, és néha a konzol alatt lefutnak az aljzatra. A pórusfelület élénk cinóbervörös vagy ragyogó narancsvörös, KOH hatására olívazöldre színeződik. Cisztídiumok nincsenek.",
+      "stipe": "Nincs; az ülő termőtest oldalával vagy hátsó szélével közvetlenül a fához nő.",
+      "flesh": "Szívós, bőrszerűen kemény vagy parafaszerű, halványan zónázott, vörösestől halvány narancssárgáig terjedő, trimitikus hifarendszerű. A KOH lassan vörösesre vagy feketésre (idősebb példányoknál sárgásra) színezi a húst. Szaga nem jellegzetes vagy enyhén illatos, íze enyhe és nem jellegzetes.",
+      "sporePrint": "Fehér. A bazidiospórák simák, hengeresek vagy enyhén hajlottak (allantoidok), illetve megnyúlt ellipszoid alakúak, KOH-ban színtelenek, nem amiloidok, méretük 4,5–8 × 2–3 µm.",
+      "habitat": "Szaprotróf elhalt lombos fák – különösen bükk, nyír, vadcseresznye, berkenye, tölgy és fűz – faanyagán, ritkán tűlevelűeken is, ahol lignint bontó fehérkorhadást okoz. Kifejezetten fény- és melegkedvelő pionír lebontója a napfénynek kitett, sértetlen kérgű kidőlt törzseknek, rönköknek és ágaknak tisztásokon, erdőszéleken, nyílt száraz lomberdőkben, sövényekben, gyümölcsösökben és parkokban, gyakran a Trametes hirsuta fajjal együtt képezve termőtesteket. Az egyéves (ritkán kétéves) friss termőtestek főként júniustól novemberig fejlődnek, míg a szívósabb idősebb termőtestek gyakran áttelelnek tavaszig.",
+      "uses": "Nem ehető szívós, parafaszerű állaga miatt.",
+      "confusion": "A Trametes sanguinea (Pycnoporus sanguineus) főként trópusi–szubtrópusi rokona jóval vékonyabb termőtesteket képez (0,5 cm-nél vékonyabb) sűrűbb pórusokkal, fényesebb, perzselt hatású felszínnel és gyakran elkeskenyedő, tönkszerű alappal. A Hapalopilus rutilans (Hapalopilus nidulans) puhább, zömökebb, fakó fahéjnarancs termőtesteket alkot, amelyek húsa KOH hatására élénk ibolyabíborra színeződik. A Pycnoporellus fulgens lombos fa helyett elhalt tűlevelűeken nő, szőrösebb narancsbarna kalapja és nagyobb, szögletes–labirintusszerű pórusai vannak, és általában még a tél előtt lebomlik. A Fistulina hepatica szívós és parafaszerű helyett puha, lédús és húsos, halvány rózsaszínes-krémszínű csövekkel és rózsaszínes-sárga spóraporral.",
+      "notes": "Termőtestei cinnabarinsavat és rokon fenoxazinon-pigmenteket tartalmaznak, amelyek az élénk vörösnarancs színt adják és antibakteriális hatásúak. A biotechnológiában széles körben vizsgálják lakkázai és oxidázai miatt, beleértve a ferulsav természetes vanillinná történő biokonverzióját. Bár az északi féltekén széles körben elterjedt, Európa egyes részein jelentős állományingadozásokon ment keresztül, az atlanti régiókban pedig nagyon ritka.",
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Cin%C3%B3bertapl%C3%B3"
+      ]
+    },
+    "id": {
+      "description": "Jamur rak pelapuk kayu berwarna jingga-merah cerah yang mencolok, tumbuh soliter atau dalam susunan bertingkat kecil yang saling tumpang tindih pada kayu mati pohon berdaun lebar yang terpapar matahari di seluruh kawasan Holarktik, mulai dari zona beriklim sedang hangat hingga boreal di Eropa, Asia utara, dan Amerika Utara, dengan catatan yang lebih jarang di Amerika Selatan dan Asia selatan. Tubuh buah tahunannya muncul dari musim panas hingga musim gugur dan menyebabkan pelapukan putih.",
+      "cap": "Tudung selebar 2–13 cm (terkadang lebih kecil, 1,5–3 cm, pada ranting tipis di habitat pegunungan kering), menonjol 4–6 cm dari kayu dan setebal 0,5–2 cm, berbentuk setengah lingkaran, ginjal, atau kipas, cembung melebar hingga datar, serta melekat di sisi tanpa tangkai. Permukaan atas yang kering tampak tidak rata, berbenjol, atau berkerut, berbulu halus hingga seperti suede saat muda dan menjadi lebih halus atau sedikit mengilap serta berbopeng seiring bertambahnya usia, terkadang berzona konsentris samar di dekat tepinya. Tubuh buah segar berwarna jingga-sinabar cerah hingga merah menyala, memudar menjadi jingga kusam, merah muda, atau keputihan pucat saat lapuk oleh cuaca; tepinya membulat saat muda dan menjadi lebih tajam serta sedikit bergelombang saat dewasa. Kalium hidroksida (KOH) mengubah permukaan tudung menjadi keunguan hingga kemerahan, lalu abu-abu hingga hitam.",
+      "hymenium": "Pori berbentuk bulat hingga bersudut, terkadang sedikit memanjang atau menyerupai labirin, rapat dengan 2–4 pori per mm; tabung sedalam 2–8 mm, berwarna jingga pucat hingga merah sinabar, dan terkadang menjalar turun pada substrat di bawah rak. Permukaan pori berwarna merah sinabar cerah hingga jingga-merah terang, berubah menjadi hijau zaitun dengan KOH. Sistidia tidak ada.",
+      "stipe": "Tidak ada; tubuh buah sesil melekat langsung pada kayu melalui sisi atau tepi belakangnya.",
+      "flesh": "Daging liat, keras seperti kulit hingga seperti gabus, berzona samar, berwarna kemerahan hingga jingga pucat, dengan sistem hifa trimitik. KOH mengubah warna daging secara perlahan menjadi kemerahan hingga kehitaman (atau kekuningan pada spesimen yang lebih tua). Baunya tidak khas atau sedikit harum, dan rasanya ringan serta tidak khas.",
+      "sporePrint": "Putih. Basidiospora halus, berbentuk silindris hingga sedikit melengkung (alantoid) atau elips memanjang, hialin dalam KOH, inamiloid, berukuran 4,5–8 × 2–3 µm.",
+      "habitat": "Saprotrof pada kayu mati pohon berdaun lebar—terutama beech Eropa, birch, ceri liar, rowan, ek, dan willow—serta jarang pada konifera, menyebabkan pelapukan putih pengurai lignin. Merupakan pengurai perintis yang sangat menyukai cahaya dan kehangatan pada batang tumbang, gelondongan kayu, dan cabang ber kulit utuh yang terpapar sinar matahari di tempat terbuka, tepi hutan, hutan berdaun lebar kering yang terbuka, pagar tanaman, kebun buah, dan taman, sering kali berbuah berdampingan dengan Trametes hirsuta. Tubuh buah segar tahunan (terkadang dwitahunan) berkembang terutama dari Juni hingga November, sementara tubuh buah tua yang liat umumnya bertahan melewati musim dingin hingga musim semi.",
+      "uses": "Tidak dapat dimakan karena teksturnya yang liat dan seperti gabus.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) adalah kerabat yang terutama hidup di daerah tropis hingga subtropis yang membentuk tubuh buah jauh lebih tipis (tebal kurang dari 0,5 cm) dengan pori lebih rapat, permukaan atas lebih mengilap, dan sering memiliki pangkal menyempit menyerupai tangkai. Hapalopilus rutilans (Hapalopilus nidulans) membentuk tubuh buah yang lebih lunak, lebih gempal, dan berwarna jingga kayu manis kusam yang dagingnya berubah menjadi ungu-lembayung cerah dengan KOH. Pycnoporellus fulgens tumbuh pada kayu konifera mati alih-alih pohon berdaun lebar, memiliki tudung jingga-cokelat yang lebih berambut dan pori bersudut hingga labirin yang lebih besar, serta biasanya hancur sebelum musim dingin. Fistulina hepatica lunak, berair, dan berdaging alih-alih liat dan seperti gabus, dengan tabung berwarna krem merah muda pucat dan jejak spora kuning kemerahan.",
+      "notes": "Tubuh buah mengandung asam sinabarinat dan pigmen fenoksazinon terkait yang menghasilkan warna merah-jingga cerah serta memberikan aktivitas antibakteri. Dalam bioteknologi, jamur ini dipelajari secara luas karena enzim lakase dan oksidasenya, termasuk biokonversi asam ferulat menjadi vanilin alami. Meskipun tersebar luas di seluruh Belahan Bumi Utara, spesies ini mengalami fluktuasi populasi yang nyata di sebagian Eropa dan sangat langka di wilayah Atlantik.",
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un vistoso fungo lignicolo a mensola di colore rosso-arancio brillante che cresce isolato o in piccoli gruppi embricati su legno morto di latifoglie esposto al sole in tutta la regione oloartica, dalle fasce temperato-calde a quelle boreali di Europa, Asia settentrionale e Nord America, con segnalazioni più rare in Sud America e Asia meridionale. I corpi fruttiferi annuali compaiono dall’estate all’autunno e provocano una carie bianca.",
+      "cap": "Largo 2–13 cm (talvolta più piccolo, 1,5–3 cm, su rami sottili in ambienti montani asciutti), sporgente 4–6 cm dal legno e spesso 0,5–2 cm, semicircolare, reniforme o a ventaglio, da largamente convesso a piano, inserito lateralmente senza gambo. La superficie superiore asciutta è irregolare, gibbosa o rugosa, finemente vellutata o scamosciata nei giovani esemplari e più liscia o leggermente lucida e bucherellata con l’età, talora debolmente zonata concentricamente vicino al margine. I corpi fruttiferi freschi sono di un arancio cinabro acceso fino al rosso scarlatto, schiarendosi verso l’arancio spento, il rosato o il biancastro dilavato per l’azione degli agenti atmosferici; il margine è arrotondato in gioventù e diventa più affilato e leggermente ondulato a maturità. L’idrossido di potassio (KOH) vira la superficie del cappello al violaceo-rossastro, poi al grigio fino al nero.",
+      "hymenium": "I pori sono rotondi o angolosi, occasionalmente un po’ allungati o labirintiformi, fitti, 2–4 per mm; i tubuli sono profondi 2–8 mm, da arancio pallido a rosso cinabro, talvolta decorrenti sul substrato sotto la mensola. La superficie poroide è rosso cinabro acceso fino al rosso-arancio brillante e vira al verde oliva con il KOH. I cistidi sono assenti.",
+      "stipe": "Assente; la mensola sessile si fissa direttamente al legno con il lato o il margine posteriore.",
+      "flesh": "Tenace, da coriaceo-dura a suberosa, debolmente zonata, da rossastra ad arancio pallido, con sistema ifale trimitico. Il KOH colora lentamente la carne di rossastro fino a nerastro (o giallastro negli esemplari vecchi). L’odore è indistinto o debolmente gradevole e il sapore è mite e indistinto.",
+      "sporePrint": "Bianca. Le basidiospore sono lisce, cilindriche o leggermente ricurve (allantoidi) oppure lungamente ellittiche, ialine in KOH, non amiloidi, e misurano 4,5–8 × 2–3 µm.",
+      "habitat": "Saprotrofo su legno morto di latifoglie — in particolare faggio, betulla, ciliegio selvatico, sorbo degli uccellatori, quercia e salice — e raramente su conifere, dove provoca una carie bianca delignificante. Decompositore pioniere fortemente eliofilo e termofilo di tronchi caduti, ceppi e rami con corteccia intatta esposti al sole in radure, margini boschivi, boschi aperti e asciutti di latifoglie, siepi, frutteti e parchi, spesso fruttificante insieme a Trametes hirsuta. I corpi fruttiferi freschi annuali (occasionalmente biennali) si sviluppano soprattutto da giugno a novembre, mentre le mensole vecchie e tenaci persistono spesso per tutto l’inverno fino alla primavera.",
+      "uses": "Non commestibile a causa della consistenza tenace e suberosa.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) è una specie affine per lo più tropicale e subtropicale che forma mensole molto più sottili (meno di 0,5 cm di spessore) con pori più fitti, una superficie superiore più lucida di aspetto bruciacchiato e spesso una base ristretta simile a un gambo. Hapalopilus rutilans (Hapalopilus nidulans) produce mensole più molli, tozze e di colore arancio cannella spento, la cui carne vira al viola-porpora vivo con il KOH. Pycnoporellus fulgens cresce su legno morto di conifere anziché di latifoglie, ha un cappello bruno-arancio più peloso e pori più ampi, da angolosi a labirintiformi, e di norma si decompone prima dell’inverno. Fistulina hepatica è molle, succosa e carnosa anziché tenace e suberosa, con tubuli crema-rosati pallidi e impronta sporale giallo-rosata.",
+      "notes": "I corpi fruttiferi contengono acido cinnabarinico e pigmenti fenossazinonici affini che conferiscono il vivido colore rosso-arancio e possiedono attività antibatterica. In biotecnologia questo fungo è ampiamente studiato per le sue laccasi e ossidasi, inclusa la bioconversione dell’acido ferulico in vanillina naturale. Sebbene sia diffuso in tutto l’emisfero settentrionale, ha subito marcate fluttuazioni di popolazione in alcune aree d’Europa ed è molto raro nelle regioni atlantiche.",
+      "sourceUrls": []
+    },
+    "ja": {
+      "label": "シュタケ",
+      "wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%B1",
+      "description": "鮮やかな橙赤色をした目立つ木材腐朽性の棚状キノコで、ヨーロッパ、北アジア、北アメリカの暖温帯から亜寒帯にかけての全北区全域で、日当たりのよい広葉樹の枯れ木に単生または小さな重なり合った群生をつくります。南アメリカや南アジアでもまれに記録があります。一年生の子実体は夏から秋にかけて発生し、白色腐朽を引き起こします。",
+      "cap": "傘は幅2–13 cm（乾燥した山地の細い枝では1.5–3 cmと小さいこともあります）、基物からの張り出しは4–6 cm、厚さは0.5–2 cmで、半円形、腎臓形、または扇形をしており、広い丸山形から扁平になり、柄をもたず側生します。乾いた上面は凹凸やしわがあり、幼時は微毛に覆われてスエード状ですが、老成するとより平滑あるいはわずかに光沢を帯びてあばた状になり、縁付近に不明瞭な環紋を示すことがあります。新鮮な子実体は鮮やかな朱橙色から緋赤色ですが、風化するとくすんだ橙色、桃色、あるいは漂白された白っぽい色に褪せます。縁は幼時は丸みを帯び、成熟すると鋭くなりわずかに波打ちます。水酸化カリウム（KOH）溶液を滴下すると、傘表面は紫赤色を経て灰色から黒色に変化します。",
+      "hymenium": "管孔の孔口は円形から角形、ときにやや細長い形や迷路状になり、1 mmあたり2–4個と密に並びます。管孔層は深さ2–8 mmで淡橙色から朱赤色をしており、ときに子実体下の基物へ垂生します。管孔面は鮮やかな朱赤色から明るい橙赤色で、KOHによりオリーブ緑色に変わります。シスチジアはありません。",
+      "stipe": "柄はありません。無柄の子実体が側面または後縁で直接木材に付着します。",
+      "flesh": "肉は強靭で革質からコルク質、わずかに環紋があり、赤みから淡橙色で、三菌糸型です。KOHにより肉はゆっくりと赤みから黒っぽい色（古い個体では黄み）に変わります。においは不明瞭またはわずかに芳香があり、味は穏やかで特徴がありません。",
+      "sporePrint": "白色です。担子胞子は平滑で円筒形からやや湾曲したソーセージ形（亜腸詰形）または長楕円形、KOH中で無色、非アミロイドで、大きさは4.5–8 × 2–3 µmです。",
+      "habitat": "広葉樹の枯れ木（特にヨーロッパブナ、カバノキ類、セイヨウミザクラ、ナナカマド類、ナラ類、ヤナギ類）に腐生し、まれに針葉樹にも発生してリグニンを分解する白色腐朽を引き起こします。光と暖かさを強く好む先駆的な分解者であり、林間の空き地、林縁、明るく乾燥した広葉樹林、生垣、果樹園、公園などで、樹皮の残った日当たりのよい倒木や丸太、枯れ枝に発生し、しばしばTrametes hirsutaとともに子実体を形成します。一年生（ときに二年生）の新鮮な子実体は主に6月から11月にかけて発達しますが、強靭な古い子実体は通常そのまま冬を越して春まで残ります。",
+      "uses": "強靭でコルク質の肉質のため不食です。",
+      "confusion": "Trametes sanguinea（Pycnoporus sanguineus）は主に熱帯から亜熱帯に分布する近縁種で、はるかに薄い子実体（厚さ0.5 cm未満）を形成し、管孔がより密で、上面の光沢が強く、基部がくびれて柄状になることが多いです。Hapalopilus rutilans（Hapalopilus nidulans）はより軟らかく厚みのあるくすんだシナモン橙色の子実体をつくり、肉がKOHで鮮やかな紫紅に変わります。Pycnoporellus fulgensは広葉樹ではなく枯れた針葉樹に発生し、より毛深い橙褐色の傘と大きめの角形から迷路状の管孔をもち、通常は冬前に崩壊します。Fistulina hepaticaは強靭なコルク質ではなく軟らかく多汁な肉質で、淡い桃クリーム色の管孔と桃黄色の胞子紋をもちます。",
+      "notes": "子実体にはシンナバリン酸および関連するフェノキサジノン系色素が含まれており、鮮やかな赤橙色をもたらすとともに抗菌活性を示します。バイオテクノロジーの分野では、フェルラ酸から天然バニリンへの生物変換を含め、ラッカーゼやオキシダーゼなどの酵素群が広く研究されています。北半球に広く分布するものの、ヨーロッパの一部地域では顕著な個体数変動を経ており、大西洋沿岸地域では非常にまれです。",
+      "sourceUrls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%B1"
+      ]
+    },
+    "ko": {
+      "label": "주걱간버섯",
+      "description": "선명한 주황빛 붉은색을 띠는 눈에 띄는 목재부후성 선반형 버섯으로, 유럽과 북아시아, 북아메리카의 난온대에서 아한대에 이르는 전북구 전역의 햇볕이 잘 드는 활엽수 고사목에 단생하거나 작게 겹쳐 자라며, 남아메리카와 남아시아에서는 드물게 기록됩니다. 일년생 자실체는 여름부터 가을에 걸쳐 나타나며 백색부후를 일으킵니다.",
+      "cap": "갓은 너비 2–13 cm(건조한 산지 서식지의 가는 가지에서는 간혹 1.5–3 cm로 더 작습니다)이며, 기질에서 4–6 cm 돌출하고 두께는 0.5–2 cm입니다. 반원형, 신장형 또는 부채형으로 넓게 볼록하다가 편평해지며 대 없이 측생합니다. 건조한 윗면은 울퉁불퉁하거나 주름져 있으며 어릴 때는 미세한 털이 덮여 스웨이드 같다가 노숙하면 더 매끄러워지거나 약한 광택을 띠고 곰보처럼 패이며, 가장자리 부근에 희미한 동심원 무늬를 보이기도 합니다. 신선한 자실체는 선명한 주홍빛 주황색에서 진홍색을 띠지만 풍화되면 탁한 주황색, 분홍빛 또는 탈색된 흰빛으로 바랩니다. 가장자리는 어릴 때 둥글다가 성숙하면서 날카로워지고 약간 물결칩니다. 수산화칼륨(KOH) 용액을 떨어뜨리면 갓 표면이 자줏빛을 띤 붉은색에서 회색을 거쳐 검은색으로 변합니다.",
+      "hymenium": "관공의 구멍은 원형에서 각형이며 간혹 약간 길쭉하거나 미로 모양을 띠고 1 mm당 2–4개로 조밀합니다. 관은 깊이 2–8 mm이고 옅은 주황색에서 주홍색이며, 간혹 자실체 아래의 기질로 내리뻗습니다. 관공면은 선명한 주홍색에서 밝은 주황빛 붉은색이며 KOH에 닿으면 올리브녹색으로 변합니다. 낭상체는 없습니다.",
+      "stipe": "대는 없습니다. 대가 없는 자실체가 측면이나 뒤쪽 가장자리로 나무에 직접 붙습니다.",
+      "flesh": "살은 질기고 단단한 가죽질에서 코르크질이며 희미한 고리무늬가 있고, 붉은빛에서 옅은 주황색을 띠며 삼균사형 균사 체계를 가집니다. KOH를 처리하면 살이 천천히 붉은빛에서 검게(오래된 표본에서는 누렇게) 변합니다. 냄새는 뚜렷하지 않거나 약한 향이 있으며 맛은 순하고 특징이 없습니다.",
+      "sporePrint": "백색입니다. 담자포자는 매끄럽고 원통형에서 약간 굽은 소시지형(아장형) 또는 긴 타원형이며, KOH에서 무색이고 비아밀로이드이며 크기는 4.5–8 × 2–3 µm입니다.",
+      "habitat": "유럽너도밤나무, 자작나무, 야생벚나무, 마가목, 참나무, 버드나무 등 활엽수 고사목에 부생성으로 자라며 드물게 침엽수에서도 발생하여 리그닌을 분해하는 백색부후를 일으킵니다. 햇빛과 온기를 매우 좋아하는 선구적 분해자로, 숲속 빈터, 숲 가장자리, 개방된 건조 활엽수림, 생울타리, 과수원, 공원 등에서 껍질이 온전하고 햇볕에 노출된 쓰러진 줄기, 통나무, 가지 위에 자라며 종종 Trametes hirsuta와 함께 자실체를 형성합니다. 일년생(간혹 이년생) 신선한 자실체는 주로 6월부터 11월 사이에 발달하며, 질긴 묵은 자실체는 흔히 겨울을 지나 봄까지 남아 있습니다.",
+      "uses": "질기고 코르크 같은 질감 때문에 식용 부적합합니다.",
+      "confusion": "Trametes sanguinea(Pycnoporus sanguineus)는 주로 열대에서 아열대에 분포하는 근연종으로, 훨씬 얇은 자실체(두께 0.5 cm 미만)와 더 조밀한 관공, 더 윤기 있는 윗면을 가지며 기부가 좁아져 대 모양을 이루는 경우가 많습니다. Hapalopilus rutilans(Hapalopilus nidulans)는 더 부드럽고 두툼하며 탁한 계피빛 주황색 자실체를 형성하고, 살이 KOH에 닿으면 선명한 보라색으로 변합니다. Pycnoporellus fulgens는 활엽수가 아닌 죽은 침엽수에서 자라며, 털이 더 많은 주황갈색 갓과 더 큰 각형~미로형 관공을 가지고 보통 겨울 전에 분해됩니다. Fistulina hepatica는 질기고 코르크질인 대신 부드럽고 즙이 많은 육질이며, 옅은 분홍빛 크림색 관공과 분홍빛 노란색 포자문을 가집니다.",
+      "notes": "자실체에는 선명한 붉은 주황색을 내고 항균 활성을 제공하는 신나바린산과 관련 페녹사지논 색소가 들어 있습니다. 생명공학 분야에서는 페룰산을 천연 바닐린으로 생물전환하는 과정을 포함하여 라카제와 산화효소 연구에 널리 활용됩니다. 북반구 전역에 널리 분포하지만 유럽 일부 지역에서는 뚜렷한 개체군 변동을 겪었으며 대서양 연안 지역에서는 매우 드뭅니다.",
+      "sourceUrls": [
+        "https://species.nibr.go.kr/national-list"
+      ]
+    },
+    "lt": {
+      "label": "tikroji raudonpintė",
+      "description": "Ryškiai oranžiškai raudonas, išvaizdus medieną ardantis kempininis grybas, augantis pavieniui arba nedidelėmis čerpiškomis grupėmis ant saulės apšviestos negyvos lapuočių medienos visoje Holarktikoje — nuo šiltųjų vidutinio klimato iki borealinės zonos Europoje, Šiaurės Azijoje ir Šiaurės Amerikoje, rečiau aptinkamas Pietų Amerikoje ir Pietų Azijoje. Vienmečiai vaisiakūniai išauga nuo vasaros iki rudens ir sukelia baltąjį puvinį.",
+      "cap": "2–13 cm pločio (sausose kalnų buveinėse ant plonų šakelių kartais mažesnė, 1,5–3 cm), 4–6 cm atsikišusi nuo medienos ir 0,5–2 cm storio, pusapvalė, inkstiška arba vėduokliška, plačiai išgaubta iki plokščios, prisitvirtinusi šonu be koto. Sausas viršutinis paviršius nelygus, gumbuotas arba raukšlėtas, jaunų vaisiakūnių švelniai pūkuotas ar zomšinis, senstant tampantis lygesnis arba silpnai blizgus ir duobėtas, prie krašto kartais neryškiai koncentriškai zonuotas. Švieži vaisiakūniai ryškiai cinoberiškai oranžiniai iki skaisčiai raudonų, veikiami oro išblunka iki blausiai oranžinės, rausvos arba išbalusios balkšvos spalvos; kraštas jaunų grybų apvalus, bręstant tampa aštresnis ir lengvai banguotas. Kalio hidroksidas (KOH) nudažo kepurėlės paviršių purpuriškai raudonai, paskui pilkai iki juodos spalvos.",
+      "hymenium": "Poros apvalios iki kampuotų, kartais kiek pailgos arba labirintiškos, tankios, 2–4 viename mm; vamzdeliai 2–8 mm gylio, blyškiai oranžiniai iki cinoberiškai raudonų, kartais nuaugantys ant substrato po kepurėle. Porų paviršius ryškiai cinoberiškai raudonas iki skaisčiai oranžiškai raudono, nuo KOH virsta alyvuogių žalsvumo. Cistidžių nėra.",
+      "stipe": "Nėra; bekočiai vaisiakūniai prie medienos prisitvirtina tiesiogiai šonu arba užpakaliniu kraštu.",
+      "flesh": "Trama kieta, odiškai standi iki kamštinės, neryškiai zonuota, rausva iki blyškiai oranžinės, trimitinės hifų sistemos. KOH pamažu nudažo tramą rausvai iki juosvos (senesniuose egzemplioriuose — gelsvai). Kvapas neryškus arba silpnai malonus, skonis švelnus ir neryškus.",
+      "sporePrint": "Baltas. Bazidiosporos lygios, cilindriškos iki šiek tiek lenktų (alantoidinės) arba pailgai elipsiškos, KOH tirpale hialininės, neamiloidinės, 4,5–8 × 2–3 µm dydžio.",
+      "habitat": "Saprotrofinis grybas ant negyvos lapuočių — ypač paprastojo buko, beržo, laukinės trešnės, šermukšnio, ąžuolo ir gluosnio — medienos, rečiau ant spygliuočių, sukeliantis baltąjį delignifikuojantį puvinį. Labai šviesamėgis ir šilumamėgis pionierinis skaidytojas, augantis ant saulės apšviestų nuvirtusių kamienų, rąstų ir šakų su nepažeista žieve kirtavietėse, pamiškėse, šviesiuose sausuose lapuočių miškuose, gyvatvorėse, soduose ir parkuose, neretai kartu su Trametes hirsuta. Vienmečiai (retkarčiais dvimečiai) švieži vaisiakūniai dažniausiai formuojasi nuo birželio iki lapkričio, o kieti seni vaisiakūniai dažnai išsilaiko per žiemą iki pavasario.",
+      "uses": "Nevalgomas dėl kietos, kamštinės tekstūros.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) yra daugiausia tropinė–subtropinė gimininga rūšis, formuojanti kur kas plonesnius vaisiakūnius (mažiau nei 0,5 cm storio) su tankesnėmis poromis, blizgesniu tarsi apdegusiu viršutiniu paviršiumi ir dažnai susiaurėjusiu, kotą primenančiu pagrindu. Hapalopilus rutilans (Hapalopilus nidulans) sudaro minkštesnius, kresnesnius, blausiai cinamoniškai oranžinius vaisiakūnius, kurių trama nuo KOH nusidažo ryškiai violetiškai purpurine spalva. Pycnoporellus fulgens auga ant negyvų spygliuočių, o ne lapuočių, turi plaukuotesnę oranžiškai rudą kepurėlę ir stambesnes kampuotas–labirintiškas poras bei paprastai suyra dar prieš žiemą. Fistulina hepatica yra minkšta, sultinga ir mėsinga, o ne kieta ir kamštinė, jos vamzdeliai blyškiai rausvai kreminiai, o sporų atspaudas rausvai gelsvas.",
+      "notes": "Vaisiakūniuose yra cinabarinės rūgšties ir giminingų fenoksazinoninių pigmentų, lemiančių ryškiai oranžiškai raudoną spalvą ir pasižyminčių antibakteriniu aktyvumu. Biotechnologijoje šis grybas plačiai tiriamas dėl savo lakazių ir oksidazių, įskaitant ferulo rūgšties biokonversiją į natūralų vaniliną. Nors paplitęs visame Šiaurės pusrutulyje, kai kuriose Europos dalyse jo populiacijos smarkiai svyravo, o Atlanto pakrantės regionuose jis yra labai retas.",
+      "sourceUrls": [
+        "https://lt.wikipedia.org/wiki/Tikroji_raudonpint%C4%97",
+        "https://www.gbif.org/species/9227816"
+      ]
+    },
+    "lv": {
+      "label": "parastā cinobrpiepe",
+      "description": "Koši oranžsarkana, uzkrītoša koksni noārdoša piepjveida sēne, kas aug pa vienai vai nelielās jumstiņveida grupās uz saules apspīdētas atmirušas lapkoku koksnes visā Holarktikā — no siltās mērenās līdz boreālajai joslai Eiropā, Ziemeļāzijā un Ziemeļamerikā, retāk reģistrēta Dienvidamerikā un Dienvidāzijā. Viengadīgie augļķermeņi parādās no vasaras līdz rudenim un izraisa balto trupi.",
+      "cap": "Cepurīte 2–13 cm plata (sausos kalnu biotopos uz tieviem zariem reizēm mazāka, 1,5–3 cm), par 4–6 cm izvirzīta no koksnes un 0,5–2 cm bieza, pusapaļa, nierveida vai vēdekļveida, plaši izliekta līdz plakana, pieauguša ar sānu bez kātiņa. Sausā virspuse nelīdzena, kunkulaina vai krunkaina, jaunībā smalki pūkaina līdz zamšādaina, vecumā kļūst gludāka vai viegli spīdīga un bedraina, pie malas reizēm vāji koncentriski zonēta. Svaigi augļķermeņi ir koši cinobroranži līdz koši sarkani, laika apstākļu ietekmē izbalējot līdz blāvi oranžiem, sārtiem vai bālganiem; mala jaunībā noapaļota, briedumā kļūst asāka un viegli viļņaina. Kālija hidroksīds (KOH) cepurītes virspusi krāso purpuraini līdz sarkanīgu, pēc tam pelēku līdz melnu.",
+      "hymenium": "Poras apaļas līdz stūrainas, reizēm nedaudz iegarenas vai labirintveida, blīvas, 2–4 uz 1 mm; stobriņi 2–8 mm dziļi, gaiši oranži līdz cinobrsarkani, reizēm nedaudz nolaideni pa substrātu zem augļķermeņa. Poru virsma koši cinobrsarkana līdz spilgti oranžsarkana, ar KOH kļūst olīvzaļa. Cistīdu nav.",
+      "stipe": "Nav; sēdošais augļķermenis pie koksnes piestiprinās tieši ar sānu vai aizmugurējo malu.",
+      "flesh": "Mīkstums sīksts, ādaini ciets līdz korķains, vāji zonēts, sarkanīgs līdz gaiši oranžs, ar trimītisku hifu sistēmu. KOH lēnām iekrāso mīkstumu sarkanīgu līdz melnganu (vecākiem eksemplāriem dzeltenīgu). Smarža neizteikta vai vāji patīkama, garša maiga un neizteikta.",
+      "sporePrint": "Balts. Bazīdijsporas gludas, cilindriskas līdz viegli izliektas (alantoīdas) vai gareniski eliptiskas, KOH šķīdumā hialīnas, neamiloīdas, 4,5–8 × 2–3 µm lielas.",
+      "habitat": "Saprotrofs uz atmirušas lapkoku — īpaši Eiropas dižskābarža, bērza, savvaļas ķirša, pīlādža, ozola un vītola — koksnes, reti uz skujkokiem, izraisot balto delignificējošo trupi. Ļoti gaismas un siltummīlošs pionieris uz saules apspīdētām kritalām, baļķiem un zariem ar neskartu mizu izcirtumos, mežmalās, gaišos sausos lapkoku mežos, dzīvžogos, augļu dārzos un parkos, bieži augot līdzās Trametes hirsuta. Viengadīgie (reizēm divgadīgie) svaigie augļķermeņi veidojas galvenokārt no jūnija līdz novembrim, savukārt sīkstie vecie augļķermeņi bieži saglabājas cauri ziemai līdz pavasarim.",
+      "uses": "Neēdama sīkstās, korķainās konsistences dēļ.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) ir pārsvarā tropu un subtropu radiniece, kas veido daudz plānākus augļķermeņus (mazāk par 0,5 cm biezus) ar blīvākām porām, spīdīgāku it kā apdedzinātu virspusi un bieži sašaurinātu, kātiņam līdzīgu pamatni. Hapalopilus rutilans (Hapalopilus nidulans) veido mīkstākus, drukānākus, blāvi kanēļoranžus augļķermeņus, kuru mīkstums ar KOH krāsojas koši violetpurpurains. Pycnoporellus fulgens aug uz atmirušiem skujkokiem, nevis lapkokiem, tam ir mataināka oranžbrūna cepurīte un lielākas stūrainas līdz labirintveida poras, un tas parasti sadalās pirms ziemas. Fistulina hepatica ir mīksta, sulīga un gaļīga, nevis sīksta un korķaina, ar gaiši sārtkrēmkrāsas stobriņiem un sārtdzeltenu sporu nospiedumu.",
+      "notes": "Augļķermeņi satur cinabarīnskābi un radniecīgus fenoksazinona pigmentus, kas piešķir košo oranžsarkano krāsu un nodrošina antibakteriālu iedarbību. Biotehnoloģijā šo sēni plaši pēta tās lakāžu un oksidāžu dēļ, tostarp ferulskābes biokonversijai dabīgajā vanilīnā. Lai gan suga ir plaši izplatīta Ziemeļu puslodē, dažās Eiropas daļās tā piedzīvojusi krasas populācijas svārstības un Atlantijas piekrastes reģionos ir ļoti reta.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/9227816"
+      ]
+    },
+    "nl": {
+      "label": "Vermiljoenhoutzwam",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Vermiljoenhoutzwam",
+      "description": "Een opvallende, helder oranjerode houtafbrekende consolezwam die alleenstaand of in kleine dakpansgewijze etages groeit op zonbeschenen dood loofhout in het hele Holarctisch gebied, van warm-gematigde tot boreale zones van Europa, Noord-Azië en Noord-Amerika, met zeldzamere waarnemingen in Zuid-Amerika en Zuid-Azië. De eenjarige vruchtlichamen verschijnen van de zomer tot de herfst en veroorzaken witrot.",
+      "cap": "2–13 cm breed (soms kleiner, 1,5–3 cm, op dunne takken in droge berggebieden), 4–6 cm afstaand van het hout en 0,5–2 cm dik, halfrond, niervormig of waaiervormig, breed gewelfd tot vlak en zijdelings zonder steel aangehecht. De droge bovenzijde is oneffen, bobbelig of gerimpeld, jong fijn donzig tot suèdeachtig en met de ouderdom gladder of licht glanzend en pokdalig wordend, soms zwak concentrisch gezoneerd nabij de rand. Verse vruchtlichamen zijn levendig vermiljoenoranje tot scharlakenrood en verbleken bij verwering naar dof oranje, rozig of gebleekt witachtig; de rand is jong afgerond en wordt bij rijpheid scherper en licht golvend. Kaliumhydroxide (KOH) kleurt het hoedoppervlak paarsachtig tot roodachtig, daarna grijs tot zwart.",
+      "hymenium": "De poriën zijn rond tot hoekig, soms licht langgerekt of doolhofachtig, dicht opeen met 2–4 per mm; de buisjes zijn 2–8 mm diep, bleek oranje tot vermiljoenrood en soms aflopend op het substraat onder de console. Het poriënoppervlak is levendig vermiljoenrood tot helder oranjerood en kleurt met KOH olijfgroen. Cystiden ontbreken.",
+      "stipe": "Afwezig; de zittende console is zijdelings of met de achterrand direct aan het hout gehecht.",
+      "flesh": "Taai, leerachtig-hard tot kurkachtig, zwak gezoneerd, roodachtig tot bleek oranje, met een trimitisch hyfensysteem. KOH kleurt het vlees langzaam roodachtig tot zwartachtig (of gelig bij oudere exemplaren). De geur is onopvallend of zwak geurig en de smaak is mild en onopvallend.",
+      "sporePrint": "Wit. De basidiosporen zijn glad, cilindrisch tot licht gebogen (allantoïd) of langwerpig-elliptisch, hyalien in KOH, inamyloïd en meten 4,5–8 × 2–3 µm.",
+      "habitat": "Saprotroof op dood hout van loofbomen – vooral beuk, berk, zoete kers, lijsterbes, eik en wilg – en zelden op naaldbomen, waarbij hij een delignificerende witrot veroorzaakt. Een sterk licht- en warmteminnende pionierafbreker van zonbeschenen liggende stammen, boomstammen en takken met intacte schors op open plekken, langs bosranden, in open droge loofbossen, hagen, boomgaarden en parken, vaak samen vruchtlichamen vormend met Trametes hirsuta. Eenjarige (soms tweejarige) verse vruchtlichamen ontwikkelen zich voornamelijk van juni tot november, terwijl taaie oudere consoles vaak de winter door tot in het voorjaar blijven zitten.",
+      "uses": "Niet eetbaar vanwege de taaie, kurkachtige structuur.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) is een overwegend tropische tot subtropische verwant die veel dunnere consoles vormt (minder dan 0,5 cm dik) met dichtere poriën, een glanzender, verschroeid ogend bovenvlak en vaak een versmalde, steelachtige basis. Hapalopilus rutilans (Hapalopilus nidulans) vormt zachtere, gedrongener, dof kaneeloranje consoles waarvan het vlees met KOH levendig violetpaars kleurt. Pycnoporellus fulgens groeit op dood naaldhout in plaats van loofhout, heeft een hariger oranjebruine hoed en grotere hoekige tot doolhofachtige poriën en vergaat doorgaans vóór de winter. Fistulina hepatica is zacht, sappig en vlezig in plaats van taai en kurkachtig, met bleek rozecreme buisjes en een rozig-gele sporenprint.",
+      "notes": "De vruchtlichamen bevatten cinnabarinezuur en verwante fenoxazinonpigmenten die de levendige roodoranje kleur geven en antibacteriële activiteit bieden. In de biotechnologie wordt de zwam veel onderzocht om zijn laccasen en oxidasen, onder meer voor de bioconversie van ferulazuur tot natuurlijke vanilline. Hoewel wijdverspreid op het noordelijk halfrond, heeft de soort in delen van Europa sterke populatieschommelingen doorgemaakt en is zij in Atlantische regio's zeer zeldzaam.",
+      "sourceUrls": [
+        "https://nl.wikipedia.org/wiki/Vermiljoenhoutzwam"
+      ]
+    },
+    "no": {
+      "label": "sinoberkjuke",
+      "description": "En iøynefallende, sterkt oransjerød, vednedbrytende konsollsopp som vokser enkeltvis eller i små taklagte etasjer på soleksponert død løvved i hele det holarktiske området, fra varmt tempererte til boreale soner i Europa, Nord-Asia og Nord-Amerika, med sjeldnere funn i Sør-Amerika og Sør-Asia. De ettårige fruktlegemene kommer fra sommer til høst og forårsaker hvitråte.",
+      "cap": "2–13 cm bred (av og til mindre, 1,5–3 cm, på tynne greiner i tørre fjellområder), 4–6 cm utstående fra veden og 0,5–2 cm tykk, halvsirkelformet, nyreformet eller vifteformet, bredt hvelvet til flat og festet sidelengs uten stilk. Den tørre oversiden er ujevn, knudrete eller rynket, fint dunet til semsketlignende som ung og blir glattere eller svakt blank og smågroperik med alderen, av og til svakt konsentrisk sonert nær kanten. Friske fruktlegemer er sterkt sinoberoransje til skarlagenrøde og falmer ved forvitring mot matt oransje, rosa eller bleket hvitaktig; kanten er avrundet hos unge eksemplarer og blir skarpere og lett bølget ved modning. Kaliumhydroksid (KOH) farger hattoverflaten purpuraktig til rødlig, deretter grå til svart.",
+      "hymenium": "Porene er runde til kantete, av og til svakt forlengede eller labyrintiske, tette med 2–4 per mm; rørene er 2–8 mm dype, blekt oransje til sinoberrøde og av og til nedløpende på substratet under konsollen. Poreflaten er sterkt sinoberrød til lysende oransjerød og farges olivengrønn med KOH. Cystider mangler.",
+      "stipe": "Mangler; det sittende konsollformede fruktlegemet er festet direkte til veden med siden eller bakkanten.",
+      "flesh": "Seigt, læraktig-hardt til korkaktig, svakt sonert, rødlig til blekt oransje, med et trimitisk hyfesystem. KOH farger kjøttet langsomt rødlig til svartaktig (eller gulaktig hos eldre eksemplarer). Lukten er ubestemmelig eller svakt velluktende, og smaken er mild og ubestemmelig.",
+      "sporePrint": "Hvitt. Basidiosporene er glatte, sylindriske til svakt bøyde (allantoide) eller langstrakt elliptiske, hyaline i KOH, inamyloide og måler 4,5–8 × 2–3 µm.",
+      "habitat": "Saprotrof på død ved av løvtrær – særlig bøk, bjørk, morell, rogn, eik og selje eller vier – og sjelden på bartrær, der den forårsaker ligninnedbrytende hvitråte. En sterkt lys- og varmekjær pionernedbryter av soleksponerte falne stammer, stokker og greiner med intakt bark i lysninger, skogkanter, åpne tørre løvskoger, hekker, frukthager og parker, ofte fruktifiserende sammen med Trametes hirsuta. Ettårige (av og til toårige) friske fruktlegemer utvikles hovedsakelig fra juni til november, mens seige eldre konsoller ofte blir sittende gjennom vinteren og ut på våren.",
+      "uses": "Ikke matsopp på grunn av den seige, korkaktige konsistensen.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) er en hovedsakelig tropisk til subtropisk slektning som danner mye tynnere konsoller (under 0,5 cm tykke) med tettere porer, en blankere, nærmest svidd overside og ofte en smal, stilklignende basis. Hapalopilus rutilans (Hapalopilus nidulans) danner mykere, mer kompakte, matt kaneloransje konsoller der kjøttet farges sterkt fiolett-purpur med KOH. Pycnoporellus fulgens vokser på død barved i stedet for løvved, har en mer håret oransjebrun hatt og større kantete til labyrintiske porer, og brytes typisk ned før vinteren. Fistulina hepatica er myk, saftig og kjøttfull i stedet for seig og korkaktig, med blekt rosakremfargede rør og rosagult sporeavtrykk.",
+      "notes": "Fruktlegemene inneholder cinnabarinsyre og beslektede fenoksazinonpigmenter som gir den sterke rødoransje fargen og har antibakteriell virkning. Innen bioteknologi studeres soppen mye for sine lakkaser og oksidaser, blant annet til biokonvertering av ferulasyre til naturlig vanillin. Selv om den er vidt utbredt på den nordlige halvkule, har den hatt markerte bestandssvingninger i deler av Europa og er svært sjelden i atlantiske områder.",
+      "sourceUrls": [
+        "https://artsdatabanken.no/arter/takson/199518"
+      ]
+    },
+    "pl": {
+      "label": "wrośniak cynobrowy",
+      "names": [
+        "gęstoporek cynobrowy"
+      ],
+      "description": "Uderzający, jaskrawo pomarańczowoczerwony grzyb nadrzewny rozkładający drewno, tworzący konsolowate owocniki rosnące pojedynczo lub w niewielkich dachówkowatych skupieniach na nasłonecznionym martwym drewnie drzew liściastych w całej Holarktyce, od strefy ciepłej umiarkowanej po borealną Europy, północnej Azji i Ameryki Północnej, z rzadszymi stanowiskami w Ameryce Południowej i południowej Azji. Jednoroczne owocniki pojawiają się od lata do jesieni i wywołują białą zgniliznę drewna.",
+      "cap": "Szerokości 2–13 cm (sporadycznie mniejszy, 1,5–3 cm, na cienkich gałęziach w suchych siedliskach górskich), odstający od podłoża na 4–6 cm i grubości 0,5–2 cm, półkolisty, nerkowaty lub wachlarzowaty, szeroko wypukły do płaskiego, przyrośnięty bokiem bez trzonu. Sucha górna powierzchnia jest nierówna, guzkowata lub pomarszczona, za młodu delikatnie omszona do zamszowatej, z wiekiem gładsza lub lekko błyszcząca i dołkowana, niekiedy słabo koncentrycznie strefowana przy brzegu. Świeże owocniki są intensywnie cynobrowopomarańczowe do szkarłatnoczerwonych, a pod wpływem czynników atmosferycznych blakną do matowo pomarańczowych, różowawych lub wyblakłych białawych; brzeg za młodu jest zaokrąglony, w dojrzałości staje się ostrzejszy i lekko falisty. Wodorotlenek potasu (KOH) barwi powierzchnię kapelusza na purpurowo do czerwonawo, a następnie na szaro do czarno.",
+      "hymenium": "Pory okrągłe do kanciastych, czasem lekko wydłużone lub labiryntowate, gęste, 2–4 na mm; rurki długości 2–8 mm, bladopomarańczowe do cynobrowoczerwonych, niekiedy zbiegające na podłoże pod owocnikiem. Powierzchnia porów jest żywo cynobrowoczerwona do jaskrawo pomarańczowoczerwonej i pod wpływem KOH zabarwia się na oliwkowozielono. Cystyd brak.",
+      "stipe": "Brak; siedzący owocnik przyrasta bokiem lub tylnym brzegiem bezpośrednio do drewna.",
+      "flesh": "Łykowaty, skórzastotwardy do korkowatego, słabo strefowany, czerwonawy do bladopomarańczowego, o trimitycznym systemie strzępkowym. Pod wpływem KOH miąższ powoli czerwienieje, a następnie czernieje (u starszych okazów żółknie). Zapach jest niewyraźny lub lekko przyjemny, a smak łagodny i niewyraźny.",
+      "sporePrint": "Biały. Bazydiospory gładkie, cylindryczne do lekko wygiętych (alantoidalnych) lub podłużnie elipsoidalnych, w KOH hialinowe, nieamyloidalne, o wymiarach 4,5–8 × 2–3 µm.",
+      "habitat": "Saprotroficzny na martwym drewnie drzew liściastych – zwłaszcza buka zwyczajnego, brzozy, czereśni ptasiej, jarzębu, dębu i wierzby – rzadko na iglastych, wywołujący białą zgniliznę delignifikującą. Silnie światłolubny i ciepłolubny pionierski rozkładacz nasłonecznionych leżących pni, kłód i gałęzi z nienaruszoną korą na zrębach, skrajach lasów, w prześwietlonych suchych lasach liściastych, żywopłotach, sadach i parkach, często owocnikujący wspólnie z Trametes hirsuta. Jednoroczne (sporadycznie dwuletnie) świeże owocniki rozwijają się głównie od czerwca do listopada, podczas gdy twarde starsze owocniki często utrzymują się przez zimę aż do wiosny.",
+      "uses": "Niejadalny ze względu na twardą, korkowatą konsystencję.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) to głównie tropikalny do subtropikalnego gatunek pokrewny, który tworzy znacznie cieńsze owocniki (poniżej 0,5 cm grubości) o gęstszych porach, bardziej błyszczącej, jakby przypalonej górnej powierzchni i często zwężonej, trzonkowatej podstawie. Hapalopilus rutilans (Hapalopilus nidulans) tworzy bardziej miękkie, masywniejsze, matowo cynamonowopomarańczowe owocniki, których miąższ pod wpływem KOH barwi się na żywo fioletowopurpurowo. Pycnoporellus fulgens rośnie na martwym drewnie iglastym zamiast liściastego, ma bardziej owłosiony pomarańczowobrązowy kapelusz i większe, kanciaste do labiryntowatych pory oraz zwykle rozpada się przed zimą. Fistulina hepatica jest miękka, soczysta i mięsista zamiast twardej i korkowatej, z bladoróżowokremowymi rurkami i różowożółtym wysypem zarodników.",
+      "notes": "Owocniki zawierają kwas cynabarynowy oraz pokrewne barwniki fenoksazynonowe, które nadają im jaskrawą czerwonopomarańczową barwę i wykazują działanie przeciwbakteryjne. W biotechnologii grzyb ten jest szeroko badany ze względu na swoje lakazy i oksydazy, w tym biokonwersję kwasu ferulowego do naturalnej waniliny. Choć jest szeroko rozpowszechniony na półkuli północnej, w części Europy przeszedł wyraźne wahania liczebności populacji, a w regionach atlantyckich jest bardzo rzadki.",
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Wro%C5%9Bniak_cynobrowy",
+        "https://www.wikidata.org/wiki/Q205101"
+      ]
+    },
+    "pt": {
+      "description": "Um fungo lignícola em consola, de cor vermelho-alaranjada viva e muito chamativa, que cresce isoladamente ou em pequenos grupos imbricados sobre madeira morta de folhosas exposta ao sol em toda a região holártica, das zonas temperadas quentes às boreais da Europa, do norte da Ásia e da América do Norte, com registos mais raros na América do Sul e no sul da Ásia. Os corpos frutíferos anuais surgem do verão ao outono e provocam podridão branca.",
+      "cap": "Com 2–13 cm de largura (ocasionalmente mais pequeno, 1,5–3 cm, em ramos finos de habitats montanhosos secos), projetando-se 4–6 cm da madeira e com 0,5–2 cm de espessura, semicircular, reniforme ou em leque, amplamente convexo a plano, fixo lateralmente sem estipe. A superfície superior seca é irregular, bosselada ou enrugada, finamente aveludada a acamurçada quando jovem, tornando-se mais lisa ou ligeiramente brilhante e picotada com a idade, por vezes fracamente zonada concentricamente junto à margem. Os corpos frutíferos frescos apresentam cor laranja-cinábrio viva a vermelho-escarlate, desbotando para laranja apagado, rosado ou esbranquiçado deslavado sob a ação das intempéries; a margem é arredondada na juventude e torna-se mais aguda e ligeiramente ondulada na maturidade. O hidróxido de potássio (KOH) torna a superfície do chapéu violácea a avermelhada e, em seguida, cinzenta a negra.",
+      "hymenium": "Os poros são redondos a angulosos, ocasionalmente um pouco alongados ou labirínticos, densos com 2–4 por mm; os tubos têm 2–8 mm de profundidade, cor laranja-pálida a vermelho-cinábrio e são por vezes decorrentes sobre o substrato por baixo da consola. A superfície porosa é vermelho-cinábrio viva a vermelho-alaranjada brilhante, virando a verde-azeitona com KOH. Não apresenta cistídios.",
+      "stipe": "Ausente; a consola séssil fixa-se diretamente à madeira pela lateral ou pela margem posterior.",
+      "flesh": "Tenaz, coriácea-dura a suberosa, fracamente zonada, avermelhada a laranja-pálida, com sistema hifal trimítico. O KOH torna a carne lentamente avermelhada a enegrecida (ou amarelada em exemplares mais velhos). O odor é indistinto ou ligeiramente aromático e o sabor é suave e indistinto.",
+      "sporePrint": "Branca. Os basidiósporos são lisos, cilíndricos a ligeiramente curvos (alantoides) ou longamente elípticos, hialinos em KOH, inamiloides, medindo 4,5–8 × 2–3 µm.",
+      "habitat": "Saprotrófico sobre madeira morta de árvores folhosas — sobretudo faia-europeia, bétula, cerejeira-brava, tramazeira, carvalho e salgueiro — e raramente em coníferas, causando podridão branca deslignificante. Decompositor pioneiro fortemente heliófilo e termófilo de troncos caídos, toros e ramos com casca intacta expostos ao sol em clareiras, orlas florestais, bosques secos e abertos de folhosas, sebes, pomares e parques, frutificando frequentemente junto de Trametes hirsuta. Os corpos frutíferos frescos anuais (ocasionalmente bienais) desenvolvem-se sobretudo de junho a novembro, enquanto as consolas velhas e tenazes persistem com frequência durante o inverno até à primavera.",
+      "uses": "Não comestível devido à sua textura tenaz e suberosa.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) é uma espécie aparentada sobretudo tropical a subtropical que forma consolas muito mais finas (com menos de 0,5 cm de espessura), com poros mais densos, superfície superior mais brilhante de aspeto chamuscado e frequentemente uma base estreitada semelhante a um estipe. Hapalopilus rutilans (Hapalopilus nidulans) forma consolas mais macias, atarracadas e de cor laranja-canela baça, cuja carne vira a violeta-púrpura vivo com KOH. Pycnoporellus fulgens cresce sobre coníferas mortas em vez de folhosas, tem o chapéu castanho-alaranjado mais peludo e poros maiores, angulosos a labirínticos, decompondo-se geralmente antes do inverno. Fistulina hepatica é macia, sumarenta e carnuda em vez de tenaz e suberosa, com tubos creme-rosados pálidos e esporada amarelo-rosada.",
+      "notes": "Os corpos frutíferos contêm ácido cinabarínico e pigmentos fenoxazinónicos afins que conferem a coloração vermelho-alaranjada viva e exercem atividade antibacteriana. Em biotecnologia, este fungo é amplamente estudado pelas suas lacases e oxidases, incluindo a bioconversão de ácido ferúlico em vanilina natural. Embora amplamente distribuído pelo Hemisfério Norte, sofreu flutuações populacionais acentuadas em partes da Europa e é muito raro nas regiões atlânticas.",
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă lignicolă în formă de consolă, de un roșu-portocaliu aprins și izbitor, care crește solitar sau în mici grupuri suprapuse pe lemn mort de foioase expus la soare în întreaga regiune holarctică, din zonele temperat-calde până în cele boreale ale Europei, Asiei de Nord și Americii de Nord, cu semnalări mai rare în America de Sud și Asia de Sud. Corpurile fructifere anuale apar din vară până toamna și provoacă putregai alb.",
+      "cap": "Are 2–13 cm lățime (uneori mai mică, 1,5–3 cm, pe ramuri subțiri în habitate montane uscate), proeminând 4–6 cm de pe lemn și având 0,5–2 cm grosime, semicirculară, reniformă sau în evantai, larg convexă până la plană, fixată lateral fără picior. Suprafața superioară uscată este neregulată, cu denivelări sau zbârcită, fin pufoasă până la catifelată în tinerețe și devenind mai netedă ori ușor lucioasă și ciupită cu vârsta, uneori slab zonată concentric spre margine. Corpurile fructifere proaspete au o culoare portocaliu-cinabru vie până la roșu-stacojiu, decolorându-se spre portocaliu tern, rozaliu sau albicios spălăcit sub acțiunea intemperiilor; marginea este rotunjită în tinerețe și devine mai ascuțită și ușor ondulată la maturitate. Hidroxidul de potasiu (KOH) colorează suprafața pălăriei în violaceu până la roșiatic, apoi în cenușiu până la negru.",
+      "hymenium": "Porii sunt rotunzi până la unghiulari, uneori ușor alungiți sau labirintiformi, deși, 2–4 pe mm; tuburile au 2–8 mm adâncime, sunt portocaliu-pal până la roșu-cinabru și uneori decurente pe substrat sub consolă. Suprafața cu pori este roșu-cinabru vie până la roșu-portocaliu strălucitor, virând în verde-măsliniu cu KOH. Cistidele lipsesc.",
+      "stipe": "Absent; consola sesilă se prinde direct de lemn cu latura sau marginea posterioară.",
+      "flesh": "Tenace, tare-pieloasă până la suberoasă, slab zonată, roșiatică până la portocaliu-pal, cu sistem hifal trimitic. KOH colorează carnea lent în roșiatic până la negricios (sau gălbui la exemplarele bătrâne). Mirosul este indistinct sau slab plăcut, iar gustul este blând și indistinct.",
+      "sporePrint": "Albă. Bazidiosporii sunt netezi, cilindrici până la ușor curbați (alantoizi) sau alungit-eliptici, hialini în KOH, neamiloizi, măsurând 4,5–8 × 2–3 µm.",
+      "habitat": "Saprotrofă pe lemn mort de arbori foioși — mai ales fag, mesteacăn, cireș sălbatic, scoruș de munte, stejar și salcie — și rar pe conifere, provocând un putregai alb delignifiant. Descompunător pionier puternic iubitor de lumină și căldură al trunchiurilor căzute, buștenilor și ramurilor cu scoarța intactă expuse la soare din poieni, margini de pădure, păduri uscate și rare de foioase, garduri vii, livezi și parcuri, fructificând adesea alături de Trametes hirsuta. Corpurile fructifere anuale (ocazional bienale) proaspete se dezvoltă mai ales din iunie până în noiembrie, în timp ce consolele vechi și tenace persistă frecvent peste iarnă până primăvara.",
+      "uses": "Necomestibilă din cauza texturii sale tenace și suberoase.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) este o specie înrudită predominant tropicală și subtropicală care formează console mult mai subțiri (sub 0,5 cm grosime), cu pori mai deși, o suprafață superioară mai lucioasă cu aspect pârjolit și adesea o bază îngustată asemănătoare unui picior. Hapalopilus rutilans (Hapalopilus nidulans) formează console mai moi, mai îndesate și de culoare portocaliu-scorțișoară ternă, a căror carne virează în violet-purpuriu intens cu KOH. Pycnoporellus fulgens crește pe conifere moarte în loc de foioase, are pălăria brun-portocalie mai păroasă și pori mai mari, unghiulari până la labirintiformi, descompunându-se de obicei înainte de iarnă. Fistulina hepatica este moale, suculentă și cărnoasă, nu tenace și suberoasă, cu tuburi crem-rozalii palide și amprentă sporală galben-rozalie.",
+      "notes": "Corpurile fructifere conțin acid cinabarinic și pigmenți fenoxazinonici înrudiți care produc culoarea roșu-portocaliu vie și conferă activitate antibacteriană. În biotehnologie, această ciupercă este intens studiată pentru lacazele și oxidazele sale, inclusiv pentru bioconversia acidului ferulic în vanilină naturală. Deși este larg răspândită în emisfera nordică, a cunoscut fluctuații pronunțate ale populațiilor în unele părți ale Europei și este foarte rară în regiunile atlantice.",
+      "sourceUrls": []
+    },
+    "ru": {
+      "label": "пикнопорус киноварно-красный",
+      "description": "Эффектный ярко-оранжево-красный дереворазрушающий трутовый гриб, растущий одиночно или небольшими черепитчатыми группами на освещённой солнцем мёртвой древесине лиственных пород по всей Голарктике — от тёпло-умеренной до бореальной зоны Европы, северной Азии и Северной Америки, с более редкими находками в Южной Америке и южной Азии. Однолетние плодовые тела появляются с лета до осени и вызывают белую гниль древесины.",
+      "cap": "Шириной 2–13 см (изредка мельче, 1,5–3 см, на тонких ветвях в сухих горных местообитаниях), выступает от субстрата на 4–6 см при толщине 0,5–2 см; полукруглая, почковидная или вееровидная, широковыпуклая до плоской, прикреплена боком без ножки. Сухая верхняя поверхность неровная, бугорчатая или морщинистая, в молодости тонкоопушённая до замшевой, с возрастом становится более гладкой или слегка блестящей и ямчатой, иногда со слабой концентрической зональностью у края. Свежие плодовые тела ярко-киноварно-оранжевые до ало-красных, при выветривании выцветают до тускло-оранжевых, розоватых или выбеленных беловатых; край в молодости закруглённый, к зрелости становится более острым и слегка волнистым. Гидроксид калия (KOH) окрашивает поверхность шляпки в пурпурный до красноватого, затем в серый до чёрного.",
+      "hymenium": "Поры округлые до угловатых, иногда слегка вытянутые или лабиринтовидные, мелкие и плотные, 2–4 на мм; трубочки глубиной 2–8 мм, бледно-оранжевые до киноварно-красных, иногда низбегают на субстрат под плодовым телом. Поровая поверхность ярко-киноварно-красная до ярко-оранжево-красной, от KOH становится оливково-зелёной. Цистиды отсутствуют.",
+      "stipe": "Отсутствует; сидячее плодовое тело прирастает боком или задним краем непосредственно к древесине.",
+      "flesh": "Жёсткая, кожисто-твёрдая до пробковой, слабозональная, красноватая до бледно-оранжевой, с тримитической гифальной системой. От KOH мякоть медленно краснеет до черноватой (у старых экземпляров желтеет). Запах невыразительный или слабо ароматный, вкус мягкий и невыразительный.",
+      "sporePrint": "Белый. Базидиоспоры гладкие, цилиндрические до слегка изогнутых (аллантоидных) или удлинённо-эллипсоидных, гиалиновые в KOH, неамилоидные, размером 4,5–8 × 2–3 мкм.",
+      "habitat": "Сапротрофный вид на мёртвой древесине лиственных деревьев — особенно бука европейского, берёзы, черешни, рябины, дуба и ивы — и редко на хвойных, вызывающий белую делигнифицирующую гниль. Выраженно свето- и теплолюбивый пионерный разрушитель освещённых солнцем поваленных стволов, брёвен и ветвей с сохранившейся корой на вырубках, лесных опушках, в светлых сухих лиственных лесах, живых изгородях, садах и парках, нередко плодоносящий рядом с Trametes hirsuta. Однолетние (изредка двулетние) свежие плодовые тела развиваются преимущественно с июня по ноябрь, тогда как жёсткие старые плодовые тела часто сохраняются зимой и до весны.",
+      "uses": "Несъедобный из-за жёсткой, пробковой консистенции.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) — преимущественно тропический и субтропический родственный вид, образующий значительно более тонкие плодовые тела (тоньше 0,5 см) с более мелкими порами, более блестящей, словно подпалённой верхней поверхностью и нередко суженным ножковидным основанием. Hapalopilus rutilans (Hapalopilus nidulans) образует более мягкие, массивные, тускло-корично-оранжевые плодовые тела, мякоть которых от KOH становится ярко-фиолетово-пурпурной. Pycnoporellus fulgens растёт на мёртвых хвойных породах вместо лиственных, имеет более волосистую оранжево-коричневую шляпку и более крупные угловатые до лабиринтовидных поры и обычно разрушается до зимы. Fistulina hepatica мягкая, сочная и мясистая, а не жёсткая и пробковая, со светло-розово-кремовыми трубочками и розовато-жёлтым споровым порошком.",
+      "notes": "Плодовые тела содержат циннабариновую кислоту и родственные феноксазиноновые пигменты, обеспечивающие яркую красно-оранжевую окраску и антибактериальную активность. В биотехнологии гриб широко изучается благодаря своим лакказам и оксидазам, включая биоконверсию феруловой кислоты в натуральный ванилин. Хотя вид широко распространён в Северном полушарии, в ряде регионов Европы он испытывал заметные колебания численности и крайне редок в атлантических областях.",
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA%D0%BD%D0%BE%D0%BF%D0%BE%D1%80%D1%83%D1%81_%D0%BA%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%80%D0%BD%D0%BE-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9"
+      ]
+    },
+    "sk": {
+      "label": "červenica rumelková",
+      "description": "Nápadná, žiarivo oranžovočervená drevokazná konzolovitá huba rastúca jednotlivo alebo v malých strechovito usporiadaných trsoch na slnkom exponovanom odumretom dreve listnáčov naprieč holarktickou oblasťou, od teplých miernych po boreálne pásma Európy, severnej Ázie a Severnej Ameriky, so zriedkavejšími nálezmi v Južnej Amerike a južnej Ázii. Jednoročné plodnice sa objavujú od leta do jesene a spôsobujú bielu hnilobu dreva.",
+      "cap": "2–13 cm široký (ojedinele menší, 1,5–3 cm, na tenkých konároch na suchých horských stanovištiach), od dreva odstáva 4–6 cm a má hrúbku 0,5–2 cm, je polkruhovitý, obličkovitý alebo vejárovitý, široko klenutý až plochý a prirastený bokom bez hlúbika. Suchý vrchný povrch je nerovný, hrboľatý alebo vráskavý, za mladi jemne plstnatý až semišový, vekom hladší alebo mierne lesklý a jamkatý, niekedy nevýrazne sústredne pásovaný pri okraji. Čerstvé plodnice sú žiarivo rumelkovooranžové až šarlátovočervené, po zvetraní blednú do matne oranžovej, ružovkastej alebo vyblednutej belavej farby; okraj je za mladi zaoblený a v dospelosti ostrejší a mierne zvlnený. Hydroxid draselný (KOH) sfarbuje povrch klobúka do purpurova až červena, neskôr do siva až čierna.",
+      "hymenium": "Póry sú okrúhle až hranaté, občas mierne pretiahnuté alebo labyrintické, husté, 2–4 na mm; rúrky sú 2–8 mm hlboké, bledo oranžové až rumelkovočervené a občas zbiehavé na substrát pod plodnicou. Pórovitý povrch je žiarivo rumelkovočervený až jasne oranžovočervený a s KOH sa sfarbuje do olivovozelena. Cystidy chýbajú.",
+      "stipe": "Chýba; sediaca plodnica prirastá bokom alebo zadným okrajom priamo k drevu.",
+      "flesh": "Tuhá, kožovito tvrdá až korkovitá, nevýrazne pásovaná, červenkastá až bledo oranžová, s trimitickým hýfovým systémom. KOH sfarbuje dužinu pomaly do červena až čierna (u starších plodníc do žlta). Vôňa je nevýrazná alebo slabo príjemná a chuť mierna a nevýrazná.",
+      "sporePrint": "Biely. Bazídiospóry sú hladké, valcovité až mierne zakrivené (alantoidné) alebo podlhovasto elipsoidné, v KOH hyalínne, neamyloidné, s rozmermi 4,5–8 × 2–3 µm.",
+      "habitat": "Saprotrofná na odumretom dreve listnatých stromov – najmä buku lesného, brezy, čerešne vtáčej, jarabiny, duba a vŕby – a zriedkavo na ihličnanoch, kde spôsobuje bielu delignifikačnú hnilobu. Výrazne svetlomilný a teplomilný pioniersky rozkladač slnkom exponovaných padnutých kmeňov, klátov a konárov s neporušenou kôrou na rúbaniskách, okrajoch lesov, v presvetlených suchých listnatých lesoch, živých plotoch, sadoch a parkoch, kde často plodí spolu s Trametes hirsuta. Jednoročné (ojedinele dvojročné) čerstvé plodnice sa vyvíjajú najmä od júna do novembra, zatiaľ čo tuhé staršie plodnice bežne vytrvávajú cez zimu až do jari.",
+      "uses": "Nejedlá pre svoju tuhú, korkovitú konzistenciu.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) je prevažne tropický až subtropický príbuzný druh, ktorý tvorí oveľa tenšie plodnice (tenšie než 0,5 cm) s hustejšími pórmi, lesklejším, akoby opáleným vrchným povrchom a často zúženou, hlúbikovitou bázou. Hapalopilus rutilans (Hapalopilus nidulans) tvorí mäkšie, zavalitejšie, matne škoricovooranžové plodnice, ktorých dužina sa s KOH sfarbuje žiarivo fialovopurpurovo. Pycnoporellus fulgens rastie na odumretých ihličnanoch namiesto listnáčov, má chlpatejší oranžovohnedý klobúk a väčšie hranaté až labyrintické póry a zvyčajne sa rozpadáva pred zimou. Fistulina hepatica je mäkká, šťavnatá a mäsitá namiesto tuhej a korkovitej, s bledo ružovokrémovými rúrkami a ružovožltým výtrusným prachom.",
+      "notes": "Plodnice obsahujú kyselinu cinabarínovú a príbuzné fenoxazinónové pigmenty, ktoré podmieňujú žiarivo červenooranžové sfarbenie a majú antibakteriálny účinok. V biotechnológiách sa táto huba široko skúma pre svoje lakázy a oxidázy vrátane biokonverzie kyseliny ferulovej na prírodný vanilín. Hoci je široko rozšírená naprieč severnou pologuľou, v niektorých častiach Európy zaznamenala výrazné výkyvy populácií a v atlantických oblastiach je veľmi zriedkavá.",
+      "sourceUrls": []
+    },
+    "sl": {
+      "label": "cinobrasti drobnoluknjičar",
+      "description": "Izrazita, živo oranžnordeča lesna goba razkrojevalka, ki raste posamično ali v majhnih strešasto razporejenih skupinah na osončenem odmrlem lesu listavcev po vsej Holarktiki, od toplozmernega do borealnega pasu Evrope, severne Azije in Severne Amerike, z redkejšimi najdbami v Južni Ameriki in južni Aziji. Enoletni trosnjaki se pojavljajo od poletja do jeseni in povzročajo belo trohnobo lesa.",
+      "cap": "Širok 2–13 cm (občasno manjši, 1,5–3 cm, na tankih vejah na suhih gorskih rastiščih), štrli 4–6 cm od lesa in je debel 0,5–2 cm; polkrožen, ledvičast ali pahljačast, široko izbočen do raven ter stransko priraščen brez beta. Suha zgornja površina je neravna, grbasta ali nagubana, v mladosti fino polstena do semišasta, s starostjo pa postane bolj gladka ali rahlo sijoča in jamičasta, včasih rahlo koncentrično pasasta ob robu. Sveži trosnjaki so živo cinobrasto oranžni do škrlatno rdeči, ob preperevanju pa zbledijo v motno oranžno, rožnato ali obledelo belkasto barvo; rob je v mladosti zaobljen, v zrelosti pa postane ostrejši in rahlo valovit. Kalijev hidroksid (KOH) obarva površino klobuka škrlatno do rdečkasto, nato sivo do črno.",
+      "hymenium": "Luknjice so okrogle do oglate, občasno rahlo podolgovate ali labirintaste, goste, 2–4 na mm; cevke so globoke 2–8 mm, bledo oranžne do cinobrasto rdeče in se občasno spuščajo po podlagi pod trosnjakom. Površina luknjic je živo cinobrasto rdeča do živo oranžnordeča in se s KOH obarva olivnozeleno. Cistid ni.",
+      "stipe": "Ga ni; sedeči trosnjak je s stranskim ali zadnjim robom priraščen neposredno na les.",
+      "flesh": "Žilavo, usnjato trdo do plutasto, rahlo pasasto, rdečkasto do bledo oranžno, s trimitičnim hifnim sistemom. S KOH se meso počasi obarva rdečkasto do črnkasto (pri starejših primerkih rumenkasto). Vonj je neizrazit ali rahlo prijeten, okus pa blag in neizrazit.",
+      "sporePrint": "Bel. Bazidiospore so gladke, valjaste do rahlo ukrivljene (alantoidne) ali podolgovato elipsoidne, hialine v KOH, neamiloidne, velike 4,5–8 × 2–3 µm.",
+      "habitat": "Saprotrofna na odmrlem lesu listavcev – zlasti navadne bukve, breze, divje češnje, jerebike, hrasta in vrbe – ter redko na iglavcih, kjer povzroča belo delignifikacijsko trohnobo. Izrazito svetloboljubna in toploljubna pionirska razkrojevalka osončenih podrtih debel, hlodov in vej z ohranjeno skorjo na posekah, gozdnih robovih, v svetlih suhih listnatih gozdovih, živih mejah, sadovnjakih in parkih, ki pogosto obrodi skupaj s Trametes hirsuta. Enoletni (občasno dvoletni) sveži trosnjaki se razvijajo predvsem od junija do novembra, medtem ko žilavi starejši trosnjaki pogosto vztrajajo čez zimo vse do pomladi.",
+      "uses": "Neužitna zaradi svoje žilave, plutaste strukture.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) je pretežno tropska do subtropska sorodna vrsta, ki tvori veliko tanjše trosnjake (pod 0,5 cm debeline) z gostejšimi luknjicami, bolj sijočo, na videz osmojeno zgornjo površino in pogosto zoženo, betu podobno osnovo. Hapalopilus rutilans (Hapalopilus nidulans) tvori mehkejše, čokatejše, motno cimetovooranžne trosnjake, katerih meso se s KOH obarva živo vijoličasto škrlatno. Pycnoporellus fulgens raste na odmrlih iglavcih namesto na listavcih, ima bolj dlakav oranžnorjav klobuk in večje oglate do labirintaste luknjice ter običajno propade pred zimo. Fistulina hepatica je mehka, sočna in mesnata namesto žilava in plutasta, z bledo rožnatokremnimi cevkami in rožnatorumenim trosnim prahom.",
+      "notes": "Trosnjaki vsebujejo cinabarinsko kislino in sorodne fenoksazinonske pigmente, ki dajejo živo rdeče-oranžno barvo in zagotavljajo protibakterijsko delovanje. V biotehnologiji gobo obsežno preučujejo zaradi njenih lakaz in oksidaz, vključno z biokonverzijo ferulne kisline v naravni vanilin. Čeprav je široko razširjena po severni polobli, je v nekaterih delih Evrope doživela izrazita nihanja populacij in je zelo redka v atlantskih območjih.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q205101"
+      ]
+    },
+    "sr": {
+      "description": "Упадљива, јарко наранџастоцрвена лигниколна гљива која расте појединачно или у малим црепасто поређаним групама на осунчаном мртвом дрвету лишћара широм Холарктика, од топлоумерене до бореалне зоне Европе, северне Азије и Северне Америке, уз ређе налазе у Јужној Америци и јужној Азији. Једногодишња плодна тела појављују се од лета до јесени и изазивају белу трулеж дрвета.",
+      "cap": "Широк 2–13 cm (повремено мањи, 1,5–3 cm, на танким гранама на сувим планинским стаништима), штрчи 4–6 cm од дрвета и дебео је 0,5–2 cm; полукружан, бубрежаст или лепезаст, широко испупчен до раван, бочно прирастао без дршке. Сува горња површина је неравна, грбава или наборана, у младости фино сомотаста до антилопаста, а временом постаје глађа или благо сјајна и јамичаста, понекад слабо концентрично појасаста уз ивицу. Свежа плодна тела су живо цинобернаранџаста до гримизноцрвена, а услед временских утицаја бледе у загасито наранџасту, ружичасту или избелелу беличасту боју; ивица је у младости заобљена, а у зрелости постаје оштрија и благо таласаста. Калијум-хидроксид (KOH) боји површину шешира љубичастоцрвено до црвенкасто, а затим сиво до црно.",
+      "hymenium": "Поре су округле до угласте, повремено благо издужене или лавиринтасте, густе, 2–4 по mm; цевчице су дубоке 2–8 mm, бледонаранџасте до циноберцрвене, повремено силазе низ подлогу испод плодног тела. Поровна површина је живо циноберцрвена до јарко наранџастоцрвена, а са KOH постаје маслинастозелена. Цистиде недостају.",
+      "stipe": "Недостаје; седеће плодно тело прираста бочном или задњом ивицом директно уз дрво.",
+      "flesh": "Жилаво, кожасто тврдо до плутасто, слабо појасасто, црвенкасто до бледонаранџасто, са тримитичким хифним системом. Са KOH месо полако црвени до црнкастог (или пожути код старијих примерака). Мирис је неизражен или благо пријатан, а укус благ и неизражен.",
+      "sporePrint": "Бео. Базидиоспоре су глатке, цилиндричне до благо савијене (алантоидне) или издужено елипсоидне, хијалине у KOH, неамилоидне, димензија 4,5–8 × 2–3 µm.",
+      "habitat": "Сапротрофна на мртвом дрвету листопадног дрвећа — нарочито европске букве, брезе, дивље трешње, јаребике, храста и врбе — и ретко на четинарима, изазивајући белу делигнификациону трулеж. Изразито светлољубив и топлољубив пионирски разлагач осунчаних палих стабала, трупаца и грана са очуваном кором на сечинама, шумским рубовима, у отвореним сувим листопадним шумама, живицама, воћњацима и парковима, често плодоносећи уз Trametes hirsuta. Једногодишња (повремено двогодишња) свежа плодна тела развијају се углавном од јуна до новембра, док жилава старија плодна тела често опстају током зиме све до пролећа.",
+      "uses": "Нејестива због своје жилаве, плутасте текстуре.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) углавном је тропска до суптропска сродна врста која образује знатно тања плодна тела (тања од 0,5 cm) са гушћим порама, сјајнијом, наизглед опрљеном горњом површином и често суженом, дршколиком основом. Hapalopilus rutilans (Hapalopilus nidulans) образује мекша, здепастија, загасито циметнонаранџаста плодна тела чије месо са KOH постаје живо љубичастопурпурно. Pycnoporellus fulgens расте на мртвим четинарима уместо на лишћарима, има длакавији наранџастосмеђи шешир и веће угласте до лавиринтасте поре и обично се распада пре зиме. Fistulina hepatica је мекана, сочна и месната уместо жилава и плутаста, са бледоружичастокрем цевчицама и ружичастожутим отиском спора.",
+      "notes": "Плодна тела садрже цинабаринску киселину и сродне феноксазинонске пигменте који дају живо црвенонаранџасту боју и пружају антибактеријско дејство. У биотехнологији се гљива опсежно проучава због својих лаказа и оксидаза, укључујући биоконверзију ферулинске киселине у природни ванилин. Иако је широко распрострањена широм северне полулопте, у деловима Европе забележила је изражена колебања популација и веома је ретка у атлантским областима.",
+      "sourceUrls": [
+        "https://sr.wikipedia.org/wiki/Pycnoporus_cinnabarinus"
+      ]
+    },
+    "sv": {
+      "label": "cinnoberticka",
+      "wikipedia": "https://sv.wikipedia.org/wiki/Cinnoberticka",
+      "description": "En iögonfallande, lysande orangeröd, vedlevande ticka som växer enstaka eller i små taktegellagda grupper på solexponerad död lövved i hela det holarktiska området, från varmtempererade till boreala zoner i Europa, norra Asien och Nordamerika, med sällsyntare fynd i Sydamerika och södra Asien. De ettåriga fruktkropparna uppträder från sommar till höst och orsakar vitröta.",
+      "cap": "2–13 cm bred (ibland mindre, 1,5–3 cm, på tunna grenar i torra bergsmiljöer), utskjutande 4–6 cm från veden och 0,5–2 cm tjock, halvcirkelformad, njurformad eller solfjädersformad, brett välvd till plan och fäst vid sidan utan fot. Den torra ovansidan är ojämn, knölig eller rynkig, fint fjunig till mockaliknande som ung och blir slätare eller svagt glänsande och smågropig med åldern, ibland svagt koncentriskt zonerad nära kanten. Färska fruktkroppar är lysande cinnoberorange till scharlakansröda och bleknar vid vittring mot matt orange, rosa eller blekt vitaktigt; kanten är rundad som ung och blir skarpare och svagt vågig vid mognad. Kaliumhydroxid (KOH) färgar hattens ovansida purpurröd till rödaktig och därefter grå till svart.",
+      "hymenium": "Porerna är runda till kantiga, ibland svagt utdragna eller labyrintiska, tätt sittande med 2–4 per mm; rören är 2–8 mm djupa, blekt orange till cinnoberröda och ibland nedlöpande på substratet under fruktkroppen. Porytan är lysande cinnoberröd till starkt orangeröd och färgas olivgrön av KOH. Cystider saknas.",
+      "stipe": "Saknas; den oskaftade fruktkroppen är fäst direkt med sin sida eller bakkant mot veden.",
+      "flesh": "Segt, läderartat hårt till korkartat, svagt zonerat, rödaktigt till blekt orange, med trimitiskt hyfsystem. KOH färgar köttet långsamt rödaktigt till svartaktigt (eller gulaktigt hos äldre exemplar). Lukten är obetydlig eller svagt angenäm och smaken är mild och obetydlig.",
+      "sporePrint": "Vitt. Basidiesporerna är släta, cylindriska till svagt böjda (allantoida) eller långsträckt elliptiska, hyalina i KOH, inamyloida och mäter 4,5–8 × 2–3 µm.",
+      "habitat": "Saprotrof på död ved av lövträd – särskilt bok, björk, fågelbär, rönn, ek och viden – och sällan på barrträd, där den orsakar delignifierande vitröta. En starkt ljus- och värmeälskande pionjärnedbrytare av solexponerade lågor, stockar och grenar med kvarsittande bark i gläntor, skogsbryn, öppna torra lövskogar, häckar, fruktträdgårdar och parker, där den ofta bildar fruktkroppar tillsammans med Trametes hirsuta. Ettåriga (ibland tvååriga) färska fruktkroppar utvecklas främst från juni till november, medan sega äldre fruktkroppar vanligen sitter kvar över vintern och in på våren.",
+      "uses": "Oätlig på grund av sin sega, korkartade konsistens.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) är en huvudsakligen tropisk till subtropisk släkting som bildar mycket tunnare fruktkroppar (under 0,5 cm tjocka) med tätare porer, en blankare, närmast svedd ovansida och ofta en avsmalnande, fotliknande bas. Hapalopilus rutilans (Hapalopilus nidulans) bildar mjukare, mer kompakta, matt kanelorange fruktkroppar vars kött färgas starkt violettpurpur av KOH. Pycnoporellus fulgens växer på död barrved i stället för lövved, har en hårigare orangebrun hatt och större kantiga till labyrintiska porer samt bryts vanligen ned före vintern. Fistulina hepatica är mjuk, saftig och köttig snarare än seg och korkartad, med blekt rosagräddfärgade rör och ett rosagult sporavtryck.",
+      "notes": "Fruktkropparna innehåller cinnabarinsyra och besläktade fenoxazinonpigment som ger den intensiva rödorange färgen och har antibakteriell verkan. Inom bioteknik studeras svampen i stor utsträckning för sina lakkaser och oxidaser, bland annat för biokonvertering av ferulasyra till naturligt vanillin. Även om den är vidsträckt på norra halvklotet har den genomgått kraftiga populationssvängningar i delar av Europa och är mycket sällsynt i atlantiska regioner.",
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Cinnoberticka"
+      ]
+    },
+    "tr": {
+      "description": "Avrupa, Kuzey Asya ve Kuzey Amerika’nın sıcak-ılıman kuşaklarından boreal kuşaklarına kadar tüm Holarktik bölgede — Güney Amerika ve Güney Asya’da daha nadir kayıtlarla — güneş alan ölü geniş yapraklı ağaç odunları üzerinde tek tek ya da küçük, üst üste binen katmanlar hâlinde büyüyen, çarpıcı parlak turuncu-kırmızı renkte odun çürüten bir raf mantarıdır. Tek yıllık meyve gövdeleri yazdan sonbahara kadar ortaya çıkar ve beyaz çürüklüğe neden olur.",
+      "cap": "2–13 cm genişliğinde (kuru dağlık yaşam alanlarındaki ince dallar üzerinde bazen daha küçük, 1,5–3 cm), odundan 4–6 cm dışarı uzanan ve 0,5–2 cm kalınlığında, yarım daire, böbrek veya yelpaze biçiminde, genişçe dışbükeyden düze uzanan ve sapsız olarak yandan tutunan bir şapkaya sahiptir. Kuru üst yüzeyi düzensiz, tümsekli veya kırışıktır; gençken ince tüylü ya da süet benzeri olup yaşlandıkça daha pürüzsüz ya da hafif parlak ve çukurlu hâle gelir, kenara yakın kısımda bazen belirsiz eşmerkezli kuşaklar gösterir. Taze meyve gövdeleri canlı zinober turuncusundan al kırmızıya uzanır; hava koşullarıyla soluk turuncuya, pembemsiye veya ağarmış beyazımsıya döner. Kenarı gençken yuvarlaktır, olgunlukta daha keskin ve hafif dalgalı olur. Potasyum hidroksit (KOH) şapka yüzeyini morumsudan kırmızımsıya, ardından griden siyaha dönüştürür.",
+      "hymenium": "Gözenekler yuvarlak ile köşeli arası, bazen hafifçe uzamış veya labirent biçiminde ve milimetrede 2–4 adet olmak üzere sıktır; borucuklar 2–8 mm derinliğinde, soluk turuncudan zinober kırmızısına uzanır ve zaman zaman rafın altında substrat boyunca aşağı uzanır. Gözenek yüzeyi canlı zinober kırmızısından parlak turuncu-kırmızıya değişir ve KOH ile zeytin yeşiline döner. Sistit yoktur.",
+      "stipe": "Yoktur; sapsız meyve gövdesi yan veya arka kenarıyla doğrudan oduna tutunur.",
+      "flesh": "Etli kısım sert, derimsi-sert ile mantarımsı arası, belirsiz kuşaklı, kırmızımsıdan soluk turuncuya uzanır ve trimitik hif sistemine sahiptir. KOH etli kısmı yavaşça kırmızımsıdan siyahımsıya (yaşlı örneklerde sarımsıya) çevirir. Koku belirsiz veya hafif hoş, tat yumuşak ve belirsizdir.",
+      "sporePrint": "Beyazdır. Bazidiyosporlar pürüzsüz, silindirikten hafif eğriye (allantoid) veya uzun eliptik biçimde, KOH içinde saydam, inamiloid olup 4,5–8 × 2–3 µm boyutlarındadır.",
+      "habitat": "Başta Avrupa kayını, huş, yabani kiraz, üvez, meşe ve söğüt olmak üzere geniş yapraklı ağaçların ölü odunları üzerinde, nadiren de ibrelilerde saprotrof olarak yaşar ve lignini parçalayan beyaz çürüklüğe yol açar. Açıklıklarda, orman kenarlarında, seyrek ve kuru yapraklı ormanlarda, çitlerde, meyve bahçelerinde ve parklarda güneş gören, kabuğu sağlam devrik gövdeler, kütükler ve dallar üzerinde güçlü biçimde ışık ve sıcaklık seven öncü bir ayrıştırıcıdır; sıklıkla Trametes hirsuta ile birlikte meyve verir. Tek yıllık (bazen iki yıllık) taze meyve gövdeleri başlıca hazirandan kasıma kadar gelişir, sert yaşlı meyve gövdeleri ise çoğu kez kış boyunca ilkbahara dek dayanır.",
+      "uses": "Sert, mantarımsı dokusu nedeniyle yenmez.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus), başlıca tropikal ve subtropikal bölgelerde yaşayan yakın bir akrabadır; çok daha ince (0,5 cm’den ince) meyve gövdeleri, daha sık gözenekleri, daha parlak ve yanık görünümlü üst yüzeyi ve çoğu kez sapımsı biçimde daralmış tabanıyla ayrılır. Hapalopilus rutilans (Hapalopilus nidulans), daha yumuşak, daha tıknaz ve mat tarçın-turuncu meyve gövdeleri oluşturur; etli kısmı KOH ile canlı mor-menekşe rengine döner. Pycnoporellus fulgens, geniş yapraklılar yerine ölü ibreliler üzerinde büyür, daha tüylü turuncu-kahverengi bir şapkaya ve daha iri köşeli–labirentimsi gözeneklere sahiptir, genellikle kıştan önce dağılır. Fistulina hepatica ise sert ve mantarımsı değil yumuşak, sulu ve etlidir; borucukları soluk pembemsi krem, spor izi pembemsi sarıdır.",
+      "notes": "Meyve gövdeleri, canlı kırmızı-turuncu rengi veren ve antibakteriyel etkinlik sağlayan sinabarinik asit ile ilişkili fenoksazinon pigmentleri içerir. Biyoteknolojide bu mantar, ferulik asidin doğal vaniline biyodönüşümü de dâhil olmak üzere lakkazları ve oksidazları nedeniyle yaygın biçimde araştırılır. Kuzey Yarımküre genelinde yaygın olmasına karşın Avrupa’nın bazı bölgelerinde belirgin popülasyon dalgalanmaları yaşamıştır ve Atlantik bölgelerinde çok nadirdir.",
+      "sourceUrls": []
+    },
+    "uk": {
+      "label": "пікнопор кіноварно-червоний",
+      "description": "Ефектний яскраво-помаранчево-червоний дереворуйнівний трутовий гриб, що росте поодиноко або невеликими черепичастими групами на освітленій сонцем мертвій деревині листяних порід по всій Голарктиці — від тепло-помірної до бореальної зони Європи, північної Азії та Північної Америки, з рідкіснішими знахідками в Південній Америці та південній Азії. Однорічні плодові тіла з'являються з літа до осені й спричиняють білу гниль деревини.",
+      "cap": "Завширшки 2–13 см (зрідка менша, 1,5–3 см, на тонких гілках у сухих гірських місцезростаннях), виступає від деревини на 4–6 см і має товщину 0,5–2 см; півкругла, ниркоподібна або віялоподібна, широкоопукла до плоскої, прикріплена боком без ніжки. Суха верхня поверхня нерівна, горбкувата або зморшкувата, замолоду тонкоопушена до замшевої, з віком стає гладшою або злегка блискучою та ямчастою, іноді зі слабкою концентричною зональністю біля краю. Свіжі плодові тіла яскраво-кіноварно-помаранчеві до яскраво-червоних, після вивітрювання вицвітають до тьмяно-помаранчевих, рожевуватих або вибілених білуватих; край замолоду закруглений, у зрілості стає гострішим і злегка хвилястим. Гідроксид калію (KOH) забарвлює поверхню шапинки у пурпуровий до червонуватого, а згодом у сірий до чорного.",
+      "hymenium": "Пори округлі до кутастих, іноді злегка видовжені або лабіринтоподібні, щільні, 2–4 на мм; трубочки завглибшки 2–8 мм, блідо-помаранчеві до кіноварно-червоних, іноді збігають на субстрат під плодовим тілом. Порова поверхня яскраво-кіноварно-червона до яскраво-помаранчево-червоної, від KOH стає оливково-зеленою. Цистиди відсутні.",
+      "stipe": "Відсутня; сидяче плодове тіло приростає боком або заднім краєм безпосередньо до деревини.",
+      "flesh": "Жорстка, шкірясто-тверда до коркуватої, слабозональна, червонувата до блідо-помаранчевої, з тримітичною гіфальною системою. Від KOH м'якуш повільно червоніє до чорнуватого (у старіших екземплярів жовтіє). Запах невиразний або слабко приємний, смак м'який і невиразний.",
+      "sporePrint": "Білий. Базидіоспори гладенькі, циліндричні до злегка зігнутих (алантоїдних) або видовжено-еліпсоїдних, гіалінові в KOH, неамілоїдні, розміром 4,5–8 × 2–3 мкм.",
+      "habitat": "Сапротрофний на мертвій деревині листяних дерев — особливо бука лісового, берези, черешні, горобини, дуба та верби — і рідко на хвойних, спричиняє білу делігніфікаційну гниль. Виразно світло- та теплолюбний піонерний розкладач освітлених сонцем повалених стовбурів, колод і гілок із непошкодженою корою на зрубах, узліссях, у світлих сухих листяних лісах, живоплотах, садах і парках, нерідко плодоносить поруч із Trametes hirsuta. Однорічні (зрідка дворічні) свіжі плодові тіла розвиваються переважно з червня по листопад, тоді як жорсткі старі плодові тіла часто зберігаються взимку й до весни.",
+      "uses": "Неїстівний через жорстку, коркувату консистенцію.",
+      "confusion": "Trametes sanguinea (Pycnoporus sanguineus) — переважно тропічний і субтропічний споріднений вид, що утворює значно тонші плодові тіла (тонші за 0,5 см) із щільнішими порами, блискучішою, ніби припаленою верхньою поверхнею та часто звуженою ніжкоподібною основою. Hapalopilus rutilans (Hapalopilus nidulans) утворює м'якші, масивніші, тьмяно-корично-помаранчеві плодові тіла, м'якуш яких від KOH набуває яскравого фіолетово-пурпурового забарвлення. Pycnoporellus fulgens росте на мертвих хвойних породах замість листяних, має більш волохату помаранчево-коричневу шапинку та більші кутасті до лабіринтоподібних пори і зазвичай руйнується до зими. Fistulina hepatica м'яка, соковита й м'ясиста, а не жорстка й коркувата, зі світло-рожево-кремовими трубочками та рожевувато-жовтим споровим порошком.",
+      "notes": "Плодові тіла містять цинабаринову кислоту та споріднені феноксазинонові пігменти, які надають яскравого червоно-помаранчевого забарвлення і забезпечують антибактеріальну активність. У біотехнології гриб широко досліджують завдяки його лаказам і оксидазам, зокрема для біоконверсії ферулової кислоти у натуральний ванілін. Хоча вид широко поширений у Північній півкулі, у частині Європи він зазнавав помітних коливань чисельності й є дуже рідкісним в атлантичних регіонах.",
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%BA%D0%BD%D0%BE%D0%BF%D0%BE%D1%80_%D0%BA%D1%96%D0%BD%D0%BE%D0%B2%D0%B0%D1%80%D0%BD%D0%BE-%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9"
+      ]
+    },
+    "zh": {
+      "label": "朱紅密孔菌",
+      "names": [
+        "鮮紅密孔菌"
+      ],
+      "description": "一種醒目、呈鮮亮橙紅色的木材腐朽棚狀真菌，單生或成小疊瓦狀覆疊生長於全北區陽光直射的枯死闊葉樹木材上，分布自歐洲、北亞與北美洲的暖溫帶至北方帶，在南美洲與南亞亦有較罕見的紀錄。一年生子實體於夏季至秋季出現，並引起白色腐朽。",
+      "cap": "菌蓋寬2–13 cm（在乾燥山區棲地的細枝上偶爾較小，僅1.5–3 cm），自基質伸出4–6 cm，厚0.5–2 cm，呈半圓形、腎形或扇形，寬凸至平展，無菌柄且側生附著。乾燥的上表面凹凸不平、具瘤突或皺紋，幼時具細絨毛至麂皮狀，隨齡變得較平滑或微具光澤且呈凹點狀，近邊緣處有時具不明顯的同心環紋。新鮮子實體呈鮮豔的朱橙色至猩紅色，經風化後褪為暗橙色、粉紅色或漂白般的近白色；邊緣幼時圓鈍，成熟時變銳且微呈波狀。氫氧化鉀（KOH）會使菌蓋表面轉為紫紅色至帶紅調，隨後變為灰色至黑色。",
+      "hymenium": "菌管孔口呈圓形至角形，偶爾略為拉長或呈迷宮狀，排列緻密，每mm約2–4個；菌管深2–8 mm，呈淡橙色至朱紅色，偶爾向下延生於菌體下方的基質上。孔口面呈鮮豔朱紅色至亮橙紅色，遇KOH轉為橄欖綠色。無囊狀體。",
+      "stipe": "無菌柄；無柄的棚狀子實體以其側緣或後緣直接附著於木材上。",
+      "flesh": "菌肉堅韌，呈革質堅硬至軟木質，具微弱環紋，帶紅調至淡橙色，具三菌絲型菌絲系統。KOH會使菌肉緩慢轉為帶紅調至黑褐色（較老標本中則可轉為淡黃色）。氣味不明顯或略帶清香，味道溫和且無特殊風味。",
+      "sporePrint": "白色。擔孢子平滑，圓柱形至微彎曲（臘腸形）或長橢圓形，在KOH中透明無色，非澱粉質，大小為4.5–8 × 2–3 µm。",
+      "habitat": "腐生於闊葉樹枯木上——特別是歐洲山毛櫸、樺樹、歐洲甜櫻桃、花楸、櫟樹與柳樹——罕見於針葉樹，造成分解木質素的白色腐朽。為高度喜光與喜溫的先鋒分解者，生長於林間空地、林緣、開闊乾燥闊葉林、樹籬、果園與公園中樹皮完整且受日照的倒木、原木與枯枝上，常與Trametes hirsuta伴生出菇。一年生（偶爾二年生）新鮮子實體主要於6月至11月間發育，而堅韌的老子實體常可越冬並持續留存至春季。",
+      "uses": "因質地堅韌如軟木而不可食。",
+      "confusion": "Trametes sanguinea（Pycnoporus sanguineus）為主要分布於熱帶至亞熱帶的近緣種，子實體薄得多（厚度不足0.5 cm），孔口更緻密，上表面較有光澤，且基部常收縮呈柄狀。Hapalopilus rutilans（Hapalopilus nidulans）形成較柔軟、厚實、呈暗肉桂橙色的子實體，其菌肉遇KOH會轉為鮮豔的紫羅蘭紫色。Pycnoporellus fulgens生長於枯死針葉樹而非闊葉樹，菌蓋橙褐色且毛被較明顯，孔口較大且呈角形至迷宮狀，通常在冬季前即崩解。Fistulina hepatica質地柔軟、多汁且肉質，而非堅韌軟木質，具淡粉奶油色菌管與粉黃色孢子印。",
+      "notes": "子實體含有朱紅菌酸及相關的啡噁嗪酮色素，賦予其鮮豔的紅橙色澤並具抗菌活性。在生物技術領域，該真菌因其漆酶與氧化酶而受到廣泛研究，包括將阿魏酸生物轉化為天然香草醛。儘管廣泛分布於北半球，其在歐洲部分地區經歷了明顯的族群波動，且在大西洋沿岸地區極為罕見。",
+      "sourceUrls": [
+        "https://taicol.tw/taxon/t0043579",
+        "https://www.wikidata.org/wiki/Q205101"
+      ]
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Boletus cinnabarinus",
+      "author": "Jacq.",
+      "year": 1776,
+      "rank": "species",
+      "type": "basionym",
+      "if": 210619
+    },
+    {
+      "name": "Polyporus cinnabarinus",
+      "author": "(Jacq.) Fr.",
+      "year": 1821,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Hapalopilus cinnabarinus",
+      "author": "(Jacq.) P. Karst.",
+      "year": 1881,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Pycnoporus cinnabarinus",
+      "author": "(Jacq.) P. Karst.",
+      "year": 1881,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 120171
+    },
+    {
+      "name": "Polystictus cinnabarinus",
+      "author": "(Jacq.) Cooke",
+      "year": 1886,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Leptoporus cinnabarinus",
+      "author": "(Jacq.) Quél.",
+      "year": 1886,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Phellinus cinnabarinus",
+      "author": "(Jacq.) Quél.",
+      "year": 1888,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Coriolus cinnabarinus",
+      "author": "(Jacq.) G. Cunn.",
+      "year": 1948,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Fabisporus cinnabarinus",
+      "author": "(Jacq.) Zmitr.",
+      "year": 2001,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Boletus miniatus",
+      "author": "Libosch.",
+      "year": 1817,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Polyporus miniatus",
+      "author": "(Libosch.) Fr.",
+      "year": 1829,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Polyporus cristula",
+      "author": "Klotzsch ex Berk.",
+      "year": 1839,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Polystictus cinnabarinus subsp. cristula",
+      "author": "(Klotzsch ex Berk.) Sacc.",
+      "year": 1888,
+      "rank": "subspecies",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Pycnoporus cinnabarinus var. osorninus",
+      "author": "Burgos",
+      "year": 1988,
+      "rank": "variety",
+      "type": "heterotypic"
+    }
+  ],
+  "reserved": false,
+  "id": 245,
+  "citation": "Summa veg. Scand., Sectio Post. (Stockholm): 323 (1849)"
 }
 ];
