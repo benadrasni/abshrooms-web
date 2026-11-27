@@ -247275,5 +247275,1975 @@ export const CATALOG = [
   "reserved": false,
   "id": 245,
   "citation": "Summa veg. Scand., Sectio Post. (Stockholm): 323 (1849)"
+},
+{
+  "name": "Stereum hirsutum",
+  "author": "(Willd.) Pers.",
+  "family": "Stereaceae",
+  "genus": "Stereum",
+  "order": "Russulales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Incertae sedis",
+    "Russulales",
+    "Stereaceae",
+    "Stereum"
+  ],
+  "summary": [
+    "Russulales",
+    "Stereaceae",
+    "Stereum"
+  ],
+  "edibility": "inedible",
+  "hymenium": "smooth",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "yellow",
+    "brown"
+  ],
+  "capFrom": 1.0,
+  "capTo": 8.0,
+  "stipeHeightFrom": null,
+  "stipeHeightTo": null,
+  "stipeThickFrom": null,
+  "stipeThickTo": null,
+  "fruitingFrom": 1,
+  "fruitingTo": 12,
+  "label": {
+    "en": "hairy curtain crust",
+    "ar": "دندم شائك",
+    "bg": "жълта кожеста гъба",
+    "cs": "pevník chlupatý",
+    "da": "håret lædersvamp",
+    "de": "Striegeliger Schichtpilz",
+    "et": "karvane nahkis",
+    "fi": "karvanahakka",
+    "fr": "stérée hirsute",
+    "hu": "borostás réteggomba",
+    "ja": "キウロコタケ",
+    "lt": "gauruotoji plutpintė",
+    "lv": "sarainā sīkpiepe",
+    "nl": "Gele korstzwam",
+    "no": "ragglærsopp",
+    "pl": "skórnik szorstki",
+    "sk": "pevník chlpatý",
+    "sl": "dlakava slojevka",
+    "sr": "чупава поличица",
+    "sv": "raggskinn",
+    "uk": "стереум жорстковолосистий",
+    "zh": "毛韌革菌"
+  },
+  "names": {
+    "en": [
+      "false turkey tail",
+      "hairy stereum"
+    ],
+    "bg": [
+      "жълтеникав стереум"
+    ],
+    "de": [
+      "Zottiger Schichtpilz"
+    ],
+    "zh": [
+      "粗毛韌革菌"
+    ]
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=189826",
+        "detail": "189826"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum",
+        "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=189826",
+        "detail": "189826"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2553128",
+        "detail": "2553128"
+      },
+      {
+        "group": "name",
+        "name": "Wikispecies",
+        "href": "https://species.wikimedia.org/wiki/Stereum_hirsutum"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q557377"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Stereum_hirsutum"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/stereum-hirsutum.php"
+      },
+      {
+        "group": "text",
+        "name": "MushroomExpert",
+        "href": "https://www.mushroomexpert.com/stereum_hirsutum.html"
+      },
+      {
+        "group": "text",
+        "name": "Myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Stereum-hirsutum/"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Striegeliger_Schichtpilz",
+        "detail": "de"
+      }
+    ]
+  },
+  "added": "2026-11-27",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Stereaceae/Stereum_hirsutum/Stereum_hirsutum@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Stereaceae/Stereum_hirsutum/Stereum_hirsutum@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "license": "All rights reserved",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Stereaceae/Stereum_hirsutum/Stereum_hirsutum@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Stereaceae/Stereum_hirsutum/Stereum_hirsutum_1.webp",
+      "author": "Andreas Kunze",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2008-03-15_Stereum_hirsutum_1.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Stereaceae/Stereum_hirsutum/Stereum_hirsutum_2.webp",
+      "author": "zaca (Mushroom Observer)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2014-01-18_Stereum_hirsutum_(Willd.)_Pers_399536.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Stereaceae/Stereum_hirsutum/Stereum_hirsutum_3.webp",
+      "author": "zaca (Mushroom Observer)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2014-01-18_Stereum_hirsutum_(Willd.)_Pers_399537.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Stereaceae/Stereum_hirsutum/Stereum_hirsutum_4.webp",
+      "author": "Björn S...",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:False_Turkey_Tail_-_Stereum_hirsutum_(25545853864).jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Stereaceae/Stereum_hirsutum/Stereum_hirsutum_5.webp",
+      "author": "Norbert Nagel",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:False_turkey-tail_-_Stereum_hirsutum_-_02.jpg"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Russulales/Stereaceae/Stereum_hirsutum/Stereum_hirsutum@1600.webp",
+      "author": "Gemini",
+      "license": "All rights reserved",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Stereaceae/Stereum_hirsutum/Stereum_hirsutum@1600.webp"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Russulales/Stereaceae/Stereum_hirsutum/Stereum_hirsutum_1.webp",
+      "author": "Andreas Kunze",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2008-03-15_Stereum_hirsutum_1.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Russulales/Stereaceae/Stereum_hirsutum/Stereum_hirsutum_2.webp",
+      "author": "zaca (Mushroom Observer)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014-01-18_Stereum_hirsutum_(Willd.)_Pers_399536.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Russulales/Stereaceae/Stereum_hirsutum/Stereum_hirsutum_3.webp",
+      "author": "zaca (Mushroom Observer)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014-01-18_Stereum_hirsutum_(Willd.)_Pers_399537.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Russulales/Stereaceae/Stereum_hirsutum/Stereum_hirsutum_4.webp",
+      "author": "Björn S...",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:False_Turkey_Tail_-_Stereum_hirsutum_(25545853864).jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Russulales/Stereaceae/Stereum_hirsutum/Stereum_hirsutum_5.webp",
+      "author": "Norbert Nagel",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:False_turkey-tail_-_Stereum_hirsutum_-_02.jpg"
+    }
+  ],
+  "text": {
+    "en": {
+      "label": "hairy curtain crust",
+      "names": [
+        "false turkey tail",
+        "hairy stereum"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Stereum_hirsutum",
+      "description": "A widespread, leathery wood-decaying crust and bracket fungus growing in dense, overlapping tiers on dead hardwood and occasionally conifer timber across Europe, North America, Asia, Africa, Australia, and New Zealand. Primarily saprotrophic and occasionally weakly parasitic, it causes a white rot and fruits year-round.",
+      "cap": "1–8 cm across (often fused laterally into wavy rows up to 10 cm long), projecting 1–3 cm from the wood and 0.5–1.5 mm thick (occasionally to 2 mm), semicircular, fan-shaped, or irregular with a resupinate base, or forming entirely flat crusts on vertical and cut wood surfaces. The upper surface is distinctly hairy to bristly when young and fresh, becoming smoother or nearly bald with age, and is concentrically zoned in bright yellow, ochre, orange-yellow, tan, or reddish-brown with a paler, wavy, ruffled or lobed margin. Older fruit bodies in humid sites often take on a greenish tint from algae, while dry brackets fade toward grey-brown. Potassium hydroxide (KOH) turns all surfaces red, then black.",
+      "hymenium": "Smooth to slightly uneven or faintly wrinkled, lacking pores, gills, or teeth; bright yellow, yellow-orange, or ochre-buff when fresh, fading to pale greyish-brown with age or in dry weather. Overwintered brackets that resume growth often look two-toned, with a grey older zone and a bright ochre-yellow fresh margin. Fresh undersides do not bleed red fluid when cut or bruised (though young warm-climate forms may occasionally redden slightly). Hyphidia have rounded to subacute tips without spiny projections (acanthohyphidia absent); abundant thick-walled pseudocystidia (7–10 µm wide, over 100 µm long, with thin-walled tips and oily apical contents) and slightly projecting acutocystidia (20–30 × 2–4 µm) are present. Basidia are narrowly club-shaped, 25–60 × 3–5 µm, four-spored.",
+      "stipe": "Absent; the sessile, effused-reflexed brackets attach broadly to the wood along their rear margin or via a resupinate base.",
+      "flesh": "Thin (0.5–1.5 mm), tough, pliant, and leathery, whitish, with a monomitic hyphal system and a distinct thin dark brown cortical line visible in cross-section directly beneath the upper hairy layer. Unchanged in colour when cut. Odour indistinct; taste mild and indistinct.",
+      "sporePrint": "White (often difficult to obtain). Basidiospores are smooth, thin-walled, hyaline, cylindrical to narrowly ellipsoid, amyloid, and measure 5–8 × 2–3.5 µm (occasionally up to 11 × 4 µm).",
+      "habitat": "Saprotrophic and occasionally weakly parasitic on relatively fresh dead wood of broadleaved trees—especially oak and European beech, as well as hornbeam, birch, alder, willow, and fruit trees—and much less commonly on conifers such as spruce and pine. Fruits on fallen branches, logs, stumps, standing dead wood, and stacked or weathered timber, causing a white rot primarily in sapwood. Fruit bodies occur throughout the year from January to December, with active spore production peaking in wet autumn and winter weather; annual brackets commonly persist through winter and may resume growth the following season.",
+      "uses": "Inedible due to its thin, tough, leathery texture.",
+      "confusion": "Trametes versicolor has a finely pored rather than smooth underside and typically displays cooler grey, brown, or bluish concentric bands. Stereum subtomentosum forms larger brackets (3–10 cm wide) with a finely velvety rather than bristly upper surface, a narrower, pinched or slightly stalked base, and a fresh underside that bruises yellow when rubbed. Stereum gausapatum and Stereum sanguinolentum both bleed red fluid when their fresh undersides are scratched or cut, and Stereum sanguinolentum grows primarily on conifers. Stereum ostrea forms larger, thinner, broader fans with less bristly upper surfaces. Stereum rameale is much smaller (about 1 cm wide, projecting 5 mm) and lacks the dark cortical line beneath the upper hairy layer in cross-section. Chondrostereum purpureum has a distinctly purplish to violaceous smooth underside.",
+      "notes": "Fruit bodies are frequently parasitized by tremelloid jelly fungi such as Naematelia aurantia and Phaeotremella frondosa, which draw nutrients from its hyphae via haustoria. In viticulture, it acts as a secondary wood-decay pathogen in esca disease of grapevines following primary infection by Fomitiporia mediterranea, and it can also infect living fruit trees such as peach. The sesquiterpenoid hirsutic acid C, first isolated from this species in 1966, shows antibacterial and antineoplastic activity, and its white-rot enzyme system is studied for degrading pesticides.",
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=189826",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=189826",
+        "https://www.gbif.org/species/2553128",
+        "https://species.wikimedia.org/wiki/Stereum_hirsutum",
+        "https://www.wikidata.org/wiki/Q557377",
+        "https://en.wikipedia.org/wiki/Stereum_hirsutum",
+        "https://www.first-nature.com/fungi/stereum-hirsutum.php",
+        "https://www.mushroomexpert.com/stereum_hirsutum.html",
+        "https://www.myko.cz/myko-atlas/Stereum-hirsutum/",
+        "https://de.wikipedia.org/wiki/Striegeliger_Schichtpilz"
+      ]
+    },
+    "ar": {
+      "label": "دندم شائك",
+      "wikipedia": "https://ar.wikipedia.org/wiki/دندم_شائك",
+      "description": "فطر قشري ورفي جلدي واسع الانتشار ومحلل للخشب، ينمو في طبقات كثيفة متراكبة على أخشاب الأشجار عريضة الأوراق الميتة وأحياناً على أخشاب الصنوبريات في أوروبا وأمريكا الشمالية وآسيا وأفريقيا وأستراليا ونيوزيلندا. وهو رمّي في المقام الأول وضعيف التطفل أحياناً، ويسبب عفن الخشب الأبيض ويثمر على مدار العام.",
+      "cap": "بعرض ١–٨ سم (غالباً ما تلتحم القبعة جانبياً لتشكل صفوفاً متموجة يصل طولها إلى ١٠ سم)، وتبرز بمقدار ١–٣ سم عن الخشب وبسماكة ٠٫٥–١٫٥ مم (وأحياناً حتى ٢ مم)، وهي نصف دائرية أو مروحية الشكل أو غير منتظمة ذات قاعدة منبسطة ملتصقة، أو تكون قشوراً مسطحة تماماً على الأسطح الخشبية العمودية والمقطوعة. السطح العلوي مشعر بوضوح إلى هلبي خشن عندما يكون فتياً وطازجاً، ثم يصبح أكثر نعومة أو شبه أملس مع التقدم في العمر، ومخطط بحلقات متحدة المركز بألوان أصفر فاقع أو مغري أو أصفر برتقالي أو أسمر فاتح أو بني محمر، مع حافة أفتح لوناً ومتموجة أو مجعدة أو مفصصة. غالباً ما تكتسب الأجسام الثمرية المسنة في المواقع الرطبة مسحة خضراء بسبب الطحالب، بينما تبهت الرفوف الجافة نحو البني الرمادي. يحول هيدروكسيد البوتاسيوم (KOH) جميع الأسطح إلى اللون الأحمر ثم الأسود.",
+      "hymenium": "سطح أملس إلى غير مستوٍ قليلاً أو متجعد بشكل خفيف، يخلو من المسام والصفائح والأشواك؛ لونه أصفر فاقع أو أصفر برتقالي أو مغري مصفر عندما يكون طازجاً، ويبهت إلى بني رمادي شاحب مع التقدم في العمر أو في الطقس الجاف. غالباً ما تبدو الرفوف التي اجتازت الشتاء واستأنفت نموها ثنائية اللون، بمنطقة قديمة رمادية وحافة طازجة صفراء مغرية زاهية. لا تفرز الأسطح السفلية الطازجة سائلاً أحمر عند قطعها أو خدشها (مع أن الأشكال الفتية في المناخات الدافئة قد تحمر قليلاً أحياناً). الهيفيدات ذات أطراف مستديرة إلى شبه حادة دون نتوءات شوكية (تغيب الهيفيدات الشوكية)؛ وتوجد بوفرة كيسيدات كاذبة سميكة الجدران (بعرض ٧–١٠ ميكرومتر، وطول يزيد على ١٠٠ ميكرومتر، ذات أطراف رقيقة الجدران ومحتوى قمي زيتي) وكيسيدات حادة بارزة قليلاً (٢٠–٣٠ × ٢–٤ ميكرومتر). البازيدات ضيقة هراوية الشكل، أبعادها ٢٥–٦٠ × ٣–٥ ميكرومتر، رباعية الأبواغ.",
+      "stipe": "الساق غائبة؛ تلتصق الرفوف الجالسة المنبسطة المنثنية بالخشب على نحو عريض على طول حافتها الخلفية أو عبر قاعدة منبسطة ملتصقة.",
+      "flesh": "اللحم رقيق (٠٫٥–١٫٥ مم)، قاسٍ، مرن وجلدي، مائل إلى البياض، ذو نظام خيطي أحادي الخيوط، ويظهر في المقطع العرضي خط قشري رقيق بني داكن واضح مباشرة تحت الطبقة العلوية المشعرة. لا يتغير لونه عند القطع. الرائحة غير مميزة؛ والطعم خفيف وغير مميز.",
+      "sporePrint": "بيضاء (غالباً ما يصعب الحصول عليها). الأبواغ البازيدية ملساء، رقيقة الجدران، شفافة، أسطوانية إلى إهليلجية ضيقة، نشوية التفاعل، وتبلغ أبعادها ٥–٨ × ٢–٣٫٥ ميكرومتر (وأحياناً حتى ١١ × ٤ ميكرومتر).",
+      "habitat": "رمّي وأحياناً ضعيف التطفل على الأخشاب الميتة الطازجة نسبياً للأشجار عريضة الأوراق — لا سيما البلوط والزان الأوروبي، وكذلك الشرد والبتولا والنغت والصفصاف وأشجار الفاكهة — وبدرجة أقل بكثير على الصنوبريات مثل التنوب والصنوبر. يثمر على الأغصان المتساقطة والجذوع والأرومات والأخشاب الميتة القائمة والأخشاب المكدسة أو المتأثرة بالعوامل الجوية، مسبباً عفناً أبيض أساساً في الخشب العصاري. تظهر الأجسام الثمرية طوال العام من يناير إلى ديسمبر، مع بلوغ الإنتاج النشط للأبواغ ذروته في طقس الخريف والشتاء الرطب؛ وغالباً ما تستمر الرفوف الحولية طوال الشتاء وقد تستأنف نموها في الموسم التالي.",
+      "uses": "غير صالح للأكل بسبب قوامه الرقيق والقاسي والجلدي.",
+      "confusion": "يمتلك فطر Trametes versicolor سطحاً سفلياً ذا مسام دقيقة بدلاً من السطح الأملس، ويظهر عادةً أشرطة متحدة المركز بألوان أكثر برودة من الرمادي أو البني أو المزرق. ويشكل فطر Stereum subtomentosum رفوفاً أكبر (بعرض ٣–١٠ سم) ذات سطح علوي مخملي ناعم بدلاً من الهلبي الخشن، وقاعدة أضيق منقبضة أو شبه مسوقة، وسطح سفلي طازج يصفر عند الفرك. ويفرز كل من Stereum gausapatum وStereum sanguinolentum سائلاً أحمر عند خدش أو قطع سطحهما السفلي الطازج، كما ينمو Stereum sanguinolentum أساساً على الصنوبريات. ويشكل فطر Stereum ostrea مراوح أكبر وأرق وأعرض ذات أسطح علوية أقل خشونة. أما Stereum rameale فهو أصغر بكثير (بعرض نحو ١ سم وبروز ٥ مم) ويفتقر في المقطع العرضي إلى الخط القشري الداكن تحت الطبقة المشعرة العلوية. ويمتلك فطر Chondrostereum purpureum سطحاً سفلياً أملس بلون أرجواني إلى بنفسجي واضح.",
+      "notes": "غالباً ما تتطفل على الأجسام الثمرية فطريات هلامية مثل Naematelia aurantia وPhaeotremella frondosa، التي تمتص المغذيات من خيوطه الفطرية عبر الممصات. وفي زراعة الكروم، يعمل ممرضاً ثانوياً محللاً للخشب في مرض الإسكا الذي يصيب كروم العنب عقب الإصابة الأولية بفطر Fomitiporia mediterranea، كما يمكنه إصابة أشجار الفاكهة الحية مثل الخوخ. ويُظهر مركب السيسكويتيربينويد حمض الهيرسوتيك C، الذي عُزل لأول مرة من هذا النوع عام ١٩٦٦، نشاطاً مضاداً للبكتيريا ومضاداً للأورام، كما يُدرس نظام إنزيمات العفن الأبيض لديه لتفكيك المبيدات الحشرية.",
+      "sourceUrls": [
+        "https://ar.wikipedia.org/wiki/دندم_شائك"
+      ]
+    },
+    "bg": {
+      "label": "жълта кожеста гъба",
+      "names": [
+        "жълтеникав стереум"
+      ],
+      "description": "Широко разпространена, кожеста дърворазрушаваща корова и конзолна гъба, растяща в гъсти, керемидообразно припокриващи се редове върху мъртва широколистна и по-рядко иглолистна дървесина в Европа, Северна Америка, Азия, Африка, Австралия и Нова Зеландия. Преобладаващо сапротрофна и понякога слабо паразитна, тя причинява бяло гниене и плододава целогодишно.",
+      "cap": "1–8 cm в диаметър (често сраснали странично във вълнообразни редове с дължина до 10 cm), издадена на 1–3 cm от дървесината. Дебелината на плодното тяло е 0,5–1,5 mm, понякога до 2 mm. По форма е полукръгла, ветрилообразна или неправилна с разлята основа, или образува напълно плоски кори върху вертикални и отрязани дървесни повърхности. Горната повърхност е отчетливо влакнеста до четинеста в младо и свежо състояние, с възрастта става по-гладка или почти гола и е концентрично зонирана в ярко жълто, охра, оранжевожълто, жълтокафяво или червеникавокафяво, с по-светъл, вълнообразен, накъдрен или наделен ръб. По-старите плодни тела на влажни места често придобиват зеленикав оттенък от водорасли, докато сухите гугли избледняват до сивокафяви. Калиевата основа (KOH) оцветява всички повърхности първо в червено, а след това в черно.",
+      "hymenium": "Гладка до слабо неравна или леко набръчкана повърхност, без тръбички и пори, ламели или шипчета; в свежо състояние е ярко жълта, жълтооранжева или охреножълта, като с възрастта или в сухо време избледнява до бледо сивокафява. Презимувалите плодни тела, които възобновяват растежа си, често изглеждат двуцветни, със сива по-стара зона и ярко охреножълт свеж ръб. Свежата долна страна не отделя червена течност при нарязване или нараняване (макар че млади форми от по-топъл климат понякога могат леко да се зачервят). Хифидиите имат заоблени до слабо заострени върхове без бодливи израстъци (акантохифидии липсват); налице са многобройни дебелостенни псевдоцистиди (7–10 µm широки, дълги над 100 µm, с тънкостенни върхове и маслено апикално съдържимо) и слабо стърчащи акутоцистиди (20–30 × 2–4 µm). Базидиите са тясно бухалковидни, 25–60 × 3–5 µm, четириспорови.",
+      "stipe": "Пънче липсва; приседналите, полуразлети плодни тела се прикрепват широко към дървесината по задния си ръб или чрез разлята основа.",
+      "flesh": "Тънко (0,5–1,5 mm), жилаво, гъвкаво и кожесто, белезникаво, с мономитична хифна система и отчетлива тънка тъмнокафява корова линия, видима при напречен разрез непосредствено под горния влакнест слой. Не променя цвета си при разрязване. Миризмата е неизразителна; вкусът е мек и неизразителен.",
+      "sporePrint": "Бял (често труден за получаване). Базидиоспорите са гладки, тънкостенни, хиалинни, цилиндрични до тясно елипсовидни, амилоидни и с размери 5–8 × 2–3,5 µm (понякога до 11 × 4 µm).",
+      "habitat": "Сапротрофна и понякога слабо паразитна върху сравнително прясна мъртва дървесина на широколистни дървета – особено дъб и обикновен бук, както и габър, бреза, елша, върба и овощни дървета – и много по-рядко върху иглолистни като смърч и бор. Плододава върху паднали клони, трупи, пънове, стояща мъртва дървесина и складиран или изветрял дървен материал, като причинява бяло гниене предимно в беловината. Плодните тела се срещат през цялата година от януари до декември, като активното спорообразуване достига връх във влажно есенно и зимно време; едногодишните плодни тела често презимуват и могат да възобновят растежа си през следващия сезон.",
+      "uses": "Неядлива поради тънкото си, жилаво и кожесто месо.",
+      "confusion": "Trametes versicolor има фино пореста вместо гладка долна повърхност и обикновено показва по-студени сиви, кафяви или синкави концентрични ивици. Stereum subtomentosum образува по-големи плодни тела (3–10 cm широки) с фино кадифена вместо четинеста горна повърхност, по-тясна, стеснена или леко стебловидна основа и свежа долна страна, която пожълтява при триене. Stereum gausapatum и Stereum sanguinolentum отделят червена течност при одраскване или нарязване на свежата им долна страна, като Stereum sanguinolentum расте предимно върху иглолистни дървета. Stereum ostrea образува по-големи, по-тънки и по-широки ветрила с по-слабо четинеста горна повърхност. Stereum rameale е много по-малък (около 1 cm широк; издаден на 5 mm) и при напречен разрез няма тъмната корова линия под горния влакнест слой. Chondrostereum purpureum има отчетливо пурпурна до виолетова гладка долна повърхност.",
+      "notes": "Върху плодните тела често паразитират пихтиести гъби като Naematelia aurantia и Phaeotremella frondosa, които извличат хранителни вещества от хифите ѝ чрез хаустории. В лозарството действа като вторичен дърворазрушаващ патоген при болестта еска по лозата след първична инфекция от Fomitiporia mediterranea, а може да заразява и живи овощни дървета като прасковата. Сесквитерпеноидът хирзутова киселина C, изолирана за първи път от този вид през 1966 г., проявява антибактериална и антинеопластична активност, а ензимната ѝ система за бяло гниене се изследва за разграждане на пестициди.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q557377"
+      ]
+    },
+    "cs": {
+      "label": "pevník chlupatý",
+      "wikipedia": "https://cs.wikipedia.org/wiki/Pevn%C3%ADk_chlupat%C3%BD",
+      "description": "Široce rozšířená, kožovitá dřevokazná korovitá a konzolovitá houba rostoucí v hustých, střechovitě uspořádaných řadách na odumřelém dřevě listnáčů a ojediněle i jehličnanů v Evropě, Severní Americe, Asii, Africe, Austrálii a na Novém Zélandu. Je převážně saprotrofní a příležitostně slabě parazitická, způsobuje bílou hnilobu a plodí celoročně.",
+      "cap": "1–8 cm široký (často bočně srostlý do zvlněných řad dlouhých až 10 cm) a od dřeva odstává 1–3 cm. Tloušťka plodnice je 0,5–1,5 mm, ojediněle až 2 mm. Tvarem je polokruhovitý, vějířovitý nebo nepravidelný s rozlitou bází, případně na svislých a řezných plochách dřeva vytváří zcela ploché kůry. Svrchní strana je za mlada a za čerstva výrazně chlupatá až štětinatá, stářím olysává a stává se hladší, se soustřednými pásy v jasně žluté, okrové, oranžovožluté, žlutohnědé nebo červenohnědé barvě a se světlejším, zvlněným, zkadeřeným nebo laločnatým okrajem. Starší plodnice na vlhkých místech často získávají nazelenalý nádech od řas, zatímco suché plodnice blednou do šedohněda. Hydroxid draselný (KOH) zbarvuje všechny povrchy nejprve červeně a poté černě.",
+      "hymenium": "Hladký povrch je hladký až mírně nerovný nebo jemně vrásčitý, bez pórů, lupenů či ostnů; za čerstva je jasně žlutý, žlutooranžový nebo okrově žlutavý, stářím nebo za sucha bledne do světle šedohněda. Přezimující plodnice, které obnovily růst, bývají často dvoubarevné, s šedou starší zónou a jasně okrově žlutým čerstvým okrajem. Čerstvá spodní strana při naříznutí nebo poranění nevylučuje červenou tekutinu (ačkoli mladé formy z teplých oblastí mohou občas lehce zčervenat). Hyfidie mají zaoblené až mírně zašpičatělé konce bez ostnitých výběžků (akantohyfidie chybějí); přítomny jsou četné tlustostěnné pseudocystidy (7–10 µm široké, dlouhé přes 100 µm, s tenkostěnnými vrcholy a olejovitým apikálním obsahem) a mírně vyčnívající akutocystidy (20–30 × 2–4 µm). Bazidie jsou úzce kyjovité, 25–60 × 3–5 µm, čtyřvýtrusé.",
+      "stipe": "Třeň chybí; přisedlé, polorozlité plodnice přirůstají ke dřevu široce zadním okrajem nebo prostřednictvím rozlité báze.",
+      "flesh": "Tenká (0,5–1,5 mm), tuhá, ohebná a kožovitá, bělavá, s monomitickým hyfovým systémem a s výraznou tenkou tmavohnědou korovou linií viditelnou na průřezu přímo pod svrchní chlupatou vrstvou. Na řezu nemění barvu. Vůně je nevýrazná; chuť mírná a nevýrazná.",
+      "sporePrint": "Bílý (často se obtížně získává). Bazidiospory jsou hladké, tenkostěnné, hyalinní, válcovité až úzce elipsoidní, amyloidní a měří 5–8 × 2–3,5 µm (ojediněle až 11 × 4 µm).",
+      "habitat": "Saprotrofní a příležitostně slabě parazitická na poměrně čerstvém odumřelém dřevě listnatých stromů – zejména dubů a buku lesního, stejně jako habru, břízy, olše, vrby a ovocných stromů – a mnohem vzácněji na jehličnanech, jako jsou smrk a borovice. Roste na padlých větvích, kmenech, pařezech, stojícím odumřelém dřevě i na skládkovaném či zvětralém dřevě, přičemž způsobuje bílou hnilobu především v běli. Plodnice se vyskytují po celý rok od ledna do prosince, s vrcholem aktivní tvorby výtrusů za vlhkého podzimního a zimního počasí; jednoleté plodnice běžně přetrvávají přes zimu a v následující sezoně mohou obnovit růst.",
+      "uses": "Nejedlá pro svou tenkou, tuhou, kožovitou konzistenci.",
+      "confusion": "Outkovka pestrá (Trametes versicolor) má místo hladkého povrchu jemně pórovitou spodní stranu a obvykle chladnější šedé, hnědé nebo namodralé soustředné pásy. Pevník plstnatý (Stereum subtomentosum) vytváří větší plodnice (3–10 cm široké) s jemně sametovou, nikoli štětinatou svrchní stranou, s užší, zúženou nebo mírně třeňovitou bází a čerstvou spodní stranou, která po otlačení žloutne. Pevník dubový (Stereum gausapatum) i pevník krvavějící (Stereum sanguinolentum) po poškrábání nebo naříznutí čerstvé spodní strany vylučují červenou tekutinu, přičemž Stereum sanguinolentum roste převážně na jehličnanech. Stereum ostrea tvoří větší, tenčí a širší vějíře s méně štětinatou svrchní stranou. Stereum rameale je mnohem menší (asi 1 cm široký; od dřeva odstává 5 mm) a na průřezu mu pod svrchní chlupatou vrstvou chybí tmavá korová linie. Pevník nachový (Chondrostereum purpureum) má výrazně purpurovou až fialovou hladkou spodní stranu.",
+      "notes": "Na plodnicích často parazitují rosolovité houby, jako jsou Naematelia aurantia a Phaeotremella frondosa, které z jejích hyf čerpají živiny prostřednictvím haustorií. Ve vinařství působí jako sekundární dřevokazný patogen při chorobě esca révy vinné po prvotní infekci houbou Fomitiporia mediterranea a může infikovat i živé ovocné stromy, například broskvoň. Seskviterpenoid kyselina hirsutová C, poprvé izolovaná z tohoto druhu v roce 1966, vykazuje antibakteriální a protinádorovou aktivitu a její enzymový systém bílé hniloby se zkoumá pro odbourávání pesticidů.",
+      "sourceUrls": [
+        "https://cs.wikipedia.org/wiki/Pevn%C3%ADk_chlupat%C3%BD",
+        "https://www.myko.cz/myko-atlas/Stereum-hirsutum/"
+      ]
+    },
+    "da": {
+      "label": "håret lædersvamp",
+      "description": "En vidt udbredt, læderagtig, trænedbrydende bark- og konsolsvamp, der vokser i tætte, taglagte rækker på dødt løvtræ og lejlighedsvis på nåletræ i Europa, Nordamerika, Asien, Afrika, Australien og New Zealand. Den er overvejende saprotrof og lejlighedsvis svagt parasitisk, forårsager hvidråd og danner frugtlegemer året rundt.",
+      "cap": "Hattene er 1–8 cm brede (ofte sammenvoksede til bølgede rækker på op til 10 cm længde), rager 1–3 cm ud fra træet og er halvkredsformede, vifteformede eller uregelmæssige med en resupinat basis, eller de danner helt flade skorper på lodrette og afskårne træflader. Frugtlegemerne er 0,5–1,5 mm tykke, lejlighedsvis op til 2 mm. Oversiden er tydeligt håret til børstet som ung og frisk, bliver glattere eller næsten skaldet med alderen og er koncentrisk zoneret i klart gult, okker, orangegult, gulbrunt eller rødbrunt med en lysere, bølget, kruset eller lappet rand. Ældre frugtlegemer på fugtige steder får ofte et grønligt skær af alger, mens tørre hatte blegner mod gråbrunt. Kaliumhydroxid (KOH) farver alle overflader røde og derefter sorte.",
+      "hymenium": "Glat overflade til let ujævn eller svagt rynket, uden porer, lameller eller pigge; klart gul, gulorange eller okkergul som frisk, blegnende til blegt gråbrun med alderen eller i tørt vejr. Overvintrede frugtlegemer, der genoptager væksten, fremstår ofte tofarvede med en grå ældre zone og en klart okkergul frisk rand. Friske undersider bløder ikke rød væske ved snit eller beskadigelse (selvom unge former i varmt klima lejlighedsvis kan rødme svagt). Hyfidier har afrundede til svagt spidse ender uden tornede udvækster (akanthohyfidier mangler); der findes rigeligt med tykvæggede pseudocystider (7–10 µm brede, over 100 µm lange, med tyndvæggede spidser og olieholdigt indhold i toppen) samt let fremragende akutocystider (20–30 × 2–4 µm). Basidierne er smalt kølleformede, 25–60 × 3–5 µm og firesporede.",
+      "stipe": "Stok mangler; de siddende, halvresupinate hatte er bredt tilvoksede til træet langs bagkanten eller via en skorpeformet basis.",
+      "flesh": "Kødet er tyndt (0,5–1,5 mm), sejt, bøjeligt og læderagtigt, hvidligt, med et monomitisk hyfesystem og en tydelig tynd, mørkebrun barklinje synlig i tværsnit lige under det øverste hårlag. Skifter ikke farve ved gennemskæring. Lugt ubetydelig; smag mild og ubetydelig.",
+      "sporePrint": "Sporeaftryk hvidt (ofte vanskeligt at opnå). Basidiosporerne er glatte, tyndvæggede, hyaline, cylindriske til smalt ellipsoide, amyloide og måler 5–8 × 2–3,5 µm (lejlighedsvis op til 11 × 4 µm).",
+      "habitat": "Saprotrof og lejlighedsvis svagt parasitisk på relativt frisk dødt ved af løvtræer — især eg og bøg samt avnbøg, birk, el, pil og frugttræer — og langt sjældnere på nåletræer som gran og fyr. Danner frugtlegemer på nedfaldne grene, stammer, stubbe, stående dødt ved samt stablet eller forvitret tømmer og forårsager hvidråd primært i splintveddet. Frugtlegemer forekommer hele året fra januar til december med den mest aktive sporeproduktion i fugtigt efterårs- og vintervejr; de enårige hatte overlever ofte vinteren og kan genoptage væksten den følgende sæson.",
+      "uses": "Uspiselig på grund af sin tynde, seje og læderagtige konsistens.",
+      "confusion": "Trametes versicolor har en fint poret frem for glat underside og viser typisk køligere grå, brune eller blålige koncentriske bånd. Stereum subtomentosum danner større hatte (3–10 cm brede) med en fint fløjlsagtig frem for børstet overside, en smallere, indsnævret eller let stilket basis samt en frisk underside, der gulner ved gnidning. Stereum gausapatum og Stereum sanguinolentum bløder begge rød væske, når den friske underside ridses eller skæres, og Stereum sanguinolentum vokser overvejende på nåletræ. Stereum ostrea danner større, tyndere og bredere vifter med mindre børstede oversider. Stereum rameale er langt mindre, omkring 1 cm bred; hattene rager kun 5 mm ud og mangler den mørke barklinje under det øverste hårlag i tværsnit. Chondrostereum purpureum har en udpræget purpurfarvet til violet glat underside.",
+      "notes": "Frugtlegemerne parasiteres hyppigt af bævresvampe som Naematelia aurantia og Phaeotremella frondosa, der optager næring fra dens hyfer gennem haustorier. I vinavl optræder den som sekundær trænedbrydende patogen ved esca-sygdom i vinstokke efter primær infektion af Fomitiporia mediterranea, og den kan også inficere levende frugttræer som fersken. Sesquiterpenoidet hirsutinsyre C, først isoleret fra denne art i 1966, udviser antibakteriel og antineoplastisk aktivitet, og dens hvidrådsenzymsystem undersøges til nedbrydning af pesticider.",
+      "sourceUrls": [
+        "https://svampe.databasen.org/taxon/20630"
+      ]
+    },
+    "de": {
+      "label": "Striegeliger Schichtpilz",
+      "names": [
+        "Zottiger Schichtpilz"
+      ],
+      "wikipedia": "https://de.wikipedia.org/wiki/Striegeliger_Schichtpilz",
+      "description": "Ein weit verbreiteter, lederiger, holzzersetzender Krusten- und Konsolenpilz, der in dichten, dachziegeligen Reihen an totem Laubholz und gelegentlich auch an Nadelholz in Europa, Nordamerika, Asien, Afrika, Australien und Neuseeland wächst. Er lebt überwiegend saprotroph, gelegentlich schwach parasitisch, verursacht eine Weißfäule und fruktifiziert ganzjährig.",
+      "cap": "Die Hüte sind 1–8 cm breit (oft seitlich zu welligen Reihen bis 10 cm Länge verwachsen), stehen 1–3 cm vom Holz ab und sind halbkreisförmig, fächerförmig oder unregelmäßig geformt mit resupinater Basis, oder sie bilden auf senkrechten und geschnittenen Holzflächen völlig flache Krusten. Die Fruchtkörper sind 0,5–1,5 mm, gelegentlich bis 2 mm dick. Die Oberseite ist jung und frisch deutlich behaart bis striegelig-borstig, wird im Alter glatter oder nahezu kahl und ist konzentrisch gezont in kräftigem Gelb, Ocker, Orangegelb, Gelbbraun oder Rotbraun mit einem helleren, welligen, gekräuselten oder gelappten Rand. Ältere Fruchtkörper nehmen an feuchten Standorten durch Algenbewuchs oft einen grünlichen Schimmer an, während trockene Hüte graubraun ausblassen. Kalilauge (KOH) färbt alle Oberflächen rot und anschließend schwarz.",
+      "hymenium": "Glatte Oberfläche, leicht uneben oder schwach runzelig, ohne Poren, Lamellen oder Stacheln; frisch leuchtend gelb, gelborange oder ockergelblich, im Alter oder bei trockenem Wetter blass graubraun verfärbend. Überwinterte Fruchtkörper mit neuem Zuwachs wirken oft zweifarbig, mit einer grauen älteren Zone und einem leuchtend ockergelben frischen Rand. Frische Unterseiten bluten bei Verletzung oder Anschnitt nicht rot (obwohl junge Formen warmer Klimazonen gelegentlich schwach röten können). Hyphidien besitzen abgerundete bis zugespitzte Enden ohne dornige Auswüchse (Akanthohyphidien fehlen); es sind zahlreiche dickwandige Pseudozystiden (7–10 µm breit, über 100 µm lang, mit dünnwandigen Spitzen und öligem Inhalt am Scheitel) sowie leicht vorragende Akutozystiden (20–30 × 2–4 µm) vorhanden. Die Basidien sind schmal keulenförmig, 25–60 × 3–5 µm groß und viersporig.",
+      "stipe": "Kein Stiel vorhanden; die sitzenden, effus-reflexen Hüte sind breit mit dem Hinterrand oder über eine resupinate Basis am Holz angewachsen.",
+      "flesh": "Das Fleisch ist dünn (0,5–1,5 mm), zäh, biegsam und lederig, weißlich, mit monomitischem Hyphensystem und einer im Querschnitt deutlich sichtbaren dünnen, dunkelbraunen Kortexlinie unmittelbar unter der oberen Haarschicht. Beim Anschneiden verfärbt es sich nicht. Geruch unauffällig; Geschmack mild und unauffällig.",
+      "sporePrint": "Sporenpulver weiß (oft schwer zu gewinnen). Die Basidiosporen sind glatt, dünnwandig, hyalin, zylindrisch bis schmal ellipsoid, amyloid und messen 5–8 × 2–3,5 µm (gelegentlich bis 11 × 4 µm).",
+      "habitat": "Saprotroph und gelegentlich schwach parasitisch an relativ frischem Totholz von Laubbäumen — besonders Eiche und Rotbuche sowie Hainbuche, Birke, Erle, Weide und Obstbäumen — und wesentlich seltener an Nadelbäumen wie Fichte und Kiefer. Fruktifiziert an abgefallenen Ästen, liegenden Stämmen, Stümpfen, stehendem Totholz sowie gestapeltem oder verwittertem Nutzholz und verursacht eine Weißfäule vorwiegend im Splintholz. Fruchtkörper erscheinen das ganze Jahr über von Januar bis Dezember, wobei die aktive Sporenbildung bei feuchtem Herbst- und Winterwetter ihren Höhepunkt erreicht; die einjährigen Hüte überdauern häufig den Winter und können in der folgenden Saison weiterwachsen.",
+      "uses": "Ungenießbar aufgrund der dünnen, zähen und lederigen Beschaffenheit.",
+      "confusion": "Trametes versicolor besitzt eine feinporige statt glatte Unterseite und zeigt meist kühlere graue, braune oder bläuliche konzentrische Bänder. Stereum subtomentosum bildet größere Hüte (3–10 cm breit) mit fein samtiger statt striegelig-borstiger Oberseite, einer schmaleren, zusammengezogenen oder leicht gestielten Basis und einer frischen Unterseite, die bei Berührung gelb anläuft. Stereum gausapatum und Stereum sanguinolentum sondern bei Verletzung oder Anschnitt der frischen Unterseite beide eine rote Flüssigkeit ab, wobei Stereum sanguinolentum überwiegend an Nadelholz wächst. Stereum ostrea bildet größere, dünnere, breitere Fächer mit weniger borstiger Oberseite. Stereum rameale ist deutlich kleiner und etwa 1 cm breit; die Hüte stehen nur 5 mm ab und zeigen im Querschnitt keine dunkle Kortexlinie unter der oberen Haarschicht. Chondrostereum purpureum hat eine ausgeprägt purpurne bis violette glatte Unterseite.",
+      "notes": "Fruchtkörper werden häufig von gallertartigen Zitterpilzen wie Naematelia aurantia und Phaeotremella frondosa parasitiert, die über Haustorien Nährstoffe aus seinen Hyphen entziehen. Im Weinbau tritt er als sekundärer holzzersetzender Erreger der Esca-Krankheit an Weinreben nach einer Primärinfektion durch Fomitiporia mediterranea auf und kann auch lebende Obstbäume wie Pfirsich befallen. Das Sesquiterpenoid Hirsutinsäure C, erstmals 1966 aus dieser Art isoliert, zeigt antibakterielle und antineoplastische Wirkung, und sein Weißfäule-Enzymsystem wird für den Abbau von Pestiziden erforscht.",
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Striegeliger_Schichtpilz"
+      ]
+    },
+    "es": {
+      "description": "Hongo lignícola coriáceo muy extendido que crece en forma de costras y repisas dispuestas en pisos densos e imbricados sobre madera muerta de frondosas y ocasionalmente de coníferas en Europa, Norteamérica, Asia, África, Australia y Nueva Zelanda. Principalmente saprótrofo y en ocasiones débilmente parásito, provoca una pudrición blanca y fructifica durante todo el año.",
+      "cap": "De 1–8 cm de anchura (a menudo fusionado lateralmente en hileras onduladas de hasta 10 cm de longitud) y con una proyección de 1–3 cm desde la madera, semicircular, en forma de abanico o irregular con base resupinada, o bien formando costras totalmente planas sobre superficies verticales y cortes de madera. Tiene un grosor de 0,5–1,5 mm (ocasionalmente hasta 2 mm). La superficie superior es claramente pelosa a hirsuta cuando es joven y fresca, volviéndose más lisa o casi calva con la edad, y presenta zonas concéntricas de color amarillo vivo, ocre, amarillo anaranjado, pardo amarillento o pardo rojizo, con un margen más pálido, ondulado, rizado o lobulado. Los carpóforos viejos en lugares húmedos suelen adquirir un tinte verdoso debido a las algas, mientras que los ejemplares secos palidecen hacia el pardo grisáceo. El hidróxido potásico (KOH) tiñe todas las superficies de rojo y luego de negro.",
+      "hymenium": "Superficie lisa a ligeramente desigual o débilmente arrugada, sin poros, láminas ni aguijones; de color amarillo vivo, amarillo anaranjado u ocre anteado en fresco, palideciendo a pardo grisáceo claro con la edad o en tiempo seco. Las repisas que han pasado el invierno y reanudan el crecimiento suelen presentar dos tonos, con una zona antigua gris y un margen fresco amarillo ocre vivo. La superficie inferior fresca no exuda líquido rojo al cortarla o rozarla (aunque las formas jóvenes de climas cálidos pueden enrojecer ligeramente en ocasiones). Los hifidios tienen ápices redondeados a subagudos sin proyecciones espinosas (acantohifidios ausentes); presenta abundantes pseudocistidios de pared gruesa (7–10 µm de anchura y más de 100 µm de longitud, con ápice de pared delgada y contenido apical oleoso) y acutocistidios ligeramente salientes (20–30 × 2–4 µm). Los basidios son estrechamente claviformes, de 25–60 × 3–5 µm, tetraspóricos.",
+      "stipe": "Ausente; las repisas sésiles, efuso-reflejas, se adhieren ampliamente a la madera por su margen posterior o mediante una base resupinada.",
+      "flesh": "Carne delgada (0,5–1,5 mm), tenaz, flexible y coriácea, blanquecina, con sistema hifal monomítico y una fina línea cortical pardo oscura bien definida visible en corte transversal justo debajo de la capa pelosa superior. Inmutable al corte. Olor indistinto; sabor suave e indistinto.",
+      "sporePrint": "Blanca (a menudo difícil de obtener). Las basidiosporas son lisas, de pared delgada, hialinas, cilíndricas a estrechamente elipsoides, amiloides y miden 5–8 × 2–3,5 µm (ocasionalmente hasta 11 × 4 µm).",
+      "habitat": "Saprótrofo y ocasionalmente débilmente parásito sobre madera muerta relativamente fresca de árboles frondosos —especialmente roble y haya, así como carpe, abedul, aliso, sauce y árboles frutales— y con mucha menos frecuencia sobre coníferas como pícea y pino. Fructifica sobre ramas caídas, troncos, tocones, madera muerta en pie y madera apilada o expuesta a la intemperie, causando una pudrición blanca principalmente en la albura. Los carpóforos aparecen durante todo el año, de enero a diciembre, con un máximo de producción activa de esporas en tiempo húmedo de otoño e invierno; las repisas anuales suelen persistir durante el invierno y pueden reanudar su crecimiento la temporada siguiente.",
+      "uses": "No comestible debido a su carne delgada, tenaz y coriácea.",
+      "confusion": "Trametes versicolor presenta una superficie inferior finamente porada en lugar de lisa y suele mostrar bandas concéntricas más frías de color gris, pardo o azulado. Stereum subtomentosum forma repisas más grandes (3–10 cm de anchura) con una superficie superior finamente aterciopelada en lugar de hirsuta, una base más estrecha, atenuada o ligeramente estipitada, y una superficie inferior fresca que amarillea al frotarla. Stereum gausapatum y Stereum sanguinolentum exudan un líquido rojo cuando se raspa o corta su superficie inferior fresca, y Stereum sanguinolentum crece principalmente sobre coníferas. Stereum ostrea forma abanicos más grandes, delgados y anchos con una superficie superior menos hirsuta. Stereum rameale es mucho más pequeño (alrededor de 1 cm de anchura y 5 mm de proyección) y carece de la línea cortical oscura bajo la capa pelosa superior en corte transversal. Chondrostereum purpureum tiene una superficie inferior lisa claramente purpúrea a violácea.",
+      "notes": "Los carpóforos son parasitados con frecuencia por hongos gelatinosos tremeloides como Naematelia aurantia y Phaeotremella frondosa, que extraen nutrientes de sus hifas mediante haustorios. En viticultura actúa como patógeno secundario de pudrición de la madera en la enfermedad de la yesca (esca) de la vid tras la infección primaria por Fomitiporia mediterranea, y también puede infectar árboles frutales vivos como el melocotonero. El sesquiterpenoide ácido hirsútico C, aislado por primera vez de esta especie en 1966, muestra actividad antibacteriana y antineoplásica, y su sistema enzimático de pudrición blanca se estudia para la degradación de pesticidas.",
+      "sourceUrls": []
+    },
+    "et": {
+      "label": "karvane nahkis",
+      "wikipedia": "https://et.wikipedia.org/wiki/Karvane_nahkis",
+      "description": "Laialt levinud nahkjas puitu lagundav koorik- ja kübarseen, mis kasvab tihedate kattuvate ridadena surnud lehtpuupuidul ja harvemini okaspuupuidul Euroopas, Põhja-Ameerikas, Aasias, Aafrikas, Austraalias ja Uus-Meremaal. Peamiselt saprotroofne ja mõnikord nõrgalt parasiitne seen, mis põhjustab valgemädanikku ning moodustab viljakehi aastaringselt.",
+      "cap": "1–8 cm lai (sageli külgsuunas kokku kasvanud kuni 10 cm pikkusteks lainelisteks ridadeks), puidust 1–3 cm eenduv ja 0,5–1,5 mm paksune (harva kuni 2 mm), poolringjas, lehvikjas või ebakorrapärase kujuga, alusel liibunud või püstistel ja lõigatud puitpindadel täiesti lamendunud koorikuna. Ülapind on noorelt ja värskelt selgelt karvane kuni harjasjas, muutudes vanemana siledamaks või peaaegu paljaks; see on kontsentriliselt vöödiline erkkollase, ookerkollase, oranžikaskollase, kollakaspruuni või punakaspruuni tooniga ning heledama lainelise, kurrulise või hõlmise servaga. Vanemad viljakehad omandavad niisketes kasvukohtades sageli vetikatest roheka varjundi, kuivanud kübarad aga pleegivad hallikaspruuniks. Kaaliumhüdroksiid (KOH) värvib kõik pinnad punaseks ja seejärel mustaks.",
+      "hymenium": "Sile pind kuni kergelt ebatasane või nõrgalt kurruline, ilma pooride, eoslehtede või narmasteta; värskelt erkkollane, kollakasoranž või ookerjas-kreemikas, vananedes või kuiva ilmaga kahvatuks hallikaspruuniks pleekiv. Talvitunud ja kasvu jätkavad viljakehad on sageli kahevärvilised, halli vanema tsooni ja ereda ookerkollase värske servaga. Värske alapind ei erita lõikamisel ega vigastamisel punast vedelikku (kuigi soojema kliima noored vormid võivad harva kergelt punetada). Hüfiidid on ümarate kuni nõrgalt teritunud tippudega ja ilma ogajate jätketeta (akantohüfiidid puuduvad); esineb rohkelt paksuseinalisi pseudotsüstiide (7–10 µm laiad, üle 100 µm pikad, õhukeseseinaliste tippude ja õlise tipmise sisaldisega) ning kergelt eenduvaid akutotsüstiide (20–30 × 2–4 µm). Basiidiumid on kitsalt nuikjad, 25–60 × 3–5 µm, nelja eosega.",
+      "stipe": "Jalg puudub; istuvad liibunud-käändunud viljakehad kinnituvad puidule laialt tagumise serva või liibunud aluse abil.",
+      "flesh": "Seeneliha on õhuke (0,5–1,5 mm), sitke, painduv ja nahkjas, valkjas, monomiitse hüüfisüsteemiga ning ristlõikes selgelt nähtava õhukese tumepruuni koorejoonega vahetult ülemise karvase kihi all. Lõikamisel värvus ei muutu. Lõhn on ebaselge, maitse mahe ja eristamatu.",
+      "sporePrint": "Valge (sageli raskesti saadav). Basidiospoorid on siledad, õhukeseseinalised, värvitud, silindrilised kuni kitsalt ellipsoidsed, amüloidsed ja mõõtmetega 5–8 × 2–3,5 µm (harva kuni 11 × 4 µm).",
+      "habitat": "Saprotroofne ja mõnikord nõrgalt parasiitne suhteliselt värskel surnud lehtpuupuidul — eriti tammel ja harilikul pöögil, aga ka valgepöögil, kasel, lepal, pajul ja viljapuudel — ning tunduvalt harvemini okaspuudel, näiteks kuusel ja männil. Kasvab langenud okstel, tüvedel, kändudel, seisval surnud puidul ning virnastatud või ilmastikule avatud puitmaterjalil, põhjustades valgemädanikku eeskätt maltspuidus. Viljakehi esineb aastaringselt jaanuarist detsembrini, aktiivseim eoste valmimine langeb niiskele sügis- ja talveajale; üheaastased kübarad püsivad sageli üle talve ja võivad järgmisel hooajal kasvu jätkata.",
+      "uses": "Mittesöödav õhukese, sitke ja nahkja tekstuuri tõttu.",
+      "confusion": "Kirju tagel (Trametes versicolor) on sileda pinna asemel peenepoorse alapinnaga ja sellel esinevad tavaliselt külmemad hallid, pruunid või sinakad kontsentrilised vöödid. Stereum subtomentosum moodustab suuremaid kübaraid (3–10 cm laiad), mille ülapind on harjasja asemel peenelt sametjas, alus on kitsam, kokkutõmbunud või kergelt jalataoline ning värske alapind muutub hõõrumisel kollaseks. Stereum gausapatum ja verev nahkis (Stereum sanguinolentum) eritavad mõlemad värske alapinna kriimustamisel või lõikamisel punast vedelikku ning Stereum sanguinolentum kasvab peamiselt okaspuudel. Stereum ostrea moodustab suuremaid, õhemaid ja laiemaid lehvikuid vähem harjasja ülapinnaga. Stereum rameale on tunduvalt väiksem (umbes 1 cm lai, 5 mm eenduv) ning sellel puudub ristlõikes tume koorejoon ülemise karvase kihi all. Lillakas nahkis (Chondrostereum purpureum) on selgelt lillaka kuni violetse sileda alapinnaga.",
+      "notes": "Viljakehadel parasiteerivad sageli sültjad kõhrikulaadsed seened, näiteks Naematelia aurantia ja Phaeotremella frondosa, mis ammutavad haustorite abil toitaineid selle hüüfidest. Viinamarjakasvatuses toimib see viinapuude eska-haiguses sekundaarse puitu lagundava patogeenina pärast esmast nakatumist seenega Fomitiporia mediterranea ning võib nakatada ka elavaid viljapuid, näiteks virsikupuid. Sellest liigist 1966. aastal esmakordselt eraldatud seskviterpenoid hirsutiinhape C omab antibakteriaalset ja kasvajavastast toimet ning liigi valgemädaniku ensüümsüsteemi uuritakse pestitsiidide lagundamiseks.",
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Karvane_nahkis"
+      ]
+    },
+    "fa": {
+      "description": "قارچ پوسته‌ای و طاقچه‌ای چرمی، گسترده و چوب‌پوسان است که به صورت ردیف‌های متراکم و هم‌پوشان روی چوب مرده درختان پهن‌برگ و گاه چوب سوزنی‌برگان در سراسر اروپا، آمریکای شمالی، آسیا، آفریقا، استرالیا و نیوزیلند می‌روید. عمدتاً ساپروتروف و گاهی انگل ضعیف است، پوسیدگی سفید ایجاد می‌کند و در تمام طول سال اندام بارده تولید می‌کند.",
+      "cap": "۱–۸ سانتی‌متر عرض دارد (اغلب از پهلو به هم جوش می‌خورد و ردیف‌های موج‌دار تا ۱۰ سانتی‌متر طول می‌سازد)، ۱–۳ سانتی‌متر از چوب بیرون می‌زند و ۰٫۵–۱٫۵ میلی‌متر ضخامت دارد (گاهی تا ۲ میلی‌متر)؛ نیم‌دایره‌ای، بادبزنی‌شکل یا نامنظم با پایه‌ای گسترده و چسبیده است، یا روی سطوح عمودی و بریده‌شده چوب پوسته‌های کاملاً تخت تشکیل می‌دهد. سطح بالایی در حالت جوان و تازه به‌وضوح مودار تا زبرمویی است و با گذشت زمان صاف‌تر یا تقریباً بدون مو می‌شود؛ دارای نوارهای هم‌مرکز به رنگ‌های زرد روشن، اخرایی، زرد نارنجی، قهوه‌ای روشن یا قهوه‌ای مایل به قرمز و حاشیه‌ای کم‌رنگ‌تر، موج‌دار، چین‌خورده یا لب‌دار است. اندام‌های بارده مسن‌تر در مکان‌های مرطوب اغلب به دلیل رشد جلبک‌ها ته‌رنگ سبز می‌گیرند، در حالی که طاقچه‌های خشک به سوی خاکستری قهوه‌ای کم‌رنگ می‌شوند. هیدروکسید پتاسیم (KOH) همه سطوح را ابتدا قرمز و سپس سیاه می‌کند.",
+      "hymenium": "سطح صاف تا اندکی ناهموار یا کم‌چین‌وچروک، بدون روزنه، تیغه یا خار؛ در حالت تازه زرد روشن، زرد نارنجی یا اخرایی نخودی است و با گذشت زمان یا در هوای خشک به قهوه‌ای خاکستری کم‌رنگ می‌گراید. طاقچه‌هایی که زمستان را گذرانده‌اند و دوباره رشد می‌کنند اغلب دورنگ به نظر می‌رسند، با ناحیه قدیمی‌تر خاکستری و حاشیه تازه زرد اخرایی روشن. سطح زیرین تازه هنگام برش یا خراش مایع قرمز تراوش نمی‌کند (هرچند فرم‌های جوان در اقلیم‌های گرم گاهی ممکن است اندکی سرخ شوند). هیفیدیاها دارای نوک گرد تا نیمه‌نوک‌تیز بدون زوائد خارمانند هستند (آکانتوهیفیدیا وجود ندارد)؛ شبه‌سیستیدیاهای فراوان با دیواره ضخیم (۷–۱۰ میکرومتر عرض، بیش از ۱۰۰ میکرومتر طول، با نوک‌های نازک‌دیواره و محتویات روغنی در رأس) و آکوتوسیستیدیاهای اندکی برآمده (۲۰–۳۰ × ۲–۴ میکرومتر) حضور دارند. بازیدی‌ها باریک و چماقی‌شکل، ۲۵–۶۰ × ۳–۵ میکرومتر و چهارهاگی هستند.",
+      "stipe": "ساقه ندارد؛ طاقچه‌های بی‌ساقه و گسترده-برگشته به طور پهن از طریق حاشیه عقبی یا پایه چسبیده به چوب متصل می‌شوند.",
+      "flesh": "گوشت نازک (۰٫۵–۱٫۵ میلی‌متر)، سفت، انعطاف‌پذیر و چرمی، سفیدفام و دارای سامانه هیفی مونومیتیک است و در برش عرضی، خط پوسته‌ای باریک و قهوه‌ای تیره‌ای دقیقاً زیر لایه مودار بالایی دیده می‌شود. هنگام برش تغییر رنگ نمی‌دهد. بو نامشخص و طعم ملایم و نامشخص است.",
+      "sporePrint": "سفید (اغلب به دست آوردن آن دشوار است). بازیدیوسپورها صاف، نازک‌دیواره، بی‌رنگ، استوانه‌ای تا باریک‌بیضی، آمیلوئید و به ابعاد ۵–۸ × ۲–۳٫۵ میکرومتر (گاهی تا ۱۱ × ۴ میکرومتر) هستند.",
+      "habitat": "ساپروتروف و گاهی انگل ضعیف روی چوب مرده نسبتاً تازه درختان پهن‌برگ — به‌ویژه بلوط و راش اروپایی و نیز ممرز، توس، توسکا، بید و درختان میوه — و بسیار کمتر روی سوزنی‌برگان مانند نوئل و کاج. روی شاخه‌های افتاده، تنه‌ها، کنده‌ها، چوب‌های مرده ایستاده و الوارهای انباشته یا فرسوده در برابر هوا می‌روید و عمدتاً در چوب برون پوسیدگی سفید ایجاد می‌کند. اندام‌های بارده در سراسر سال از ژانویه تا دسامبر دیده می‌شوند و اوج تولید فعال هاگ در هوای مرطوب پاییز و زمستان رخ می‌دهد؛ طاقچه‌های یک‌ساله معمولاً در طول زمستان باقی می‌مانند و ممکن است در فصل بعد دوباره رشد کنند.",
+      "uses": "به دلیل بافت نازک، سفت و چرمی غیرخوراکی است.",
+      "confusion": "گونه Trametes versicolor به جای سطح زیرین صاف، سطحی با روزنه‌های ریز دارد و معمولاً نوارهای هم‌مرکز سردتر به رنگ خاکستری، قهوه‌ای یا مایل به آبی نشان می‌دهد. گونه Stereum subtomentosum کلاهک‌های بزرگ‌تری (۳–۱۰ سانتی‌متر عرض) با سطح بالایی مخملی ظریف به جای زبرمویی، پایه‌ای باریک‌تر، جمع‌شده یا اندکی ساقه‌مانند و سطح زیرین تازه‌ای دارد که در اثر مالش زرد می‌شود. هر دو گونه Stereum gausapatum و Stereum sanguinolentum هنگام خراش دادن یا بریدن سطح زیرین تازه مایع قرمز تراوش می‌کنند و Stereum sanguinolentum عمدتاً روی سوزنی‌برگان می‌روید. گونه Stereum ostrea بادبزن‌های بزرگ‌تر، نازک‌تر و پهن‌تری با سطح بالایی کم‌موتر تشکیل می‌دهد. گونه Stereum rameale بسیار کوچک‌تر است (حدود ۱ سانتی‌متر عرض و ۵ میلی‌متر بیرون‌زدگی) و در برش عرضی فاقد خط پوسته‌ای تیره زیر لایه مودار بالایی است. گونه Chondrostereum purpureum سطح زیرین صاف و به‌وضوح ارغوانی تا بنفش دارد.",
+      "notes": "اندام‌های بارده اغلب مورد انگل‌زیستی قارچ‌های ژله‌ای مانند Naematelia aurantia و Phaeotremella frondosa قرار می‌گیرند که از طریق مکینه‌ها (هاستوریا) مواد غذایی را از هیف‌های آن جذب می‌کنند. در تاکستان‌داری، پس از آلودگی اولیه به Fomitiporia mediterranea به عنوان عامل بیماری‌زای ثانویه پوسیدگی چوب در بیماری اسکای مو عمل می‌کند و همچنین می‌تواند درختان میوه زنده مانند هلو را آلوده کند. سسکوئی‌ترپنوئید هیرسوتیک اسید C که نخستین بار در سال ۱۹۶۶ از این گونه جدا شد، فعالیت ضدباکتریایی و ضدتوموری نشان می‌دهد و سامانه آنزیمی پوسیدگی سفید آن برای تجزیه آفت‌کش‌ها مورد مطالعه قرار می‌گیرد.",
+      "sourceUrls": []
+    },
+    "fi": {
+      "label": "karvanahakka",
+      "description": "Laajalle levinnyt, nahkea puuta lahottava kääväkäs, joka kasvaa tiheinä, limittäisinä lakki- ja pinnanmyötäisinä kerroksina kuolleella lehtipuulla ja satunnaisesti havupuulla Euroopassa, Pohjois-Amerikassa, Aasiassa, Afrikassa, Australiassa ja Uudessa-Seelannissa. Se on pääasiassa lahottaja ja satunnaisesti heikko loinen, aiheuttaa valkolahoa ja tuottaa itiöemiä ympäri vuoden.",
+      "cap": "1–8 cm leveä (usein sivuttain yhteen kasvanut jopa 10 cm pitkiksi aaltoileviksi riveiksi) ja puusta 1–3 cm ulkoneva, puoliympyrämäinen, viuhkamainen tai epäsäännöllinen tyveltään alustanmyötäinen lakki, tai täysin litteä resupinaattinen kerros pystysuorilla ja sahatuilla puupinnoilla. Paksuus on 0,5–1,5 mm (satunnaisesti 2 mm:iin asti). Yläpinta on nuorena ja tuoreena selvästi karvainen tai karkeakarvainen, muuttuu iän myötä sileämmäksi tai lähes kaljuksi, ja siinä on samankeskisiä vyöhykkeitä kirkkaankeltaisen, okran, oranssinkeltaisen, kellanruskean tai punaruskean sävyissä; reuna on vaaleampi, aaltoileva, poimuttunut tai liuskainen. Kosteilla paikoilla vanhat itiöemät saavat levistä usein vihertävän sävyn, kun taas kuivat lakit haalistuvat harmaanruskeiksi. Kaliumhydroksidi (KOH) värjää kaikki pinnat ensin punaisiksi ja sitten mustiksi.",
+      "hymenium": "Sileä pinta, enintään hieman epätasainen tai heikosti ryppyinen, ilman pillejä, helttoja tai piikkejä; tuoreena kirkkaankeltainen, keltanoranssi tai okranvaalea, haalistuu iän myötä tai kuivalla säällä vaalean harmaanruskeaksi. Talvehtineet ja kasvuaan jatkavat lakit näyttävät usein kaksivärisiltä, kun vanhempi osa on harmaa ja tuore reuna kirkkaan okrankeltainen. Tuore alapinta ei vuoda punaista nestettä leikattaessa tai vahingoitettaessa (vaikka lämpimän ilmaston nuoret muodot voivat satunnaisesti punoittaa hieman). Hyfidit ovat kärjestään pyöristyneitä tai tylpähkön suippoja ilman piikkimäisiä ulokkeita (akantohyfidit puuttuvat); runsaasti paksuseinäisiä pseudokystidejä (7–10 µm leveitä, yli 100 µm pitkiä, kärjestään ohutseinäisiä ja öljypitoisia) sekä hieman ulkonevia akutokystidejä (20–30 × 2–4 µm). Basidit ovat kapean nuijamaisia, 25–60 × 3–5 µm, neljäitiöisiä.",
+      "stipe": "Puuttuu; jalattomat, puoliresupinaattiset lakit kiinnittyvät puuhun leveästi takareunastaan tai alustanmyötäisen tyvensä kautta.",
+      "flesh": "Malto on ohutta (0,5–1,5 mm), sitkeää, taipuisaa ja nahkeaa, valkeahkoa; rihmastorakenne on monomiittinen, ja poikkileikkauksessa näkyy heti karvaisen pintakerroksen alla selvä ohut tummanruskea kuorikerros. Väri ei muutu leikattaessa. Haju on epämääräinen; maku on mieto ja epämääräinen.",
+      "sporePrint": "Valkoinen (usein vaikea saada). Basidioitiöt ovat sileitä, ohutseinäisiä, värittömiä, lieriömäisiä tai kapean ellipsoidisia, amyloideja ja kooltaan 5–8 × 2–3,5 µm (satunnaisesti jopa 11 × 4 µm).",
+      "habitat": "Lahottaja ja satunnaisesti heikko loinen lehtipuiden — erityisesti tammen ja pyökin sekä valkopyökin, koivun, lepän, pajun ja hedelmäpuiden — melko tuoreella kuolleella puulla ja huomattavasti harvemmin havupuilla, kuten kuusella ja männyllä. Kasvaa maahan pudonneilla oksilla, rungoilla, kannoilla, pystyyn kuolleella puulla sekä pinotulla tai sään armoilla olevalla puutavaralla aiheuttaen valkolahoa pääasiassa pintapuuhun. Itiöemiä esiintyy läpi vuoden tammikuusta joulukuuhun, ja aktiivinen itiöntuotanto on huipussaan kosteilla syys- ja talvisäillä; yksivuotiset lakit säilyvät yleisesti talven yli ja voivat jatkaa kasvuaan seuraavalla kaudella.",
+      "uses": "Syötäväksi kelpaamaton ohuen, sitkeän ja nahkean maltonsa vuoksi.",
+      "confusion": "Trametes versicolor -lajilla on sileän pinnan sijaan hienopillinen alapinta ja tavallisesti viileämmän harmaita, ruskeita tai sinertäviä samankeskisiä vyöhykkeitä. Stereum subtomentosum muodostaa suurempia lakkeja (3–10 cm leveitä), joiden yläpinta on karkeakarvaisen sijaan hienosti samettinen, tyvi kapeampi, suippeneva tai hieman jalkamainen ja tuore alapinta keltaiseksi värjäytyvä hangattaessa. Stereum gausapatum ja Stereum sanguinolentum vuotavat molemmat punaista nestettä, kun niiden tuoretta alapintaa raaputetaan tai leikataan, ja Stereum sanguinolentum kasvaa pääasiassa havupuilla. Stereum ostrea muodostaa suurempia, ohuempia ja leveämpiä viuhkoja, joiden yläpinta on vähemmän karvainen. Stereum rameale on paljon pienempi (noin 1 cm leveä ja 5 mm ulkoneva), eikä sen poikkileikkauksessa ole tummaa kuorikerrosta karvaisen pintakerroksen alla. Chondrostereum purpureum -lajilla on selvästi purppurainen tai violetti sileä alapinta.",
+      "notes": "Itiöemissä loisivat usein hyytelösienet, kuten Naematelia aurantia ja Phaeotremella frondosa, jotka ottavat ravinteita sen rihmoista haustorioiden avulla. Viininviljelyssä se toimii toissijaisena puunlahottajana viiniköynnöksen esca-taudissa Fomitiporia mediterranea -sienen ensisijaisen tartunnan jälkeen, ja se voi tartuttaa myös eläviä hedelmäpuita, kuten persikkaa. Tästä lajista ensimmäisen kerran vuonna 1966 eristetyllä seskviterpenoidilla, hirsutiinihappo C:llä, on todettu antibakteerista ja kasvaimia estävää vaikutusta, ja sen valkolahottajaentsyymijärjestelmää tutkitaan torjunta-aineiden hajottamiseen.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q557377"
+      ]
+    },
+    "fr": {
+      "label": "stérée hirsute",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Stérée_hirsute",
+      "description": "Champignon lignicole coriace très répandu, formant des croûtes et des consoles en étages denses et imbriqués sur du bois mort de feuillus et occasionnellement de conifères en Europe, en Amérique du Nord, en Asie, en Afrique, en Australie et en Nouvelle-Zélande. Principalement saprotrophe et parfois faiblement parasite, il provoque une pourriture blanche et fructifie toute l'année.",
+      "cap": "Large de 1–8 cm (souvent soudé latéralement en rangées ondulées atteignant 10 cm de long) et saillant de 1–3 cm sur le bois, semi-circulaire, en éventail ou irrégulier à base résupinée, ou formant des croûtes entièrement planes sur les surfaces verticales et les coupes de bois. L'épaisseur atteint 0,5–1,5 mm (occasionnellement jusqu'à 2 mm). La face supérieure est nettement poilue à hérissée chez les jeunes exemplaires frais, devenant plus lisse ou presque glabre avec l'âge, et présente des zones concentriques jaune vif, ocre, jaune orangé, brun fauve ou brun rougeâtre, avec une marge plus pâle, ondulée, frisée ou lobée. Les vieux sporophores en milieu humide prennent souvent une teinte verdâtre due aux algues, tandis que les consoles sèches pâlissent vers le gris-brun. L'hydroxyde de potassium (KOH) colore toutes les surfaces en rouge, puis en noir.",
+      "hymenium": "Surface lisse à légèrement inégale ou faiblement ridée, dépourvue de pores, de lames et d'aiguillons ; jaune vif, jaune orangé ou ocre chamois à l'état frais, pâlissant vers le gris-brun clair avec l'âge ou par temps sec. Les consoles ayant passé l'hiver et reprenant leur croissance paraissent souvent bicolores, avec une zone ancienne grise et une marge fraîche jaune ocre vif. La face inférieure fraîche ne laisse pas exsuder de liquide rouge à la coupe ou au froissement (bien que de jeunes formes de climat chaud puissent occasionnellement rougir légèrement). Les hyphidies ont des sommets arrondis à subaigus sans projections épineuses (acanthohyphidies absentes) ; d'abondantes pseudocystides à paroi épaisse (7–10 µm de large, plus de 100 µm de long, à extrémité à paroi mince et contenu apical huileux) et des acutocystides légèrement saillantes (20–30 × 2–4 µm) sont présentes. Les basides sont étroitement clavées, de 25–60 × 3–5 µm, tétrasporiques.",
+      "stipe": "Absent ; les consoles sessiles, étalées-réfléchies, s'attachent largement au bois par leur marge postérieure ou par une base résupinée.",
+      "flesh": "Chair mince (0,5–1,5 mm), tenace, souple et coriace, blanchâtre, à système hyphal monomitique et présentant en coupe transversale une fine ligne corticale brun foncé bien distincte directement sous la couche poilue supérieure. Immuable à la coupe. Odeur indistincte ; saveur douce et indistincte.",
+      "sporePrint": "Blanche (souvent difficile à obtenir). Les basidiospores sont lisses, à paroi mince, hyalines, cylindriques à étroitement ellipsoïdes, amyloïdes, et mesurent 5–8 × 2–3,5 µm (occasionnellement jusqu'à 11 × 4 µm).",
+      "habitat": "Saprotrophe et occasionnellement faiblement parasite sur du bois mort relativement frais de feuillus — notamment le chêne et le hêtre, ainsi que le charme, le bouleau, l'aulne, le saule et les arbres fruitiers — et beaucoup plus rarement sur des conifères comme l'épicéa et le pin. Fructifie sur les branches tombées, les troncs, les souches, le bois mort sur pied et le bois empilé ou exposé aux intempéries, provoquant une pourriture blanche principalement dans l'aubier. Les sporophores s'observent toute l'année, de janvier à décembre, la sporulation active atteignant son maximum par temps humide en automne et en hiver ; les consoles annuelles persistent couramment durant l'hiver et peuvent reprendre leur croissance la saison suivante.",
+      "uses": "Non comestible en raison de sa chair mince, tenace et coriace.",
+      "confusion": "Trametes versicolor présente une face inférieure finement porée plutôt que lisse et arbore généralement des zones concentriques plus froides, grises, brunes ou bleuâtres. Stereum subtomentosum forme des consoles plus grandes (3–10 cm de large) à face supérieure finement veloutée plutôt qu'hérissée, à base plus étroite, pincée ou légèrement stipitée, et dont la face inférieure fraîche jaunit au frottement. Stereum gausapatum et Stereum sanguinolentum exsudent tous deux un liquide rouge lorsque leur face inférieure fraîche est grattée ou coupée, et Stereum sanguinolentum pousse principalement sur conifères. Stereum ostrea forme des éventails plus grands, plus minces et plus larges, à face supérieure moins hérissée. Stereum rameale est beaucoup plus petit (environ 1 cm de large pour 5 mm de saillie) et ne présente pas de ligne corticale sombre sous la couche poilue supérieure en coupe transversale. Chondrostereum purpureum possède une face inférieure lisse nettement pourprée à violacée.",
+      "notes": "Les sporophores sont fréquemment parasités par des champignons gélatineux trémelloïdes tels que Naematelia aurantia et Phaeotremella frondosa, qui puisent des nutriments dans ses hyphes au moyen d'haustoriums. En viticulture, il intervient comme agent secondaire de pourriture du bois dans la maladie de l'esca de la vigne après une infection primaire par Fomitiporia mediterranea, et il peut également infecter des arbres fruitiers vivants comme le pêcher. Le sesquiterpénoïde acide hirsutique C, isolé pour la première fois chez cette espèce en 1966, présente une activité antibactérienne et antinéoplasique, et son système enzymatique de pourriture blanche est étudié pour la dégradation des pesticides.",
+      "sourceUrls": [
+        "https://fr.wikipedia.org/wiki/Stérée_hirsute",
+        "https://www.wikidata.org/wiki/Q557377"
+      ]
+    },
+    "he": {
+      "description": "פטריית קרום ומדף עורית, נפוצה ומפרקת עץ, הגדלה בקומות צפופות וחופפות על עץ מת של עצי רחבי-עלים ולעיתים על עץ של מחטניים ברחבי אירופה, אמריקה הצפונית, אסיה, אפריקה, אוסטרליה וניו זילנד. היא בעיקר סאפרוטרופית ולעיתים טפילית חלשה, גורמת לריקבון לבן ומניבה גופי פרי לאורך כל השנה.",
+      "cap": "רוחב הכובע 1–8 ס\"מ (לעיתים קרובות מאוחה מהצדדים לשורות גליות באורך של עד 10 ס\"מ), בולט 1–3 ס\"מ מהעץ ועוביו 0.5–1.5 מ\"מ (לעיתים עד 2 מ\"מ), חצי עגול, דמוי מניפה או בלתי סדיר עם בסיס צמוד ושטוח, או יוצר קרומים שטוחים לחלוטין על משטחי עץ אנכיים וחתוכים. המשטח העליון שעיר בבירור עד זיפני בצעירותו וכשהוא טרי, נעשה חלק יותר או כמעט קירח עם הגיל, ומפוספס בפסים קונצנטריים בגוני צהוב בהיר, אוכרה, כתום-צהוב, חום בהיר או חום-אדמדם, עם שוליים בהירים יותר, גליים, מסולסלים או בעלי אונות. גופי פרי בוגרים באתרים לחים מקבלים לעיתים קרובות גוון ירקרק מאצות, ואילו מדפים יבשים דוהים לכיוון חום-אפרפר. אשלגן הידרוקסיד (KOH) הופך את כל המשטחים לאדומים ואחר כך לשחורים.",
+      "hymenium": "משטח חלק עד מעט לא אחיד או מקומט קלות, ללא נקבוביות, דפים או שיניים; צהוב בהיר, צהוב-כתום או אוכרה-צהבהב כשהוא טרי, ודוהה לחום-אפרפר חיוור עם הגיל או במזג אוויר יבש. מדפים שעברו את החורף ומחדשים צמיחה נראים לעיתים קרובות דו-גוניים, עם אזור ישן אפור ושוליים טריים בגוון צהוב-אוכרה בהיר. המשטח התחתון הטרי אינו מפריש נוזל אדום בחיתוך או בפגיעה (אם כי צורות צעירות באקלים חם עשויות לעיתים להאדים קלות). ההיפידיות בעלות קצוות מעוגלים עד חדים למחצה ללא זיזים קוצניים (אקנתוהיפידיות חסרות); קיימות בשפע פסאודוציסטידיות עבות-דופן (רוחב 7–10 מיקרומטר, אורך מעל 100 מיקרומטר, עם קצוות דקי-דופן ותוכן שומני בקצה) ואקוטוציסטידיות הבולטות מעט (20–30 × 2–4 מיקרומטר). הבסידיות דמויות אלה צרה, 25–60 × 3–5 מיקרומטר, בעלות ארבעה נבגים.",
+      "stipe": "רגל חסרה; המדפים חסרי הרגל, הפרושים-כפופים, צמודים באופן רחב לעץ לאורך שוליהם האחוריים או באמצעות בסיס שטוח וצמוד.",
+      "flesh": "הבשר דק (0.5–1.5 מ\"מ), קשיח, גמיש ועורי, לבנבן, בעל מערכת קורים מונומיטית ועם קו קליפתי דק ובולט בצבע חום כהה הנראה בחתך רוחב ישירות מתחת לשכבה השעירה העליונה. אינו משנה את צבעו בחיתוך. הריח בלתי מובחן; הטעם עדין ובלתי מובחן.",
+      "sporePrint": "לבן (לעיתים קרובות קשה להשגה). הבסידיוספורים חלקים, דקי-דופן, שקופים, גליליים עד אליפסואידיים צרים, עמילואידים, וגודלם 5–8 × 2–3.5 מיקרומטר (לעיתים עד 11 × 4 מיקרומטר).",
+      "habitat": "סאפרוטרופית ולעיתים טפילית חלשה על עץ מת טרי יחסית של עצי רחבי-עלים — במיוחד אלון ואשור אירופי, וכן קרפינוס, שדר, אלנוס, ערבה ועצי פרי — והרבה פחות שכיחה על מחטניים כגון אשוחית ואורן. מניבה גופי פרי על ענפים שנשרו, גזעים, גדמים, עצים מתים עומדים ועץ ערום או חשוף לפגעי מזג האוויר, וגורמת לריקבון לבן בעיקר בעץ הלווה. גופי פרי מופיעים לאורך כל השנה מינואר עד דצמבר, כששיא ייצור הנבגים הפעיל חל במזג אוויר לח בסתיו ובחורף; מדפים חד-שנתיים שורדים לעיתים קרובות את החורף ועשויים לחדש צמיחה בעונה הבאה.",
+      "uses": "לא למאכל בשל מרקמה הדק, הקשיח והעורי.",
+      "confusion": "למין Trametes versicolor יש משטח תחתון מנוקב בנקבוביות עדינות במקום משטח חלק, ולרוב מופיעים עליו פסים קונצנטריים בגוונים קרים יותר של אפור, חום או כחלחל. המין Stereum subtomentosum יוצר מדפים גדולים יותר (רוחב 3–10 ס\"מ) עם משטח עליון קטיפתי עדין במקום זיפני, בסיס צר יותר, מכווץ או מעט דמוי רגל, ומשטח תחתון טרי המצהיב בשפשוף. המינים Stereum gausapatum ו-Stereum sanguinolentum מפרישים שניהם נוזל אדום כששורטים או חותכים את המשטח התחתון הטרי שלהם, ו-Stereum sanguinolentum גדל בעיקר על מחטניים. המין Stereum ostrea יוצר מניפות גדולות, דקות ורחבות יותר עם משטח עליון פחות זיפני. המין Stereum rameale קטן בהרבה (רוחב כ-1 ס\"מ, בולט 5 מ\"מ) וחסר את הקו הקליפתי הכהה מתחת לשכבה השעירה העליונה בחתך רוחב. למין Chondrostereum purpureum יש משטח תחתון חלק בצבע ארגמני עד סגלגל מובהק.",
+      "notes": "על גופי הפרי מתארחות לעיתים קרובות פטריות ג'לי טפילות כגון Naematelia aurantia ו-Phaeotremella frondosa, השואבות חומרי הזנה מקוריה באמצעות האוסטוריה. בגידול גפנים היא משמשת כפתוגן משני לריקבון עץ במחלת אסקא של גפנים בעקבות הדבקה ראשונית של Fomitiporia mediterranea, והיא עלולה להדביק גם עצי פרי חיים כגון אפרסק. הססקוויטרפנואיד חומצה הירסוטית C, שבודד לראשונה ממין זה בשנת 1966, מציג פעילות אנטיבקטריאלית ואנטי-נאופלסטית, ומערכת אנזימי הריקבון הלבן שלה נחקרת לפירוק חומרי הדברה.",
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "एक व्यापक रूप से पाया जाने वाला, चमड़े जैसा लकड़ी सड़ाने वाला पपड़ीदार और शेल्फनुमा कवक है, जो यूरोप, उत्तरी अमेरिका, एशिया, अफ्रीका, ऑस्ट्रेलिया और न्यूज़ीलैंड में मृत कठोर लकड़ी तथा कभी-कभी शंकुधारी लकड़ी पर घनी, एक-दूसरे पर चढ़ी हुई परतों में उगता है। यह मुख्य रूप से मृतोपजीवी और कभी-कभी हल्का परजीवी होता है, सफेद सड़न पैदा करता है और साल भर फलन करता है।",
+      "cap": "टोपी 1–8 cm चौड़ी होती है (अक्सर किनारों से जुड़कर 10 cm तक लंबी लहरदार कतारें बना लेती है) और लकड़ी से 1–3 cm बाहर निकली रहती है। इसकी मोटाई 0.5–1.5 mm (कभी-कभी 2 mm तक) होती है; आकार अर्धवृत्ताकार, पंखे जैसा या अनियमित होता है जिसका आधार लकड़ी से चिपका रहता है, अथवा खड़ी व कटी हुई लकड़ी की सतहों पर यह पूरी तरह सपाट पपड़ी के रूप में फैलता है। ऊपरी सतह युवा और ताज़ा अवस्था में स्पष्ट रूप से रोएँदार से काँटेदार-बालों वाली होती है, जो उम्र के साथ चिकनी या लगभग गंजी हो जाती है। इस पर चमकदार पीले, गेरुए, नारंगी-पीले, हल्के भूरे या लाल-भूरे रंग की संकेंद्रित धारियाँ होती हैं और किनारा हल्के रंग का, लहरदार, झालरदार या पालियुक्त होता है। नम स्थानों में पुराने फलनकाय शैवाल के कारण अक्सर हरे रंग की झलक ले लेते हैं, जबकि सूखने पर रंग फीका पड़कर धूसर-भूरा हो जाता है। पोटैशियम हाइड्रॉक्साइड (KOH) लगाने पर सभी सतहें पहले लाल और फिर काली पड़ जाती हैं।",
+      "hymenium": "निचली सतह चिकनी से हल्की असमान या मंद झुर्रीदार होती है और इसमें छिद्र, गिल्स या दांते नहीं होते। ताज़ा अवस्था में यह चमकदार पीली, पीली-नारंगी या गेरुआ-बादामी होती है, जो उम्र के साथ या शुष्क मौसम में हल्की धूसर-भूरी पड़ जाती है। सर्दियों के बाद फिर से बढ़ने वाली टोपियाँ अक्सर दो-रंगी दिखती हैं, जिनमें पुराना भाग धूसर और नया किनारा चमकदार गेरुआ-पीला होता है। ताज़ा निचली सतह को काटने या खरोंचने पर लाल द्रव नहीं निकलता (हालाँकि गर्म जलवायु के युवा रूपों में कभी-कभी हल्की लालिमा आ सकती है)। हाइफिडिया के सिरे गोल से हल्के नुकीले होते हैं और उनमें काँटेदार उभार नहीं होते (एकैंथोहाइफिडिया अनुपस्थित); मोटी भित्ति वाले स्यूडोसिस्टिडिया (7–10 µm चौड़े, 100 µm से अधिक लंबे, पतली भित्ति वाले सिरों और तैलीय शीर्ष सामग्री के साथ) प्रचुर मात्रा में होते हैं तथा हल्के उभरे हुए एक्यूटोसिस्टिडिया (20–30 × 2–4 µm) भी पाए जाते हैं। बेसिडियम संकरे गदाकार, 25–60 × 3–5 µm और चार-बीजाणु वाले होते हैं।",
+      "stipe": "डंठल अनुपस्थित होता है; डंठलविहीन, फैले-मुड़े हुए फलनकाय अपने पिछले किनारे से या चिपके हुए आधार के माध्यम से लकड़ी पर चौड़ाई से जुड़े रहते हैं।",
+      "flesh": "गूदा पतला (0.5–1.5 mm), सख्त, लचीला और चमड़े जैसा तथा सफेदी लिए होता है, जिसमें एकल-तंतु (मोनोमिटिक) कवकतंतु प्रणाली होती है। अनुप्रस्थ काट में ऊपरी रोएँदार परत के ठीक नीचे एक स्पष्ट पतली गहरी भूरी कॉर्टिकल रेखा दिखाई देती है। काटने पर रंग नहीं बदलता। गंध अस्पष्ट और स्वाद हल्का व अस्पष्ट होता है।",
+      "sporePrint": "बीजाणु छाप सफेद होती है (अक्सर प्राप्त करना कठिन होता है)। बेसिडियोबीजाणु चिकने, पतली भित्ति वाले, पारदर्शी, बेलनाकार से संकरे अंडाकार, ऐमिलॉइड होते हैं और इनका माप 5–8 × 2–3.5 µm (कभी-कभी 11 × 4 µm तक) होता है।",
+      "habitat": "यह अपेक्षाकृत ताज़ी मृत चौड़ी पत्ती वाले पेड़ों की लकड़ी—विशेष रूप से ओक और यूरोपीय बीच, साथ ही हॉर्नबीम, बर्च, एल्डर, विलो और फलों के पेड़ों—पर मृतोपजीवी और कभी-कभी हल्का परजीवी होता है, तथा स्प्रूस और चीड़ जैसे शंकुधारी पेड़ों पर बहुत कम पाया जाता है। यह गिरी हुई शाखाओं, लट्ठों, ठूँठों, खड़ी मृत लकड़ी और ढेर या मौसम से प्रभावित इमारती लकड़ी पर उगता है और मुख्यतः रसकाष्ठ (सैपवुड) में सफेद सड़न पैदा करता है। फलनकाय जनवरी से दिसंबर तक पूरे वर्ष दिखाई देते हैं, जिनमें सक्रिय बीजाणु उत्पादन नम शरद और शीत ऋतु में चरम पर होता है; वार्षिक फलनकाय प्रायः सर्दियों भर बने रहते हैं और अगले मौसम में फिर से बढ़ सकते हैं।",
+      "uses": "अपनी पतली, सख्त और चमड़े जैसी बनावट के कारण अखाद्य है।",
+      "confusion": "Trametes versicolor की निचली सतह चिकनी होने के बजाय बारीक छिद्रयुक्त होती है और इस पर आमतौर पर ठंडे धूसर, भूरे या नीलेपन लिए संकेंद्रित बैंड होते हैं। Stereum subtomentosum की टोपियाँ बड़ी (3–10 cm चौड़ी) होती हैं, जिनकी ऊपरी सतह कड़े बालों के बजाय बारीक मखमली होती है, आधार संकरा, सिकुड़ा हुआ या हल्का डंठलनुमा होता है और रगड़ने पर ताज़ा निचली सतह पीली पड़ जाती है। Stereum gausapatum और Stereum sanguinolentum दोनों की ताज़ा निचली सतह को खरोंचने या काटने पर लाल द्रव निकलता है, और Stereum sanguinolentum मुख्यतः शंकुधारी पेड़ों पर उगता है। Stereum ostrea बड़े, पतले और अधिक चौड़े पंखे बनाता है जिनकी ऊपरी सतह कम काँटेदार होती है। Stereum rameale बहुत छोटा होता है (लगभग 1 cm चौड़ा) और लकड़ी से केवल 5 mm बाहर निकलता है; इसके अनुप्रस्थ काट में ऊपरी रोएँदार परत के नीचे गहरी कॉर्टिकल रेखा नहीं होती। Chondrostereum purpureum की चिकनी निचली सतह स्पष्ट रूप से बैंगनी से जामुनी रंग की होती है।",
+      "notes": "इसके फलनकायों पर अक्सर Naematelia aurantia और Phaeotremella frondosa जैसे जेली कवक परजीवी के रूप में उगते हैं, जो हॉस्टोरिया के माध्यम से इसके कवकतंतुओं से पोषक तत्व खींचते हैं। अंगूर की खेती में यह Fomitiporia mediterranea के प्राथमिक संक्रमण के बाद अंगूर की बेलों के एस्का (esca) रोग में द्वितीयक लकड़ी-सड़न रोगजनक के रूप में कार्य करता है, और आड़ू जैसे जीवित फलों के पेड़ों को भी संक्रमित कर सकता है। इस प्रजाति से पहली बार 1966 में पृथक किया गया सेस्क्विटरपेनॉइड हिरसुटिक अम्ल C (hirsutic acid C) जीवाणुरोधी और अर्बुदरोधी सक्रियता दर्शाता है, तथा इसकी सफेद-सड़न एंजाइम प्रणाली का अध्ययन कीटनाशकों के अपघटन के लिए किया जाता है।",
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Široko rasprostranjena, kožasta lignikolna korasta i konzolasta gljiva koja raste u gustim, crijepasto poredanim nizovima na mrtvom drvu bjelogorice te povremeno crnogorice diljem Europe, Sjeverne Amerike, Azije, Afrike, Australije i Novog Zelanda. Pretežno je saprotrofna, a povremeno slabo parazitska; uzrokuje bijelu trulež i plodi tijekom cijele godine.",
+      "cap": "1–8 cm širok (često bočno srastao u valovite redove duge do 10 cm), strši 1–3 cm od drva. Debljina plodnog tijela iznosi 0,5–1,5 mm, povremeno do 2 mm. Polukružnog je, lepezastog ili nepravilnog oblika s priraslom resupinatnom bazom, ili na okomitim i piljenim površinama drva tvori posve ravne kore. Gornja površina je u mladosti i svježem stanju izrazito dlakava do čekinjasta, s vremenom postaje glađa ili gotovo gola, a koncentrično je zonirana u jarko žutoj, oker, narančastožutoj, žutosmeđoj ili crvenkastosmeđoj boji sa svjetlijim, valovitim, naboranim ili krpastim rubom. Starija plodna tijela na vlažnim staništima često poprimaju zelenkastu nijansu od algi, dok suhi klobuci blijede prema sivosmeđoj boji. Kalijev hidroksid (KOH) oboji sve površine najprije crveno, a zatim crno.",
+      "hymenium": "Glatka do blago neravna ili slabo naborana plodna površina, bez pora, listića ili bodlji; u svježem stanju jarko žuta, žutonarančasta ili okeržuta, a sa starošću ili po suhom vremenu blijedi u blijedo sivosmeđu. Prezimjela plodna tijela koja nastave rasti često izgledaju dvobojno, sa sivom starijom zonom i jarko okeržutim svježim rubom. Svježa donja strana pri rezanju ili ozljedi ne ispušta crvenu tekućinu (iako mladi oblici iz toplijih krajeva ponekad mogu blago pocrvenjeti). Hifidije imaju zaobljene do blago zašiljene vrhove bez trnastih izraslina (akantohifidije nedostaju); prisutne su brojne debelostjene pseudocistide (7–10 µm široke, dulje od 100 µm, s tankostjenim vrhovima i uljastim apikalnim sadržajem) te blago stršeće akutocistide (20–30 × 2–4 µm). Bazidiji su usko batinasti, 25–60 × 3–5 µm, četverosporni.",
+      "stipe": "Stručak nedostaje; sjedeća, poluodmaknuta plodna tijela široko su prirasla uz drvo duž stražnjeg ruba ili preko resupinatne baze.",
+      "flesh": "Tanko (0,5–1,5 mm), žilavo, savitljivo i kožasto, bjelkasto, s monomitičnim sustavom hifa i jasnom tankom tamnosmeđom kortikalnom linijom vidljivom u presjeku neposredno ispod gornjeg dlakavog sloja. Na presjeku ne mijenja boju. Miris je neizrazit; okus blag i neizrazit.",
+      "sporePrint": "Bijel (često ga je teško dobiti). Bazidiospore su glatke, tankostjene, hijaline, cilindrične do usko elipsoidne, amiloidne i mjere 5–8 × 2–3,5 µm (povremeno do 11 × 4 µm).",
+      "habitat": "Saprotrofna i povremeno slabo parazitska na relativno svježem mrtvom drvu bjelogoričnog drveća – osobito hrasta i europske bukve, kao i graba, breze, johe, vrbe i voćaka – te znatno rjeđe na crnogorici poput smreke i bora. Plodi na otpalim granama, trupcima, panjevima, stojećem mrtvom drvu te složenom ili izloženom drvu, uzrokujući bijelu trulež ponajprije u bjeljici. Plodna tijela javljaju se tijekom cijele godine, od siječnja do prosinca, s vrhuncem aktivnog oslobađanja spora za vlažnog jesenskog i zimskog vremena; jednogodišnja plodna tijela često prezimljuju i mogu nastaviti rast sljedeće sezone.",
+      "uses": "Nejestiva zbog svog tankog, žilavog i kožastog mesa.",
+      "confusion": "Trametes versicolor ima sitno porastu umjesto glatke donje površine i obično hladnije sive, smeđe ili plavkaste koncentrične pojaseve. Stereum subtomentosum tvori veća plodna tijela (3–10 cm široka) sa sitno baršunastom umjesto čekinjaste gornje površine, užom, suženom ili blago stručkastom bazom te svježom donjom stranom koja na dodir žuti. Stereum gausapatum i Stereum sanguinolentum ispuštaju crvenu tekućinu kada im se svježa donja strana zagrebe ili zareže, a Stereum sanguinolentum raste ponajprije na crnogorici. Stereum ostrea oblikuje veće, tanje i šire lepeze s manje čekinjastom gornjom površinom. Stereum rameale znatno je manji (oko 1 cm širok; strši 5 mm) i u presjeku nema tamnu kortikalnu liniju ispod gornjeg dlakavog sloja. Chondrostereum purpureum ima izrazito purpurnu do ljubičastu glatku donju površinu.",
+      "notes": "Na plodnim tijelima često parazitiraju želatinozne gljive poput Naematelia aurantia i Phaeotremella frondosa, koje iz njezinih hifa crpe hranjive tvari putem haustorija. U vinogradarstvu djeluje kao sekundarni patogen truleži drva kod bolesti esca vinove loze nakon primarne zaraze gljivom Fomitiporia mediterranea, a može zaraziti i žive voćke, primjerice breskvu. Seskviterpenoid hirzutinska kiselina C, prvi put izolirana iz ove vrste 1966. godine, pokazuje antibakterijsko i protutumorsko djelovanje, a njezin enzimski sustav bijele truleži proučava se za razgradnju pesticida.",
+      "sourceUrls": []
+    },
+    "hu": {
+      "label": "borostás réteggomba",
+      "wikipedia": "https://hu.wikipedia.org/wiki/Borostás_réteggomba",
+      "description": "Széles körben elterjedt, bőrszerű fabontó réteg- és konzolos gomba, amely sűrűn, egymás felett elhelyezkedő sorokban nő elhalt lombos fák és ritkábban tűlevelűek faanyagán Európában, Észak-Amerikában, Ázsiában, Afrikában, Ausztráliában és Új-Zélandon. Főként szaprotróf és alkalmanként gyenge élősködő, fehérkorhadást okoz, és egész évben terem.",
+      "cap": "1–8 cm széles (oldalirányban gyakran akár 10 cm hosszú, hullámos sorokká összenőve), a fától 1–3 cm-re áll el; félkör, legyező alakú vagy szabálytalan, aljzatra simuló alappal, illetve függőleges és vágott fafelületeken teljesen lapos bevonatot alkot. Vastagsága 0,5–1,5 mm (alkalmanként 2 mm-ig). Felső felülete fiatalon és frissen kifejezetten szőrös-borostás, idősebben simábbá vagy csaknem kopasszá válik, és koncentrikusan zónázott élénksárga, okker, narancssárga, sárgásbarna vagy vörösesbarna színekkel, világosabb, hullámos, fodros vagy karéjos szegéllyel. Párás helyeken az idős termőtestek az algáktól gyakran zöldes árnyalatot kapnak, míg a száraz konzolok szürkésbarnára fakulnak. A kálium-hidroxid (KOH) minden felületet előbb vörösre, majd feketére színez.",
+      "hymenium": "Sima, enyhén egyenetlen vagy gyengén ráncos, pórusok, lemezek és tüskék nélkül; frissen élénksárga, narancssárga vagy okkeres bőrszínű, idősebben vagy száraz időben halvány szürkésbarnára fakul. Az áttelelt, növekedésüket újraindító konzolok gyakran kétszínűnek látszanak, szürke idősebb zónával és élénk okkersárga friss szegéllyel. Friss alsó felülete vágásra vagy nyomásra nem ereszt vörös nedvet (bár a meleg éghajlatú fiatal példányok néha enyhén vörösödhetnek). A hifídiumok csúcsa lekerekített vagy tompán hegyes, tüskés nyúlványok nélkül (akantohifídiumok nincsenek); bőségesen találhatók vastag falú pszeudocisztídiumok (7–10 µm szélesek, több mint 100 µm hosszúak, vékony falú csúccsal és olajos csúcsi tartalommal), valamint enyhén kiemelkedő akutocisztídiumok (20–30 × 2–4 µm). A bazídiumok keskeny bunkó alakúak, 25–60 × 3–5 µm méretűek, négyspórásak.",
+      "stipe": "Nincs; az ülő, félig aljzatra simuló, konzolos termőtestek hátsó szegélyükkel vagy az aljzatra simuló alappal szélesen kapcsolódnak a fához.",
+      "flesh": "Húsa vékony (0,5–1,5 mm), szívós, rugalmas és bőrszerű, fehéres, monomitikus hifarendszerrel, keresztmetszetben pedig a felső szőrös réteg alatt közvetlenül jól látható vékony, sötétbarna kéregvonallal. Vágásra nem színeződik el. Szaga nem jellegzetes; íze enyhe, nem jellegzetes.",
+      "sporePrint": "Fehér (gyakran nehéz nyerni). A bazídiospórák simák, vékony falúak, színtelenek (hialinok), hengeresek vagy keskeny ellipszoid alakúak, amiloidok, méretük 5–8 × 2–3,5 µm (alkalmanként 11 × 4 µm-ig).",
+      "habitat": "Szaprotróf és alkalmanként gyenge élősködő lombos fák — különösen tölgy és bükk, valamint gyertyán, nyír, éger, fűz és gyümölcsfák — viszonylag friss holt fáján, és jóval ritkábban tűlevelűeken, például lucfenyőn és fenyőn. Lehullott ágakon, törzseken, tuskókon, lábon álló holt fán és felhalmozott vagy időjárásnak kitett faanyagon terem, elsősorban a szíjácsban okozva fehérkorhadást. Termőtestei egész évben, januártól decemberig megtalálhatók, az aktív spóratermelés pedig nedves őszi és téli időben tetőzik; az egyéves konzolok rendszerint áttelelnek, és a következő szezonban folytathatják növekedésüket.",
+      "uses": "Vékony, szívós, bőrszerű húsa miatt nem ehető.",
+      "confusion": "A Trametes versicolor alsó felülete nem sima, hanem finoman pórusos, és általában hidegebb szürke, barna vagy kékes koncentrikus sávokat mutat. A Stereum subtomentosum nagyobb konzolokat alkot (3–10 cm széles), felső felülete borostás helyett finoman bársonyos, alapja keskenyebb, elkeskenyedő vagy enyhén tönkszerű, friss alsó felülete pedig dörzsölésre megsárgul. A Stereum gausapatum és a Stereum sanguinolentum friss alsó felülete karcolásra vagy vágásra egyaránt vörös nedvet ereszt, és a Stereum sanguinolentum főként tűlevelűeken nő. A Stereum ostrea nagyobb, vékonyabb, szélesebb legyezőket alkot, kevésbé borostás felső felülettel. A Stereum rameale sokkal kisebb (körülbelül 1 cm széles, 5 mm-re áll el), és keresztmetszetében hiányzik a sötét kéregvonal a felső szőrös réteg alól. A Chondrostereum purpureum sima alsó felülete kifejezetten bíbor- vagy ibolyaszínű.",
+      "notes": "Termőtestein gyakran élősködnek kocsonyás rezgőgombák, például a Naematelia aurantia és a Phaeotremella frondosa, amelyek hausztóriumok segítségével vonnak el tápanyagot hifáiból. A szőlőtermesztésben másodlagos fabontó kórokozóként vesz részt a szőlő esca-betegségében a Fomitiporia mediterranea elsődleges fertőzését követően, és élő gyümölcsfákat, például őszibarackot is megfertőzhet. A fajból először 1966-ban izolált szeszkviterpenoid, a hirsutinsav C antibakteriális és daganatellenes aktivitást mutat, fehérkorhadást okozó enzimrendszerét pedig növényvédő szerek lebontására vizsgálják.",
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Borostás_réteggomba",
+        "https://www.wikidata.org/wiki/Q557377"
+      ]
+    },
+    "id": {
+      "description": "Jamur kerak dan jamur kipas pelapuk kayu yang tersebar luas dan bertekstur seperti kulit, tumbuh dalam susunan bertingkat yang rapat dan saling tumpang tindih pada kayu keras mati serta sesekali kayu konifer di Eropa, Amerika Utara, Asia, Afrika, Australia, dan Selandia Baru. Terutama bersifat saprotrof dan sesekali parasit lemah, jamur ini menyebabkan pelapukan putih dan berbuah sepanjang tahun.",
+      "cap": "Tudung berdiameter 1–8 cm (sering menyatu ke samping membentuk deretan bergelombang hingga sepanjang 10 cm), menonjol 1–3 cm dari kayu, berbentuk setengah lingkaran, kipas, atau tidak beraturan dengan pangkal resupinat, atau membentuk kerak rata sepenuhnya pada permukaan kayu vertikal dan potongan kayu. Tebalnya 0,5–1,5 mm (sesekali hingga 2 mm). Permukaan atasnya jelas berbulu hingga berambut kaku saat muda dan segar, menjadi lebih halus atau hampir gundul seiring usia, serta berpola zona konsentris berwarna kuning cerah, oker, kuning jingga, cokelat kekuningan, atau cokelat kemerahan dengan tepi lebih pucat yang bergelombang, berkerut, atau berlobus. Tubuh buah tua di tempat lembap sering tampak kehijauan akibat alga, sedangkan tudung kering memudar ke arah cokelat keabu-abuan. Larutan kalium hidroksida (KOH) mengubah semua permukaan menjadi merah, lalu hitam.",
+      "hymenium": "Permukaan bawah halus hingga sedikit tidak rata atau berkerut samar, tanpa pori, lamela, maupun duri; berwarna kuning cerah, kuning jingga, atau cokelat oker kekuningan saat segar, lalu memudar menjadi cokelat keabu-abuan pucat seiring usia atau dalam cuaca kering. Tudung yang melewati musim dingin dan tumbuh kembali sering tampak dua warna, dengan zona lama kelabu dan tepi baru kuning oker cerah. Permukaan bawah yang segar tidak mengeluarkan cairan merah saat dipotong atau memar (meskipun bentuk muda di iklim hangat sesekali dapat sedikit memerah). Hifidia berujung membulat hingga agak runcing tanpa tonjolan berduri (akantohifidia tidak ada); terdapat banyak pseudosistidia berdinding tebal (lebar 7–10 µm, panjang lebih dari 100 µm, dengan ujung berdinding tipis dan isi apikal berminyak) serta akutosistidia yang sedikit menonjol (20–30 × 2–4 µm). Basidium berbentuk gada sempit, berukuran 25–60 × 3–5 µm, berspora empat.",
+      "stipe": "Tangkai tidak ada; tudung sesil yang tumbuh merata-melipat ini melekat lebar pada kayu di sepanjang tepi belakangnya atau melalui pangkal resupinat.",
+      "flesh": "Daging tipis (0,5–1,5 mm), liat, lentur, dan seperti kulit, berwarna keputihan, dengan sistem hifa monomitik serta garis kortikal tipis cokelat tua yang jelas terlihat pada penampang melintang tepat di bawah lapisan berbulu atas. Warnanya tidak berubah saat dipotong. Bau tidak khas; rasa tawar dan tidak khas.",
+      "sporePrint": "Jejak spora putih (sering sulit diperoleh). Basidiospora halus, berdinding tipis, hialin, berbentuk silindris hingga elipsoid sempit, amiloid, berukuran 5–8 × 2–3,5 µm (sesekali hingga 11 × 4 µm).",
+      "habitat": "Saprotrof dan sesekali parasit lemah pada kayu mati yang relatif segar dari pohon berdaun lebar—terutama ek dan beech Eropa, serta hornbeam, birch, alder, willow, dan pohon buah—dan jauh lebih jarang pada konifer seperti cemara spruce dan pinus. Berbuah pada ranting tumbang, batang kayu, tunggul, kayu mati tegak, serta kayu tumpukan atau kayu lapuk, menyebabkan pelapukan putih terutama pada kayu gubal. Tubuh buah muncul sepanjang tahun dari Januari hingga Desember, dengan produksi spora aktif memuncak pada musim gugur dan musim dingin yang basah; tudung tahunan umumnya bertahan melewati musim dingin dan dapat melanjutkan pertumbuhan pada musim berikutnya.",
+      "uses": "Tidak dapat dimakan karena teksturnya yang tipis, liat, dan seperti kulit.",
+      "confusion": "Trametes versicolor memiliki permukaan bawah berpori halus alih-alih halus rata dan biasanya menampilkan pita konsentris bernuansa lebih dingin seperti kelabu, cokelat, atau kebiruan. Stereum subtomentosum membentuk tudung lebih besar (lebar 3–10 cm) dengan permukaan atas berbulu beludru halus alih-alih berambut kaku, pangkal yang lebih sempit, menyempit atau agak bertangkai, dan permukaan bawah segar yang menguning bila digosok. Stereum gausapatum dan Stereum sanguinolentum keduanya mengeluarkan cairan merah saat permukaan bawah segarnya digores atau dipotong, dan Stereum sanguinolentum tumbuh terutama pada konifer. Stereum ostrea membentuk kipas yang lebih besar, lebih tipis, dan lebih lebar dengan permukaan atas kurang berambut kaku. Stereum rameale jauh lebih kecil (lebar sekitar 1 cm) dan hanya menonjol 5 mm dari kayu, serta tidak memiliki garis kortikal gelap di bawah lapisan berbulu atas pada penampang melintang. Chondrostereum purpureum memiliki permukaan bawah halus yang jelas berwarna keunguan hingga ungu lembayung.",
+      "notes": "Tubuh buahnya sering diparasiti oleh jamur jeli kelompok tremelloid seperti Naematelia aurantia dan Phaeotremella frondosa, yang menyerap nutrien dari hifanya melalui haustoria. Dalam budi daya anggur, spesies ini berperan sebagai patogen pelapuk kayu sekunder pada penyakit esca tanaman anggur setelah infeksi primer oleh Fomitiporia mediterranea, dan juga dapat menginfeksi pohon buah hidup seperti persik. Seskuiterpenoid asam hirsutat C (hirsutic acid C), yang pertama kali diisolasi dari spesies ini pada tahun 1966, menunjukkan aktivitas antibakteri dan antineoplastik, sedangkan sistem enzim pelapuk putihnya diteliti untuk mendegradasi pestisida.",
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Fungo lignicolo coriaceo molto diffuso che cresce formando croste e mensole disposte in piani fitti e sovrapposti su legno morto di latifoglie e occasionalmente di conifere in Europa, Nord America, Asia, Africa, Australia e Nuova Zelanda. Prevalentemente saprotrofo e talvolta debolmente parassita, provoca una carie bianca e fruttifica durante tutto l'anno.",
+      "cap": "Largo 1–8 cm (spesso fuso lateralmente in file ondulate lunghe fino a 10 cm) e sporgente 1–3 cm dal legno, semicircolare, a ventaglio o irregolare con base resupinata, oppure in forma di croste completamente piatte su superfici verticali e tagli del legno. Lo spessore è di 0,5–1,5 mm (occasionalmente fino a 2 mm). La superficie superiore è distintamente pelosa o ispida negli esemplari giovani e freschi, diventando più liscia o quasi glabra con l'età, e mostra zone concentriche giallo vivo, ocra, giallo-arancio, bruno-fulvo o bruno-rossastro, con margine più pallido, ondulato, increspato o lobato. I carpofori vecchi in ambienti umidi assumono spesso una sfumatura verdastra dovuta alle alghe, mentre gli esemplari secchi scoloriscono verso il grigio-bruno. L'idrossido di potassio (KOH) colora tutte le superfici di rosso e poi di nero.",
+      "hymenium": "Superficie liscia o leggermente irregolare, talvolta debolmente rugosa, priva di pori, lamelle e aculei; giallo vivo, giallo-arancio o ocra-camoscio da fresca, scolorente al grigio-bruno pallido con l'età o con tempo secco. Le mensole che hanno superato l'inverno e riprendono la crescita appaiono spesso bicolori, con una zona più vecchia grigia e un margine fresco giallo-ocra vivo. La faccia inferiore fresca non secerne liquido rosso al taglio o alla pressione (sebbene giovani forme di climi caldi possano occasionalmente arrossare leggermente). Gli ifidi hanno apici arrotondati o subacuti privi di proiezioni spinose (acantoifidi assenti); sono presenti abbondanti pseudocistidi a parete spessa (larghi 7–10 µm, lunghi oltre 100 µm, con apice a parete sottile e contenuto apicale oleoso) e acutocistidi leggermente sporgenti (20–30 × 2–4 µm). I basidi sono strettamente clavati, 25–60 × 3–5 µm, tetrasporici.",
+      "stipe": "Assente; le mensole sessili, effuso-reflesse, aderiscono ampiamente al legno lungo il margine posteriore o tramite una base resupinata.",
+      "flesh": "Carne sottile (0,5–1,5 mm), tenace, flessibile e coriacea, biancastra, con sistema ifale monomitico e una sottile linea corticale bruno scuro ben evidente in sezione trasversale subito sotto lo strato peloso superiore. Immutabile al taglio. Odore indistinto; sapore mite e indistinto.",
+      "sporePrint": "Bianca (spesso difficile da ottenere). Le basidiospore sono lisce, a parete sottile, ialine, cilindriche o strettamente ellissoidi, amiloidi, e misurano 5–8 × 2–3,5 µm (occasionalmente fino a 11 × 4 µm).",
+      "habitat": "Saprotrofo e occasionalmente debolmente parassita su legno morto relativamente fresco di latifoglie — in particolare quercia e faggio, oltre a carpino, betulla, ontano, salice e alberi da frutto — e molto più raramente su conifere come abete rosso e pino. Fruttifica su rami caduti, tronchi, ceppaie, legno morto in piedi e legname accatastato o esposto alle intemperie, provocando una carie bianca soprattutto nell'alburno. I carpofori sono presenti tutto l'anno da gennaio a dicembre, con la produzione attiva di spore che raggiunge il picco nel clima umido autunnale e invernale; le mensole annuali persistono comunemente durante l'inverno e possono riprendere a crescere nella stagione successiva.",
+      "uses": "Non commestibile per la carne sottile, tenace e coriacea.",
+      "confusion": "Trametes versicolor ha la superficie inferiore finemente porata anziché liscia e mostra di solito bande concentriche più fredde di colore grigio, bruno o bluastro. Stereum subtomentosum forma mensole più grandi (3–10 cm di larghezza) con superficie superiore finemente vellutata anziché ispida, base più stretta, attenuata o leggermente stipitata, e superficie inferiore fresca che ingiallisce allo sfregamento. Stereum gausapatum e Stereum sanguinolentum secernono entrambi un liquido rosso quando la superficie inferiore fresca viene graffiata o tagliata, e Stereum sanguinolentum cresce principalmente su conifere. Stereum ostrea forma ventagli più grandi, sottili e larghi con superficie superiore meno ispida. Stereum rameale è molto più piccolo (circa 1 cm di larghezza con 5 mm di sporgenza) ed è privo della linea corticale scura sotto lo strato peloso superiore in sezione trasversale. Chondrostereum purpureum presenta una superficie inferiore liscia nettamente purpurea o violacea.",
+      "notes": "I carpofori sono frequentemente parassitati da funghi gelatinosi tremelloidi come Naematelia aurantia e Phaeotremella frondosa, che assorbono nutrienti dalle sue ife tramite austori. In viticoltura agisce come patogeno secondario della carie del legno nel mal dell'esca della vite in seguito all'infezione primaria da Fomitiporia mediterranea, e può infettare anche alberi da frutto vivi come il pesco. Il sesquiterpenoide acido irsutico C, isolato per la prima volta da questa specie nel 1966, mostra attività antibatterica e antineoplastica, e il suo sistema enzimatico di carie bianca è studiato per la degradazione dei pesticidi.",
+      "sourceUrls": []
+    },
+    "ja": {
+      "label": "キウロコタケ",
+      "wikipedia": "https://ja.wikipedia.org/wiki/キウロコタケ",
+      "description": "ヨーロッパ、北アメリカ、アジア、アフリカ、オーストラリア、ニュージーランドに広く分布する革質の木材腐朽性菌類で、広葉樹の枯れ木やまれに針葉樹材上に密集して瓦状に重なり合って発生します。主に腐生性で、まれに弱い寄生性を示し、白色腐朽を引き起こして周年発生します。",
+      "cap": "傘は幅1–8 cm（しばしば側方で癒合して長さ10 cmに達する波状の列を作ります）で、材から1–3 cm突出し、半円形・扇形・不規則形で背着性の基部を持つか、垂直面や伐採面では完全に平らな背着性の被膜を形成します。厚さは0.5–1.5 mm（まれに2 mm）です。上面は若く新鮮なうちは明瞭な毛〜剛毛に覆われ、老成すると平滑またはほぼ無毛になり、鮮やかな黄色・黄土色・橙黄色・黄褐色・赤褐色の同心円状の環紋を示し、縁は淡色で波打ち、ひだ状または浅裂状になります。湿潤な場所の古い子実体は藻類の付着により緑色を帯びることがあり、乾燥した子実体は灰褐色へと褪色します。水酸化カリウム（KOH）溶液によりすべての表面が赤変し、その後黒変します。",
+      "hymenium": "子実層面は平滑からやや不均一またはわずかにしわ状で、管孔・ひだ・針状突起を欠きます。新鮮時は鮮やかな黄色・黄橙色・黄土色を帯びた淡黄褐色ですが、老成または乾燥すると淡灰褐色に褪色します。越冬して再び生長した傘は、灰色の古い部分と鮮やかな黄土色の新しい縁からなる二色調に見えることがよくあります。新鮮な下面は傷つけたり切ったりしても赤い汁液を出しません（温暖地の若い個体ではまれにわずかに赤みを帯びることがあります）。菌糸状体（hyphidia）は先端が丸み〜やや尖り、棘状突起を欠きます（棘状菌糸状体なし）。厚壁の偽シスチジア（幅7–10 µm、長さ100 µm以上、先端は薄壁で油状内容物を含む）が多数見られ、わずかに突出する尖頭シスチジア（20–30 × 2–4 µm）も存在します。担子は細長いこん棒形で25–60 × 3–5 µm、4胞子性です。",
+      "stipe": "柄はありません。無柄で背着反転性の傘が、後縁で広く材に付着するか、背着性の基部を介して付着します。",
+      "flesh": "肉は薄く（0.5–1.5 mm）、強靭でしなやかな革質、帯白色で、一菌糸型です。断面では上面の毛層の直下に明瞭な細い暗褐色の皮層線が見られます。切断しても変色しません。においは特徴がなく、味は温和で特徴がありません。",
+      "sporePrint": "胞子紋は白色です（採取しにくいことが多いです）。担子胞子は平滑、薄壁、無色透明、円柱形〜狭楕円形でアミロイド性を示し、大きさは5–8 × 2–3.5 µm（まれに11 × 4 µmまで）です。",
+      "habitat": "広葉樹の比較的新鮮な枯れ木—特にナラ類やヨーロッパブナをはじめ、シデ類、カバノキ類、ハンノキ類、ヤナギ類、果樹—に腐生し、まれに弱い寄生性を示します。トウヒ類やマツ類などの針葉樹にははるかにまれです。落枝、倒木、切り株、立ち枯れ木、積み上げられた木材や風化した材に発生し、主に辺材に白色腐朽を引き起こします。1月から12月まで年間を通じて子実体が見られ、湿潤な秋から冬にかけて胞子形成が最も活発になります。一年生の子実体はしばしば越冬し、翌季に再び生長することがあります。",
+      "uses": "薄く強靭な革質のため、不食です。",
+      "confusion": "カワラタケ（Trametes versicolor）は下面が平滑ではなく微細な管孔をもち、通常は灰色・褐色・青みがかった寒色系の同心環紋を示します。Stereum subtomentosum はより大型の傘（幅3–10 cm）を作り、上面は剛毛ではなく細かいビロード状で、基部が狭くくびれるかわずかに柄状になり、新鮮な下面をこすると黄変します。Stereum gausapatum と Stereum sanguinolentum はいずれも新鮮な下面を傷つけたり切ったりすると赤い汁液を出し、Stereum sanguinolentum は主に針葉樹に発生します。Stereum ostrea はより大きく薄く幅広い扇形を作り、上面の剛毛が弱いです。Stereum rameale ははるかに小型（幅約1 cm、突出約5 mm）で、断面の上面毛層直下に暗褐色の皮層線を欠きます。Chondrostereum purpureum は平滑な下面が明瞭な紫色〜スミレ色を呈します。",
+      "notes": "子実体はしばしば Naematelia aurantia や Phaeotremella frondosa などのシロキクラゲ類のゼラチン質菌類に寄生され、これらは吸器を介して本種の菌糸から養分を吸収します。ブドウ栽培では、Fomitiporia mediterranea による一次感染に続いてブドウのエスカ病（esca）の二次的な木材腐朽病原菌として関与するほか、モモなどの生きた果樹にも感染することがあります。1966年に本種から初めて単離されたセスキテルペノイドのヒルスト酸C（hirsutic acid C）は抗菌活性および抗腫瘍活性を示し、その白色腐朽酵素系は農薬分解への応用が研究されています。",
+      "sourceUrls": [
+        "https://ja.wikipedia.org/wiki/キウロコタケ",
+        "https://www.wikidata.org/wiki/Q557377"
+      ]
+    },
+    "ko": {
+      "description": "유럽, 북아메리카, 아시아, 아프리카, 오스트레일리아, 뉴질랜드 전역의 죽은 활엽수재와 드물게 침엽수재 위에 빽빽하게 겹쳐 층을 이루며 자라는 널리 분포하는 가죽질의 목재부후성 고약 및 선반형 버섯입니다. 주로 부생성이며 드물게 약한 기생성을 보이고, 백색부후를 일으키며 연중 자실체를 형성합니다.",
+      "cap": "갓은 너비 1–8 cm(종종 옆으로 유합하여 길이 최대 10 cm의 물결 모양 줄을 이룹니다)이며 목재에서 1–3 cm 돌출하고, 반원형·부채형 또는 불규칙한 형태로 배착성 기부를 가지거나 수직면 및 절단된 목재 표면에서는 완전히 평평한 배착성 막을 이룹니다. 두께는 0.5–1.5 mm(드물게 최대 2 mm)입니다. 윗면은 어리고 신선할 때 뚜렷하게 털이 많거나 뻣뻣한 강모로 덮여 있으며, 노숙하면 매끄러워지거나 거의 민둥해집니다. 밝은 노란색, 황토색, 주황노란색, 황갈색 또는 적갈색의 동심원 무늬를 띠며, 가장자리는 더 연한 색이고 물결 모양이거나 주름지거나 갈라집니다. 습한 곳의 오래된 자실체는 조류가 붙어 녹색 기운을 띠는 경우가 많고, 마른 자실체는 회갈색으로 바랩니다. 수산화칼륨(KOH) 용액을 떨어뜨리면 모든 표면이 붉게 변한 뒤 검게 변합니다.",
+      "hymenium": "자실층면은 매끄럽거나 약간 고르지 않고 희미하게 주름져 있으며, 관공·주름살·침형 돌기가 없습니다. 신선할 때는 밝은 노란색, 황주황색 또는 황토빛 연갈색이지만 노숙하거나 건조한 날씨에는 옅은 회갈색으로 바랩니다. 월동 후 다시 자라는 갓은 회색의 오래된 부위와 밝은 황토노란색의 새 가장자리가 대비되는 두 가지 색을 띠는 경우가 많습니다. 신선한 아랫면은 자르거나 상처를 내도 붉은 액체가 배어 나오지 않습니다(다만 따뜻한 기후의 어린 개체는 드물게 약간 붉어질 수 있습니다). 균사체(hyphidia)는 끝이 둥글거나 약간 뾰족하며 가시 모양 돌기가 없습니다(가시균사체 없음). 두꺼운 벽을 가진 위낭상체(너비 7–10 µm, 길이 100 µm 이상, 끝부분은 얇은 벽이며 기름 성분을 함유)가 풍부하고, 약간 돌출하는 첨두낭상체(20–30 × 2–4 µm)도 존재합니다. 담자기는 좁은 곤봉형으로 25–60 × 3–5 µm이며 4개의 포자를 만듭니다.",
+      "stipe": "대가 없습니다. 무병의 배착반전형 갓이 뒤쪽 가장자리를 따라 목재에 넓게 붙거나 배착성 기부를 통해 부착합니다.",
+      "flesh": "살은 얇고(0.5–1.5 mm) 질기며 유연한 가죽질이고 흰빛을 띠며, 1균사형입니다. 단면에서 윗면 털층 바로 아래에 뚜렷하고 가는 암갈색 피층선이 보입니다. 잘라도 색이 변하지 않습니다. 냄새는 뚜렷하지 않고 맛은 순하며 특징이 없습니다.",
+      "sporePrint": "포자문은 흰색입니다(얻기 어려운 경우가 많습니다). 담자포자는 매끄럽고 벽이 얇으며 무색 투명하고 원통형에서 좁은 타원형이며, 아밀로이드 반응을 보이고 크기는 5–8 × 2–3.5 µm(드물게 최대 11 × 4 µm)입니다.",
+      "habitat": "비교적 신선한 활엽수 고사목—특히 참나무류와 유럽너도밤나무를 비롯해 서어나무, 자작나무, 오리나무, 버드나무, 과수—에 부생하며 드물게 약한 기생성을 보입니다. 가문비나무나 소나무 같은 침엽수에서는 훨씬 드뭅니다. 떨어진 가지, 쓰러진 통나무, 그루터기, 서 있는 고사목, 쌓아 두거나 풍화된 목재에 발생하며 주로 변재에서 백색부후를 일으킵니다. 1월부터 12월까지 연중 자실체가 나타나며 습한 가을과 겨울에 포자 생성이 가장 활발합니다. 한해살이 자실체는 흔히 겨울을 넘기며 다음 계절에 다시 생장을 이어 갈 수 있습니다.",
+      "uses": "얇고 질긴 가죽질 때문에 식용 부적합합니다.",
+      "confusion": "구름송편버섯(Trametes versicolor)은 아랫면이 매끄럽지 않고 미세한 관공이 있으며 보통 더 차가운 회색·갈색·푸른빛 동심원 띠를 보입니다. Stereum subtomentosum은 더 큰 갓(너비 3–10 cm)을 형성하고, 윗면이 뻣뻣한 강모 대신 고운 벨벳 같으며 기부가 좁게 오므라들거나 약간 대 모양이고, 신선한 아랫면을 문지르면 노랗게 변합니다. Stereum gausapatum과 Stereum sanguinolentum은 모두 신선한 아랫면을 긁거나 자르면 붉은 액체가 배어 나오며, Stereum sanguinolentum은 주로 침엽수에 자랍니다. Stereum ostrea는 더 크고 얇으며 넓은 부채형을 이루고 윗면의 강모가 덜 뻣뻣합니다. Stereum rameale은 훨씬 작고(너비 약 1 cm), 목재에서 5 mm 정도만 돌출하며 단면에서 윗면 털층 아래의 어두운 피층선이 없습니다. Chondrostereum purpureum은 매끄러운 아랫면이 뚜렷한 자주색에서 보라색을 띱니다.",
+      "notes": "자실체는 Naematelia aurantia와 Phaeotremella frondosa 같은 흰목이류 젤리버섯의 기생을 자주 받으며, 이들 기생균은 흡기를 통해 균사에서 양분을 흡수합니다. 포도 재배에서는 Fomitiporia mediterranea의 1차 감염 이후 포도나무 에스카병(esca)의 2차 목재부후 병원균으로 작용하며, 복숭아나무 같은 살아 있는 과수에도 감염할 수 있습니다. 1966년 이 종에서 처음 분리된 세스퀴테르페노이드인 히르수트산 C(hirsutic acid C)는 항균 및 항종양 활성을 보이며, 이 종의 백색부후 효소계는 농약 분해 연구에 활용됩니다.",
+      "sourceUrls": []
+    },
+    "lt": {
+      "label": "gauruotoji plutpintė",
+      "wikipedia": "https://lt.wikipedia.org/wiki/Gauruotoji_plutpintė",
+      "description": "Plačiai paplitęs odiškas medieną ardantis žievinis ir kepurėtasis grybas, augantis tankiais, vienas ant kito užeinančiais aukštais ant negyvos lapuočių ir rečiau spygliuočių medienos Europoje, Šiaurės Amerikoje, Azijoje, Afrikoje, Australijoje ir Naujojoje Zelandijoje. Daugiausia saprotrofinis, kartais silpnai parazitinis grybas, sukeliantis baltąjį puvinį ir vaisiakūnius formuojantis ištisus metus.",
+      "cap": "1–8 cm pločio (dažnai šonais susiliejusi į banguotas eiles iki 10 cm ilgio), nuo medienos atsikišusi 1–3 cm ir 0,5–1,5 mm storio (kartais iki 2 mm), pusapvalė, vėduokliška arba netaisyklinga su prigludusiu pagrindu, arba ant vertikalių ir nupjautų medienos paviršių sudaranti visiškai plokščią plutą. Viršutinis paviršius jaunas ir šviežias būna aiškiai plaukuotas ar šeriuotas, sendamas tampa lygesnis arba beveik plikas; jis koncentriškai zonuotas ryškiai geltonos, ochrinės, oranžiškai geltonos, rusvos ar rausvai rudos spalvos juostomis, su šviesesniu, banguotu, raukšlėtu arba skiautėtu kraštu. Senesni vaisiakūniai drėgnose vietose dėl dumblių dažnai įgauna žalsvą atspalvį, o išdžiūvę išblunka iki pilkšvai rudos spalvos. Kalio hidroksidas (KOH) visus paviršius nudažo raudonai, vėliau juodai.",
+      "hymenium": "Lygus paviršius iki silpnai nelygaus ar nežymiai raukšlėto, be porų, lakštelių ar dygliukų; šviežias ryškiai geltonas, geltonai oranžinis ar ochriškai rusvas, sendamas arba sausu oru išblunkantis iki blyškiai pilkšvai rudo. Peržiemoję ir vėl augti pradėję vaisiakūniai dažnai atrodo dvispalviai — su pilka senesne zona ir ryškiai ochriškai geltonu šviežiu kraštu. Šviežia apatinė pusė įpjauta ar pažeista neišskiria raudono skysčio (nors jaunos šilto klimato formos kartais gali silpnai parausti). Hifidijos užapvalintomis ar silpnai smailėjančiomis viršūnėmis be dygliuotų ataugų (akantohifidijų nėra); gausu storasienių pseudocistidžių (7–10 µm pločio, daugiau nei 100 µm ilgio, su plonasienėmis viršūnėmis ir riebiu viršūniniu turiniu) bei silpnai atsikišusių akutocistidžių (20–30 × 2–4 µm). Bazidijos siaurai kuokiškos, 25–60 × 3–5 µm, ketursporės.",
+      "stipe": "Koto nėra; bekočiai, prigludę ir atlenkti vaisiakūniai plačiai prisitvirtinę prie medienos užpakaliniu kraštu arba prigludusiu pagrindu.",
+      "flesh": "Trama plona (0,5–1,5 mm), kieta, lanksti ir odiška, balkšva, monomitinės hifų sistemos, skerspjūvyje tiesiai po viršutiniu plaukuotu sluoksniu matoma ryški plona tamsiai ruda žievės linija. Perpjauta spalvos nekeičia. Kvapas neišraiškingas; skonis švelnus ir neišraiškingas.",
+      "sporePrint": "Baltas (dažnai sunkiai gaunamas). Bazidiosporos lygios, plonasienės, bespalvės, cilindriškos arba siaurai elipsoidinės, amiloidinės, 5–8 × 2–3,5 µm dydžio (kartais iki 11 × 4 µm).",
+      "habitat": "Saprotrofinis ir kartais silpnai parazitinis ant gana šviežios negyvos lapuočių medienos — ypač ąžuolo ir paprastojo buko, taip pat skroblo, beržo, alksnio, gluosnio bei vaismedžių — ir daug rečiau ant spygliuočių, tokių kaip eglė ir pušis. Vaisiakūniai auga ant nukritusių šakų, rąstų, kelmų, stovinčių sausuolių ir sukrautos ar atmosferos veikiama medienos, sukeldami baltąjį puvinį daugiausia balanoje. Vaisiakūniai pasirodo visus metus nuo sausio iki gruodžio, o aktyviausias sporų barstymas vyksta drėgnu rudens ir žiemos oru; vienmečiai vaisiakūniai dažnai peržiemoja ir kitą sezoną gali tęsti augimą.",
+      "uses": "Nevalgomas dėl plonos, kietos ir odiškos konsistencijos.",
+      "confusion": "Įvairiaspalvė kempė (Trametes versicolor) vietoj lygios apatinės pusės turi smulkiai porėtą paviršių ir paprastai pasižymi šaltesniais pilkais, rudais ar melsvais koncentriniais ruožais. Stereum subtomentosum formuoja didesnes kepurėles (3–10 cm pločio) su švelniai aksominiu, o ne šeriuotu viršutiniu paviršiumi, siauresniu, susiaurėjusiu ar nežymiai kotelį primenančiu pagrindu ir šviežia apatine puse, kuri patrynus pagelsta. Stereum gausapatum ir Stereum sanguinolentum abi išskiria raudoną skystį įbrėžus ar įpjovus šviežią apatinę pusę, o Stereum sanguinolentum auga daugiausia ant spygliuočių. Stereum ostrea formuoja didesnes, plonesnes ir platesnes vėduokles su mažiau šeriuotu viršutiniu paviršiumi. Stereum rameale yra daug mažesnė (apie 1 cm pločio, 5 mm atsikišusi) ir skerspjūvyje neturi tamsios žievės linijos po viršutiniu plaukuotu sluoksniu. Purpurinė plutpintė (Chondrostereum purpureum) turi ryškiai purpurinį ar violetinį lygų apatinį paviršių.",
+      "notes": "Ant vaisiakūnių dažnai parazituoja drebutiniai grybai, tokie kaip Naematelia aurantia ir Phaeotremella frondosa, kurie haustorijomis siurbia maisto medžiagas iš jos hifų. Vynuogininkystėje jis veikia kaip antrinis medienos puvinio patogenas vynmedžių eskos ligoje po pirminio užsikrėtimo Fomitiporia mediterranea, taip pat gali užkrėsti gyvus vaismedžius, pavyzdžiui, persikus. Seskviterpenoidas hirsutino rūgštis C, pirmą kartą išskirtas iš šios rūšies 1966 m., pasižymi antibakteriniu ir priešnavikiniu poveikiu, o jo baltojo puvinio fermentų sistema tiriama pesticidams skaidyti.",
+      "sourceUrls": [
+        "https://lt.wikipedia.org/wiki/Gauruotoji_plutpintė"
+      ]
+    },
+    "lv": {
+      "label": "sarainā sīkpiepe",
+      "description": "Plaši izplatīta ādaina koksni noārdoša garoziņsēne un piepju tipa sēne, kas aug blīvos, jumtiņveidā pārklātos stāvos uz atmirušas lapkoku un retāk skujkoku koksnes Eiropā, Ziemeļamerikā, Āzijā, Āfrikā, Austrālijā un Jaunzēlandē. Galvenokārt saprotrofs un reizēm vājš parazīts, tā izraisa balto puvi un veido augļķermeņus visu gadu.",
+      "cap": "1–8 cm plata (bieži sānis saplūdusi viļņainās rindās līdz 10 cm garumā), izvirzās 1–3 cm no koksnes un ir 0,5–1,5 mm bieza (reizēm līdz 2 mm), pusapaļa, vēdekļveida vai neregulāra ar piekļautu pamatni, vai arī veido pilnībā plakanas garozas uz vertikālām un zāģētām koksnes virsmām. Augšpuse jaunībā un svaigā stāvoklī ir izteikti mataina līdz saraina, ar vecumu kļūstot gludāka vai gandrīz kaila, koncentriski joslota spilgti dzeltenā, okera, oranždzeltenā, dzeltenbrūnā vai sarkanbrūnā krāsā ar gaišāku, viļņainu, krokotu vai daivainu malu. Vecāki augļķermeņi mitrās vietās aļģu dēļ bieži iegūst zaļganu nokrāsu, bet sausi augļķermeņi izbalē līdz pelēkbrūniem. Kālija hidroksīds (KOH) visas virsmas iekrāso sarkanas, pēc tam melnas.",
+      "hymenium": "Gluda virsma līdz viegli nelīdzena vai vāji krokota, bez porām, lapiņām vai dzelonīšiem; svaigā stāvoklī spilgti dzeltena, dzeltenoranža vai okera-bēša, ar vecumu vai sausā laikā izbalējot līdz bāli pelēkbrūnai. Pārziemojuši augļķermeņi, kas atsāk augšanu, bieži izskatās divkrāsaini — ar pelēku vecāko joslu un spilgti okerdzeltenu svaigo malu. Svaiga apakšpuse griezumā vai ievainojumā neizdala sarkanu šķidrumu (lai gan jaunas siltāka klimata formas reizēm var viegli piesarkt). Hifīdijas ar noapaļotiem līdz viegli nosmailinātiem galiem bez dzelkšņveida izaugumiem (akantohifīdiju nav); sastopamas bagātīgas biezsienu pseidocistīdas (7–10 µm platas, vairāk nekā 100 µm garas, ar plānsienu galiem un eļļainu galotnes saturu) un nedaudz izvirzītas akutocistīdas (20–30 × 2–4 µm). Bazīdijas šauri vālesveida, 25–60 × 3–5 µm, ar četrām sporām.",
+      "stipe": "Kātiņš nav; sēdošās, piekļauti atliektās cepurītes plaši piestiprinātas pie koksnes ar aizmugurējo malu vai piekļauto pamatni.",
+      "flesh": "Mīkstums plāns (0,5–1,5 mm), sīksts, lokans un ādains, bālgans, ar monomītisku hifu sistēmu un šķērsgriezumā labi saskatāmu plānu tumši brūnu garozas līniju tieši zem augšējā matainā slāņa. Griezumā krāsu nemaina. Smarža neizteikta; garša maiga un neizteikta.",
+      "sporePrint": "Balts (bieži grūti iegūstams). Bazīdijsporas gludas, plānsienu, bezkrāsainas, cilindriskas līdz šauri elipsoīdas, amiloīdas, izmēros 5–8 × 2–3,5 µm (reizēm līdz 11 × 4 µm).",
+      "habitat": "Saprotrofs un reizēm vājš parazīts uz salīdzinoši svaigas atmirušas lapkoku koksnes — īpaši ozola un parastā dižskābarža, kā arī skābarža, bērza, alkšņa, vītola un augļukoku — un ievērojami retāk uz skujkokiem, piemēram, egles un priedes. Veido augļķermeņus uz nokritušiem zariem, kritalām, celmiem, stāvošas atmirušas koksnes un sakrautiem vai laikapstākļu ietekmētiem kokmateriāliem, izraisot balto puvi galvenokārt aplievā. Augļķermeņi sastopami visu gadu no janvāra līdz decembrim, aktīvai sporu veidošanai sasniedzot maksimumu mitrā rudens un ziemas laikā; viengadīgie augļķermeņi bieži pārziemo un nākamajā sezonā var atsākt augšanu.",
+      "uses": "Neēdama plānās, sīkstās un ādainās konsistences dēļ.",
+      "confusion": "Raibajai tauriņpiepei (Trametes versicolor) gludas apakšpuses vietā ir smalki poraina virsma un parasti vēsākas pelēkas, brūnas vai zilganas koncentriskas joslas. Stereum subtomentosum veido lielākas cepurītes (3–10 cm platas) ar smalki samtainu, nevis sarainu augšpusi, šaurāku, sašaurinātu vai viegli kātiņveida pamatni un svaigu apakšpusi, kas berzējot dzeltē. Stereum gausapatum un Stereum sanguinolentum abas izdala sarkanu šķidrumu, ja to svaigo apakšpusi saskrāpē vai iegriež, turklāt Stereum sanguinolentum aug galvenokārt uz skujkokiem. Stereum ostrea veido lielākus, plānākus un platākus vēdekļus ar mazāk sarainu augšpusi. Stereum rameale ir daudz mazāka (apmēram 1 cm plata, izvirzās 5 mm) un tai šķērsgriezumā trūkst tumšās garozas līnijas zem augšējā matainā slāņa. Purpura sīkpiepei (Chondrostereum purpureum) ir izteikti purpursarkana līdz violeta gluda apakšpuse.",
+      "notes": "Uz augļķermeņiem bieži parazitē recekļsēnes, piemēram, Naematelia aurantia un Phaeotremella frondosa, kas ar haustoriju palīdzību uzņem barības vielas no tās hifām. Vīnkopībā tā darbojas kā sekundārs koksnes puves patogēns vīnogulāju eskas slimībā pēc sākotnējas inficēšanās ar Fomitiporia mediterranea, un tā var inficēt arī dzīvus augļukokus, piemēram, persikus. Seskviterpenoīdam hirsutīnskābei C, kas pirmo reizi izdalīts no šīs sugas 1966. gadā, piemīt antibakteriāla un pretvēža aktivitāte, un tās baltās puves enzīmu sistēma tiek pētīta pesticīdu noārdīšanai.",
+      "sourceUrls": [
+        "https://www.latvijasdaba.lv/senes/stereum-hirsutum-willdfrgray/"
+      ]
+    },
+    "nl": {
+      "label": "Gele korstzwam",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Gele_korstzwam",
+      "description": "Een wijdverspreide, leerachtige, houtafbrekende korst- en consolevormige zwam die in dichte, dakpansgewijze rijen groeit op dood loofhout en af en toe op naaldhout in Europa, Noord-Amerika, Azië, Afrika, Australië en Nieuw-Zeeland. Voornamelijk saprotroof en incidenteel zwak parasitair; hij veroorzaakt witrot en vormt het hele jaar door vruchtlichamen.",
+      "cap": "De hoeden zijn 1–8 cm breed (vaak zijdelings vergroeid tot golvende rijen tot 10 cm lang), steken 1–3 cm uit het hout en zijn halfrond, waaiervormig of onregelmatig met een korstvormige basis, of vormen volledig vlakke korsten op verticale en gezaagde houtoppervlakken. De vruchtlichamen zijn 0,5–1,5 mm dik, incidenteel tot 2 mm. De bovenzijde is jong en vers duidelijk behaard tot borstelig, wordt met de leeftijd gladder of bijna kaal en is concentrisch gezoneerd in heldergeel, oker, oranjegeel, geelbruin of roodbruin met een lichtere, golvende, gegolfde of gelobde rand. Oudere vruchtlichamen op vochtige plaatsen krijgen vaak een groenige tint door algen, terwijl droge hoeden naar grijsbruin verbleken. Kaliumhydroxide (KOH) kleurt alle oppervlakken rood en daarna zwart.",
+      "hymenium": "Glad oppervlak, licht oneffen of zwak gerimpeld, zonder poriën, plaatjes of stekels; vers heldergeel, geeloranje of okergeel, met de leeftijd of bij droog weer verblekend tot bleek grijsbruin. Overwinterde vruchtlichamen die opnieuw uitgroeien zien er vaak tweekleurig uit, met een grijze oudere zone en een helder okergele verse rand. Verse onderzijden bloeden niet rood bij doorsnijden of kneuzen (al kunnen jonge vormen uit warme klimaten soms licht rood aanlopen). Hyphidiën hebben afgeronde tot zwak spitse toppen zonder stekelige uitsteeksels (acanthohyphidiën ontbreken); er zijn talrijke dikwandige pseudocystiden (7–10 µm breed, meer dan 100 µm lang, met dunwandige toppen en olieachtige inhoud aan de top) en licht uitstekende acutocystiden (20–30 × 2–4 µm) aanwezig. De basidiën zijn smal knotsvormig, 25–60 × 3–5 µm groot en viersporig.",
+      "stipe": "Steel afwezig; de zittende, korstvormig-afstaande hoeden zitten breed vast aan het hout langs hun achterrand of via een vlak uitgespreide basis.",
+      "flesh": "Het vlees is dun (0,5–1,5 mm), taai, buigzaam en leerachtig, witachtig, met een monomitisch hyfensysteem en een duidelijke dunne donkerbruine cortexlijn die op doorsnede direct onder de bovenste haarlaag zichtbaar is. Verkleurt niet bij doorsnijden. Geur onopvallend; smaak mild en onopvallend.",
+      "sporePrint": "Sporenprint wit (vaak moeilijk te verkrijgen). De basidiosporen zijn glad, dunwandig, hyalien, cilindrisch tot smal ellipsoïde, amyloïde en meten 5–8 × 2–3,5 µm (incidenteel tot 11 × 4 µm).",
+      "habitat": "Saprotroof en af en toe zwak parasitair op vrij vers dood hout van loofbomen — vooral eik en beuk, evenals haagbeuk, berk, els, wilg en fruitbomen — en veel zeldzamer op naaldbomen zoals spar en den. Vormt vruchtlichamen op afgevallen takken, liggende stammen, stronken, staand dood hout en opgestapeld of verweerd hout, waarbij voornamelijk in het spinthout witrot ontstaat. Vruchtlichamen komen het hele jaar door voor van januari tot december, met een piek in de sporenproductie bij nat herfst- en winterweer; de eenjarige hoeden overleven vaak de winter en kunnen het volgende seizoen weer verder groeien.",
+      "uses": "Niet eetbaar vanwege de dunne, taaie en leerachtige textuur.",
+      "confusion": "Trametes versicolor heeft een fijn poriëndragende in plaats van gladde onderzijde en toont meestal koelere grijze, bruine of blauwachtige concentrische banden. Stereum subtomentosum vormt grotere hoeden (3–10 cm breed) met een fijn fluwelige in plaats van borstelige bovenzijde, een smallere, toegespitste of licht gesteelde basis en een verse onderzijde die bij wrijven geel verkleurt. Stereum gausapatum en Stereum sanguinolentum bloeden beide rood vocht wanneer de verse onderzijde wordt bekrast of doorgesneden, en Stereum sanguinolentum groeit vooral op naaldhout. Stereum ostrea vormt grotere, dunnere, bredere waaiers met minder borstelige bovenzijden. Stereum rameale is veel kleiner, ongeveer 1 cm breed; de hoedjes steken slechts 5 mm uit en missen op doorsnede de donkere cortexlijn onder de bovenste haarlaag. Chondrostereum purpureum heeft een opvallend purperen tot violette gladde onderzijde.",
+      "notes": "Vruchtlichamen worden vaak geparasiteerd door trilzwammen zoals Naematelia aurantia en Phaeotremella frondosa, die via haustoriën voedingsstoffen aan zijn hyfen onttrekken. In de wijnbouw fungeert hij als secundaire houtafbrekende ziekteverwekker bij de esca-ziekte van wijnstokken na primaire infectie door Fomitiporia mediterranea, en hij kan ook levende fruitbomen zoals perzik infecteren. Het sesquiterpenoïde hirsutinezuur C, voor het eerst uit deze soort geïsoleerd in 1966, vertoont antibacteriële en antineoplastische activiteit, en zijn witrot-enzymsysteem wordt onderzocht voor de afbraak van pesticiden.",
+      "sourceUrls": [
+        "https://nl.wikipedia.org/wiki/Gele_korstzwam",
+        "https://www.verspreidingsatlas.nl/"
+      ]
+    },
+    "no": {
+      "label": "ragglærsopp",
+      "description": "En vidt utbredt, læraktig, vednedbrytende barksopp og konsollsopp som vokser i tette, taklagte rader på død løvved og av og til på barved i Europa, Nord-Amerika, Asia, Afrika, Australia og New Zealand. Den er hovedsakelig saprotrof og av og til svakt parasittisk, forårsaker hvitråte og danner fruktlegemer året rundt.",
+      "cap": "Hattene er 1–8 cm brede (ofte sammenvokst sideveis til bølgete rader opptil 10 cm lange), stikker 1–3 cm ut fra veden og er halvsirkelformede, vifteformede eller uregelmessige med resupinat basis, eller de danner helt flate skorper på loddrette og avskårne treflater. Fruktlegemene er 0,5–1,5 mm tykke, av og til opptil 2 mm. Oversiden er tydelig håret til bustete som ung og frisk, blir glattere eller nesten snau med alderen og er konsentrisk sonert i klart gult, oker, orangegult, gulbrunt eller rødbrunt med en lysere, bølget, kruset eller fliket kant. Eldre fruktlegemer på fuktige steder får ofte et grønnlig skjær fra alger, mens tørre hatter blekner mot gråbrunt. Kaliumhydroksid (KOH) farger alle overflater røde og deretter svarte.",
+      "hymenium": "Glatt overflate til svakt ujevn eller fint rynket, uten porer, skiver eller pigger; klart gul, guloransje eller okergul som frisk, bleknende til blekt gråbrun med alderen eller i tørt vær. Overvintrede fruktlegemer som gjenopptar veksten ser ofte tofargede ut, med en grå eldre sone og en klart okergul frisk kant. Friske undersider blør ikke rød væske ved snitt eller skade (selv om unge former i varmt klima av og til kan rødne svakt). Hyfidier har avrundede til svakt spisse topper uten tornede utvekster (akantohyfidier mangler); rikelig med tykkveggede pseudocystider (7–10 µm brede, over 100 µm lange, med tynnveggede spisser og oljeaktig innhold i toppen) og svakt utstikkende akutocystider (20–30 × 2–4 µm) finnes. Basidiene er smalt kølleformede, 25–60 × 3–5 µm og firesporede.",
+      "stipe": "Stilk mangler; de sittende, effust-reflekse hattene er bredt festet til veden langs bakkanten eller via en resupinat basis.",
+      "flesh": "Kjøttet er tynt (0,5–1,5 mm), seigt, bøyelig og læraktig, hvitaktig, med et monomitisk hyfesystem og en tydelig tynn, mørkebrun kortekslinje synlig i tverrsnitt rett under det øvre hårlaget. Skifter ikke farge ved gjennomskjæring. Lukt ubetydelig; smak mild og ubetydelig.",
+      "sporePrint": "Sporeavtrykk hvitt (ofte vanskelig å få frem). Basidiosporene er glatte, tynnveggede, hyaline, sylindriske til smalt ellipsoide, amyloide og måler 5–8 × 2–3,5 µm (av og til opptil 11 × 4 µm).",
+      "habitat": "Saprotrof og av og til svakt parasittisk på relativt frisk død ved av løvtrær — særlig eik og bøk samt agnbøk, bjørk, or, selje, pil og frukttrær — og langt sjeldnere på bartrær som gran og furu. Danner fruktlegemer på nedfalte greiner, læger, stubber, stående død ved og stablet eller værbitt trevirke, der den forårsaker hvitråte hovedsakelig i yteveden. Fruktlegemer forekommer hele året fra januar til desember, med aktiv sporeproduksjon som når toppen i fuktig høst- og vintervær; de ettårige hattene står ofte gjennom vinteren og kan gjenoppta veksten neste sesong.",
+      "uses": "Ikke matsopp på grunn av sin tynne, seige og læraktige konsistens.",
+      "confusion": "Trametes versicolor har en fint poret fremfor glatt underside og viser vanligvis kjøligere grå, brune eller blåaktige konsentriske bånd. Stereum subtomentosum danner større hatter (3–10 cm brede) med en fint fløyelsaktig snarere enn bustete overside, en smalere, innsnevret eller svakt stilket basis og en frisk underside som gulner ved gnidning. Stereum gausapatum og Stereum sanguinolentum blør begge rød væske når den friske undersiden ripes eller skjæres, og Stereum sanguinolentum vokser hovedsakelig på bartrær. Stereum ostrea danner større, tynnere og bredere vifter med mindre bustete oversider. Stereum rameale er mye mindre, omtrent 1 cm bred; hattene stikker bare 5 mm ut og mangler den mørke kortekslinjen under det øvre hårlaget i tverrsnitt. Chondrostereum purpureum har en tydelig purpurfarget til fiolett glatt underside.",
+      "notes": "Fruktlegemene parasitteres ofte av gelésopper som Naematelia aurantia og Phaeotremella frondosa, som tar opp næring fra hyfene via haustorier. I vindyrking opptrer den som sekundær vednedbrytende patogen ved esca-sykdom på vinranker etter primær infeksjon av Fomitiporia mediterranea, og den kan også infisere levende frukttrær som fersken. Seskviterpenoidet hirsutsyre C, først isolert fra denne arten i 1966, viser antibakteriell og antineoplastisk aktivitet, og dens hvitråteenzymsystem studeres for nedbrytning av plantevernmidler.",
+      "sourceUrls": [
+        "https://artsdatabanken.no/arter/takson/40746"
+      ]
+    },
+    "pl": {
+      "label": "skórnik szorstki",
+      "wikipedia": "https://pl.wikipedia.org/wiki/Sk%C3%B3rnik_szorstki",
+      "description": "Szeroko rozpowszechniony, skórzasty grzyb rozkładający drewno, tworzący owocniki rozpostarte i konsolowate w gęstych, dachówkowatych skupieniach na martwym drewnie drzew liściastych oraz sporadycznie iglastych w Europie, Ameryce Północnej, Azji, Afryce, Australii i Nowej Zelandii. Jest głównie saprotroficzny, a niekiedy słabo pasożytniczy; powoduje białą zgniliznę drewna i owocnikuje przez cały rok.",
+      "cap": "1–8 cm szerokości (często zrastający się bokami w faliste rzędy długości do 10 cm), odstający od drewna na 1–3 cm. Grubość owocnika wynosi 0,5–1,5 mm, wyjątkowo do 2 mm. Ma kształt półkolisty, wachlarzowaty lub nieregularny z rozpostartą nasadą, albo tworzy na pionowych i ściętych powierzchniach drewna całkowicie płaskie powłoki. Górna powierzchnia jest za młodu i w stanie świeżym wyraźnie owłosiona do szczeciniastej, z wiekiem staje się gładsza lub niemal naga, jest koncentrycznie strefowana w odcieniach jaskrawożółtym, ochrowym, pomarańczowożółtym, jasnobrązowym lub czerwonawobrązowym, z jaśniejszym, falistym, pofałdowanym lub klapowanym brzegiem. Starsze owocniki w wilgotnych miejscach często nabierają zielonkawego odcienia od glonów, natomiast suche kapelusze blakną do szarobrązowych. Wodorotlenek potasu (KOH) barwi wszystkie powierzchnie na czerwono, a następnie na czarno.",
+      "hymenium": "Gładka powierzchnia jest gładka do lekko nierównej lub słabo pomarszczonej, bez porów, blaszek i kolców; w stanie świeżym jaskrawożółta, żółtopomarańczowa lub ochrowożółta, z wiekiem lub podczas suszy blaknie do bladoszarobrązowej. Przezimowane owocniki wznawiające wzrost często wyglądają dwubarwnie, z szarą starszą strefą i jaskrawo ochrowożółtym świeżym brzegiem. Świeża dolna strona po przecięciu lub uszkodzeniu nie wydziela czerwonego płynu (choć młode formy z ciepłego klimatu mogą niekiedy lekko czerwienieć). Hyfidia mają zaokrąglone do lekko zaostrzonych końce bez kolczastych wyrostków (brak akantohyfidiów); obecne są liczne grubościenne pseudocystydy (szerokości 7–10 µm, długości ponad 100 µm, z cienkościennymi wierzchołkami i oleistą zawartością szczytową) oraz lekko wystające akutocystydy (20–30 × 2–4 µm). Podstawki są wąsko maczugowate, 25–60 × 3–5 µm, czterozarodnikowe.",
+      "stipe": "Trzonu brak; siedzące, rozpostarto-odgięte owocniki przyrastają szeroko do drewna tylnym brzegiem lub za pośrednictwem rozpostartej nasady.",
+      "flesh": "Cienki (0,5–1,5 mm), łykowaty, elastyczny i skórzasty, białawy, o monomitycznym systemie strzępkowym oraz z wyraźną cienką ciemnobrązową linią korową widoczną na przekroju bezpośrednio pod górną owłosioną warstwą. Po przecięciu nie zmienia barwy. Zapach niewyraźny; smak łagodny i niewyraźny.",
+      "sporePrint": "Biały (często trudny do uzyskania). Bazydiospory są gładkie, cienkościenne, hialinowe, cylindryczne do wąsko elipsoidalnych, amyloidalne i mierzą 5–8 × 2–3,5 µm (wyjątkowo do 11 × 4 µm).",
+      "habitat": "Saprotroficzny i sporadycznie słabo pasożytniczy na stosunkowo świeżym martwym drewnie drzew liściastych – zwłaszcza dębów i buka zwyczajnego, a także grabu, brzozy, olszy, wierzby i drzew owocowych – oraz znacznie rzadziej na drzewach iglastych, takich jak świerk i sosna. Owocnikuje na opadłych gałęziach, kłodach, pniakach, stojącym martwym drewnie oraz składowanym lub zwietrzałym drewnie, powodując białą zgniliznę przede wszystkim w bielu. Owocniki występują przez cały rok, od stycznia do grudnia, przy czym aktywne zarodnikowanie osiąga szczyt podczas wilgotnej jesiennej i zimowej pogody; jednoroczne owocniki często utrzymują się przez zimę i mogą wznowić wzrost w kolejnym sezonie.",
+      "uses": "Niejadalny ze względu na cienki, łykowaty i skórzasty miąższ.",
+      "confusion": "Wrośniak różnobarwny (Trametes versicolor) ma drobno porowatą zamiast gładkiej dolną powierzchnię i zazwyczaj chłodniejsze szare, brązowe lub niebieskawe strefy koncentryczne. Skórnik aksamitny (Stereum subtomentosum) tworzy większe owocniki (3–10 cm szerokości) o delikatnie aksamitnej, a nie szczeciniastej górnej powierzchni, węższej, zwężonej lub lekko trzonkowatej nasadzie oraz świeżej dolnej stronie żółknącej po potarciu. Skórnik dębowy (Stereum gausapatum) i skórnik krwawiący (Stereum sanguinolentum) wydzielają czerwony płyn po zadrapaniu lub przecięciu świeżej dolnej strony, przy czym Stereum sanguinolentum rośnie głównie na drzewach iglastych. Stereum ostrea tworzy większe, cieńsze i szersze wachlarze o mniej szczeciniastej górnej powierzchni. Stereum rameale jest znacznie mniejszy (około 1 cm szerokości; odstaje na 5 mm) i na przekroju nie ma ciemnej linii korowej pod górną owłosioną warstwą. Chrząstkoskórnik purpurowy (Chondrostereum purpureum) ma wyraźnie purpurową do fioletowej gładką dolną powierzchnię.",
+      "notes": "Na owocnikach często pasożytują galaretowate grzyby z grupy trzęsakowatych, takie jak Naematelia aurantia i Phaeotremella frondosa, które pobierają substancje odżywcze z jego strzępek za pomocą ssawek (haustoriów). W winiarstwie działa jako wtórny patogen rozkładu drewna w chorobie esca winorośli po pierwotnym zakażeniu przez Fomitiporia mediterranea, a ponadto może porażać żywe drzewa owocowe, na przykład brzoskwinię. Seskwiterpenoid kwas hirsutowy C, po raz pierwszy wyizolowany z tego gatunku w 1966 roku, wykazuje działanie przeciwbakteryjne i przeciwnowotworowe, a jego układ enzymatyczny białej zgnilizny jest badany pod kątem rozkładu pestycydów.",
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Sk%C3%B3rnik_szorstki"
+      ]
+    },
+    "pt": {
+      "wikipedia": "https://pt.wikipedia.org/wiki/Stereum_hirsutum",
+      "description": "Fungo lignícola coriáceo muito difundido, que cresce em crostas e consolas dispostas em camadas densas e sobrepostas sobre madeira morta de folhosas e ocasionalmente de coníferas na Europa, América do Norte, Ásia, África, Austrália e Nova Zelândia. Principalmente saprotrófico e por vezes fracamente parasita, provoca uma podridão branca e frutifica durante todo o ano.",
+      "cap": "Com 1–8 cm de largura (frequentemente fundido lateralmente em fiadas onduladas até 10 cm de comprimento) e projetando-se 1–3 cm da madeira, semicircular, em forma de leque ou irregular com base ressupinada, ou formando crostas inteiramente planas em superfícies verticais e cortes de madeira. Apresenta 0,5–1,5 mm de espessura (ocasionalmente até 2 mm). A superfície superior é distintamente peluda a hirsuta quando jovem e fresca, tornando-se mais lisa ou quase glabra com a idade, e exibe zonas concêntricas de cor amarelo-vivo, ocre, amarelo-alaranjado, castanho-amarelado ou castanho-avermelhado, com margem mais pálida, ondulada, encrespada ou lobada. Os basidiomas velhos em locais húmidos adquirem frequentemente um tom esverdeado devido às algas, enquanto os exemplares secos desbotam para cinzento-acastanhado. O hidróxido de potássio (KOH) torna todas as superfícies vermelhas e, em seguida, negras.",
+      "hymenium": "Superfície lisa a ligeiramente irregular ou tenuemente enrugada, sem poros, lâminas nem espinhos; amarelo-vivo, amarelo-alaranjado ou ocre-camurça em fresco, desbotando para cinzento-acastanhado pálido com a idade ou em tempo seco. As consolas que passaram o inverno e retomam o crescimento parecem frequentemente bicolores, com uma zona mais velha cinzenta e uma margem fresca amarelo-ocre vivo. A face inferior fresca não exsuda líquido vermelho quando cortada ou ferida (embora formas jovens de climas quentes possam ocasionalmente avermelhar ligeiramente). Os hifídios têm ápices arredondados a subagudos sem projeções espinhosas (acantohifídios ausentes); estão presentes abundantes pseudocistídios de parede espessa (7–10 µm de largura, mais de 100 µm de comprimento, com ápice de parede fina e conteúdo apical oleoso) e acutocistídios ligeiramente salientes (20–30 × 2–4 µm). Os basídios são estreitamente claviformes, de 25–60 × 3–5 µm, tetraspóricos.",
+      "stipe": "Ausente; as consolas sésseis, efuso-reflexas, fixam-se amplamente à madeira ao longo da margem posterior ou através de uma base ressupinada.",
+      "flesh": "Carne fina (0,5–1,5 mm), tenaz, flexível e coriácea, esbranquiçada, com sistema hifal monomítico e uma linha cortical castanho-escura fina e bem distinta visível em corte transversal imediatamente sob a camada peluda superior. Imutável ao corte. Odor indistinto; sabor suave e indistinto.",
+      "sporePrint": "Branca (muitas vezes difícil de obter). Os basidiósporos são lisos, de parede fina, hialinos, cilíndricos a estreitamente elipsoides, amiloides, medindo 5–8 × 2–3,5 µm (ocasionalmente até 11 × 4 µm).",
+      "habitat": "Saprotrófico e ocasionalmente fracamente parasita em madeira morta relativamente fresca de árvores folhosas — sobretudo carvalho e faia, bem como carpino, bétula, amieiro, salgueiro e árvores de fruto — e muito menos frequentemente em coníferas como espruce e pinheiro. Frutifica em ramos caídos, troncos, cepos, madeira morta em pé e madeira empilhada ou exposta às intempéries, causando podridão branca sobretudo no alburno. Os basidiomas ocorrem ao longo de todo o ano, de janeiro a dezembro, com a produção ativa de esporos a atingir o pico em tempo húmido de outono e inverno; as consolas anuais persistem frequentemente durante o inverno e podem retomar o crescimento na estação seguinte.",
+      "uses": "Não comestível devido à sua carne fina, tenaz e coriácea.",
+      "confusion": "Trametes versicolor tem uma face inferior finamente porada em vez de lisa e exibe normalmente faixas concêntricas mais frias de cor cinzenta, castanha ou azulada. Stereum subtomentosum forma consolas maiores (3–10 cm de largura) com superfície superior finamente aveludada em vez de hirsuta, base mais estreita, atenuada ou ligeiramente estipitada, e face inferior fresca que amarelece ao ser esfregada. Stereum gausapatum e Stereum sanguinolentum exsudam líquido vermelho quando a face inferior fresca é riscada ou cortada, e Stereum sanguinolentum cresce sobretudo em coníferas. Stereum ostrea forma leques maiores, mais finos e mais largos com superfície superior menos hirsuta. Stereum rameale é muito mais pequeno (cerca de 1 cm de largura, projetando-se 5 mm) e não possui a linha cortical escura sob a camada peluda superior em corte transversal. Chondrostereum purpureum apresenta uma face inferior lisa distintamente purpúrea a violácea.",
+      "notes": "Os basidiomas são frequentemente parasitados por fungos gelatinosos tremeloides como Naematelia aurantia e Phaeotremella frondosa, que extraem nutrientes das suas hifas através de haustórios. Em viticultura, atua como agente patogénico secundário de podridão da madeira na doença da esca da videira após a infeção primária por Fomitiporia mediterranea, podendo também infetar árvores de fruto vivas como o pessegueiro. O sesquiterpenoide ácido hirsútico C, isolado pela primeira vez desta espécie em 1966, demonstra atividade antibacteriana e antineoplásica, e o seu sistema enzimático de podridão branca é estudado para a degradação de pesticidas.",
+      "sourceUrls": []
+    },
+    "ro": {
+      "wikipedia": "https://ro.wikipedia.org/wiki/Stereum_hirsutum",
+      "description": "Ciupercă lignicolă pieloasă foarte răspândită, care crește sub formă de cruste și console dispuse în etaje dese și suprapuse pe lemn mort de foioase și ocazional de conifere în Europa, America de Nord, Asia, Africa, Australia și Noua Zeelandă. Preponderent saprotrofă și uneori slab parazită, produce putregai alb și fructifică pe tot parcursul anului.",
+      "cap": "Lată de 1–8 cm (adesea fuzionată lateral în rânduri ondulate de până la 10 cm lungime) și proeminentă cu 1–3 cm față de lemn, semicirculară, în formă de evantai sau neregulată cu bază resupinată, ori formând cruste complet plate pe suprafețe verticale și tăieturi de lemn. Grosimea este de 0,5–1,5 mm (ocazional până la 2 mm). Fața superioară este clar păroasă până la țepoasă la exemplarele tinere și proaspete, devenind mai netedă sau aproape golașă cu vârsta, și este zonată concentric în galben aprins, ocru, galben-portocaliu, brun-gălbui sau brun-roșcat, cu marginea mai palidă, ondulată, încrețită sau lobată. Corpurile de fructificare bătrâne din locuri umede capătă adesea o tentă verzuie din cauza algelor, în timp ce consolele uscate se decolorează spre cenușiu-brun. Hidroxidul de potasiu (KOH) colorează toate suprafețele în roșu, apoi în negru.",
+      "hymenium": "Suprafață netedă până la ușor neregulată sau slab ridată, lipsită de pori, lamele sau aculi; galben aprins, galben-portocaliu sau ocru-gălbui în stare proaspătă, decolorându-se spre cenușiu-brun palid cu vârsta sau pe vreme uscată. Consolele care au iernat și își reiau creșterea au adesea aspect bicolor, cu o zonă veche cenușie și o margine proaspătă galben-ocru aprins. Fața inferioară proaspătă nu secretă lichid roșu la tăiere sau lovire (deși formele tinere din zonele calde se pot înroși ușor uneori). Hifidiile au vârfuri rotunjite până la subascuțite, fără proiecții spinoase (acantohifidiile lipsesc); sunt prezente pseudocistide abundente cu perete gros (7–10 µm lățime, peste 100 µm lungime, cu vârf cu perete subțire și conținut apical uleios) și acutocistide ușor proeminente (20–30 × 2–4 µm). Bazidiile sunt îngust clavate, de 25–60 × 3–5 µm, tetrasporice.",
+      "stipe": "Absent; consolele sesile, efuz-reflexe, se fixează larg pe lemn de-a lungul marginii posterioare sau printr-o bază resupinată.",
+      "flesh": "Carne subțire (0,5–1,5 mm), tenace, flexibilă și pieloasă, albicioasă, cu sistem hifal monomitic și o linie corticală subțire brun-închis clar vizibilă în secțiune transversală imediat sub stratul păros superior. Nu își schimbă culoarea la tăiere. Miros indistinct; gust blând și indistinct.",
+      "sporePrint": "Albă (adesea dificil de obținut). Bazidiosporii sunt netezi, cu perete subțire, hialini, cilindrici până la îngust elipsoidali, amiloizi, și măsoară 5–8 × 2–3,5 µm (ocazional până la 11 × 4 µm).",
+      "habitat": "Saprotrofă și ocazional slab parazită pe lemn mort relativ proaspăt de foioase — în special stejar și fag, precum și carpen, mesteacăn, arin, salcie și pomi fructiferi — și mult mai rar pe conifere precum molidul și pinul. Fructifică pe ramuri căzute, trunchiuri, cioate, lemn mort în picioare și lemn stivuit sau expus intemperiilor, producând putregai alb în principal în alburn. Corpurile de fructificare apar tot anul, din ianuarie până în decembrie, cu producția activă de spori atingând maximul pe vreme umedă de toamnă și iarnă; consolele anuale persistă frecvent peste iarnă și își pot relua creșterea în sezonul următor.",
+      "uses": "Necomestibilă din cauza cărnii subțiri, tenace și pieloase.",
+      "confusion": "Trametes versicolor are fața inferioară fin porată în loc de netedă și prezintă de obicei benzi concentrice mai reci, cenușii, brune sau albăstrui. Stereum subtomentosum formează console mai mari (3–10 cm lățime) cu fața superioară fin catifelată în loc de țepoasă, bază mai îngustă, îngustată sau ușor stipitată, și o față inferioară proaspătă care se îngălbenește la frecare. Stereum gausapatum și Stereum sanguinolentum secretă ambele un lichid roșu când fața inferioară proaspătă este zgâriată sau tăiată, iar Stereum sanguinolentum crește în principal pe conifere. Stereum ostrea formează evantaie mai mari, mai subțiri și mai late, cu fața superioară mai puțin țepoasă. Stereum rameale este mult mai mică (circa 1 cm lățime, proeminentă cu 5 mm) și nu are linia corticală întunecată sub stratul păros superior în secțiune transversală. Chondrostereum purpureum are fața inferioară netedă distinct purpurie până la violacee.",
+      "notes": "Corpurile de fructificare sunt frecvent parazitate de ciuperci gelatinoase tremeloide precum Naematelia aurantia și Phaeotremella frondosa, care extrag nutrienți din hifele sale prin haustori. În viticultură acționează ca agent patogen secundar de putrezire a lemnului în boala esca a viței-de-vie, în urma infecției primare cu Fomitiporia mediterranea, și poate infecta și pomi fructiferi vii precum piersicul. Sesquiterpenoidul acid hirsutic C, izolat pentru prima dată din această specie în 1966, manifestă activitate antibacteriană și antineoplazică, iar sistemul său enzimatic de putregai alb este studiat pentru degradarea pesticidelor.",
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Широко распространенный кожистый дереворазрушающий корковый и консолевидный гриб, растущий плотными черепитчатыми рядами на мертвой древесине лиственных и изредка хвойных пород в Европе, Северной Америке, Азии, Африке, Австралии и Новой Зеландии. Преимущественно сапротрофный и иногда слабопаразитический вид, вызывает белую гниль и плодоносит круглый год.",
+      "cap": "Шляпки шириной 1–8 см (часто срастаются боками в волнистые ряды длиной до 10 см), выступающие от древесины на 1–3 см, полукруглые, вееровидные или неправильной формы с распростертым основанием либо образующие полностью плоские корки на вертикальных и спиленных поверхностях древесины. Толщина плодовых тел составляет 0,5–1,5 мм, изредка до 2 мм. Верхняя поверхность у молодых и свежих экземпляров отчетливо волосистая до щетинистой, с возрастом становится более гладкой или почти голой, с концентрическими зонами ярко-желтого, охристого, оранжево-желтого, желтовато-коричневого или красновато-коричневого цвета и более светлым волнистым, складчатым или лопастным краем. Более старые плодовые тела во влажных местах часто приобретают зеленоватый оттенок от водорослей, а подсохшие шляпки выцветают до серо-коричневых. Гидроксид калия (KOH) окрашивает все поверхности в красный, а затем в черный цвет.",
+      "hymenium": "Гладкая поверхность от ровной до слегка неровной или слабоморщинистой, без пор, пластинок и шипиков; в свежем состоянии ярко-желтая, желто-оранжевая или охристо-палевая, с возрастом или в сухую погоду бледнеет до светло-серо-коричневой. Перезимовавшие плодовые тела, возобновившие рост, часто выглядят двухцветными: со старой серой зоной и свежим ярко-охристо-желтым краем. Свежая нижняя поверхность не выделяет красную жидкость при разрезе или повреждении (хотя молодые формы из теплого климата иногда могут слегка краснеть). Гифидии с округлыми или слегка заостренными концами без шиповидных выростов (акантогифидии отсутствуют); имеются многочисленные толстостенные псевдоцистиды шириной 7–10 мкм и длиной более 100 мкм с тонкостенными вершинами и маслянистым содержимым на кончиках, а также слегка выступающие акутоцистиды размером 20–30 × 2–4 мкм. Базидии узкобулавовидные, 25–60 × 3–5 мкм, четырехспоровые.",
+      "stipe": "Ножка отсутствует; сидячие распростерто-отогнутые шляпки широко прикрепляются к древесине задним краем или через распростертое основание.",
+      "flesh": "Мякоть тонкая (0,5–1,5 мм), жесткая, гибкая и кожистая, беловатого цвета, с мономитической гифальной системой и отчетливой тонкой темно-коричневой корковой линией, заметной на поперечном срезе непосредственно под верхним волосистым слоем. На срезе окраску не меняет. Запах невыразительный; вкус мягкий и невыразительный.",
+      "sporePrint": "Споровый порошок белый (часто получить его трудно). Базидиоспоры гладкие, тонкостенные, бесцветные, цилиндрические до узкоэллипсоидных, амилоидные, размером 5–8 × 2–3,5 мкм (изредка до 11 × 4 мкм).",
+      "habitat": "Сапротрофный и изредка слабопаразитический вид на относительно свежей мертвой древесине лиственных деревьев — особенно дуба и бука европейского, а также граба, березы, ольхи, ивы и плодовых деревьев — и значительно реже на хвойных, таких как ель и сосна. Плодоносит на опавших ветвях, валежнике, пнях, сухостое и сложенной или выветренной древесине, вызывая белую гниль преимущественно в заболони. Плодовые тела встречаются в течение всего года с января по декабрь, при этом активное спороношение достигает пика во влажную осеннюю и зимнюю погоду; однолетние шляпки нередко сохраняются зимой и могут возобновлять рост в следующем сезоне.",
+      "uses": "Несъедобный из-за тонкой, жесткой и кожистой консистенции.",
+      "confusion": "Trametes versicolor имеет мелкопористую, а не гладкую нижнюю поверхность и обычно отличается более холодными серыми, коричневыми или голубоватыми концентрическими полосами. Stereum subtomentosum образует более крупные шляпки шириной 3–10 см с тонкобархатистой, а не щетинистой верхней поверхностью, более узким, суженным или слегка ножковидным основанием и свежей нижней поверхностью, желтеющей при трении. Stereum gausapatum и Stereum sanguinolentum оба выделяют красную жидкость при царапании или разрезе свежей нижней поверхности, причем Stereum sanguinolentum растет преимущественно на хвойных породах. Stereum ostrea образует более крупные, тонкие и широкие вееровидные шляпки с менее щетинистой верхней поверхностью. Stereum rameale значительно мельче, около 1 см в ширину; его шляпки выступают лишь на 5 мм и не имеют темной корковой линии под верхним волосистым слоем на поперечном срезе. Chondrostereum purpureum отличается отчетливо пурпурной до фиолетовой гладкой нижней поверхностью.",
+      "notes": "На плодовых телах часто паразитируют дрожалковые грибы, такие как Naematelia aurantia и Phaeotremella frondosa, получающие питательные вещества из его гиф с помощью гаусторий. В виноградарстве этот вид выступает вторичным дереворазрушающим патогеном при болезни эска винограда после первичного заражения Fomitiporia mediterranea, а также способен поражать живые плодовые деревья, например персик. Сесквитерпеноид гирсутовая кислота C, впервые выделенный из этого вида в 1966 году, проявляет антибактериальную и противоопухолевую активность, а его ферментная система белой гнили изучается для разложения пестицидов.",
+      "sourceUrls": []
+    },
+    "sk": {
+      "label": "pevník chlpatý",
+      "description": "Široko rozšírená, kožovitá drevokazná kôrovitá a konzolovitá huba rastúca v hustých, škridlicovito usporiadaných vrstvách na odumretom dreve listnáčov a ojedinele aj ihličnanov v Európe, Severnej Amerike, Ázii, Afrike, Austrálii a na Novom Zélande. Je prevažne saprotrofná a príležitostne slabo parazitická, spôsobuje bielu hnilobu dreva a plodí celoročne.",
+      "cap": "1–8 cm široký (často bočne zrastený do zvlnených radov dlhých až 10 cm) a od dreva odstáva 1–3 cm. Hrúbka plodnice je 0,5–1,5 mm, ojedinele až 2 mm. Tvarom je polkruhovitý, vejárovitý alebo nepravidelný s rozliatou bázou, prípadne na zvislých a rezných plochách dreva vytvára celkom ploché kôry. Vrchná strana je za mladi a za čerstva výrazne chlpatá až štetinatá, vekom olysieva a stáva sa hladšou, s sústrednými pásmi v žiarivo žltej, okrovej, oranžovožltej, žltohnedej alebo červenohnedej farbe a so svetlejším, zvlneným, kučeravým alebo laločnatým okrajom. Staršie plodnice na vlhkých miestach často získavajú zelenkastý nádych od rias, zatiaľ čo suché plodnice blednú do sivohneda. Hydroxid draselný (KOH) sfarbuje všetky povrchy najprv načerveno a potom načierno.",
+      "hymenium": "Hladký povrch je hladký až mierne nerovný alebo jemne vráskavý, bez pórov, lupeňov či ostňov; za čerstva je žiarivo žltý, žltooranžový alebo okrovožltý, vekom alebo za sucha bledne do bledosivohneda. Prezimované plodnice, ktoré obnovili rast, bývajú často dvojfarebné, so sivou staršou zónou a žiarivo okrovožltým čerstvým okrajom. Čerstvá spodná strana pri narezaní alebo poranení nevylučuje červenú tekutinu (hoci mladé formy z teplých oblastí môžu občas mierne sčervenať). Hyfídie majú zaoblené až mierne zašpicatené konce bez ostnitých výbežkov (akantohyfídie chýbajú); prítomné sú početné hrubostenné pseudocystidy (7–10 µm široké, dlhé vyše 100 µm, s tenkostennými vrcholmi a olejovitým apikálnym obsahom) a mierne vyčnievajúce akutocystidy (20–30 × 2–4 µm). Bazídiá sú úzko kyjakovité, 25–60 × 3–5 µm, štvorvýtrusné.",
+      "stipe": "Hlúbik chýba; prisadnuté, polorozliate plodnice prirastajú k drevu široko zadným okrajom alebo prostredníctvom rozliatej bázy.",
+      "flesh": "Tenká (0,5–1,5 mm), húževnatá, ohybná a kožovitá, belavá, s monomitickým hýfovým systémom a s výraznou tenkou tmavohnedou kôrovou líniou viditeľnou na priereze priamo pod vrchnou chlpatou vrstvou. Na reze nemení farbu. Vôňa je nevýrazná; chuť mierna a nevýrazná.",
+      "sporePrint": "Biely (často sa ťažko získava). Bazídiospóry sú hladké, tenkostenné, hyalínne, valcovité až úzko elipsoidné, amyloidné a merajú 5–8 × 2–3,5 µm (ojedinele až 11 × 4 µm).",
+      "habitat": "Saprotrofná a príležitostne slabo parazitická na pomerne čerstvom odumretom dreve listnatých stromov – najmä dubov a buka lesného, ako aj hrabu, brezy, jelše, vŕby a ovocných stromov – a oveľa zriedkavejšie na ihličnanoch, ako sú smrek a borovica. Rastie na padnutých konároch, kmeňoch, pňoch, stojacom odumretom dreve a uloženom či zvetranom dreve, pričom spôsobuje bielu hnilobu predovšetkým v beli. Plodnice sa vyskytujú po celý rok od januára do decembra, pričom aktívna tvorba výtrusov vrcholí za vlhkého jesenného a zimného počasia; jednoročné plodnice bežne pretrvávajú cez zimu a v nasledujúcej sezóne môžu obnoviť rast.",
+      "uses": "Nejedlá pre svoju tenkú, húževnatú, kožovitú konzistenciu.",
+      "confusion": "Trúdnikovec pestrý (Trametes versicolor) má namiesto hladkého povrchu jemne pórovitú spodnú stranu a zvyčajne chladnejšie sivé, hnedé alebo modrasté sústredné pásy. Pevník plstnatý (Stereum subtomentosum) vytvára väčšie plodnice (3–10 cm široké) s jemne zamatovou, nie štetinatou vrchnou stranou, s užšou, zúženou alebo mierne hlúbikovitou bázou a čerstvou spodnou stranou, ktorá po otlačení žltne. Pevník dubový (Stereum gausapatum) aj pevník krvavý (Stereum sanguinolentum) po poškriabaní alebo narezaní čerstvej spodnej strany vylučujú červenú tekutinu, pričom Stereum sanguinolentum rastie prevažne na ihličnanoch. Stereum ostrea vytvára väčšie, tenšie a širšie vejáre s menej štetinatou vrchnou stranou. Stereum rameale je oveľa menší (asi 1 cm široký, od dreva odstáva 5 mm) a na priereze mu pod vrchnou chlpatou vrstvou chýba tmavá kôrová línia. Pevník purpurový (Chondrostereum purpureum) má výrazne purpurovú až fialkastú hladkú spodnú stranu.",
+      "notes": "Na plodniciach často parazitujú rôsolovité huby, ako sú Naematelia aurantia a Phaeotremella frondosa, ktoré z jej hýf čerpajú živiny prostredníctvom haustórií. Vo vinohradníctve pôsobí ako sekundárny drevokazný patogén pri chorobe esca viniča po prvotnej infekcii hubou Fomitiporia mediterranea a môže infikovať aj živé ovocné stromy, napríklad broskyňu. Seskviterpenoid kyselina hirzutová C, prvýkrát izolovaná z tohto druhu v roku 1966, vykazuje antibakteriálnu a protinádorovú aktivitu a jej enzýmový systém bielej hniloby sa skúma na odbúravanie pesticídov.",
+      "sourceUrls": []
+    },
+    "sl": {
+      "label": "dlakava slojevka",
+      "wikipedia": "https://sl.wikipedia.org/wiki/Dlakava_slojevka",
+      "description": "Široko razširjena, usnjata gliva, lesni razkrojevalec, ki raste kot skorjasta in konzolasta goba v gostih, strešnikasto prekrivajočih se vrstah na odmrlem lesu listavcev in redkeje iglavcev po Evropi, Severni Ameriki, Aziji, Afriki, Avstraliji in Novi Zelandiji. Je pretežno saprotrofna in občasno šibko zajedavska, povzroča belo trohnobo in obrodi vse leto.",
+      "cap": "1–8 cm širok (pogosto bočno zraščen v valovite vrste, dolge do 10 cm) in štrli 1–3 cm iz lesa. Debelina trosnjaka je 0,5–1,5 mm, izjemoma do 2 mm. Je polkrožen, pahljačast ali nepravilen z razprostrto osnovo, na navpičnih in prerezanih lesenih površinah pa pogosto tvori povsem ploske skorje. Zgornja površina je pri mladih in svežih trosnjakih izrazito dlakava do ščetinasta, s starostjo pa postane bolj gladka ali skoraj gola; je koncentrično pasasta v živorumeni, okrasti, oranžnorumeni, rjavkasti ali rdečerjavi barvi, s svetlejšim, valovitim, nagubanim ali krpastim robom. Starejši trosnjaki na vlažnih rastiščih pogosto dobijo zelenkast nadih zaradi alg, suhi pa obledijo v sivorjavo barvo. Kalijev hidroksid (KOH) obarva vse površine najprej rdeče, nato črno.",
+      "hymenium": "Trosovnica je gladka do rahlo neravna ali drobno nagubana, brez cevk, lističev ali iglic; v svežem stanju je živorumena, rumenooranžna ali okrastorumena, s starostjo ali v suhem vremenu pa obledi v bledo sivorjavo. Prezimljeni trosnjaki, ki znova začnejo rasti, so pogosto dvobarvni, s sivim starejšim delom in živo okrastorumenim svežim robom. Sveža spodnja stran ob prerezu ali poškodbi ne izloča rdeče tekočine (čeprav mlade oblike iz toplejših krajev včasih rahlo pordijo). Hifidije imajo zaobljene do rahlo zašiljene vrhove brez trnastih izrastkov (akantohifidij ni); prisotne so številne debelostenske psevdocistide (7–10 µm široke, dolge več kot 100 µm, s tankostenskimi vrhovi in oljnato apikalno vsebino) ter rahlo štrleče akutocistide (20–30 × 2–4 µm). Bazidiji so ozko kijasti, 25–60 × 3–5 µm, štiritrosni.",
+      "stipe": "Beta ni; sedeči, polrazprostrti trosnjaki se široko priraščajo na les vzdolž zadnjega roba ali prek razprostrte osnove.",
+      "flesh": "Tanko (0,5–1,5 mm), žilavo, prožno in usnjato, belkasto, z monomitičnim hifnim sistemom in izrazito tanko temnorjavo skorjasto linijo, ki je na prerezu vidna neposredno pod zgornjo dlakavo plastjo. Na prerezu ne spremeni barve. Vonj je neizrazit; okus blag in neizrazit.",
+      "sporePrint": "Bel (pogosto ga je težko pridobiti). Bazidiospore so gladke, tankostenske, hialine, valjaste do ozko elipsoidne, amiloidne in merijo 5–8 × 2–3,5 µm (izjemoma do 11 × 4 µm).",
+      "habitat": "Saprotrofna in občasno šibko zajedavska na razmeroma svežem odmrlem lesu listavcev – zlasti hrasta in navadne bukve, pa tudi gabra, breze, jelše, vrbe in sadnega drevja – ter precej redkeje na iglavcih, kot sta smreka in bor. Raste na odpadlih vejah, deblih, štorih, stoječem odmrlem lesu ter zloženem ali preperelem lesu in povzroča belo trohnobo predvsem v beljavi. Trosnjaki se pojavljajo vse leto, od januarja do decembra, pri čemer je aktivno trosenje najmočnejše v vlažnem jesenskem in zimskem vremenu; enoletni trosnjaki pogosto prezimijo in v naslednji sezoni nadaljujejo rast.",
+      "uses": "Neuživna zaradi svojega tankega, žilavega in usnjatega mesa.",
+      "confusion": "Pisana ploskocevka (Trametes versicolor) ima namesto gladke drobno luknjičavo spodnjo stran in običajno hladnejše sive, rjave ali modrikaste koncentrične pasove. Žametasta slojevka (Stereum subtomentosum) tvori večje trosnjake (3–10 cm široke) z drobno žametasto, ne ščetinasto zgornjo površino, ožjo, zoženo ali rahlo betasto osnovo ter svežo spodnjo stranjo, ki ob drgnjenju porumeni. Hrastova slojevka (Stereum gausapatum) in krvaveča slojevka (Stereum sanguinolentum) ob praskanju ali prerezu sveže spodnje strani izločata rdečo tekočino, pri čemer Stereum sanguinolentum raste pretežno na iglavcih. Stereum ostrea tvori večje, tanjše in širše pahljače z manj ščetinasto zgornjo površino. Stereum rameale je veliko manjši (približno 1 cm širok; štrli 5 mm) in na prerezu nima temne skorjaste linije pod zgornjo dlakavo plastjo. Chondrostereum purpureum ima izrazito škrlatno do vijoličasto gladko spodnjo stran.",
+      "notes": "Na trosnjakih pogosto zajedajo zdrizaste glive iz skupine tresavk, kot sta Naematelia aurantia in Phaeotremella frondosa, ki iz njenih hif črpajo hranila prek havstorijev. V vinogradništvu deluje kot sekundarni patogen razkroja lesa pri bolezni esca vinske trte po primarni okužbi z glivo Fomitiporia mediterranea, lahko pa okuži tudi živo sadno drevje, na primer breskev. Seskviterpenoid hirzutinska kislina C, prvič izolirana iz te vrste leta 1966, kaže protibakterijsko in protitumorsko delovanje, njen encimski sistem bele trohnobe pa preučujejo za razgradnjo pesticidov.",
+      "sourceUrls": [
+        "https://sl.wikipedia.org/wiki/Dlakava_slojevka"
+      ]
+    },
+    "sr": {
+      "label": "чупава поличица",
+      "wikipedia": "https://sr.wikipedia.org/wiki/%D0%A7%D1%83%D0%BF%D0%B0%D0%B2%D0%B0_%D0%BF%D0%BE%D0%BB%D0%B8%D1%87%D0%B8%D1%86%D0%B0",
+      "description": "Широко распрострањена, кожаста лигниколна кораста и конзоласта гљива која расте у густим, црепасто преклопљеним редовима на мртвом дрвету лишћара и повремено четинара широм Европе, Северне Америке, Азије, Африке, Аустралије и Новог Зеланда. Претежно је сапротрофна, а повремено слабо паразитска; изазива белу трулеж и плодоноси током целе године.",
+      "cap": "1–8 cm широк (често бочно срастао у таласасте редове дуге до 10 cm), штрчи 1–3 cm од дрвета. Дебљина плодног тела износи 0,5–1,5 mm, повремено до 2 mm. Полукружног је, лепезастог или неправилног облика са прираслом ресупинатном основом, или на усправним и пресеченим површинама дрвета образује сасвим равне коре. Горња површина је у младости и свежем стању изразито длакава до чекињаста, временом постаје глађа или готово гола, а концентрично је зонирана у јарко жутој, окер, наранџастожутој, жутосмеђој или црвенкастосмеђој боји са светлијим, таласастим, набораним или режњевитим ободом. Старија плодна тела на влажним местима често добијају зеленкасту нијансу од алги, док суви шешири бледе ка сивосмеђој боји. Калијум-хидроксид (KOH) боји све површине најпре црвено, а затим црно.",
+      "hymenium": "Глатка до благо неравна или слабо наборана плодна површина, без пора, листића или бодљи; у свежем стању јарко жута, жутонаранџаста или окержута, а са старошћу или по сувом времену бледи у бледо сивосмеђу. Презимела плодна тела која наставе раст често изгледају двобојно, са сивом старијом зоном и јарко окержутим свежим ободом. Свежа доња страна при сечењу или повређивању не испушта црвену течност (иако млади облици из топлијих крајева понекад могу благо да поцрвене). Хифидије имају заобљене до благо зашиљене врхове без трновитих израштаја (акантохифидије недостају); присутне су бројне дебелозиде псеудоцистиде (7–10 µm широке, дуже од 100 µm, са танкозидим врховима и уљастим апикалним садржајем) и благо истурене акутоцистиде (20–30 × 2–4 µm). Базидије су уско батинасте, 25–60 × 3–5 µm, четвороспорне.",
+      "stipe": "Дршка недостаје; седећа, полуодмакнута плодна тела широко су прирасла уз дрво дуж задњег обода или преко ресупинатне основе.",
+      "flesh": "Танко (0,5–1,5 mm), жилаво, савитљиво и кожасто, беличасто, са мономитичним системом хифа и јасном танком тамносмеђом кортикалном линијом видљивом на пресеку непосредно испод горњег длакавог слоја. На пресеку не мења боју. Мирис је неизразит; укус благ и неизразит.",
+      "sporePrint": "Бео (често се тешко добија). Базидиоспоре су глатке, танкозиде, хијалине, цилиндричне до уско елипсоидне, амилоидне и мере 5–8 × 2–3,5 µm (повремено до 11 × 4 µm).",
+      "habitat": "Сапротрофна и повремено слабо паразитска на релативно свежем мртвом дрвету лишћарског дрвећа – нарочито храста и европске букве, као и граба, брезе, јове, врбе и воћака – и знатно ређе на четинарима попут смрче и бора. Плодоноси на опалим гранама, трупцима, пањевима, стојећем мртвом дрвету и сложеном или изложеном дрвету, изазивајући белу трулеж пре свега у бељици. Плодна тела се јављају током целе године, од јануара до децембра, уз врхунац активног стварања спора по влажном јесењем и зимском времену; једногодишња плодна тела често презиме и могу да наставе раст следеће сезоне.",
+      "uses": "Нејестива због свог танког, жилавог и кожастог меса.",
+      "confusion": "Trametes versicolor има ситно порасту уместо глатке доње површине и обично хладније сиве, смеђе или плавичасте концентричне појасеве. Stereum subtomentosum образује већа плодна тела (3–10 cm широка) са фино сомотастом уместо чекињасте горње површине, ужом, суженом или благо дршкастом основом и свежом доњом страном која при трљању жути. Stereum gausapatum и Stereum sanguinolentum испуштају црвену течност када се њихова свежа доња страна огребе или засече, а Stereum sanguinolentum расте првенствено на четинарима. Stereum ostrea гради веће, тање и шире лепезе са мање чекињастом горњом површином. Stereum rameale је много мањи (око 1 cm широк; штрчи 5 mm) и на пресеку нема тамну кортикалну линију испод горњег длакавог слоја. Chondrostereum purpureum има изразито пурпурну до љубичасту глатку доњу површину.",
+      "notes": "На плодним телима често паразитирају желатинозне гљиве попут Naematelia aurantia и Phaeotremella frondosa, које из њених хифа црпе хранљиве материје помоћу хаусторија. У виноградарству делује као секундарни патоген трулежи дрвета код болести еска винове лозе након примарне инфекције гљивом Fomitiporia mediterranea, а може да зарази и живе воћке, попут брескве. Сесквитерпеноид хирзутинска киселина C, први пут изолована из ове врсте 1966. године, показује антибактеријско и антинеопластично дејство, а њен ензимски систем беле трулежи проучава се за разградњу пестицида.",
+      "sourceUrls": [
+        "https://sr.wikipedia.org/wiki/%D0%A7%D1%83%D0%BF%D0%B0%D0%B2%D0%B0_%D0%BF%D0%BE%D0%BB%D0%B8%D1%87%D0%B8%D1%86%D0%B0"
+      ]
+    },
+    "sv": {
+      "label": "raggskinn",
+      "wikipedia": "https://sv.wikipedia.org/wiki/Raggskinn",
+      "description": "En vida spridd, läderartad, vedlevande skinn- och konsolsvamp som växer i täta, taktegellagda rader på död lövved och ibland på barrved i Europa, Nordamerika, Asien, Afrika, Australien och Nya Zeeland. Den är främst saprotrof och ibland svagt parasitisk, orsakar vitröta och bildar fruktkroppar året runt.",
+      "cap": "Hattarna är 1–8 cm breda (ofta sammanvuxna i sidled till vågiga rader upp till 10 cm långa), sticker ut 1–3 cm från veden och är halvcirkelformade, solfjäderformade eller oregelbundna med resupinat bas, eller bildar helt platta skorpor på lodräta och sågade vedytor. Fruktkropparna är 0,5–1,5 mm tjocka, ibland upp till 2 mm. Ovansidan är tydligt hårig till borstig som ung och färsk, blir slätare eller nästan kal med åldern och är koncentriskt zonerad i klart gult, ockra, orangegult, gulbrunt eller rödbrunt med ljusare, vågig, krusig eller flikig kant. Äldre fruktkroppar på fuktiga platser får ofta en grönaktig ton av alger, medan torra hattar bleknar mot gråbrunt. Kaliumhydroxid (KOH) färgar alla ytor röda och därefter svarta.",
+      "hymenium": "Slät yta till lätt ojämn eller svagt rynkig, utan porer, skivor eller taggar; klart gul, gulorange eller ockragul som färsk, bleknande till blekt gråbrun med åldern eller i torrt väder. Övervintrade fruktkroppar som återupptar tillväxten ser ofta tvåfärgade ut, med en grå äldre zon och en klart ockragul färsk kant. Färska undersidor blöder inte röd vätska vid snitt eller skada (även om unga former i varmt klimat ibland kan rodna svagt). Hyfidier har avrundade till svagt spetsiga toppar utan taggiga utskott (akantohyfidier saknas); rikligt med tjockväggiga pseudocystider (7–10 µm breda, över 100 µm långa, med tunnväggiga toppar och oljigt innehåll i spetsen) samt svagt utskjutande akutocystider (20–30 × 2–4 µm) förekommer. Basidierna är smalt klubbformade, 25–60 × 3–5 µm och fyrsporiga.",
+      "stipe": "Fot saknas; de oskaftade, effust-reflexa hattarna är brett fästa vid veden längs bakkanten eller via en resupinat bas.",
+      "flesh": "Köttet är tunt (0,5–1,5 mm), segt, böjligt och läderartat, vitaktigt, med monomitiskt hyfsystem och en tydlig tunn, mörkbrun kortexlinje synlig i tvärsnitt direkt under det övre hårlagret. Färgförändras inte vid snitt. Lukt otydlig; smak mild och otydlig.",
+      "sporePrint": "Sporavtryck vitt (ofta svårt att få fram). Basidiosporerna är släta, tunnväggiga, hyalina, cylindriska till smalt ellipsoida, amyloida och mäter 5–8 × 2–3,5 µm (ibland upp till 11 × 4 µm).",
+      "habitat": "Saprotrof och ibland svagt parasitisk på relativt färsk död ved av lövträd — särskilt ek och bok samt avenbok, björk, al, vide och fruktträd — och betydligt mer sällan på barrträd som gran och tall. Bildar fruktkroppar på nedfallna grenar, lågor, stubbar, stående död ved samt staplat eller väderbitet virke och orsakar vitröta främst i splintveden. Fruktkroppar förekommer året runt från januari till december med aktiv sporproduktion som når sin topp under fuktigt höst- och vinterväder; de ettåriga hattarna sitter ofta kvar över vintern och kan återuppta tillväxten nästa säsong.",
+      "uses": "Oätlig på grund av sin tunna, sega och läderartade konsistens.",
+      "confusion": "Trametes versicolor har en fint porig i stället för slät undersida och visar vanligen svalare grå, bruna eller blåaktiga koncentriska band. Stereum subtomentosum bildar större hattar (3–10 cm breda) med fint sammetslen snarare än borstig ovansida, smalare, avsmalnande eller lätt skaftad bas och en färsk undersida som gulnar vid gnidning. Stereum gausapatum och Stereum sanguinolentum blöder båda röd vätska när den färska undersidan repas eller skärs, och Stereum sanguinolentum växer främst på barrved. Stereum ostrea bildar större, tunnare och bredare solfjädrar med mindre borstig ovansida. Stereum rameale är betydligt mindre, omkring 1 cm bred; hattarna sticker endast ut 5 mm och saknar den mörka kortexlinjen under det övre hårlagret i tvärsnitt. Chondrostereum purpureum har en tydligt purpurfärgad till violett slät undersida.",
+      "notes": "Fruktkropparna parasiteras ofta av gelésvampar som Naematelia aurantia och Phaeotremella frondosa, vilka tar upp näring från dess hyfer via haustorier. Inom vinodling uppträder den som sekundär vednedbrytande patogen vid esca-sjuka hos vinrankor efter primär infektion av Fomitiporia mediterranea, och den kan även angripa levande fruktträd som persika. Seskviterpenoiden hirsutsyra C, som först isolerades från denna art 1966, uppvisar antibakteriell och antineoplastisk aktivitet, och dess vitröteenzymsystem studeras för nedbrytning av bekämpningsmedel.",
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Raggskinn"
+      ]
+    },
+    "tr": {
+      "description": "Avrupa, Kuzey Amerika, Asya, Afrika, Avustralya ve Yeni Zelanda boyunca ölü sert ağaç odunu ve zaman zaman iğne yapraklı kereste üzerinde yoğun, üst üste binen katmanlar halinde büyüyen, yaygın, derimsi, odun çürüten bir kabuk ve raf mantarıdır. Başlıca saprotrof ve zaman zaman zayıf parazit olup beyaz çürüklüğe yol açar ve yıl boyunca meyve gövdesi oluşturur.",
+      "cap": "1–8 cm genişliğinde (sıklıkla yanlardan birleşerek 10 cm uzunluğa kadar dalgalı sıralar oluşturur), odundan 1–3 cm dışarı uzanan ve 0,5–1,5 mm kalınlığında (bazen 2 mm'ye kadar), yarım daire, yelpaze biçimli veya yapışık tabanlı düzensiz şekilde ya da dikey ve kesilmiş odun yüzeylerinde tamamen düz kabuklar halinde gelişir. Üst yüzey genç ve tazeyken belirgin biçimde tüylü ila sert kıllıdır, yaşlandıkça daha pürüzsüz veya neredeyse çıplak hale gelir; parlak sarı, aşı boyası sarısı, turuncu-sarı, açık kahverengi veya kızıl-kahverengi eş merkezli kuşaklara ve daha soluk, dalgalı, kıvrımlı veya loplu bir kenara sahiptir. Nemli yerlerdeki yaşlı meyve gövdeleri algler nedeniyle sıklıkla yeşilimsi bir ton alır, kuru raflar ise gri-kahverengiye doğru solar. Potasyum hidroksit (KOH) tüm yüzeyleri önce kırmızıya, ardından siyaha çevirir.",
+      "hymenium": "Düz ila hafif engebeli veya belli belirsiz kırışık, gözenek, lamel veya diken içermez; tazeyken parlak sarı, sarı-turuncu veya açık aşı boyası rengindedir, yaşlandıkça veya kurak havada soluk grimsi kahverengiye döner. Kışı atlatıp büyümeye devam eden raflar genellikle gri yaşlı bölge ve parlak aşı boyası sarısı taze kenarıyla iki tonlu görünür. Taze alt yüzey kesildiğinde veya zedelendiğinde kırmızı sıvı sızdırmaz (ancak sıcak iklimlerdeki genç formlar zaman zaman hafifçe kızarabilir). Hifidyumlar yuvarlak ila hafif sivri uçludur ve dikensi çıkıntı taşımaz (akantohifidyum yoktur); bol miktarda kalın duvarlı psödosistidyum (7–10 µm genişliğinde, 100 µm'den uzun, ince duvarlı uçlu ve uç kısmında yağlı içerikli) ile hafifçe çıkıntı yapan akutokistidyum (20–30 × 2–4 µm) bulunur. Bazidiyumlar dar çomak biçimli, 25–60 × 3–5 µm boyutlarında ve dört sporludur.",
+      "stipe": "Sap yoktur; sapsız, yayılıp kıvrılan raflar arka kenarları boyunca veya yapışık tabanlarıyla oduna genişçe tutunur.",
+      "flesh": "Etli kısım ince (0,5–1,5 mm), sert, esnek ve derimsi, beyazımsı olup monomitik hif sistemine sahiptir ve enine kesitte üstteki tüylü tabakanın hemen altında belirgin ince koyu kahverengi bir korteks çizgisi görülür. Kesildiğinde renk değiştirmez. Koku belirsiz, tat hafif ve belirsizdir.",
+      "sporePrint": "Beyaz (elde edilmesi çoğu zaman zordur). Bazidiyosporlar pürüzsüz, ince duvarlı, renksiz, silindirik ila dar elipsoit, amiloit olup 5–8 × 2–3,5 µm (bazen 11 × 4 µm'ye kadar) ölçülerindedir.",
+      "habitat": "Nispeten taze ölü geniş yapraklı ağaç odunu — özellikle meşe ve Avrupa kayını, ayrıca gürgen, huş, kızılağaç, söğüt ve meyve ağaçları — ve çok daha seyrek olarak ladin ve çam gibi iğne yapraklılar üzerinde saprotrof ve zaman zaman zayıf parazittir. Düşmüş dallar, kütükler, devrik gövdeler, ayaktaki ölü ağaçlar ve istiflenmiş ya da hava koşullarına maruz kalmış kereste üzerinde gelişerek başlıca diri odunda beyaz çürüklüğe neden olur. Meyve gövdeleri ocaktan aralığa kadar yıl boyunca görülür, aktif spor üretimi yağışlı sonbahar ve kış havalarında zirveye ulaşır; tek yıllık raflar genellikle kışı atlatır ve sonraki mevsimde büyümeye devam edebilir.",
+      "uses": "İnce, sert ve derimsi dokusu nedeniyle yenmez.",
+      "confusion": "Trametes versicolor düz yerine ince gözenekli bir alt yüzeye sahiptir ve genellikle daha soğuk gri, kahverengi veya mavimsi eş merkezli kuşaklar gösterir. Stereum subtomentosum daha büyük şapkalar (3–10 cm genişliğinde), sert kıllı yerine ince kadifemsi bir üst yüzey, daha dar, büzülmüş veya hafif saplı bir taban ve ovulduğunda sararan taze bir alt yüzey oluşturur. Stereum gausapatum ve Stereum sanguinolentum'un her ikisi de taze alt yüzeyleri çizildiğinde veya kesildiğinde kırmızı sıvı sızdırır; ayrıca Stereum sanguinolentum ağırlıklı olarak iğne yapraklılarda büyür. Stereum ostrea daha az sert kıllı üst yüzeylere sahip daha büyük, daha ince ve daha geniş yelpazeler oluşturur. Stereum rameale çok daha küçüktür (yaklaşık 1 cm genişliğinde, 5 mm çıkıntılı) ve enine kesitte üst tüylü tabakanın altındaki koyu korteks çizgisinden yoksundur. Chondrostereum purpureum belirgin biçimde morumsu ila menekşe rengi düz bir alt yüzeye sahiptir.",
+      "notes": "Meyve gövdeleri sıklıkla Naematelia aurantia ve Phaeotremella frondosa gibi jelimsi tremelloid mantarlar tarafından parazitlenir; bu mantarlar haustoryumlar aracılığıyla hiflerinden besin çeker. Bağcılıkta, Fomitiporia mediterranea'nın yol açtığı birincil enfeksiyonun ardından asmaların esca hastalığında ikincil odun çürüklüğü patojeni olarak işlev görür ve şeftali gibi canlı meyve ağaçlarını da enfekte edebilir. Bu türden ilk kez 1966 yılında izole edilen seskiterpenoit hirsutik asit C, antibakteriyel ve antineoplastik aktivite gösterir; beyaz çürüklük enzim sistemi de pestisitlerin parçalanması için araştırılmaktadır.",
+      "sourceUrls": []
+    },
+    "uk": {
+      "label": "стереум жорстковолосистий",
+      "wikipedia": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%80%D0%B5%D1%83%D0%BC_%D0%B6%D0%BE%D1%80%D1%81%D1%82%D0%BA%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B8%D0%B9",
+      "description": "Широко розповсюджений шкірястий дереворуйнівний корковий і консолеподібний гриб, що росте щільними черепичастими рядами на мертвій деревині листяних і зрідка хвойних порід у Європі, Північній Америці, Азії, Африці, Австралії та Новій Зеландії. Переважно сапротрофний і іноді слабкопаразитичний вид, спричиняє білу гниль і плодоносить цілий рік.",
+      "cap": "Шапинки завширшки 1–8 см (часто зростаються боками у хвилясті ряди завдовжки до 10 см), виступають від деревини на 1–3 см, напівкруглі, віялоподібні або неправильної форми з розпростертою основою або утворюють цілком плоскі кірки на вертикальних і спиляних поверхнях деревини. Товщина плодових тіл становить 0,5–1,5 мм, зрідка до 2 мм. Верхня поверхня у молодих і свіжих екземплярів виразно волосиста до щетинистої, з віком стає гладкішою або майже голою, з концентричними зонами яскраво-жовтого, охристого, помаранчево-жовтого, жовтувато-коричневого або червонувато-коричневого кольору та світлішим хвилястим, складчастим або лопатевим краєм. Старіші плодові тіла у вологих місцях часто набувають зеленуватого відтінку від водоростей, тоді як підсохлі шапинки вицвітають до сіро-коричневих. Гідроксид калію (KOH) забарвлює всі поверхні в червоний, а згодом у чорний колір.",
+      "hymenium": "Гладенька поверхня від рівної до злегка нерівної або слабкозморшкуватої, без пор, пластинок чи шипів; у свіжому стані яскраво-жовта, жовто-помаранчева або охристо-палева, з віком або в суху погоду блідне до світло-сіро-коричневої. Перезимувалі плодові тіла, що відновили ріст, часто мають двоколірний вигляд: зі старою сірою зоною та свіжим яскраво-охристо-жовтим краєм. Свіжа нижня поверхня не виділяє червоної рідини при розрізі чи пошкодженні (хоча молоді форми з теплого клімату іноді можуть злегка червоніти). Гіфідії з округлими або злегка загостреними верхівками без шипоподібних виростів (акантогіфідії відсутні); наявні численні товстостінні псевдоцистиди завширшки 7–10 мкм і завдовжки понад 100 мкм із тонкостінними верхівками та олійним вмістом на кінчиках, а також злегка виступаючі акутоцистиди розміром 20–30 × 2–4 мкм. Базидії вузькобулавоподібні, 25–60 × 3–5 мкм, чотириспорові.",
+      "stipe": "Ніжка відсутня; сидячі розпростерто-відігнуті шапинки широко прикріплюються до деревини заднім краєм або через розпростерту основу.",
+      "flesh": "М'якуш тонкий (0,5–1,5 мм), жорсткий, гнучкий і шкірястий, білуватого кольору, з мономітичною гіфальною системою та чіткою тонкою темно-коричневою корковою лінією, помітною на поперечному розрізі безпосередньо під верхнім волосистим шаром. На розрізі забарвлення не змінює. Запах невиразний; смак м'який і невиразний.",
+      "sporePrint": "Споровий порошок білий (часто отримати його складно). Базидіоспори гладенькі, тонкостінні, безбарвні, циліндричні до вузькоеліпсоїдних, амілоїдні, розміром 5–8 × 2–3,5 мкм (зрідка до 11 × 4 мкм).",
+      "habitat": "Сапротрофний і зрідка слабкопаразитичний вид на відносно свіжій мертвій деревині листяних дерев — особливо дуба та бука європейського, а також граба, берези, вільхи, верби й плодових дерев — і значно рідше на хвойних, таких як ялина та сосна. Плодоносить на опалих гілках, повалених стовбурах, пнях, сухостої та складеній або вивітреній деревині, спричиняючи білу гниль переважно в заболоні. Плодові тіла трапляються протягом усього року з січня по грудень, причому активне спороношення досягає піку у вологу осінню та зимову погоду; однорічні шапинки нерідко зберігаються взимку й можуть відновлювати ріст наступного сезону.",
+      "uses": "Неїстівний через тонку, жорстку й шкірясту консистенцію.",
+      "confusion": "Trametes versicolor має дрібнопористу, а не гладеньку нижню поверхню й зазвичай вирізняється холоднішими сірими, коричневими або блакитнуватими концентричними смугами. Stereum subtomentosum утворює більші шапинки завширшки 3–10 см із тонкооксамитовою, а не щетинистою верхньою поверхнею, вужчою, звуженою або злегка ніжкоподібною основою та свіжою нижньою поверхнею, яка жовтіє при терті. Stereum gausapatum і Stereum sanguinolentum обидва виділяють червону рідину при подряпуванні або розрізанні свіжої нижньої поверхні, причому Stereum sanguinolentum росте переважно на хвойних породах. Stereum ostrea утворює більші, тонші й ширші віялоподібні шапинки з менш щетинистою верхньою поверхнею. Stereum rameale значно дрібніший, близько 1 см завширшки; його шапинки виступають лише на 5 мм і не мають темної коркової лінії під верхнім волосистим шаром на поперечному розрізі. Chondrostereum purpureum вирізняється чітко пурпуровою до фіолетової гладенькою нижньою поверхнею.",
+      "notes": "На плодових тілах часто паразитують дрожалкоподібні гриби, такі як Naematelia aurantia та Phaeotremella frondosa, які отримують поживні речовини з його гіф за допомогою гаусторій. У виноградарстві цей вид виступає вторинним дереворуйнівним патогеном при хворобі еска винограду після первинного ураження Fomitiporia mediterranea, а також може інфікувати живі плодові дерева, зокрема персик. Сесквітерпеноїд гірсутова кислота C, уперше виділений із цього виду 1966 року, виявляє антибактеріальну та протипухлинну активність, а його ферментну систему білої гнилі досліджують для розкладання пестицидів.",
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%80%D0%B5%D1%83%D0%BC_%D0%B6%D0%BE%D1%80%D1%81%D1%82%D0%BA%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B8%D0%B9"
+      ]
+    },
+    "zh": {
+      "label": "毛韌革菌",
+      "names": [
+        "粗毛韌革菌"
+      ],
+      "description": "一種分布廣泛、質地革質的木腐平伏至側生真菌，在歐洲、北美洲、亞洲、非洲、澳洲及紐西蘭的枯死闊葉樹木材上密集覆瓦狀成層生長，偶爾亦見於針葉樹木材。主要為腐生，偶爾具弱寄生性，引起木材白色腐朽，全年皆可產生子實體。",
+      "cap": "菌蓋寬1–8 cm（常側向癒合成長達10 cm的波浪狀列），自木材表面突出1–3 cm，呈半圓形、扇形或不規則形並具平伏基部，或在垂直面與木材切面上完全平伏展開成殼狀。菌蓋厚0.5–1.5 mm（偶爾達2 mm）。上表面幼嫩新鮮時明顯具毛至硬毛狀，隨老化漸趨光滑或近乎無毛，具亮黃色、赭色、橙黃色、黃褐色或紅褐色的同心環紋，邊緣較淺、呈波浪狀、皺褶狀或瓣裂狀。潮濕環境中的老熟子實體常因藻類附生而帶綠色調，乾燥時則褪成灰褐色。氫氧化鉀（KOH）溶液使所有表面先轉紅、後變黑。",
+      "hymenium": "子實層面平滑至略不平整或微皺，無菌管孔、菌褶或齒狀突起；新鮮時呈亮黃色、黃橙色或赭黃褐色，老化或乾燥天氣下褪為淡灰褐色。越冬後恢復生長的菌蓋常呈雙色外觀，內部舊區為灰色，新鮮邊緣為亮赭黃色。新鮮下表面切開或擦傷時不滲出紅色汁液（溫暖氣候下的幼嫩個體偶爾可能微泛紅）。囊狀絲（hyphidia）頂端圓鈍至近尖，無刺狀突起（無刺狀囊狀絲）；具大量厚壁假囊狀體（寬7–10 µm，長逾100 µm，頂端薄壁且含油狀內容物）以及微突出的尖端囊狀體（20–30 × 2–4 µm）。擔子呈狹棍棒狀，25–60 × 3–5 µm，具4個擔孢子。",
+      "stipe": "無菌柄；無柄、平伏反捲的菌蓋沿後緣寬廣著生於木材上，或經由平伏基部附著。",
+      "flesh": "菌肉薄（0.5–1.5 mm）、強韌、柔韌而呈革質，帶白色，具單系菌絲系統；橫切面中在上表面毛層正下方可見一條明顯的細暗褐色皮質線。切開後不變色。氣味不明顯；味道溫和而不明顯。",
+      "sporePrint": "孢子印白色（通常較難取得）。擔孢子平滑、薄壁、無色透明、圓柱形至狹橢圓形，具澱粉質反應，大小為5–8 × 2–3.5 µm（偶爾可達11 × 4 µm）。",
+      "habitat": "腐生，偶爾具弱寄生性，生長於較新鮮的闊葉樹枯木上，尤以櫟屬與歐洲山毛櫸為主，亦見於鵝耳櫪、樺木、榿木、柳樹及果樹，較少見於雲杉、松樹等針葉樹。生於落枝、倒木、樹樁、枯立木及堆放或風化的木材上，主要在邊材引起白色腐朽。全年1月至12月均可見子實體，潮濕的秋冬季節孢子產生最為旺盛；一年生菌蓋常能越冬，並可能於翌季恢復生長。",
+      "uses": "因質地薄、強韌且呈革質，不可食。",
+      "confusion": "雲芝（Trametes versicolor）下表面具細密菌管孔而非平滑，且通常呈現偏冷色調的灰、褐或藍灰色同心環帶。Stereum subtomentosum 形成較大的菌蓋（寬3–10 cm），上表面為細絨毛狀而非硬毛狀，基部較狹窄收縮或略具柄狀，且新鮮下表面摩擦後會變黃。Stereum gausapatum 與 Stereum sanguinolentum 的新鮮下表面刮傷或切開時均會滲出紅色汁液，其中 Stereum sanguinolentum 主要生長於針葉樹上。Stereum ostrea 形成更大、更薄且更寬闊的扇形菌蓋，上表面硬毛較少。Stereum rameale 體型小得多（寬約1 cm），自木材突出約5 mm，且橫切面中上毛層下方缺乏暗褐色皮質線。Chondrostereum purpureum 的平滑下表面則明顯呈紫色至紫羅蘭色。",
+      "notes": "子實體常受銀耳類膠質真菌（如 Naematelia aurantia 與 Phaeotremella frondosa）寄生，這些寄生菌透過吸器自其菌絲汲取養分。在葡萄栽培中，本種在 Fomitiporia mediterranea 造成初次感染後，作為葡萄艾斯卡病（esca）的次級木腐病原菌參與發病，亦可感染桃樹等活體果樹。1966年首次自本種分離出的倍半萜類化合物毛韌革酸C（hirsutic acid C）具有抗菌與抗腫瘤活性，其白腐酵素系統亦被研究用於降解農藥。",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q557377"
+      ]
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Thelephora hirsuta",
+      "author": "Willd.",
+      "year": 1787,
+      "rank": "species",
+      "type": "basionym",
+      "if": 163537
+    },
+    {
+      "name": "Helvella hirsuta",
+      "author": "(Willd.) Baumg.",
+      "year": 1790,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Helvella agaricus",
+      "author": "With.",
+      "year": 1776,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Helvella acaulis",
+      "author": "Huds.",
+      "year": 1778,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Auricularia reflexa",
+      "author": "Bull.",
+      "year": 1786,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Boletus auriformis",
+      "author": "Bolton",
+      "year": 1788,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Auricularia aurantiaca",
+      "author": "Schumach.",
+      "year": 1803,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Thelephora reflexa",
+      "author": "(Bull.) Lam. & DC.",
+      "year": 1805,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum reflexum",
+      "author": "(Bull.) Sacc.",
+      "year": 1916,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum neuwirthii",
+      "author": "Velen.",
+      "year": 1922,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum ochraceum",
+      "author": "Lloyd",
+      "year": 1923,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum necator",
+      "author": "Viala",
+      "year": 1926,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum var. lutescens",
+      "author": "Pers.",
+      "year": 1800,
+      "rank": "variety",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum var. undulatum",
+      "author": "Pers.",
+      "year": 1800,
+      "rank": "variety",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum var. vulgare",
+      "author": "Pers.",
+      "year": 1800,
+      "rank": "variety",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum var. pilosiusculum",
+      "author": "Thüm.",
+      "year": 1873,
+      "rank": "variety",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum var. glaucellum",
+      "author": "Sacc.",
+      "year": 1890,
+      "rank": "variety",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum var. tenellum",
+      "author": "Sacc.",
+      "year": 1890,
+      "rank": "variety",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum f. album",
+      "author": "Britzelm.",
+      "year": 1897,
+      "rank": "forma",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum var. amplexicaule",
+      "author": "Bacc.",
+      "year": 1917,
+      "rank": "variety",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum f. neuwirthii",
+      "author": "(Velen.) Pilát",
+      "year": 1930,
+      "rank": "forma",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum f. fagineum",
+      "author": "Pilát",
+      "year": 1930,
+      "rank": "forma",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum f. badium",
+      "author": "Pilát",
+      "year": 1930,
+      "rank": "forma",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum f. ciliatum",
+      "author": "Pilát",
+      "year": 1930,
+      "rank": "forma",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum f. hemiorbiculare",
+      "author": "Pilát",
+      "year": 1930,
+      "rank": "forma",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum f. rotundum",
+      "author": "Pilát",
+      "year": 1930,
+      "rank": "forma",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum f. setosum",
+      "author": "Pilát",
+      "year": 1930,
+      "rank": "forma",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum f. obscurum",
+      "author": "Pilát",
+      "year": 1936,
+      "rank": "forma",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum var. ochraceum",
+      "author": "(Lloyd) Rick",
+      "year": 1940,
+      "rank": "variety",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Stereum hirsutum f. lobulatum",
+      "author": "Ţura, Zmitr. & Wasser",
+      "year": 2009,
+      "rank": "forma",
+      "type": "heterotypic"
+    }
+  ],
+  "reserved": false,
+  "id": 246,
+  "citation": "Observ. mycol. (Lipsiae) 2: 90 (1800) [1799]"
+},
+{
+  "name": "Panellus stipticus",
+  "author": "(Bull.) P. Karst.",
+  "family": "Mycenaceae",
+  "genus": "Panellus",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Mycenaceae",
+    "Panellus"
+  ],
+  "summary": [
+    "Agaricales",
+    "Mycenaceae",
+    "Panellus"
+  ],
+  "edibility": "inedible",
+  "hymenium": "gills",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "yellow",
+    "brown"
+  ],
+  "capFrom": 0.5,
+  "capTo": 4.0,
+  "stipeHeightFrom": 0.3,
+  "stipeHeightTo": 2.0,
+  "stipeThickFrom": 0.2,
+  "stipeThickTo": 0.8,
+  "fruitingFrom": 1,
+  "fruitingTo": 12,
+  "label": {
+    "en": "bitter oyster",
+    "cs": "pařezník obecný",
+    "da": "kliddet epaulethat",
+    "de": "Herber Zwergknäueling",
+    "et": "kirbe panell",
+    "fa": "قارچ خون‌بند",
+    "fi": "kitkerävinokas",
+    "fr": "panelle styptique",
+    "hu": "kis áldücskőgomba",
+    "ja": "ワサビタケ",
+    "ko": "부채버섯",
+    "lt": "ąžuolinis skiautenėlis",
+    "nl": "Scherpe schelpzwam",
+    "no": "besk lærhatt",
+    "pl": "łycznik ochrowy",
+    "ru": "панеллюс вяжущий",
+    "sk": "pňovka obyčajná",
+    "sl": "trpki zgručevec",
+    "sv": "epålettsvamp",
+    "uk": "гірка глива",
+    "zh": "鱗皮扇菇"
+  },
+  "names": {
+    "en": [
+      "bitter oysterling",
+      "luminescent panellus",
+      "astringent panus",
+      "stiptic fungus"
+    ],
+    "de": [
+      "Bitterer Muschelseitling",
+      "Bitterscharfer Zwergknäueling",
+      "Eichen-Zwergknäueling"
+    ],
+    "fr": [
+      "panelle astringente"
+    ],
+    "pl": [
+      "łycznik trzonkowy"
+    ],
+    "ru": [
+      "сычужный гриб"
+    ],
+    "uk": [
+      "панелус сяючий",
+      "панус терпкий"
+    ]
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=355858",
+        "detail": "355858"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum",
+        "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=355858",
+        "detail": "355858"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/9118025",
+        "detail": "9118025"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q1029124"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Panellus_stipticus"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/panellus-stipticus.php"
+      },
+      {
+        "group": "text",
+        "name": "MushroomExpert",
+        "href": "https://www.mushroomexpert.com/panellus_stipticus.html"
+      },
+      {
+        "group": "text",
+        "name": "Myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Panellus-stipticus/"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Herber_Zwergkn%C3%A4ueling",
+        "detail": "de"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://cs.wikipedia.org/wiki/Pa%C5%99ezn%C3%ADk_obecn%C3%BD",
+        "detail": "cs"
+      }
+    ]
+  },
+  "added": "2026-11-27",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Mycenaceae/Panellus_stipticus/Panellus_stipticus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Mycenaceae/Panellus_stipticus/Panellus_stipticus@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "license": "All rights reserved",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Mycenaceae/Panellus_stipticus/Panellus_stipticus@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Mycenaceae/Panellus_stipticus/Panellus_stipticus_1.webp",
+      "author": "Björn S...",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Panellus_stipticus_(37162668243).jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Mycenaceae/Panellus_stipticus/Panellus_stipticus_2.webp",
+      "author": "Björn S...",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Panellus_stipticus_(37172640764).jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Mycenaceae/Panellus_stipticus/Panellus_stipticus_3.webp",
+      "author": "Byrain (Mushroom Observer)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2011-08-25_Panellus_stipticus_(Bull.)_P._Karst_166165_cropped.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Mycenaceae/Panellus_stipticus/Panellus_stipticus_4.webp",
+      "author": "Björn S...",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Panellus_stipticus_(37836485086).jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Mycenaceae/Panellus_stipticus/Panellus_stipticus_5.webp",
+      "author": "Dr. Hans-Günter Wagner",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Panellus_stipticus_(30014264036).jpg"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Mycenaceae/Panellus_stipticus/Panellus_stipticus@1600.webp",
+      "author": "Gemini",
+      "license": "All rights reserved",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Mycenaceae/Panellus_stipticus/Panellus_stipticus@1600.webp"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Mycenaceae/Panellus_stipticus/Panellus_stipticus_1.webp",
+      "author": "Björn S...",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panellus_stipticus_(37162668243).jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Mycenaceae/Panellus_stipticus/Panellus_stipticus_2.webp",
+      "author": "Björn S...",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panellus_stipticus_(37172640764).jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Mycenaceae/Panellus_stipticus/Panellus_stipticus_3.webp",
+      "author": "Byrain (Mushroom Observer)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2011-08-25_Panellus_stipticus_(Bull.)_P._Karst_166165_cropped.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Mycenaceae/Panellus_stipticus/Panellus_stipticus_4.webp",
+      "author": "Björn S...",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panellus_stipticus_(37836485086).jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Mycenaceae/Panellus_stipticus/Panellus_stipticus_5.webp",
+      "author": "Dr. Hans-Günter Wagner",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panellus_stipticus_(30014264036).jpg"
+    }
+  ],
+  "text": {
+    "en": {
+      "label": "bitter oyster",
+      "names": [
+        "bitter oysterling",
+        "luminescent panellus",
+        "astringent panus",
+        "stiptic fungus"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Panellus_stipticus",
+      "description": "A widespread, tough wood-decaying gilled mushroom growing in dense, overlapping shelving clusters on dead hardwood logs, stumps, and branches across Europe, North America, Asia, North Africa, Australia, and New Zealand. Primarily saprotrophic and causing a white rot, its durable, revivable fruit bodies persist year-round.",
+      "cap": "0.5–4 cm across, convex to nearly flat and kidney-shaped, clamshell-shaped, or fan-shaped in outline, with an inrolled margin when young that becomes wavy, lobed, or faintly scalloped with age. The dry upper surface is finely velvety to scurfy-scaly or slightly woolly, sometimes faintly concentrically zoned, and often becomes wrinkled or cracked-scaly as it ages; in wet weather the cuticle can feel slightly tacky. Fresh caps range from ochre-yellow and yellowish-orange to buff, tan, or cinnamon-brown, paling to clay or off-white when dry and reviving in rain. Potassium hydroxide (KOH) gives a negative to greyish reaction on the cap surface.",
+      "hymenium": "Narrow, crowded, pale tan to cinnamon-brown gills interspersed with frequent short gills, often forked and joined at the base by fine interconnecting cross-veins (anastomoses), terminating abruptly in a sharp line where they meet the stem. In eastern North American strains, the gill edges, cross-veins, and gill-stem junction often emit a faint greenish-yellow glow in total darkness. Basidia are club-shaped, 15–25 × 2–3.5 µm, four-spored with basal clamps. Cheilocystidia are abundant and crowded along the sticky gill edge, 17–75 × 2.5–6 µm, cylindrical, spindle-shaped, or thread-like and often forked or diverticulate at the apex; pleurocystidia are 17–50 × 3–4.5 µm, spindle- to club-shaped, scattered or in bundles.",
+      "stipe": "Short and stubby, 0.3–2 cm long and 0.2–0.8 cm thick, attached laterally or eccentrically to the cap and tapering downward toward the wood. Pale buff, dull white, or ochre-yellow, smooth when very young and soon covered with fine silky fibrils or scurfy scales like the cap. No ring or volva.",
+      "flesh": "Thin, tough, pliant, and leathery, whitish to cream or pale yellow-brown, hardening when dry and softening again when moistened. Unchanged in colour when cut. Odour indistinct or faintly pleasant; taste strongly bitter, acrid, and astringent in most collections, though occasionally mild.",
+      "sporePrint": "White. Basidiospores are smooth, hyaline, ellipsoid to slightly sausage-shaped (suballantoid), amyloid (weakly to distinctly bluish-black in Melzer's reagent), and measure 2.5–6 × 1.5–3 µm.",
+      "habitat": "Saprotrophic on dead wood of broadleaved trees—especially oak, European beech, and birch, as well as alder, maple, hornbeam, hazel, hickory, chestnut, and ash—and rarely on conifers such as pine, occasionally colonising wounds on living trees. Fruits in dense, imbricate tiers on stumps, fallen trunks, and branches in forests, parks, and hedgerows, causing a white rot. Fruit bodies can be found year-round from January to December because they are long-lasting and revive after rain, with fresh fruiting peaking in autumn and early winter (September to November) and during mild spring or winter spells.",
+      "uses": "Inedible because of its tough, leathery texture, small size, and intensely bitter, astringent taste. Although generally considered non-poisonous, ingestion has been reported to cause vomiting or digestive upset in some regions. Historically used in traditional Chinese medicine as a styptic to staunch bleeding and as a strong purgative.",
+      "confusion": "Crepidotus mollis and other Crepidotus species form similarly small, pale, fan-shaped fruit bodies on dead hardwood, but they are softer, sessile or nearly so, and produce a brown spore print rather than a white one. Schizophyllum commune has a densely hairy white to greyish cap and longitudinally split gill-like folds instead of true crowded gills. Sarcomyxa serotina is larger, bears greenish-olive to yellowish-olive caps with a gelatinous layer beneath the cuticle, and has gills without prominent cross-veins. Tapinella panuoides lacks a distinct stem, has yellowish-orange, forked, decurrent gill-like folds, and produces much larger yellowish-brown spores. Panellus mitis is smaller, paler whitish to pinkish-buff, has a mild rather than bitter taste, and grows mainly on conifer wood. Panus rudis is larger, more hairy, and shows reddish-brown to pinkish-tan caps with lilac tinges when young.",
+      "notes": "Bioluminescence varies geographically: strains from eastern North America typically emit a dim greenish-yellow glow (peaking around 525–528 nm) from both the gills and the mycelium, controlled by a single dominant allele, whereas collections from Europe, Pacific North America, Russia, Japan, and New Zealand are generally non-luminescent (and non-luminescent strains also occur in eastern North America). As a lignin-degrading white-rot fungus producing laccase and peroxidases, it has been studied for bioremediation of phenolic olive-mill wastewater, polychlorinated dioxins, and heavy-metal accumulation, as well as bioluminescence-based soil toxicity biosensors.",
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=355858",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=355858",
+        "https://www.gbif.org/species/9118025",
+        "https://www.wikidata.org/wiki/Q1029124",
+        "https://en.wikipedia.org/wiki/Panellus_stipticus",
+        "https://www.first-nature.com/fungi/panellus-stipticus.php",
+        "https://www.mushroomexpert.com/panellus_stipticus.html",
+        "https://www.myko.cz/myko-atlas/Panellus-stipticus/",
+        "https://de.wikipedia.org/wiki/Herber_Zwergkn%C3%A4ueling",
+        "https://cs.wikipedia.org/wiki/Pa%C5%99ezn%C3%ADk_obecn%C3%BD"
+      ]
+    },
+    "ar": {
+      "description": "فطر صفائحي صلب واسع الانتشار ومحلل للخشب، ينمو في عناقيد كثيفة متراكبة على هيئة أرفف فوق جذوع الأشجار عريضة الأوراق الميتة وأروماتها وأغصانها في أنحاء أوروبا وأمريكا الشمالية وآسيا وشمال أفريقيا وأستراليا ونيوزيلندا. وهو رمّي في المقام الأول ويسبب العفن الأبيض، وتبقى أجسامه الثمرية المتينة والقابلة للانتعاش بعد الجفاف قائمة على مدار العام.",
+      "cap": "يتراوح قطر القبعة بين ٠٫٥–٤ سم، وهي محدبة إلى شبه مسطحة، كلوية أو محارية أو مروحية الشكل، ذات حافة ملتفة إلى الداخل في الصغر تصبح متموجة أو مفصصة أو مسننة بخفة مع التقدم في العمر. السطح العلوي جاف، مخملي دقيق إلى حرشفي نخالي أو صوفي قليلًا، وأحيانًا ذو نطاقات متحدة المركز باهتة، وغالبًا ما يتجعد أو يتشقق إلى حراشف مع العمر؛ وفي الطقس الرطب قد يبدو ملمس القشرة لزجًا قليلًا. تتراوح ألوان القبعات الطازجة من الأصفر المغري والبرتقالي المصفر إلى البيج أو البني الفاتح أو القرفي، وتبهت إلى لون الطين أو الأبيض المائل إلى الصفرة عند الجفاف ثم تنتعش عند هطول المطر. يعطي هيدروكسيد البوتاسيوم (KOH) تفاعلًا سلبيًا إلى رمادي على سطح القبعة.",
+      "hymenium": "صفائح ضيقة مزدحمة، يتراوح لونها من البني الفاتح إلى القرفي، تتخللها صفائح قصيرة عديدة، وغالبًا ما تكون متفرعة ومتصلة عند القاعدة بعروق عرضية دقيقة متشابكة (تفاغرات)، وتنتهي فجأة بخط حاد عند التقائها بالساق. في سلالات شرق أمريكا الشمالية، غالبًا ما تصدر حواف الصفائح والعروق العرضية ومنطقة التقاء الصفائح بالساق وهجًا أخضر مصفرًا خافتًا في الظلام الدامس. الدعامات (الخلايا الدعامية) هراوية الشكل، أبعادها ١٥–٢٥ × ٢–٣٫٥ ميكرومتر، رباعية الأبواغ ذات مشابك قاعدية. الخلايا الحافية (cheilocystidia) وفيرة ومزدحمة على طول حافة الصفيحة اللزجة، أبعادها ١٧–٧٥ × ٢٫٥–٦ ميكرومتر، أسطوانية أو مغزلية أو خيطية وغالبًا ما تكون متفرعة أو ذات زوائد عند القمة؛ أما الخلايا الجانبية (pleurocystidia) فأبعادها ١٧–٥٠ × ٣–٤٫٥ ميكرومتر، مغزلية إلى هراوية الشكل، متفرقة أو في حزم.",
+      "stipe": "قصيرة وسميكة، طولها ٠٫٣–٢ سم وسمكها ٠٫٢–٠٫٨ سم، متصلة بالقبعة جانبيًا أو خارج المركز، وتستدق نحو الأسفل باتجاه الخشب. لونها بيج شاحب أو أبيض باهت أو أصفر مغري، ملساء في الصغر الشديد وسرعان ما تغطيها ألياف حريرية دقيقة أو حراشف نخالية تشبه تلك التي على القبعة. لا توجد حلقة ولا غمد.",
+      "flesh": "رقيق وصلب ومرن وجلدي، أبيض مائل إلى الكريمي أو بني مصفر شاحب، يتصلب عند الجفاف ويلين مجددًا عند الترطيب. لا يتغير لونه عند القطع. الرائحة غير مميزة أو طيبة بخفة؛ والطعم شديد المرارة ولاذع وقابض في معظم العينات، وإن كان معتدلًا أحيانًا.",
+      "sporePrint": "أبيض. الأبواغ الدعامية ملساء وشفافة، إهليلجية إلى شبه نقانقية الشكل، أميلويدية (تتلون بأزرق مسود ضعيف إلى واضح في كاشف ميلتزر)، وتبلغ أبعادها ٢٫٥–٦ × ١٫٥–٣ ميكرومتر.",
+      "habitat": "رمّي على الخشب الميت للأشجار عريضة الأوراق — ولا سيما البلوط والزان الأوروبي والبتولا، وكذلك النغت والقيقب والشرد والبندق والهيكوري والكستناء والدردار — ونادرًا على المخروطيات مثل الصنوبر، وقد يستعمر أحيانًا الجروح في الأشجار الحية. يثمر في طبقات كثيفة متراكبة على الأرومات والجذوع الساقطة والأغصان في الغابات والمتنزهات والأسيجة النباتية، مسببًا العفن الأبيض. يمكن العثور على الأجسام الثمرية طوال العام من يناير إلى ديسمبر لأنها معمرة وتنتعش بعد المطر، بينما يبلغ الإثمار الجديد ذروته في الخريف وأوائل الشتاء (سبتمبر إلى نوفمبر) وخلال الفترات المعتدلة في الربيع أو الشتاء.",
+      "uses": "غير صالح للأكل بسبب قوامه الصلب الجلدي وصغر حجمه وطعمه المر القابض الشديد. وعلى الرغم من أنه يُعد عمومًا غير سام، فقد أُبلغ عن تسببه في القيء أو اضطرابات هضمية عند تناوله في بعض المناطق. استُخدم تاريخيًا في الطب الصيني التقليدي كمادة قابضة لوقف النزيف وكمسهل قوي.",
+      "confusion": "يكوّن Crepidotus mollis وأنواع أخرى من Crepidotus أجسامًا ثمرية صغيرة وشاحبة ومروحية الشكل مماثلة على خشب الأشجار عريضة الأوراق الميت، لكنها أطرى ولاطئة أو شبه لاطئة، وتنتج طبعة أبواغ بنية بدلًا من البيضاء. أما Schizophyllum commune فله قبعة كثيفة الوبر بيضاء إلى رمادية، وطيات شبيهة بالصفائح مشقوقة طوليًا بدلًا من صفائح حقيقية مزدحمة. ويكون Sarcomyxa serotina أكبر حجمًا، وله قبعات زيتونية مخضرة إلى زيتونية مصفرة مع طبقة هلامية تحت القشرة، وصفائح خالية من العروق العرضية البارزة. ويفتقر Tapinella panuoides إلى ساق واضحة، وله طيات متفرعة نازلة شبيهة بالصفائح ذات لون برتقالي مصفر، وينتج أبواغًا بنية مصفرة أكبر بكثير. أما Panellus mitis فأصغر حجمًا وأشد شحوبًا بلون أبيض مائل إلى البيج الوردي، وطعمه معتدل وليس مرًا، وينمو أساسًا على خشب المخروطيات. ويكون Panus rudis أكبر وأكثر وبرًا، وله قبعات بنية محمرة إلى بنية وردية ذات مسحة ليلكية في الصغر.",
+      "notes": "يتفاوت التألق الحيوي جغرافيًا: إذ تصدر سلالات شرق أمريكا الشمالية عادةً وهجًا أخضر مصفرًا خافتًا (يبلغ ذروته حول ٥٢٥–٥٢٨ نانومتر) من كل من الصفائح والغزل الفطري، يتحكم فيه أليل سائد واحد، بينما تكون العينات من أوروبا وساحل المحيط الهادئ في أمريكا الشمالية وروسيا واليابان ونيوزيلندا غير متألقة عمومًا (كما توجد سلالات غير متألقة في شرق أمريكا الشمالية أيضًا). وبوصفه فطر عفن أبيض محللًا للغنين ينتج إنزيمات اللاكاز والبيروكسيداز، فقد دُرس في المعالجة الحيوية لمياه عصر الزيتون الغنية بالفينولات، والديوكسينات متعددة الكلور، وتراكم المعادن الثقيلة، وكذلك في أجهزة الاستشعار الحيوية لسمية التربة القائمة على التألق الحيوي.",
+      "sourceUrls": []
+    },
+    "bg": {
+      "wikipedia": "https://bg.wikipedia.org/wiki/Panellus_stipticus",
+      "description": "Широко разпространена, жилава дърворазрушаваща гъба с ламели, която расте на гъсти, керемидообразно припокриващи се групи върху мъртви стволове, пънове и клони на широколистни дървета в Европа, Северна Америка, Азия, Северна Африка, Австралия и Нова Зеландия. Предимно сапротрофна и предизвикваща бяло гниене, тя образува трайни, оживяващи след дъжд плодни тела, които се запазват целогодишно.",
+      "cap": "С диаметър 0,5–4 cm, изпъкнала до почти плоска, бъбрековидна, мидовидна или ветрилообразна по очертание, с подвит ръб в младост, който с възрастта става вълнообразен, нарязан на дялове или слабо назъбен. Сухата горна повърхност е фино кадифена до трицесто-люспеста или леко влакнеста, понякога неясно концентрично зонирана, а с възрастта често набръчкана или напукана на дребни люспици; във влажно време кожицата може да бъде леко лепкава. Свежите гугли са охреножълти и жълто-оранжеви до бледоохрени, жълто-кафяви или канеленокафяви, при изсъхване избледняват до глинесто или мръснобяло и оживяват след дъжд. Калиевата основа (KOH) дава отрицателна до сивкава реакция върху повърхността на гуглата.",
+      "hymenium": "Тесни, гъсти, бледокафяви до канеленокафяви ламели, редуващи се с многобройни по-къси ламелки, често разклонени и свързани в основата си с фини напречни жилки (анастомози), завършващи рязко с отчетлива линия при съприкосновението с пънчето. При щамове от източната част на Северна Америка ръбът на ламелите, напречните жилки и границата между ламелите и пънчето често излъчват слабо зеленикаво-жълто сияние в пълна тъмнина. Базидиите са бухалковидни, 15–25 × 2–3,5 µm, четириспорови с базални скоби. Хейлоцистидите са многобройни и гъсто разположени по лепкавия ръб на ламелите, 17–75 × 2,5–6 µm, цилиндрични, вретеновидни или нишковидни и често разклонени или с израстъци на върха; плевроцистидите са 17–50 × 3–4,5 µm, вретеновидни до бухалковидни, разпръснати или на снопчета.",
+      "stipe": "Късо и набито, дълго 0,3–2 cm и дебело 0,2–0,8 cm, прикрепено странично или ексцентрично към гуглата и стесняващо се надолу към дървесината. Бледоохрено, матовобяло или охреножълто, гладко при съвсем младите плодни тела и скоро покрито с фини копринени влакънца или трицести люспици като гуглата. Без пръстен и волва.",
+      "flesh": "Тънко, жилаво, гъвкаво и кожесто, белезникаво до кремаво или бледо жълто-кафяво, втвърдява се при изсъхване и отново омеква при навлажняване. При разрязване не променя цвета си. Миризмата е неизразителна или слабо приятна; вкусът в повечето находища е силно горчив, лютив и стипчив, макар понякога да е мек.",
+      "sporePrint": "Бял. Базидиоспорите са гладки, хиалинни, елипсоидни до леко наденичковидни (субалантоидни), амилоидни (в реактива на Мелцер се оцветяват слабо до отчетливо синкаво-черно) и измерват 2,5–6 × 1,5–3 µm.",
+      "habitat": "Сапротрофна върху мъртва дървесина на широколистни дървета — особено дъб, обикновен бук и бреза, както и елша, клен, габър, леска, хикори, кестен и ясен — и рядко върху иглолистни като бор, като понякога заселва рани по живи дървета. Плододава на гъсти, керемидообразно подредени етажи върху пънове, паднали стволове и клони в гори, паркове и живи плетове, предизвиквайки бяло гниене. Плодните тела могат да се открият целогодишно от януари до декември, тъй като са трайни и оживяват след дъжд, като появата на свежи плодни тела достига връх през есента и началото на зимата (от септември до ноември) и през меки пролетни или зимни периоди.",
+      "uses": "Неядлива поради жилавата си кожеста консистенция, малките размери и силно горчивия, стипчив вкус. Макар като цяло да не се смята за отровна, в някои райони след поглъщане са съобщавани повръщане или храносмилателни разстройства. В миналото е използвана в традиционната китайска медицина като кръвоспиращо средство и силно слабително.",
+      "confusion": "Crepidotus mollis и други видове от род Crepidotus образуват сходно малки, светли, ветрилообразни плодни тела върху мъртва широколистна дървесина, но са по-меки, приседнали или почти без пънче и дават кафяв вместо бял споров прашец. Schizophyllum commune има гъсто окосмена бяла до сивкава гугла и надлъжно разцепени ламеловидни гънки вместо истински гъсти ламели. Sarcomyxa serotina е по-едра, има зеленикаво-маслинени до жълто-маслинени гугли с желатинозен слой под кожицата и ламели без отчетливи напречни жилки. Tapinella panuoides няма ясно изразено пънче, има жълто-оранжеви, разклонени, низбягващи ламеловидни гънки и образува много по-едри жълто-кафяви спори. Panellus mitis е по-дребен, по-блед, белезникав до розово-охрен, има мек, а не горчив вкус и расте предимно върху иглолистна дървесина. Panus rudis е по-едър, по-окосмен и има червеникаво-кафяви до розово-кафяви гугли с лилави оттенъци в младост.",
+      "notes": "Биолуминесценцията варира географски: щамовете от източна Северна Америка обикновено излъчват слабо зеленикаво-жълто сияние (с максимум около 525–528 nm) както от ламелите, така и от мицела, контролирано от един доминантен алел, докато образците от Европа, тихоокеанска Северна Америка, Русия, Япония и Нова Зеландия по правило не луминесцират (а нелуминесциращи щамове се срещат и в източна Северна Америка). Като гъба, предизвикваща бяло гниене и разграждаща лигнин чрез лаказа и пероксидази, тя се изследва за биоремедиация на фенолни отпадъчни води от маслобойни за зехтин, полихлорирани диоксини и натрупване на тежки метали, както и за биолуминесцентни биосензори за почвена токсичност.",
+      "sourceUrls": []
+    },
+    "cs": {
+      "label": "pařezník obecný",
+      "wikipedia": "https://cs.wikipedia.org/wiki/Pa%C5%99ezn%C3%ADk_obecn%C3%BD",
+      "description": "Rozšířená, tuhá dřevokazná lupenatá houba, která roste v hustých, střechovitě se překrývajících trsech na odumřelých kmenech, pařezech a větvích listnatých stromů v Evropě, Severní Americe, Asii, severní Africe, Austrálii a na Novém Zélandu. Je převážně saprotrofní a způsobuje bílou hnilobu dřeva; její vytrvalé, po dešti opět ožívající plodnice přetrvávají po celý rok.",
+      "cap": "Široký 0,5–4 cm, vyklenutý až téměř plochý, v obrysu ledvinovitý, mušlovitý nebo vějířovitý, s okrajem v mládí podvinutým, později zvlněným, laločnatým nebo jemně vroubkovaným. Suchý svrchní povrch je jemně sametový až otrubovitě šupinkatý nebo lehce plstnatý, někdy nevýrazně soustředně pásovaný a stářím často vrásčitý či rozpraskaný na drobné šupinky; za vlhkého počasí může být pokožka mírně lepkavá. Čerstvé klobouky jsou okrově žluté a žlutooranžové až světle okrové, žlutohnědé nebo skořicově hnědé, za sucha blednou do jílovité až bělavé barvy a za deště opět ožívají. Hydroxid draselný (KOH) vyvolává na povrchu klobouku negativní až našedlou reakci.",
+      "hymenium": "Úzké, husté, světle žlutohnědé až skořicově hnědé lupeny prostoupené četnými kratšími lupénky, často vidličnatě větvené a při bázi propojené jemnými příčnými žilkami (anastomózami); na rozhraní s třeněm náhle končí ostrou linií. U kmenů z východní části Severní Ameriky ostří lupenů, příčné žilky a přechod lupenů ke třeni v naprosté tmě často vydávají slabou zelenožlutou záři. Bazidie jsou kyjovité, 15–25 × 2–3,5 µm, čtyřvýtrusé s bazální přezkou. Cheilocystidy jsou hojné a nahloučené podél lepkavého ostří lupenů, 17–75 × 2,5–6 µm, válcovité, vřetenovité nebo vláknité a na vrcholu často rozvětvené či výběžkaté; pleurocystidy měří 17–50 × 3–4,5 µm, jsou vřetenovité až kyjovité, roztroušené nebo ve svazcích.",
+      "stipe": "Krátký a zavalitý, 0,3–2 cm dlouhý a 0,2–0,8 cm tlustý, ke klobouku připojený bočně nebo výstředně a směrem ke dřevu se zužující. Světle okrový, matně bílý nebo okrově žlutý, v raném mládí hladký a brzy pokrytý jemnými hedvábitými vlákny nebo otrubovitými šupinkami podobně jako klobouk. Bez prstenu a pochvy.",
+      "flesh": "Tenká, tuhá, ohebná a kožovitá, bělavá až krémová nebo světle žlutohnědá, za sucha tvrdne a po zvlhčení opět měkne. Na řezu nemění barvu. Vůně je nevýrazná nebo slabě příjemná; chuť je u většiny nálezů silně hořká, palčivá a svíravá, i když občas bývá mírná.",
+      "sporePrint": "Bílý. Bazidiospory jsou hladké, hyalinní, elipsoidní až mírně klobásovité (subalantoidní), amyloidní (v Melzerově činidle se barví slabě až zřetelně modročerně) a měří 2,5–6 × 1,5–3 µm.",
+      "habitat": "Saprotrofní na odumřelém dřevě listnatých stromů — zejména dubu, buku lesního a břízy, ale také olše, javoru, habru, lísky, ořechovce, kaštanovníku a jasanu — a vzácně na jehličnanech, například borovici; příležitostně osídluje poranění živých stromů. Plodí v hustých, střechovitě uspořádaných řadách na pařezech, padlých kmenech a větvích v lesích, parcích a křovinách a způsobuje bílou hnilobu dřeva. Protože plodnice jsou vytrvalé a po dešti opět ožívají, lze je nalézt celoročně od ledna do prosince, přičemž tvorba čerstvých plodnic vrcholí na podzim a počátkem zimy (od září do listopadu) a za mírných jarních či zimních období.",
+      "uses": "Nejedlá pro svou tuhou, kožovitou konzistenci, malé rozměry a intenzivně hořkou, svíravou chuť. Ačkoli se obecně nepovažuje za jedovatou, v některých oblastech bylo po požití hlášeno zvracení nebo zažívací potíže. Historicky se používala v tradiční čínské medicíně jako styptikum k zastavení krvácení a jako silné projímadlo.",
+      "confusion": "Crepidotus mollis a další druhy rodu Crepidotus tvoří podobně malé, světlé, vějířovité plodnice na odumřelém listnatém dřevě, jsou však měkčí, přisedlé nebo téměř bez třeně a mají hnědý výtrusný prach místo bílého. Schizophyllum commune má hustě chlupatý bílý až našedlý klobouk a podélně rozštěpené lupenovité lišty namísto pravých hustých lupenů. Sarcomyxa serotina je větší, má zelenoolivové až žlutoolivové klobouky s rosolovitou vrstvou pod pokožkou a její lupeny postrádají výrazné příčné žilky. Tapinella panuoides nemá zřetelný třeň, má žlutooranžové, vidličnaté, sbíhavé lupenovité lišty a tvoří mnohem větší žlutohnědé výtrusy. Panellus mitis je menší, světlejší, bělavý až narůžověle okrový, má mírnou, nikoli hořkou chuť a roste převážně na dřevě jehličnanů. Panus rudis je větší, chlupatější a má červenohnědé až narůžověle hnědé klobouky s lila nádechem v mládí.",
+      "notes": "Bioluminiscence se liší geograficky: kmeny z východní části Severní Ameriky obvykle vyzařují slabou zelenožlutou záři (s maximem kolem 525–528 nm) z lupenů i mycelia, řízenou jedinou dominantní alelou, zatímco nálezy z Evropy, tichomořského pobřeží Severní Ameriky, Ruska, Japonska a Nového Zélandu jsou zpravidla neluminiscentní (a neluminiscentní kmeny se vyskytují i na východě Severní Ameriky). Jako houba působící bílou hnilobu a rozkládající lignin pomocí lakázy a peroxidáz je studována pro bioremediaci fenolických odpadních vod z lisování oliv, polychlorovaných dioxinů a akumulaci těžkých kovů, stejně jako pro biosenzory toxicity půdy založené na bioluminiscenci.",
+      "sourceUrls": [
+        "https://cs.wikipedia.org/wiki/Pa%C5%99ezn%C3%ADk_obecn%C3%BD",
+        "https://www.myko.cz/myko-atlas/Panellus-stipticus/"
+      ]
+    },
+    "da": {
+      "label": "kliddet epaulethat",
+      "description": "En vidt udbredt, sej, trænedbrydende lamelsvamp, der vokser i tætte, taglagte klynger på dødt løvtræ som stammer, stubbe og grene i Europa, Nordamerika, Asien, Nordafrika, Australien og New Zealand. Arten er overvejende saprotrof og fremkalder hvidmuld; dens holdbare frugtlegemer kan tørre ind og live op igen og findes derfor året rundt.",
+      "cap": "0,5–4 cm bred, hvælvet til næsten flad og nyre-, muslinge- eller vifteformet i omrids, med indrullet rand som ung, der med alderen bliver bølget, lappet eller svagt rundtakket. Den tørre overside er fint fløjlsagtig til kliddet-skællet eller let ulden, undertiden svagt koncentrisk zoneret, og bliver ofte rynket eller opsprækkende skællet med alderen; i fugtigt vejr kan hathuden føles let klæbrig. Friske hatte varierer fra okkergule og gulorange til læderfarvede, lysebrune eller kanelbrune, blegner til lerfarvede eller hvidlige i tørke og liver op igen i regn. Kaliumhydroxid (KOH) giver en negativ til grålig reaktion på hatoverfladen.",
+      "hymenium": "Smalle, tætstillede, blegt lysebrune til kanelbrune lameller med talrige korte mellemlameller, ofte gaffeldelte og forbundet ved basis af fine tværårer (anastomoser), som slutter brat langs en skarp linje mod stokken. Hos stammer fra det østlige Nordamerika udsender lamelægge, tværårer og overgangen mellem lameller og stok ofte et svagt grøngult skær i fuldstændigt mørke. Basidierne er kølleformede, 15–25 × 2–3,5 µm, firesporede og med øskner ved basis. Cheilocystider er talrige og står tæt langs den klæbrige lamelæg; de er 17–75 × 2,5–6 µm, cylindriske, tenformede eller trådformede og ofte gaffeldelte eller med små udvækster i spidsen. Pleurocystider er 17–50 × 3–4,5 µm, ten- til kølleformede og sidder spredt eller i bundter.",
+      "stipe": "Kort og buttet, 0,3–2 cm lang og 0,2–0,8 cm tyk, fæstnet sidestillet eller excentrisk til hatten og tilspidset nedad mod veddet. Blegt læderfarvet, snavset hvid eller okkergul, glat som helt ung og snart dækket af fine silkeagtige fibre eller kliddede skæl ligesom hatten. Uden ring og uden skede.",
+      "flesh": "Tyndt, sejt, bøjeligt og læderagtigt, hvidligt til cremefarvet eller blegt gulbrunt, bliver hårdt ved udtørring og bløder op igen ved fugt. Farven ændres ikke ved gennemskæring. Lugt ubetydelig eller svagt behagelig; smagen er i de fleste fund kraftigt bitter, skarp og sammensnerpende, om end lejlighedsvis mild.",
+      "sporePrint": "Hvidt. Basidiosporerne er glatte, hyaline, ellipsoidiske til let pølseformede (suballantoide), amyloide (svagt til tydeligt blåsorte i Melzers reagens) og måler 2,5–6 × 1,5–3 µm.",
+      "habitat": "Saprotrof på dødt ved af løvtræer – især eg, bøg og birk samt el, ahorn, avnbøg, hassel, hickory, kastanje og ask – og sjældent på nåletræer som fyr; kan lejlighedsvis kolonisere sår på levende træer. Frugtlegemerne vokser i tætte, taglagte rækker på stubbe, væltede stammer og grene i skove, parker og levende hegn og fremkalder hvidmuld. Fordi frugtlegemerne er holdbare og liver op efter regn, kan de findes året rundt fra januar til december, med hovedsæson for friske frugtlegemer om efteråret og i begyndelsen af vinteren (september til november) samt i milde perioder om vinteren og foråret.",
+      "uses": "Uspiselig på grund af den seje, læderagtige konsistens, den beskedne størrelse og den stærkt bitre, sammensnerpende smag. Selv om arten generelt ikke regnes for giftig, er der i nogle egne rapporteret opkastning eller mavebesvær efter indtagelse. Historisk er den anvendt i traditionel kinesisk medicin som blodstillende middel og kraftigt afføringsmiddel.",
+      "confusion": "Blød muslingesvamp (Crepidotus mollis) og andre Crepidotus-arter danner tilsvarende små, blege, vifteformede frugtlegemer på dødt løvtræ, men de er blødere, siddende eller næsten stokløse og giver et brunt i stedet for et hvidt sporeaftryk. Almindelig kløvblad (Schizophyllum commune) har en tæt håret, hvid til grålig hat og på langs spaltede lamellignende folder frem for ægte tætstillede lameller. Grønlig østershat (Sarcomyxa serotina) er større, har grønligt olivenfarvede til gulligt olivenfarvede hatte med et geléagtigt lag under hathuden samt lameller uden tydelige tværårer. Vifte-netbladhat (Tapinella panuoides) mangler en tydelig stok, har gulorange, gaffeldelte, nedløbende lamellignende folder og danner langt større gulbrune sporer. Hvid epaulethat (Panellus mitis) er mindre, blegere hvidlig til rosa-læderfarvet, har en mild snarere end bitter smag og vokser overvejende på nåletræ. Panus rudis er større, mere håret og har rødbrune til rosa-lysebrune hatte med lilla skær som ung.",
+      "notes": "Bioluminescensen varierer geografisk: stammer fra det østlige Nordamerika udsender typisk et svagt grøngult lys (med maksimum omkring 525–528 nm) fra både lameller og mycelium, styret af en enkelt dominant allel, mens fund fra Europa, det vestlige Nordamerika, Rusland, Japan og New Zealand som regel ikke lyser (ikke-lysende stammer forekommer også i det østlige Nordamerika). Som en ligninnedbrydende hvidmuldssvamp, der danner laccase og peroxidaser, er arten blevet undersøgt til bioremediering af fenolholdigt spildevand fra olivenmøller, polyklorerede dioxiner og ophobning af tungmetaller samt til bioluminescensbaserede biosensorer for jordtoksicitet.",
+      "sourceUrls": []
+    },
+    "de": {
+      "label": "Herber Zwergknäueling",
+      "names": [
+        "Bitterer Muschelseitling",
+        "Bitterscharfer Zwergknäueling",
+        "Eichen-Zwergknäueling"
+      ],
+      "wikipedia": "https://de.wikipedia.org/wiki/Herber_Zwergkn%C3%A4ueling",
+      "description": "Ein weit verbreiteter, zäher, holzzersetzender Lamellenpilz, der in dichten, dachziegelig überlappenden Büscheln auf totem Laubholz wie Stämmen, Stümpfen und Ästen in Europa, Nordamerika, Asien, Nordafrika, Australien und Neuseeland wächst. Er lebt vorwiegend saprotroph und erzeugt eine Weißfäule; seine langlebigen, nach Austrocknung wieder auflebenden Fruchtkörper sind ganzjährig anzutreffen.",
+      "cap": "0,5–4 cm breit, gewölbt bis nahezu flach und im Umriss nieren-, muschel- oder fächerförmig, jung mit eingerolltem Rand, der im Alter wellig, gelappt oder schwach gekerbt wird. Die trockene Oberseite ist fein samtig bis kleiig-schuppig oder leicht wollig, mitunter schwach konzentrisch gezont und wird im Alter oft runzelig oder rissig-schuppig; bei feuchtem Wetter kann sich die Huthaut leicht schmierig anfühlen. Frische Hüte sind ockergelb und gelborange bis lederfarben, hellbraun oder zimtbraun, blassen trocken zu tonfarben oder weißlich aus und leben bei Regen wieder auf. Kaliumhydroxid (KOH) ergibt auf der Hutoberfläche eine negative bis gräuliche Reaktion.",
+      "hymenium": "Schmale, gedrängt stehende, hellbraune bis zimtbraune Lamellen mit zahlreichen Zwischenlamellen, häufig gegabelt und am Grund durch feine Queradern (Anastomosen) verbunden, die am Stiel abrupt mit einer scharfen Linie enden. Bei Stämmen aus dem östlichen Nordamerika senden die Lamellenschneiden, Queradern und der Übergang zum Stiel in völliger Dunkelheit oft ein schwaches grünlich-gelbes Leuchten aus. Die Basidien sind keulig, 15–25 × 2–3,5 µm groß, viersporig und mit Basalschnallen versehen. Cheilozystiden sind zahlreich und stehen dicht an der klebrigen Lamellenschneide; sie messen 17–75 × 2,5–6 µm, sind zylindrisch, spindelig oder fädig und an der Spitze oft gegabelt oder mit Auswüchsen versehen. Pleurozystiden messen 17–50 × 3–4,5 µm, sind spindelig bis keulig und stehen zerstreut oder in Büscheln.",
+      "stipe": "Kurz und gedrungen, 0,3–2 cm lang und 0,2–0,8 cm dick, seitlich oder exzentrisch am Hut angewachsen und zum Holz hin verjüngt. Blass lederfarben, schmutzig weiß oder ockergelb, sehr jung glatt und bald wie der Hut mit feinen seidigen Fasern oder kleiigen Schüppchen bedeckt. Ohne Ring und ohne Volva.",
+      "flesh": "Dünn, zäh, biegsam und lederig, weißlich bis cremefarben oder blass gelbbraun, beim Trocknen verhärtend und bei Feuchtigkeit wieder aufweichend. Im Schnitt unveränderlich. Geruch unauffällig oder schwach angenehm; Geschmack bei den meisten Funden stark bitter, scharf und zusammenziehend, gelegentlich jedoch mild.",
+      "sporePrint": "Weiß. Die Basidiosporen sind glatt, hyalin, ellipsoid bis leicht würstchenförmig (suballantoid), amyloid (in Melzers Reagenz schwach bis deutlich blauschwarz) und messen 2,5–6 × 1,5–3 µm.",
+      "habitat": "Saprotroph auf totem Holz von Laubbäumen – besonders Eiche, Rotbuche und Birke, ferner Erle, Ahorn, Hainbuche, Hasel, Hickory, Kastanie und Esche – sowie selten auf Nadelholz wie Kiefer; gelegentlich besiedelt er auch Wunden an lebenden Bäumen. Er fruktifiziert in dichten, dachziegeligen Reihen an Stümpfen, liegenden Stämmen und Ästen in Wäldern, Parks und Hecken und verursacht eine Weißfäule. Da die Fruchtkörper langlebig sind und nach Regen wieder aufleben, lassen sie sich ganzjährig von Januar bis Dezember finden; frische Fruchtkörper erscheinen vor allem im Herbst und Frühwinter (September bis November) sowie während milder Phasen im Winter und Frühjahr.",
+      "uses": "Ungenießbar wegen der zähen, lederigen Konsistenz, der geringen Größe und des stark bitteren, zusammenziehenden Geschmacks. Obwohl die Art allgemein als nicht giftig gilt, wurde in einigen Regionen nach dem Verzehr über Erbrechen oder Magen-Darm-Beschwerden berichtet. Historisch wurde der Pilz in der traditionellen chinesischen Medizin als blutstillendes Mittel und starkes Abführmittel verwendet.",
+      "confusion": "Das Gallertfleischige Stummelfüßchen (Crepidotus mollis) und andere Crepidotus-Arten bilden ähnlich kleine, blasse, fächerförmige Fruchtkörper auf totem Laubholz, sind jedoch weicher, sitzend oder fast stiellos und liefern ein braunes statt weißes Sporenpulver. Der Gemeine Spaltblättling (Schizophyllum commune) besitzt einen dicht filzigen, weißen bis gräulichen Hut und längs gespaltene lamellenartige Leisten anstelle echter gedrängter Lamellen. Der Gelbstielige Muschelseitling (Sarcomyxa serotina) wird größer, hat grünlich-olive bis gelblich-olive Hüte mit einer gelatinösen Schicht unter der Huthaut sowie Lamellen ohne auffällige Queradern. Der Muschelkrempling (Tapinella panuoides) hat keinen deutlichen Stiel, gelborange, gegabelte, herablaufende lamellenartige Falten und deutlich größere, gelbbraune Sporen. Der Milde Zwergknäueling (Panellus mitis) ist kleiner, blasser weißlich bis rosa-lederfarben, schmeckt mild statt bitter und wächst vorwiegend an Nadelholz. Der Borstige Knäueling (Panus rudis) ist größer, stärker behaart und zeigt rotbraune bis rosa-ockerfarbene Hüte mit lila Tönen in der Jugend.",
+      "notes": "Die Biolumineszenz variiert geografisch: Stämme aus dem östlichen Nordamerika senden meist ein schwaches grünlich-gelbes Licht (mit einem Maximum um 525–528 nm) sowohl aus den Lamellen als auch aus dem Myzel aus, gesteuert von einem einzelnen dominanten Allel, während Funde aus Europa, dem pazifischen Nordamerika, Russland, Japan und Neuseeland in der Regel nicht leuchten (nicht leuchtende Stämme kommen auch im östlichen Nordamerika vor). Als ligninabbauender Weißfäulepilz, der Laccase und Peroxidasen bildet, wurde die Art für die Bioremediation phenolhaltiger Abwässer aus Olivenmühlen, polychlorierter Dioxine und die Anreicherung von Schwermetallen sowie für biolumineszenzbasierte Biosensoren zur Bodentoxizität untersucht.",
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Herber_Zwergkn%C3%A4ueling"
+      ]
+    },
+    "es": {
+      "wikipedia": "https://es.wikipedia.org/wiki/Panellus_stipticus",
+      "description": "Hongo lignícola de láminas, tenaz y ampliamente distribuido, que crece en grupos densos e imbricados a modo de repisas sobre troncos, tocones y ramas muertas de frondosas en Europa, América del Norte, Asia, el norte de África, Australia y Nueva Zelanda. Principalmente saprótrofo y causante de podredumbre blanca, sus carpóforos duraderos y reviviscentes persisten durante todo el año.",
+      "cap": "De 0,5–4 cm de anchura, de convexo a casi plano y con contorno reniforme, en forma de concha o de abanico, con el margen enrollado en la juventud que se vuelve ondulado, lobulado o ligeramente festoneado con la edad. La superficie superior seca es finamente aterciopelada a furfuráceo-escamosa o ligeramente lanosa, a veces débilmente zonada de forma concéntrica, y a menudo se vuelve arrugada o agrietado-escamosa al envejecer; en tiempo húmedo la cutícula puede sentirse algo viscosa. Los sombreros frescos varían del amarillo ocre y amarillo anaranjado al ante, pardo claro o pardo canela, palideciendo a color arcilla o blanquecino al secarse y reviviendo con la lluvia. El hidróxido de potasio (KOH) produce una reacción negativa a grisácea en la superficie del sombrero.",
+      "hymenium": "Láminas estrechas, apretadas, de color pardo pálido a pardo canela, intercaladas con frecuentes lamélulas, a menudo bifurcadas y unidas en la base por finas venas transversales (anastomosis), que terminan bruscamente en una línea neta al llegar al pie. En las cepas del este de América del Norte, la arista de las láminas, las venas transversales y la unión con el pie suelen emitir un tenue resplandor amarillo verdoso en oscuridad total. Basidios claviformes, de 15–25 × 2–3,5 µm, tetraspóricos con fíbulas basales. Queilocistidios abundantes y apretados a lo largo de la arista pegajosa de las láminas, de 17–75 × 2,5–6 µm, cilíndricos, fusiformes o filiformes y a menudo bifurcados o diverticulados en el ápice; pleurocistidios de 17–50 × 3–4,5 µm, de fusiformes a claviformes, dispersos o en haces.",
+      "stipe": "Corto y robusto, de 0,3–2 cm de longitud y 0,2–0,8 cm de grosor, inserto lateral o excéntricamente en el sombrero y atenuado hacia abajo en dirección a la madera. De color ante pálido, blanco apagado o amarillo ocre, liso cuando es muy joven y pronto cubierto de finas fibrillas sedosas o escamillas furfuráceas como el sombrero. Sin anillo ni volva.",
+      "flesh": "Delgada, tenaz, flexible y coriácea, de blanquecina a crema o pardo amarillento pálido, que se endurece al secarse y vuelve a ablandarse al humedecerse. Inmutable al corte. Olor indistinto o débilmente agradable; sabor intensamente amargo, acre y astringente en la mayoría de las recolecciones, aunque ocasionalmente suave.",
+      "sporePrint": "Blanca. Basidiosporas lisas, hialinas, de elipsoidales a ligeramente en forma de salchicha (subalantoides), amiloides (débil a claramente azulado-negruzcas en reactivo de Melzer), de 2,5–6 × 1,5–3 µm.",
+      "habitat": "Saprótrofo sobre madera muerta de árboles frondosos —especialmente roble, haya y abedul, así como aliso, arce, carpe, avellano, nogal americano, castaño y fresno— y rara vez sobre coníferas como el pino, colonizando ocasionalmente heridas en árboles vivos. Fructifica en pisos densos e imbricados sobre tocones, troncos caídos y ramas en bosques, parques y setos, causando una podredumbre blanca. Los carpóforos pueden encontrarse durante todo el año, de enero a diciembre, porque son persistentes y reviven tras la lluvia, con un pico de fructificación fresca en otoño y principios de invierno (de septiembre a noviembre) y durante periodos templados de primavera o invierno.",
+      "uses": "No comestible por su textura tenaz y coriácea, su pequeño tamaño y su sabor intensamente amargo y astringente. Aunque por lo general se considera no tóxica, en algunas regiones se han descrito vómitos o trastornos digestivos tras su ingestión. Históricamente empleada en la medicina tradicional china como hemostático para detener hemorragias y como purgante enérgico.",
+      "confusion": "Crepidotus mollis y otras especies de Crepidotus forman carpóforos igualmente pequeños, pálidos y en forma de abanico sobre madera muerta de frondosas, pero son más blandos, sésiles o casi sésiles y producen esporada parda en lugar de blanca. Schizophyllum commune presenta un sombrero densamente peloso, blanco a grisáceo, y pliegues lameliformes hendidos longitudinalmente en lugar de verdaderas láminas apretadas. Sarcomyxa serotina es mayor, tiene sombreros de color verde oliva a amarillo oliva con una capa gelatinosa bajo la cutícula y láminas sin venas transversales prominentes. Tapinella panuoides carece de pie diferenciado, tiene pliegues lameliformes amarillo anaranjados, bifurcados y decurrentes, y produce esporas pardo amarillentas mucho más grandes. Panellus mitis es más pequeño, más pálido (de blanquecino a crema rosado), de sabor suave y no amargo, y crece sobre todo en madera de coníferas. Panus rudis es mayor, más peloso y muestra sombreros de color pardo rojizo a crema rosado con matices liláceos en la juventud.",
+      "notes": "La bioluminiscencia varía geográficamente: las cepas del este de América del Norte suelen emitir un tenue resplandor amarillo verdoso (con un máximo en torno a 525–528 nm) tanto en las láminas como en el micelio, controlado por un único alelo dominante, mientras que las recolecciones de Europa, la costa pacífica de América del Norte, Rusia, Japón y Nueva Zelanda son en general no luminiscentes (y también existen cepas no luminiscentes en el este de América del Norte). Como hongo de podredumbre blanca degradador de lignina productor de lacasa y peroxidasas, se ha estudiado para la biorremediación de aguas residuales fenólicas de almazaras, dioxinas policloradas y la acumulación de metales pesados, así como en biosensores de toxicidad del suelo basados en la bioluminiscencia.",
+      "sourceUrls": [
+        "https://es.wikipedia.org/wiki/Panellus_stipticus"
+      ]
+    },
+    "et": {
+      "label": "kirbe panell",
+      "wikipedia": "https://et.wikipedia.org/wiki/Kirbe_panell",
+      "description": "Laialt levinud sitke puitu lagundav lehikseen, mis kasvab tihedate katusekivitaoliselt kattuvate kogumikena surnud lehtpuutüvedel, kändudel ja okstel Euroopas, Põhja-Ameerikas, Aasias, Põhja-Aafrikas, Austraalias ja Uus-Meremaal. Peamiselt saprotroofne ja valgemädanikku põhjustav liik, mille vastupidavad ja kuivamise järel uuesti ellu ärkavad viljakehad püsivad aasta ringi.",
+      "cap": "Läbimõõduga 0,5–4 cm, kumer kuni peaaegu lame ning neerja, karbikujulise või lehvikja piirjoonega; noorelt sissepoole rullunud serv muutub vananedes laineliseks, hõlmiseks või nõrgalt täkiliseks. Kuiv ülapind on peenelt sametjas kuni kliisjalt soomuseline või kergelt villane, vahel nõrgalt kontsentriliselt vöödiline, ning muutub vananedes sageli kortsuliseks või lõheliselt soomuseliseks; märja ilmaga võib kübaranahk tunduda kergelt kleepuv. Värsked kübarad on ookerkollasest ja kollakasoranžist kuni nahkja, helepruuni või kaneelpruunini, kahvatuvad kuivades savikarva või valkjaks ja elustuvad vihmaga. Kaaliumhüdroksiid (KOH) annab kübara pinnal negatiivse kuni hallika reaktsiooni.",
+      "hymenium": "Kitsad, tihedad, kahvatupruunist kaneelpruunini ulatuvad eoslehed koos rohkete lühikeste vaheeoslehtedega, sageli harunevad ja alusel ühendatud peente põiksoontega (anastomoosidega), mis lõpevad jalale jõudes järsu terava piiriga. Põhja-Ameerika idaosast pärit tüvedel kiirgavad eoslehtede servad, põiksooned ning eoslehtede ja jala üleminekukoht täielikus pimeduses sageli nõrka rohekaskollast helendust. Basiidiumid on nuiakujulised, 15–25 × 2–3,5 µm, nelja eosega ja alusel pannaldega. Heilotsüstiidid on rohked ja paiknevad tihedalt kleepuval eoslehe serval, mõõtmetega 17–75 × 2,5–6 µm, silindrilised, värtnakujulised või niitjad ning tipust sageli harunevad või jätketega; pleurotsüstiidid on 17–50 × 3–4,5 µm, värtna- kuni nuiakujulised, hajusalt või kimpudena.",
+      "stipe": "Lühike ja jässakas, 0,3–2 cm pikk ja 0,2–0,8 cm jäme, kübara külge külgmiselt või ekstsentriliselt kinnitunud ning puidu suunas ahenev. Kahvatu nahkjas, määrdunudvalge või ookerkollane, väga noorelt sile ja peagi kaetud peente siidjate kiudude või kliisjate soomustega nagu kübar. Rõngas ja tupp puuduvad.",
+      "flesh": "Õhuke, sitke, elastne ja nahkjas, valkjast kreemika või kahvatu kollakaspruunini; kõveneb kuivades ja pehmeneb niiskudes uuesti. Lõikekohal värvus ei muutu. Lõhn ebaselge või nõrgalt meeldiv; maitse on enamikul leidudel tugevalt kibe, kirbe ja kootav, kuigi vahel mahe.",
+      "sporePrint": "Valge. Basidiospoorid on siledad, värvitud, ellipsoidsetest kuni kergelt vorstikujulisteni (suballantoidsed), amüloidsed (Melzeri reagendis nõrgalt kuni selgelt sinakasmustad) ja mõõtmetega 2,5–6 × 1,5–3 µm.",
+      "habitat": "Saprotroofne surnud lehtpuupuidul — eriti tammel, harilikul pöögil ja kasel, samuti lepal, vahtral, valgepöögil, sarapuul, hikkoripuul, kastanipuul ja saarel — ning harva okaspuudel, näiteks männil; asustab aeg-ajalt ka elusate puude vigastusi. Viljakehad kasvavad tihedate katusekivitaoliste ridadena kändudel, lamatüvedel ja okstel metsades, parkides ja hekkides, põhjustades valgemädanikku. Kuna viljakehad on pikaealised ja elustuvad pärast vihma, võib neid leida aasta ringi jaanuarist detsembrini, kusjuures värskete viljakehade tekke kõrgaeg on sügisel ja varatalvel (septembrist novembrini) ning pehmetel talve- ja kevadperioodidel.",
+      "uses": "Mittesöödav sitke nahkja konsistentsi, väikese mõõdu ja tugevalt kibeda, kootava maitse tõttu. Kuigi liiki üldiselt mürgiseks ei peeta, on mõnes piirkonnas pärast selle söömist teatatud oksendamisest või seedehäiretest. Ajalooliselt on seda kasutatud traditsioonilises Hiina meditsiinis verejooksu peatava vahendina ja tugeva lahtistina.",
+      "confusion": "Pehme pisiservik (Crepidotus mollis) ja teised perekonna Crepidotus liigid moodustavad surnud lehtpuupuidul sarnaseid väikseid kahvatuid lehvikjaid viljakehi, kuid need on pehmemad, jalutud või peaaegu jalutud ning nende eosetolm on pruun, mitte valge. Harilik lõhislehik (Schizophyllum commune) on tihedalt karvase valge kuni hallika kübaraga ning tal on tõeliste tihedate eoslehtede asemel pikisuunas lõhestunud eoslehetaolised voldid. Hilissügisene servik (Sarcomyxa serotina) on suurem, rohekasoliivjate kuni kollakasoliivjate kübaratega, mille kübaranaha all on sültjas kiht, ning tema eoslehtedel puuduvad silmatorkavad põiksooned. Tapinella panuoides on ilma selge jalata, kollakasoranžide harunevate laskuvate eoslehetaoliste voltidega ja palju suuremate kollakaspruunide eostega. Mahe panell (Panellus mitis) on väiksem, kahvatum valkjas kuni roosakas-nahkjas, maheda, mitte kibeda maitsega ning kasvab peamiselt okaspuupuidul. Panus rudis on suurem, karvasem ja noorena lillaka varjundiga punakaspruunide kuni roosakaspruunide kübaratega.",
+      "notes": "Bioluminestsents varieerub geograafiliselt: Põhja-Ameerika idaosast pärit tüved kiirgavad tavaliselt tuhmi rohekaskollast valgust (maksimum umbes 525–528 nm) nii eoslehtedest kui ka mütseelist ühe dominantse alleeli kontrolli all, samas kui Euroopast, Põhja-Ameerika Vaikse ookeani rannikult, Venemaalt, Jaapanist ja Uus-Meremaalt kogutud leiud üldjuhul ei helenda (mittehelendavaid tüvesid leidub ka Põhja-Ameerika idaosas). Ligniini lagundava valgemädanikuseenena, mis toodab lakaasi ja peroksidaase, on seda uuritud oliiviveskite fenoolirikka reovee ja polüklooritud dioksiinide bioremediatsiooniks, raskmetallide sidumiseks ning bioluminestsentsil põhinevate mulla toksilisuse biosensorite loomiseks.",
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Kirbe_panell"
+      ]
+    },
+    "fa": {
+      "label": "قارچ خون‌بند",
+      "wikipedia": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%B1%DA%86_%D8%AE%D9%88%D9%86%E2%80%8C%D8%A8%D9%86%D8%AF",
+      "description": "قارچی تیغه‌دار، سفت، چوب‌پوسان و گسترده است که در خوشه‌های متراکم و طبقه به طبقه روی کنده، تنه و شاخه‌های مرده درختان پهن‌برگ در سراسر اروپا، آمریکای شمالی، آسیا، شمال آفریقا، استرالیا و نیوزیلند می‌روید. این گونه عمدتاً ساپروتروف است و موجب پوسیدگی سفید می‌شود؛ اندام‌های بارده مقاوم و احیاپذیر آن در تمام طول سال باقی می‌مانند.",
+      "cap": "قطر کلاهک ۰٫۵–۴ سانتی‌متر، محدب تا تقریباً مسطح و به شکل کلیه، صدف یا بادبزن است؛ حاشیه آن در جوانی به درون خمیده و با افزایش سن موج‌دار، لب‌دار یا اندکی دندانه‌دار می‌شود. سطح بالایی خشک، مخملی ریز تا پوسته‌پوسته-سبوس‌دار یا کمی پشمی است، گاهی نوارهای هم‌مرکز کم‌رنگ دارد و با پیری اغلب چروکیده یا ترک‌خورده و پوسته‌پوسته می‌شود؛ در هوای مرطوب ممکن است پوسته کمی چسبناک به نظر برسد. کلاهک‌های تازه از زرد اخرایی و نارنجی مایل به زرد تا نخودی، قهوه‌ای روشن یا دارچینی متغیرند، در خشکی به رنگ گلی یا سفید کدر رنگ می‌بازند و با باران دوباره زنده می‌شوند. هیدروکسید پتاسیم (KOH) روی سطح کلاهک واکنش منفی تا خاکستری نشان می‌دهد.",
+      "hymenium": "تیغه‌ها باریک، متراکم و به رنگ قهوه‌ای روشن تا دارچینی هستند که تیغه‌های کوتاه فراوانی در میان آن‌ها قرار دارند؛ اغلب دو شاخه می‌شوند، در پایه با رگه‌های عرضی ظریف به هم متصلند (آناستوموز) و در محل اتصال به ساقه به طور ناگهانی با خطی مشخص پایان می‌یابند. در سویه‌های شرق آمریکای شمالی، لبه تیغه‌ها، رگه‌های عرضی و محل اتصال تیغه‌ها به ساقه در تاریکی مطلق اغلب نوری سبز-زرد کم‌رنگ می‌تابانند. بازیدی‌ها گرزمانند، به ابعاد ۱۵–۲۵ × ۲–۳٫۵ میکرومتر، چهارهاگی و دارای قلاب پایه هستند. کیلوسیستیدی‌ها در امتداد لبه چسبناک تیغه فراوان و متراکم‌اند، به ابعاد ۱۷–۷۵ × ۲٫۵–۶ میکرومتر، استوانه‌ای، دوکی یا نخی و اغلب در نوک دوشاخه یا دارای زائده‌اند؛ پلوروسیستیدی‌ها ۱۷–۵۰ × ۳–۴٫۵ میکرومتر، دوکی تا گرزمانند، پراکنده یا دسته‌ای هستند.",
+      "stipe": "کوتاه و کلفت، به طول ۰٫۳–۲ سانتی‌متر و ضخامت ۰٫۲–۰٫۸ سانتی‌متر است که به صورت جانبی یا خارج از مرکز به کلاهک متصل شده و به سمت پایین و چوب باریک‌تر می‌شود. به رنگ نخودی کمرنگ، سفید کدر یا زرد اخرایی است؛ در جوانی بسیار صاف بوده و به زودی همانند کلاهک با رشته‌های ابریشمی ریز یا پوسته‌های سبوس‌مانند پوشیده می‌شود. فاقد حلقه و ولوا است.",
+      "flesh": "نازک، سفت، انعطاف‌پذیر و چرمی، سفید مایل به کرم یا زرد-قهوه‌ای کم‌رنگ است؛ هنگام خشک شدن سخت می‌شود و با رطوبت دوباره نرم می‌گردد. هنگام برش تغییر رنگ نمی‌دهد. بو نامشخص یا اندکی مطبوع است؛ مزه در بیشتر نمونه‌ها به شدت تلخ، تند و گس است، هرچند گاهی ملایم نیز دیده می‌شود.",
+      "sporePrint": "سفید است. بازیدیوسپورها صاف، شفاف، بیضوی تا اندکی سوسیسی‌شکل (ساب‌آلانتوئید)، آمیلوئید (در معرف ملتزر آبی-سیاه ضعیف تا مشخص) و به ابعاد ۲٫۵–۶ × ۱٫۵–۳ میکرومتر هستند.",
+      "habitat": "ساپروتروف روی چوب مرده درختان پهن‌برگ — به ویژه بلوط، راش اروپایی و توس، همچنین توسکا، افرا، ممرز، فندق، هیکوری، شاه‌بلوط و زبان‌گنجشک — و به ندرت روی سوزنی‌برگان مانند کاج می‌روید و گاهی زخم‌های درختان زنده را نیز کلونیزه می‌کند. به صورت طبقات متراکم و هم‌پوشان روی کنده‌ها، تنه‌های افتاده و شاخه‌ها در جنگل‌ها، پارک‌ها و پرچین‌ها باردهی می‌کند و باعث پوسیدگی سفید می‌شود. از آنجا که اندام‌های بارده بادوام هستند و پس از باران دوباره زنده می‌شوند، در تمام سال از ژانویه تا دسامبر یافت می‌شوند؛ اوج باردهی تازه در پاییز و اوایل زمستان (سپتامبر تا نوامبر) و همچنین در دوره‌های ملایم بهار یا زمستان است.",
+      "uses": "به دلیل بافت سفت و چرمی، اندازه کوچک و طعم بسیار تلخ و گس، غیرخوراکی است. اگرچه به طور کلی غیرسمی در نظر گرفته می‌شود، در برخی مناطق گزارش شده که مصرف آن باعث استفراغ یا ناراحتی گوارشی شده است. در گذشته در طب سنتی چین به عنوان بندآورنده خونریزی و مسهل قوی به کار می‌رفته است.",
+      "confusion": "Crepidotus mollis و دیگر گونه‌های Crepidotus نیز اندام‌های بارده کوچک، کم‌رنگ و بادبزنی‌شکل مشابهی روی چوب مرده پهن‌برگان می‌سازند، اما نرم‌ترند، بی‌ساقه یا تقریباً بی‌ساقه‌اند و به جای سفید، نقش هاگ قهوه‌ای دارند. Schizophyllum commune کلاهکی پرمو به رنگ سفید تا خاکستری و چین‌خوردگی‌های تیغه‌مانند با شکاف طولی به جای تیغه‌های واقعی و متراکم دارد. Sarcomyxa serotina بزرگ‌تر است، کلاهک‌هایی به رنگ زیتونی مایل به سبز تا زیتونی مایل به زرد با لایه‌ای ژلاتینی زیر پوسته دارد و تیغه‌هایش فاقد رگه‌های عرضی برجسته‌اند. Tapinella panuoides ساقه مشخصی ندارد، دارای چین‌خوردگی‌های تیغه‌مانند دوشاخه و امتدادیافته به رنگ زرد-نارنجی است و هاگ‌های زرد-قهوه‌ای بسیار بزرگ‌تری تولید می‌کند. Panellus mitis کوچک‌تر و کم‌رنگ‌تر به رنگ سفید مایل به نخودی صورتی است، طعمی ملایم به جای تلخ دارد و عمدتاً روی چوب سوزنی‌برگان می‌روید. Panus rudis بزرگ‌تر و پرموتر است و کلاهک‌هایی به رنگ قهوه‌ای مایل به قرمز تا قهوه‌ای صورتی با ته‌رنگ یاسی در جوانی دارد.",
+      "notes": "زیست‌تابی از نظر جغرافیایی متغیر است: سویه‌های شرق آمریکای شمالی معمولاً نوری سبز-زرد کم‌رنگ (با اوج حدود ۵۲۵–۵۲۸ نانومتر) از هر دو بخش تیغه‌ها و میسلیوم ساطع می‌کنند که توسط یک آلل غالب کنترل می‌شود، در حالی که نمونه‌های اروپا، سواحل اقیانوس آرام آمریکای شمالی، روسیه، ژاپن و نیوزیلند عموماً غیرزیست‌تاب هستند (سویه‌های غیرزیست‌تاب در شرق آمریکای شمالی نیز وجود دارند). به عنوان قارچ پوسیدگی سفید تجزیه‌کننده لیگنین که لاکاز و پراکسیداز تولید می‌کند، برای زیست‌پالایی پساب فنولی کارخانه‌های روغن زیتون، دیوکسین‌های چندکلره و تجمع فلزات سنگین، و همچنین حسگرهای زیستی سمیت خاک مبتنی بر زیست‌تابی مورد مطالعه قرار گرفته است.",
+      "sourceUrls": [
+        "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%B1%DA%86_%D8%AE%D9%88%D9%86%E2%80%8C%D8%A8%D9%86%D8%AF"
+      ]
+    },
+    "fi": {
+      "label": "kitkerävinokas",
+      "wikipedia": "https://fi.wikipedia.org/wiki/Kitker%C3%A4vinokas",
+      "description": "Laajalle levinnyt, sitkeä, puuta lahottava helttasieni, joka kasvaa tiheinä, limittäin asettuvina hyllymäisinä ryhminä kuolleilla lehtipuiden rungoilla, kannoilla ja oksilla Euroopassa, Pohjois-Amerikassa, Aasiassa, Pohjois-Afrikassa, Australiassa ja Uudessa-Seelannissa. Se on pääasiassa valkolahoa aiheuttava lahottajasieni, jonka kestävät ja kuivuttuaan jälleen virkoavat itiöemät säilyvät ympäri vuoden.",
+      "cap": "Leveydeltään 0,5–4 cm, kupera tai lähes laakea ja ääriviivaltaan munuais-, simpukka- tai viuhkamainen; reuna on nuorena sisäänkiertynyt ja muuttuu vanhemmiten aaltoilevaksi, liuskaiseksi tai heikosti nyhäiseksi. Kuiva yläpinta on hienon samettinen, hilseilevän suomuinen tai hieman villainen, toisinaan heikosti samankeskisesti vyöhykkeinen, ja muuttuu vanhetessaan usein ryppyiseksi tai halkeilevan suomuiseksi; kostealla säällä pintakelmu voi tuntua hieman tahmealta. Tuoreet lakit vaihtelevat okrankeltaisesta ja keltaoranssista vaalean nahankeltaiseen, vaaleanruskeaan tai kanelinruskeaan, vaalenevat kuivuessaan savenvärisiksi tai luonnonvalkoisiksi ja virkoavat sateessa. Kaliumhydroksidi (KOH) antaa lakin pinnalla negatiivisen tai harmahtavan reaktion.",
+      "hymenium": "Kapeat, tiheät, vaaleanruskeasta kanelinruskeaan vaihtelevat heltat, joiden välissä on runsaasti lyhyitä välihelttoja; heltat ovat usein haarautuvia ja tyvestään hienojen poikkisuonten (anastomoosien) yhdistämiä, ja ne päättyvät jyrkästi terävään rajaan jalassa. Itäisen Pohjois-Amerikan kannoilla helttojen terät, poikkisuonet ja helttojen ja jalan liittymäkohta hohtavat täydellisessä pimeydessä usein heikkoa vihertävänkeltaista valoa. Basidiot ovat nuijamaisia, 15–25 × 2–3,5 µm, neljäitiöisiä ja tyvestään sinkilällisiä. Keilosystidit ovat runsaita ja tiheässä tahmealla helttojen terällä, 17–75 × 2,5–6 µm, lieriömäisiä, sukkulamaisia tai rihmamaisia ja kärjestään usein haarautuvia tai ulokkeellisia; pleurosystidit ovat 17–50 × 3–4,5 µm, sukkula- tai nuijamaisia, hajallaan tai kimppuina.",
+      "stipe": "Lyhyt ja tukeva, 0,3–2 cm pitkä ja 0,2–0,8 cm paksu, kiinnittynyt lakkiin sivusta tai epäkeskisesti ja kapenee alaspäin kohti puuta. Vaalean nahankeltainen, likaisenvalkoinen tai okrankeltainen, hyvin nuorena sileä mutta pian hienojen silkkisten säikeiden tai hilseilevien suomujen peittämä kuten lakki. Ei rengasta eikä tuppea.",
+      "flesh": "Ohut, sitkeä, taipuisa ja nahkamainen, valkeahko, kermanvärinen tai vaalean kellanruskea; kovettuu kuivuessaan ja pehmenee jälleen kostuessaan. Väri ei muutu leikattaessa. Haju on huomaamaton tai heikosti miellyttävä; maku on useimmissa näytteissä voimakkaan karvas, kirpeä ja supistava, joskin satunnaisesti mieto.",
+      "sporePrint": "Valkoinen. Basidiosporit ovat sileitä, värittömiä, soikeahkoja tai hieman makkaramaisia (suballantoidisia), amyloideja (heikosti tai selvästi sinimustia Melzerin reagenssissa) ja kooltaan 2,5–6 × 1,5–3 µm.",
+      "habitat": "Lahottaja kuolleella lehtipuulla — erityisesti tammella, euroopanpyökillä ja koivulla sekä lepällä, vaahteralla, euroopanvalkopyökillä, pähkinäpensaalla, hikkorilla, kastanjalla ja saarnella — ja harvoin havupuilla kuten männyllä; asuttaa toisinaan myös elävien puiden vaurioita. Kasvaa tiheinä, limittäisinä riveinä kannoilla, kaatuneilla rungoilla ja oksilla metsissä, puistoissa ja pensasaidoissa aiheuttaen valkolahoa. Koska itiöemät ovat pitkäikäisiä ja virkoavat sateen jälkeen, niitä voi löytää ympäri vuoden tammikuusta joulukuuhun; uusien itiöemien tuotanto huipentuu syksyllä ja alkutalvella (syyskuusta marraskuuhun) sekä leutoina talvi- ja kevätjaksoina.",
+      "uses": "Syötäväksi kelpaamaton sitkeän, nahkamaisen rakenteensa, pienen kokonsa ja voimakkaan karvaan, supistavan makunsa vuoksi. Vaikka lajia ei yleisesti pidetä myrkyllisenä, sen syömisen on joillakin alueilla raportoitu aiheuttaneen oksentelua tai vatsavaivoja. Perinteisessä kiinalaisessa lääketieteessä sitä on historiallisesti käytetty verenvuodon tyrehdyttämiseen ja voimakkaana ulostuslääkkeenä.",
+      "confusion": "Hyytelövinokas (Crepidotus mollis) ja muut Crepidotus-lajit muodostavat samankaltaisia pieniä, vaaleita, viuhkamaisia itiöemiä kuolleella lehtipuulla, mutta ne ovat pehmeämpiä, jalattomia tai lähes jalattomia ja niiden itiöpöly on ruskeaa eikä valkoista. Halkiheltta (Schizophyllum commune) eroaa tiheäkarvaisella valkoisella tai harmahtavalla lakillaan sekä pitkittäin halkeavilla helttamaisilla poimuillaan todellisten tiheiden helttojen sijaan. Talvivinokas (Sarcomyxa serotina) on suurempi, sen lakki on vihertävänoliivi tai kellanoliivi ja pintakelmun alla on hyytelömäinen kerros, eikä sen heltoissa ole selviä poikkisuonia. Kellaripulkka (Tapinella panuoides) on vailla selvää jalkaa, sillä on keltaoranssit, haarautuvat, johteiset helttamaiset poimut ja paljon suuremmat kellanruskeat itiöt. Kalvasvinokas (Panellus mitis) on pienempi, vaaleamman valkeahko tai vaaleanpunertavan nahankeltainen, maultaan mieto eikä karvas ja kasvaa pääasiassa havupuulla. Panus rudis on suurempi, karvaisempi ja sen lakki on punaruskeasta vaaleanpunertavan ruskeaan ja nuorena liilansävyinen.",
+      "notes": "Bioluminesenssi vaihtelee maantieteellisesti: itäisen Pohjois-Amerikan kannat hohtavat tyypillisesti himmeää vihertävänkeltaista valoa (huippu noin 525–528 nm) sekä heltoista että rihmastosta yhden dominoivan alleelin ohjaamana, kun taas Euroopan, Pohjois-Amerikan länsirannikon, Venäjän, Japanin ja Uuden-Seelannin kannat ovat yleensä hohtamattomia (hohtamattomia kantoja esiintyy myös itäisessä Pohjois-Amerikassa). Ligniiniä hajottavana, lakkaasia ja peroksidaaseja tuottavana valkolahosienenä sitä on tutkittu oliivinpuristamoiden fenolipitoisten jätevesien ja polykloorattujen dioksiinien bioremediaatiossa, raskasmetallien keräämisessä sekä bioluminesenssiin perustuvissa maaperän myrkyllisyyden biosensoreissa.",
+      "sourceUrls": [
+        "https://fi.wikipedia.org/wiki/Kitker%C3%A4vinokas"
+      ]
+    },
+    "fr": {
+      "label": "panelle styptique",
+      "names": [
+        "panelle astringente"
+      ],
+      "wikipedia": "https://fr.wikipedia.org/wiki/Panellus_stipticus",
+      "description": "Champignon lignicole à lames, tenace et largement répandu, poussant en touffes denses et imbriquées en étages sur les troncs, souches et branches mortes de feuillus en Europe, en Amérique du Nord, en Asie, en Afrique du Nord, en Australie et en Nouvelle-Zélande. Principalement saprotrophe et agent de pourriture blanche, ses sporophores durables et reviviscents persistent toute l'année.",
+      "cap": "De 0,5–4 cm de large, convexe à presque plat, de contour réniforme, en forme de coquille ou d'éventail, avec une marge enroulée chez les jeunes sujets devenant ondulée, lobée ou finement crénelée avec l'âge. La surface supérieure sèche est finement veloutée à furfuracée-squamuleuse ou légèrement laineuse, parfois faiblement zonée concentriquement, et devient souvent ridée ou craquelée-squameuse en vieillissant ; par temps humide, la cuticule peut paraître légèrement visqueuse. Les chapeaux frais varient du jaune ocre et jaune orangé au chamois, brun clair ou brun cannelle, pâlissant vers l'argile ou le blanc cassé en séchant et revivant sous la pluie. L'hydroxyde de potassium (KOH) donne une réaction négative à grisâtre sur la surface du chapeau.",
+      "hymenium": "Lames étroites, serrées, brun clair à brun cannelle, entremêlées de fréquentes lamellules, souvent fourchues et reliées à la base par de fines veines transversales (anastomoses), s'arrêtant brusquement selon une ligne nette au contact du pied. Chez les souches de l'est de l'Amérique du Nord, l'arête des lames, les anastomoses et la jonction entre les lames et le pied émettent souvent une faible lueur jaune verdâtre dans l'obscurité totale. Basides clavées, de 15–25 × 2–3,5 µm, tétrasporiques avec boucles basales. Cheilocystides abondantes et serrées le long de l'arête collante des lames, de 17–75 × 2,5–6 µm, cylindriques, fusiformes ou filiformes et souvent fourchues ou diverticulées au sommet ; pleurocystides de 17–50 × 3–4,5 µm, fusiformes à clavées, dispersées ou en faisceaux.",
+      "stipe": "Court et trapu, de 0,3–2 cm de long sur 0,2–0,8 cm d'épaisseur, fixé latéralement ou excentriquement au chapeau et atténué vers le bas en direction du bois. Chamois pâle, blanc terne ou jaune ocre, lisse tout jeune puis vite couvert de fines fibrilles soyeuses ou de squamules furfuracées comme le chapeau. Sans anneau ni volve.",
+      "flesh": "Mince, tenace, souple et coriace, blanchâtre à crème ou brun-jaune pâle, durcissant au sec et se ramollissant à nouveau lorsqu'elle est humidifiée. Immuable à la coupe. Odeur indistincte ou faiblement agréable ; saveur fortement amère, âcre et astringente dans la plupart des récoltes, quoique parfois douce.",
+      "sporePrint": "Blanche. Basidiospores lisses, hyalines, ellipsoïdes à légèrement en forme de saucisse (suballantoïdes), amyloïdes (faiblement à nettement bleu-noir dans le réactif de Melzer), mesurant 2,5–6 × 1,5–3 µm.",
+      "habitat": "Saprotrophe sur le bois mort de feuillus — en particulier chêne, hêtre et bouleau, ainsi qu'aulne, érable, charme, noisetier, caryer, châtaignier et frêne — et rarement sur conifères comme le pin, colonisant occasionnellement les blessures d'arbres vivants. Fructifie en étages denses et imbriqués sur les souches, troncs tombés et branches dans les forêts, parcs et haies, en provoquant une pourriture blanche. Les sporophores s'observent toute l'année, de janvier à décembre, car ils sont persistants et revivent après la pluie, avec un pic de fructification fraîche en automne et au début de l'hiver (de septembre à novembre) ainsi que lors des périodes douces du printemps ou de l'hiver.",
+      "uses": "Non comestible en raison de sa texture tenace et coriace, de sa petite taille et de sa saveur intensément amère et astringente. Bien qu'il soit généralement considéré comme non toxique, son ingestion a été signalée comme provoquant des vomissements ou des troubles digestifs dans certaines régions. Utilisé historiquement en médecine traditionnelle chinoise comme hémostatique pour arrêter les saignements et comme purgatif puissant.",
+      "confusion": "Crepidotus mollis et d'autres espèces du genre Crepidotus forment des sporophores pareillement petits, pâles et en éventail sur le bois mort de feuillus, mais ils sont plus mous, sessiles ou presque, et produisent une sporée brune plutôt que blanche. Schizophyllum commune présente un chapeau densément poilu, blanc à grisâtre, et des plis lamelliformes fendus longitudinalement au lieu de vraies lames serrées. Sarcomyxa serotina est plus grand, porte des chapeaux vert olive à jaune olive dotés d'une couche gélatineuse sous la cuticule, et des lames sans anastomoses marquées. Tapinella panuoides est dépourvu de pied distinct, possède des plis lamelliformes jaune orangé, fourchus et décurrents, et produit des spores brun-jaune beaucoup plus grandes. Panellus mitis est plus petit, plus pâle (blanchâtre à chamois rosé), de saveur douce et non amère, et pousse surtout sur bois de conifères. Panus rudis est plus grand, plus poilu et montre des chapeaux brun rougeâtre à ocre rosé teintés de lilas chez les jeunes.",
+      "notes": "La bioluminescence varie géographiquement : les souches de l'est de l'Amérique du Nord émettent typiquement une faible lueur jaune verdâtre (avec un pic autour de 525–528 nm) à la fois au niveau des lames et du mycélium, contrôlée par un seul allèle dominant, alors que les récoltes d'Europe, de la côte pacifique d'Amérique du Nord, de Russie, du Japon et de Nouvelle-Zélande sont généralement non lumineuses (des souches non lumineuses existent aussi dans l'est de l'Amérique du Nord). En tant que champignon de pourriture blanche dégradant la lignine et produisant de la laccase et des peroxydases, il a été étudié pour la bioremédiation des margines phénoliques issues des moulins à huile d'olive, des dioxines polychlorées et pour l'accumulation de métaux lourds, ainsi que dans des biocapteurs de toxicité des sols fondés sur la bioluminescence.",
+      "sourceUrls": [
+        "https://fr.wikipedia.org/wiki/Panellus_stipticus"
+      ]
+    },
+    "he": {
+      "description": "פטריית דפים קשיחה, נפוצה ומפרקת עץ, הגדלה בצברים צפופים ורעופים בצורת מדפים על גזעים, גדמים וענפים מתים של עצי עלים ברחבי אירופה, אמריקה הצפונית, אסיה, צפון אפריקה, אוסטרליה וניו זילנד. היא סאפרוטרופית בעיקרה וגורמת לריקבון לבן, וגופי הפרי העמידים שלה, המתעוררים מחדש עם הרטבה, שורדים לאורך כל השנה.",
+      "cap": "קוטר הכובע 0.5–4 ס\"מ, קמור עד כמעט שטוח ובצורת כליה, צדפה או מניפה, עם שוליים מקופלים פנימה בצעירותו ההופכים גליים, אונתיים או משוננים בעדינות עם ההתבגרות. המשטח העליון יבש, קטיפתי עדין עד קשקשי-קמחי או צמרירי מעט, לעיתים בעל אזורים קונצנטריים קלושים, ולעיתים קרובות מתקמט או מתבקע לקשקשים בגיל מבוגר; במזג אוויר רטוב העורית עשויה להרגיש דביקה מעט. כובעים טריים נעים מצהוב-אוכרה וכתום-צהבהב ועד בז', חום בהיר או חום-קינמון, מחווירים לצבע חרסית או לבנבן כשהם מתייבשים ומתעוררים מחדש בגשם. אשלגן הידרוקסידי (KOH) נותן תגובה שלילית עד אפרפרה על פני הכובע.",
+      "hymenium": "דפים צרים וצפופים בצבע חום בהיר עד חום-קינמון, משובצים בדפים קצרים תכופים, לעיתים קרובות מסועפים ומחוברים בבסיסם בעורקי רוחב עדינים מצטלבים (אנסטומוזות), המסתיימים בפתאומיות בקו חד במפגש עם הרגל. בזנים ממזרח אמריקה הצפונית, שולי הדפים, עורקי הרוחב ונקודת המפגש בין הדפים לרגל פולטים לעיתים קרובות זוהר ירקרק-צהבהב קלוש בחושך מוחלט. הבסידיות דמויות אלה, בגודל 15–25 × 2–3.5 מיקרומטר, בעלות ארבעה נבגים וקשתיות בסיס. הכיילוציסטידיות שופעות וצפופות לאורך שולי הדף הדביקים, בגודל 17–75 × 2.5–6 מיקרומטר, גליליות, כישוריות או חוטיות ולעיתים קרובות מסועפות או בעלות בליטות בקצה; הפלאורוציסטידיות בגודל 17–50 × 3–4.5 מיקרומטר, כישוריות עד דמויות אלה, פזורות או בצרורות.",
+      "stipe": "קצרה ועבה, באורך 0.3–2 ס\"מ ובעובי 0.2–0.8 ס\"מ, מחוברת לכובע מהצד או מחוץ למרכז והולכת וצרה כלפי מטה אל העץ. צבעה בז' חיוור, לבן עמום או צהוב-אוכרה, חלקה בצעירותה המוקדמת ומכוסה במהרה בסיבים משיים עדינים או בקשקשים קמחיים כמו הכובע. אין טבעת ואין נרתיק.",
+      "flesh": "דק, קשיח, גמיש וגלדני, לבנבן עד שמנת או צהוב-חום חיוור, מתקשה בייבוש ומתרכך שוב בהרטבה. אינו משנה את צבעו בחיתוך. הריח לא מובחן או נעים קלות; הטעם מר מאוד, חריף ומכווץ ברוב האיסופים, אם כי לעיתים עדין.",
+      "sporePrint": "לבן. הבסידיוספורים חלקים, שקופים, אליפסואידיים עד דמויי נקניקייה קלות (תת-אלנטואידיים), עמילואידיים (כחלחלים-שחורים חלש עד מובהק במגיב מלצר), וגודלם 2.5–6 × 1.5–3 מיקרומטר.",
+      "habitat": "סאפרוטרופית על עץ מת של עצי עלים רחבים — בעיקר אלון, אשור אירופי ושדר, וכן אלנוס, אדר, קרפינוס, לוז, היקורי, ערמון ומילה — ולעיתים נדירות על מחטניים כגון אורן, ולפעמים מיישבת פצעים בעצים חיים. מניבה גופי פרי בקומות צפופות ורעופות על גדמים, גזעים שנפלו וענפים ביערות, בפארקים ובמשוכות, וגורמת לריקבון לבן. ניתן למצוא גופי פרי לאורך כל השנה מינואר עד דצמבר משום שהם מאריכי ימים ומתעוררים לאחר גשם, כאשר שיא ההנבה הטרייה הוא בסתיו ובתחילת החורף (ספטמבר עד נובמבר) ובפרקי זמן מתונים באביב או בחורף.",
+      "uses": "לא למאכל בשל מרקמה הקשיח והגלדני, גודלה הקטן וטעמה המר והמכווץ העז. אף שהיא נחשבת בדרך כלל לא רעילה, באזורים מסוימים דווח כי אכילתה גרמה להקאות או להפרעות עיכול. שימשה היסטורית ברפואה הסינית המסורתית כחומר מכווץ לעצירת דימום וכמשלשל חזק.",
+      "confusion": "Crepidotus mollis ומינים אחרים של Crepidotus יוצרים גופי פרי קטנים, חיוורים ודמויי מניפה באופן דומה על עץ מת של רחבי עלים, אך הם רכים יותר, חסרי רגל או כמעט חסרי רגל, ויוצרים הדפס נבגים חום ולא לבן. ל-Schizophyllum commune כובע שעיר בצפיפות בצבע לבן עד אפרפר וקפלים דמויי דפים מפוצלים לאורכם במקום דפים אמיתיים וצפופים. Sarcomyxa serotina גדולה יותר, בעלת כובעים בגוון זית-ירקרק עד זית-צהבהב עם שכבה ג'לטינית מתחת לעורית, ודפים ללא עורקי רוחב בולטים. ל-Tapinella panuoides חסרה רגל מובחנת, יש לה קפלים דמויי דפים מסועפים, גולשים וצהבהבים-כתומים, והיא מייצרת נבגים חומים-צהבהבים גדולים בהרבה. Panellus mitis קטנה יותר, חיוורת יותר בגוון לבנבן עד בז'-ורדרד, בעלת טעם עדין ולא מר, וגדלה בעיקר על עץ מחטניים. Panus rudis גדולה יותר, שעירה יותר, ומציגה כובעים בגוון חום-אדמדם עד חום-ורדרד עם גוון לילך בצעירותה.",
+      "notes": "הביולומינסנציה משתנה גאוגרפית: זנים ממזרח אמריקה הצפונית פולטים בדרך כלל זוהר ירקרק-צהבהב עמום (המגיע לשיאו סביב 525–528 ננומטר) הן מהדפים והן מהתפטיר, תכונה הנשלטת על ידי אלל דומיננטי יחיד, בעוד איסופים מאירופה, צפון אמריקה הפסיפית, רוסיה, יפן וניו זילנד אינם זוהרים בדרך כלל (וזנים שאינם זוהרים מצויים גם במזרח אמריקה הצפונית). כפטריית ריקבון לבן המפרקת ליגנין ומייצרת לקאז ופרוקסידאזות, היא נחקרה לביורמדיאציה של שפכי בתי בד עשירים בפנולים, דיוקסינים מוכלרים והצטברות מתכות כבדות, וכן לחיישנים ביולוגיים לרעילות קרקע המבוססים על ביולומינסנציה.",
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "यह व्यापक रूप से पाया जाने वाला, सख्त और लकड़ी सड़ाने वाला गिल्स युक्त मशरूम है, जो यूरोप, उत्तरी अमेरिका, एशिया, उत्तरी अफ्रीका, ऑस्ट्रेलिया और न्यूज़ीलैंड में चौड़ी पत्ती वाले पेड़ों के मृत लट्ठों, ठूंठों और शाखाओं पर घने, एक-दूसरे पर चढ़े हुए शेल्फ जैसे गुच्छों में उगता है। यह मुख्य रूप से मृतोपजीवी है और सफेद सड़न (व्हाइट रॉट) पैदा करता है; इसके टिकाऊ और नमी मिलने पर फिर से सजीव होने वाले फलन-काय साल भर बने रहते हैं।",
+      "cap": "टोपी 0.5–4 सेमी चौड़ी, उत्तल से लगभग चपटी और गुर्दे, सीप या पंखे के आकार की होती है; युवावस्था में इसका किनारा अंदर की ओर मुड़ा होता है जो उम्र बढ़ने के साथ लहरदार, खंडित या हल्का दाँतेदार हो जाता है। सूखी ऊपरी सतह बारीक मखमली से लेकर पपड़ीदार-शल्की या हल्की ऊनी होती है, कभी-कभी हल्के संकेंद्रित छल्लों वाली होती है और उम्र के साथ अक्सर सिकुड़ या फटकर शल्की हो जाती है; गीले मौसम में ऊपरी परत हल्की चिपचिपी लग सकती है। ताज़ी टोपियों का रंग गेरुआ-पीले और पीले-नारंगी से लेकर हल्के बादामी, भूरे या दालचीनी-भूरे तक होता है, जो सूखने पर मिट्टी जैसे या हल्के सफेद रंग में फीका पड़ जाता है और बारिश में फिर से ताज़ा हो जाता है। पोटेशियम हाइड्रॉक्साइड (KOH) टोपी की सतह पर नकारात्मक से धूसर प्रतिक्रिया देता है।",
+      "hymenium": "सँकरे, घने, हल्के भूरे से दालचीनी-भूरे गिल्स, जिनके बीच में कई छोटे गिल्स होते हैं; ये अक्सर शाखित होते हैं और आधार पर बारीक आड़ी शिराओं (एनास्टोमोसिस) से जुड़े रहते हैं, तथा डंठल से मिलने के स्थान पर एक तीखी रेखा के साथ अचानक समाप्त हो जाते हैं। पूर्वी उत्तरी अमेरिका के उपभेदों में गिल्स के किनारे, आड़ी शिराएँ और गिल्स-डंठल का जोड़ पूर्ण अंधेरे में अक्सर हल्की हरी-पीली चमक उत्सर्जित करते हैं। बेसिडिया गदा के आकार के, 15–25 × 2–3.5 µm, चार बीजाणुओं वाले और आधार पर क्लैंप युक्त होते हैं। कीलोसिस्टिडिया चिपचिपे गिल किनारे पर प्रचुर और घने होते हैं, 17–75 × 2.5–6 µm, बेलनाकार, तकुए के आकार के या धागे जैसे और शीर्ष पर अक्सर शाखित या उभारयुक्त होते हैं; प्ल्यूरोसिस्टिडिया 17–50 × 3–4.5 µm, तकुए से गदा के आकार के, बिखरे हुए या गुच्छों में होते हैं।",
+      "stipe": "डंठल छोटा और मोटा, 0.3–2 सेमी लंबा और 0.2–0.8 सेमी मोटा होता है, जो टोपी से किनारे या केंद्र से हटकर जुड़ा होता है और लकड़ी की ओर नीचे की तरफ पतला होता जाता है। यह हल्के बादामी, फीके सफेद या गेरुआ-पीले रंग का होता है; बहुत कम उम्र में चिकना रहता है और जल्द ही टोपी की तरह बारीक रेशमी रेशों या पपड़ीदार शल्कों से ढक जाता है। इसमें कोई वलय (रिंग) या वोल्व़ा नहीं होता।",
+      "flesh": "गूदा पतला, सख्त, लचीला और चमड़े जैसा, सफेद से क्रीम या हल्के पीले-भूरे रंग का होता है, जो सूखने पर कठोर हो जाता है और नमी मिलने पर फिर से नरम पड़ जाता है। काटने पर रंग नहीं बदलता। गंध अस्पष्ट या हल्की सुहावनी होती है; अधिकांश नमूनों में स्वाद अत्यधिक कड़वा, तीखा और कसैला होता है, हालांकि कभी-कभी हल्का भी हो सकता है।",
+      "sporePrint": "सफेद। बेसिडियोबीजाणु चिकने, पारदर्शी, दीर्घवृत्ताकार से हल्के सॉसेज के आकार के (सबएलेंटॉइड), एमिलॉइड (मेलज़र अभिकर्मक में हल्के से स्पष्ट नीले-काले) होते हैं और इनका माप 2.5–6 × 1.5–3 µm होता है।",
+      "habitat": "चौड़ी पत्ती वाले पेड़ों — विशेष रूप से ओक, यूरोपीय बीच और बर्च, साथ ही एल्डर, मेपल, हॉर्नबीम, हेज़ल, हिकरी, चेस्टनट और ऐश — की मृत लकड़ी पर और दुर्लभ रूप से चीड़ जैसे शंकुधारी पेड़ों पर मृतोपजीवी के रूप में उगता है; कभी-कभी जीवित पेड़ों के घावों पर भी पनपता है। जंगलों, पार्कों और बाड़ों में ठूंठों, गिरे हुए तनों और शाखाओं पर घनी, एक-दूसरे पर चढ़ी हुई परतों में फलन करता है और सफेद सड़न उत्पन्न करता है। टिकाऊ होने और बारिश के बाद फिर से सजीव होने के कारण इसके फलन-काय जनवरी से दिसंबर तक वर्ष भर मिल सकते हैं, जबकि नए फलन का चरम शरद ऋतु और प्रारंभिक सर्दियों (सितंबर से नवंबर) तथा हल्के वसंत या सर्दियों के दौर में होता है।",
+      "uses": "सख्त, चमड़े जैसी बनावट, छोटे आकार और अत्यधिक कड़वे व कसैले स्वाद के कारण यह अखाद्य है। यद्यपि इसे सामान्यतः विषैला नहीं माना जाता, कुछ क्षेत्रों में इसके सेवन से उल्टी या पाचन संबंधी परेशानी होने की सूचना मिली है। ऐतिहासिक रूप से पारंपरिक चीनी चिकित्सा में इसे रक्तस्राव रोकने के लिए रक्तस्तंभक (स्टिप्टिक) और एक प्रबल विरेचक के रूप में उपयोग किया जाता था।",
+      "confusion": "Crepidotus mollis और अन्य Crepidotus प्रजातियाँ भी मृत कठोर लकड़ी पर इसी तरह के छोटे, हल्के, पंखे जैसे फलन-काय बनाती हैं, लेकिन वे अधिक नरम होती हैं, बिना डंठल या लगभग बिना डंठल की होती हैं और सफेद के बजाय भूरी बीजाणु छाप देती हैं। Schizophyllum commune की टोपी घने बालों वाली सफेद से धूसर होती है और इसमें वास्तविक घने गिल्स के बजाय लंबाई में विभाजित गिल जैसी तहें होती हैं। Sarcomyxa serotina बड़ा होता है, इसकी टोपियाँ हरे-जैतूनी से पीले-जैतूनी रंग की होती हैं जिनकी ऊपरी परत के नीचे जिलेटिनी परत होती है, और इसके गिल्स में स्पष्ट आड़ी शिराएँ नहीं होतीं। Tapinella panuoides में स्पष्ट डंठल नहीं होता, इसमें पीले-नारंगी, शाखित, नीचे की ओर फैली हुई गिल जैसी तहें होती हैं और यह बहुत बड़े पीले-भूरे बीजाणु उत्पन्न करता है। Panellus mitis छोटा, अधिक हल्के सफेद से गुलाबी-बादामी रंग का होता है, इसका स्वाद कड़वे के बजाय हल्का होता है और यह मुख्यतः शंकुधारी लकड़ी पर उगता है। Panus rudis बड़ा, अधिक रोएँदार होता है और इसकी टोपियाँ लाल-भूरे से गुलाबी-भूरे रंग की होती हैं जिनमें युवावस्था में हल्की बैंगनी झलक दिखाई देती है।",
+      "notes": "जैव-संदीप्ति (बायोल्यूमिनेसेंस) भौगोलिक रूप से भिन्न होती है: पूर्वी उत्तरी अमेरिका के उपभेद आमतौर पर गिल्स और कवकजाल (माइसीलियम) दोनों से हल्की हरी-पीली चमक (लगभग 525–528 nm पर चरम) उत्सर्जित करते हैं, जो एक एकल प्रभावी एलील द्वारा नियंत्रित होती है, जबकि यूरोप, प्रशांत उत्तरी अमेरिका, रूस, जापान और न्यूज़ीलैंड के संग्रह सामान्यतः अदीप्त होते हैं (और पूर्वी उत्तरी अमेरिका में भी अदीप्त उपभेद पाए जाते हैं)। लैकेज़ और पेरोक्सीडेज़ उत्पन्न करने वाले लिग्निन-अपघटक सफेद-सड़न कवक के रूप में, इसका अध्ययन फेनोलिक जैतून-मिल अपशिष्ट जल के जैव-उपचार (बायोरेमेडिएशन), पॉलीक्लोरीनेटेड डाइऑक्सिन और भारी धातु संचयन, साथ ही जैव-संदीप्ति आधारित मृदा विषाक्तता बायोसेंसर के लिए किया गया है।",
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Široko rasprostranjena, žilava lignikolna gljiva s listićima koja raste u gustim, crijepasto preklopljenim skupinama na mrtvim deblima, panjevima i granama listopadnog drveća diljem Europe, Sjeverne Amerike, Azije, sjeverne Afrike, Australije i Novog Zelanda. Pretežno je saprotrofna i uzrokuje bijelu trulež drva; njezina trajna plodišta koja nakon kiše ponovno ožive opstaju tijekom cijele godine.",
+      "cap": "Širok 0,5–4 cm, ispupčen do gotovo ravan, u obrisu bubrežast, školjkast ili lepezast, s rubom u mladosti podvrnutim, koji starenjem postaje valovit, krpast ili blago nazubljen. Suha gornja površina je fino baršunasta do mekinjasto-ljuskava ili blago vunasta, ponekad nejasno koncentrično pojasasta, a starenjem često naborana ili ispucala u sitne ljuske; za vlažnog vremena kožica može biti blago ljepljiva. Svježi klobuci su okeržuti i žućkastonarančasti do svijetlooker, žutosmeđi ili cimetastosmeđi, u suši blijede u boju gline ili prljavobijelu te nakon kiše ponovno ožive. Kalijev hidroksid (KOH) na površini klobuka daje negativnu do sivkastu reakciju.",
+      "hymenium": "Uski, gusti, blijedosmeđi do cimetastosmeđi listići isprepleteni brojnim kraćim listićima, često račvasti i pri bazi povezani finim poprečnim žilicama (anastomozama), naglo završavajući oštrom linijom na spoju sa stručkom. Kod sojeva iz istočnog dijela Sjeverne Amerike oštrica listića, poprečne žilice i spoj listića sa stručkom u potpunom mraku često emitiraju slab zelenkastožuti sjaj. Bazidiji su batinasti, 15–25 × 2–3,5 µm, četverosporni s bazalnim kopčama. Heilocistide su brojne i gusto raspoređene duž ljepljive oštrice listića, 17–75 × 2,5–6 µm, cilindrične, vretenaste ili nitaste te na vrhu često račvaste ili s izdancima; pleurocistide mjere 17–50 × 3–4,5 µm, vretenaste su do batinaste, raspršene ili u snopovima.",
+      "stipe": "Kratak i zdepast, dug 0,3–2 cm i debeo 0,2–0,8 cm, za klobuk pričvršćen bočno ili ekscentrično te se sužava prema drvu. Svijetlooker, mutnobijel ili okeržut, kod vrlo mladih primjeraka gladak, a ubrzo prekriven finim svilenkastim vlakancima ili mekinjastim ljuskicama poput klobuka. Bez prstena i ovoja.",
+      "flesh": "Tanko, žilavo, savitljivo i kožasto, bjelkasto do krem ili blijedo žutosmeđe, pri sušenju otvrdne, a nakon vlaženja ponovno omekša. Na presjeku ne mijenja boju. Miris je neizrazit ili blago ugodan; okus je u većini nalaza izrazito gorak, ljut i trpak, iako je povremeno blag.",
+      "sporePrint": "Bijel. Bazidiospore su glatke, hijaline, elipsoidne do blago kobasičaste (subalantoidne), amiloidne (u Melzerovu reagensu boje se slabo do izrazito plavocrno) i mjere 2,5–6 × 1,5–3 µm.",
+      "habitat": "Saprotrofna na mrtvom drvu listopadnog drveća — osobito hrasta, europske bukve i breze, kao i johe, javora, graba, lijeske, hikorija, kestena i jasena — te rijetko na četinjačama poput bora; povremeno naseljava rane na živim stablima. Plodonosi u gustim, crijepasto složenim redovima na panjevima, srušenim deblima i granama u šumama, parkovima i živicama, uzrokujući bijelu trulež drva. Plodišta se mogu naći tijekom cijele godine od siječnja do prosinca jer su dugotrajna i nakon kiše ponovno ožive, pri čemu svježe plodonosenje doseže vrhunac u jesen i ranu zimu (od rujna do studenoga) te tijekom blagih proljetnih ili zimskih razdoblja.",
+      "uses": "Nejestiva zbog žilave, kožaste teksture, malih dimenzija te izrazito gorkog i trpkog okusa. Iako se općenito ne smatra otrovnom, u nekim je krajevima nakon konzumacije zabilježeno povraćanje ili probavne tegobe. Povijesno se koristila u tradicionalnoj kineskoj medicini kao stiptik za zaustavljanje krvarenja i kao snažno sredstvo za čišćenje.",
+      "confusion": "Crepidotus mollis i druge vrste roda Crepidotus stvaraju slično mala, svijetla, lepezasta plodišta na mrtvom listopadnom drvu, ali su mekše, sjedeće ili gotovo bez stručka te daju smeđi umjesto bijelog otiska spora. Schizophyllum commune ima gusto dlakav bijeli do sivkasti klobuk i uzdužno rascijepljene nabore nalik listićima umjesto pravih gustih listića. Sarcomyxa serotina je veća, ima zelenkastomaslinaste do žućkastomaslinaste klobuke sa želatinoznim slojem ispod kožice i listiće bez izraženih poprečnih žilica. Tapinella panuoides nema izražen stručak, ima žućkastonarančaste, račvaste, silazne nabore nalik listićima i stvara znatno veće žutosmeđe spore. Panellus mitis je manji, bljeđi, bjelkast do ružičastooker, ima blag umjesto gorkog okusa i raste uglavnom na drvu četinjača. Panus rudis je veći, dlakaviji i ima crvenkastosmeđe do ružičastosmeđe klobuke s lila nijansama u mladosti.",
+      "notes": "Bioluminiscencija se razlikuje geografski: sojevi iz istočne Sjeverne Amerike obično emitiraju slabu zelenkastožutu svjetlost (s vrhom oko 525–528 nm) iz listića i micelija, što kontrolira jedan dominantan alel, dok su nalazi iz Europe, pacifičke Sjeverne Amerike, Rusije, Japana i Novog Zelanda uglavnom neluminiscentni (a neluminiscentni sojevi javljaju se i u istočnoj Sjevernoj Americi). Kao gljiva bijele truleži koja razgrađuje lignin pomoću lakaze i peroksidaza, proučava se za bioremedijaciju fenolnih otpadnih voda iz uljara, polikloriranih dioksina i nakupljanja teških metala, kao i za bioluminiscentne biosenzore toksičnosti tla.",
+      "sourceUrls": []
+    },
+    "hu": {
+      "label": "kis áldücskőgomba",
+      "wikipedia": "https://hu.wikipedia.org/wiki/Kis_%C3%A1ld%C3%BCcsk%C5%91gomba",
+      "description": "Széles körben elterjedt, szívós, fabontó lemezes gomba, amely sűrű, egymást átfedő, polcszerű csoportokban nő elhalt lombos fák törzsén, tuskóin és ágain Európában, Észak-Amerikában, Ázsiában, Észak-Afrikában, Ausztráliában és Új-Zélandon. Elsősorban szaprotróf, fehérkorhadást okozó faj; tartós, eső hatására újraéledő termőtestei egész évben megmaradnak.",
+      "cap": "0,5–4 cm széles, domborútól csaknem laposig terjedő, körvonalában vese, kagyló vagy legyező alakú; széle fiatalon begöngyölt, idősebben hullámos, karéjos vagy gyengén csipkézett lesz. Száraz felszíne finoman bársonyos, korpásan pikkelyes vagy enyhén molyhos, néha halványan koncentrikusan zónázott, idősödve gyakran ráncossá vagy repedezetten pikkelyessé válik; nedves időben a kalapbőr kissé tapadós lehet. A friss kalapok színe az okkersárgától és sárgásnarancstól a krémbarnás, halványbarna vagy fahéjbarna árnyalatokig terjed, kiszáradva agyagszínűre vagy piszkosfehérre fakulnak, esőben pedig újraélednek. A kálium-hidroxid (KOH) a kalap felszínén negatív vagy szürkés reakciót ad.",
+      "hymenium": "Keskeny, sűrűn álló, halványbarnától fahéjbarnáig terjedő lemezek gyakori közteslemezekkel; gyakran villásan elágazók, tövüknél finom harántérhálózat (anasztomózisok) köti össze őket, és a tönknél éles vonallal, hirtelen érnek véget. Az észak-amerikai keleti törzseknél a lemezélek, a harántösszeköttetések és a lemezek tönkkel való találkozása teljes sötétségben gyakran halvány zöldessárga fényt bocsát ki. A bazídiumok bunkó alakúak, 15–25 × 2–3,5 µm méretűek, négyspórásak, tövükön csattal. A keilocisztidák bőségesek és sűrűn állnak a ragadós lemezélen, 17–75 × 2,5–6 µm méretűek, hengeresek, orsó vagy fonál alakúak, csúcsukon gyakran villásak vagy nyúlványosak; a pleurocisztidák 17–50 × 3–4,5 µm méretűek, orsótól bunkó alakúig terjedők, szórtan vagy kötegekben állnak.",
+      "stipe": "Rövid és zömök, 0,3–2 cm hosszú és 0,2–0,8 cm vastag, a kalaphoz oldalt vagy excentrikusan ízesül, és a faanyag felé lefelé elkeskenyedik. Halvány krémbarna, fakófehér vagy okkersárga; nagyon fiatalon sima, majd hamarosan a kalaphoz hasonlóan finom, selymes szálak vagy korpás pikkelyek borítják. Gallérja és bocskora nincs.",
+      "flesh": "Vékony, szívós, rugalmas és bőrszerű, fehérestől krémszínűig vagy halvány sárgásbarnáig terjedő; kiszáradva megkeményedik, nedvesség hatására újra megpuhul. Vágásra nem színeződik el. Szaga jellegtelen vagy enyhén kellemes; íze a legtöbb gyűjtésben erősen keserű, csípős és összehúzó, bár néha enyhe.",
+      "sporePrint": "Fehér. A bazídiospórák simák, áttetszőek, ellipszoidtól enyhén kolbász alakúig (szuballantoid) terjedők, amiloidok (Melzer-reagensben gyengén vagy kifejezetten kékesfeketék), méretük 2,5–6 × 1,5–3 µm.",
+      "habitat": "Szaprotróf lombos fák elhalt faanyagán — különösen tölgyön, bükkön és nyíren, valamint égeren, juharon, gyertyánon, mogyorón, hikoridión, szelídgesztenyén és kőrisen —, ritkán tűlevelűeken, például erdeifenyőn; esetenként élő fák sérüléseit is megtelepíti. Sűrű, zsindelyszerű szintekben terem tuskókon, kidőlt törzseken és ágakon erdőkben, parkokban és sövényekben, fehérkorhadást okozva. A termőtestek januártól decemberig egész évben megtalálhatók, mivel tartósak és eső után újraélednek; az új termőtestek megjelenése ősszel és tél elején (szeptembertől novemberig), valamint enyhe tavaszi vagy téli időszakokban tetőzik.",
+      "uses": "Szívós, bőrszerű állaga, kis mérete és erősen keserű, összehúzó íze miatt nem ehető. Bár általában nem mérgezőnek tekintik, egyes területeken fogyasztása után hányásról vagy emésztési panaszokról számoltak be. A hagyományos kínai orvoslásban korábban vérzéscsillapítóként és erős hashajtóként használták.",
+      "confusion": "A Crepidotus mollis és más Crepidotus fajok szintén kisméretű, halvány, legyező alakú termőtesteket képeznek elhalt lombos faanyagon, de puhábbak, tönk nélküliek vagy csaknem ülők, és fehér helyett barna spóraport adnak. A Schizophyllum commune sűrűn szőrös, fehértől szürkésig terjedő kalapú, és valódi sűrű lemezek helyett hosszában hasadt, lemezszerű ráncai vannak. A Sarcomyxa serotina nagyobb termetű, zöldesolívától sárgásolíváig terjedő kalapján a bőr alatt kocsonyás réteg található, lemezein pedig nincsenek feltűnő harántösszeköttetések. A Tapinella panuoides nem rendelkezik elkülönülő tönkkel, sárgásnarancs, villásan elágazó, lefutó lemezszerű ráncai vannak, és jóval nagyobb sárgásbarna spórákat termel. A Panellus mitis kisebb, halványabb — fehérestől rózsás krémszínűig terjedő —, íze keserű helyett enyhe, és főként tűlevelűek faanyagán nő. A Panus rudis nagyobb, szőrösebb, fiatalon pedig lilás árnyalatú vörösesbarna vagy rózsásbarna kalapot visel.",
+      "notes": "A biolumineszcencia földrajzilag változó: az észak-amerikai keleti törzsek jellemzően halvány zöldessárga fényt bocsátanak ki (525–528 nm körüli csúccsal) mind a lemezekből, mind a micéliumból, amit egyetlen domináns allél szabályoz, míg az Európából, Észak-Amerika csendes-óceáni részéről, Oroszországból, Japánból és Új-Zélandról származó gyűjtések általában nem lumineszkálnak (és nem lumineszkáló törzsek Kelet-Észak-Amerikában is előfordulnak). Ligninbontó, lakkázt és peroxidázokat termelő fehérkorhadás-okozó gombaként kutatták fenoltartalmú olívaolaj-üzemi szennyvizek és poliklórozott dioxinok bioremediációjára, nehézfém-felhalmozásra, valamint biolumineszcencián alapuló talajtoxicitási bioszenzorokban.",
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Kis_%C3%A1ld%C3%BCcsk%C5%91gomba"
+      ]
+    },
+    "id": {
+      "description": "Jamur berlamela pelapuk kayu yang liat dan tersebar luas, tumbuh dalam rumpun rapat bertumpuk menyerupai rak pada batang, tunggul, dan cabang kayu keras yang mati di seluruh Eropa, Amerika Utara, Asia, Afrika Utara, Australia, dan Selandia Baru. Terutama bersifat saprotrof dan menyebabkan lapuk putih, dengan tubuh buah yang tahan lama, dapat pulih kembali setelah basah, dan bertahan sepanjang tahun.",
+      "cap": "Tudung berdiameter 0,5–4 cm, cembung hingga hampir datar, berbentuk seperti ginjal, cangkang kerang, atau kipas, dengan tepi menggulung ke dalam saat muda yang menjadi bergelombang, berlekuk, atau sedikit beringgit seiring bertambahnya usia. Permukaan atas yang kering bertekstur beludru halus hingga bersisik seperti ketombe atau agak berbulu, kadang-kadang berzona konsentris samar, dan sering menjadi keriput atau bersisik retak saat menua; dalam cuaca basah kutikulanya dapat terasa sedikit lengket. Tudung segar berwarna kuning oker dan jingga kekuningan hingga kuning kecokelatan pucat, cokelat muda, atau cokelat kayu manis, memudar menjadi warna tanah liat atau putih kusam saat kering dan kembali segar saat terkena hujan. Kalium hidroksida (KOH) memberikan reaksi negatif hingga keabu-abuan pada permukaan tudung.",
+      "hymenium": "Lamela sempit, rapat, berwarna cokelat muda pucat hingga cokelat kayu manis, diselingi banyak lamela pendek, sering bercabang dan terhubung di bagian pangkal oleh urat melintang halus yang saling bersambung (anastomosis), berakhir tiba-tiba dalam garis tajam tempat bertemu tangkai. Pada galur Amerika Utara bagian timur, tepi lamela, urat melintang, dan pertemuan lamela dengan tangkai sering memancarkan cahaya hijau kekuningan redup dalam kegelapan total. Basidium berbentuk gada, berukuran 15–25 × 2–3,5 µm, berspora empat dengan sambungan klem basal. Keilosistidia melimpah dan rapat di sepanjang tepi lamela yang lengket, berukuran 17–75 × 2,5–6 µm, berbentuk silindris, gelendong, atau seperti benang dan sering bercabang atau bertonjolan di ujungnya; pleurosistidia berukuran 17–50 × 3–4,5 µm, berbentuk gelendong hingga gada, tersebar atau berkelompok.",
+      "stipe": "Tangkai pendek dan gemuk, panjang 0,3–2 cm dan tebal 0,2–0,8 cm, melekat secara lateral atau eksentris pada tudung dan meruncing ke bawah menuju kayu. Berwarna krem pucat, putih kusam, atau kuning oker, halus saat sangat muda dan segera tertutup serat halus seperti sutra atau sisik menyerupai ketombe seperti pada tudung. Tidak memiliki cincin maupun volva.",
+      "flesh": "Daging tipis, liat, lentur, dan seperti kulit, berwarna keputihan hingga krem atau kuning kecokelatan pucat, mengeras saat kering dan melunak kembali saat basah. Tidak berubah warna saat dipotong. Bau tidak khas atau sedikit harum; rasa sangat pahit, pedas, dan sepat pada sebagian besar koleksi, meskipun kadang-kadang ringan.",
+      "sporePrint": "Putih. Basidiospora halus, hialin, berbentuk elipsoid hingga agak seperti sosis (subalantoid), amiloid (biru kehitaman lemah hingga jelas dalam reagen Melzer), dan berukuran 2,5–6 × 1,5–3 µm.",
+      "habitat": "Saprotrof pada kayu mati pohon berdaun lebar—terutama ek, beech Eropa, dan birch, serta alder, mapel, hornbeam, hazel, hikori, kastanya, dan ash—dan jarang pada tumbuhan runjung seperti pinus, kadang-kadang mengolonisasi luka pada pohon hidup. Berbuah dalam susunan bertingkat yang rapat dan saling tumpang tindih pada tunggul, batang tumbang, dan cabang di hutan, taman, dan pagar tanaman, menyebabkan lapuk putih. Tubuh buah dapat ditemukan sepanjang tahun dari Januari hingga Desember karena tahan lama dan pulih kembali setelah hujan, dengan pembuahan segar memuncak pada musim gugur dan awal musim dingin (September hingga November) serta selama masa hangat pada musim semi atau musim dingin.",
+      "uses": "Tidak dapat dimakan karena teksturnya yang liat seperti kulit, ukurannya yang kecil, serta rasanya yang sangat pahit dan sepat. Meskipun umumnya dianggap tidak beracun, konsumsinya dilaporkan menyebabkan muntah atau gangguan pencernaan di beberapa wilayah. Secara historis digunakan dalam pengobatan tradisional Tiongkok sebagai zat penghenti perdarahan (stiptik) dan pencahar kuat.",
+      "confusion": "Crepidotus mollis dan spesies Crepidotus lainnya membentuk tubuh buah kecil, pucat, dan berbentuk kipas yang serupa pada kayu keras mati, tetapi lebih lunak, tidak bertangkai atau hampir tidak bertangkai, dan menghasilkan jejak spora cokelat alih-alih putih. Schizophyllum commune memiliki tudung putih hingga keabu-abuan yang berbulu lebat serta lipatan mirip lamela yang terbelah memanjang, bukan lamela sejati yang rapat. Sarcomyxa serotina berukuran lebih besar, memiliki tudung hijau zaitun hingga kuning zaitun dengan lapisan bergelatin di bawah kutikula, serta lamela tanpa urat melintang yang menonjol. Tapinella panuoides tidak memiliki tangkai yang jelas, mempunyai lipatan mirip lamela yang bercabang, melandai turun, dan berwarna jingga kekuningan, serta menghasilkan spora cokelat kekuningan yang jauh lebih besar. Panellus mitis lebih kecil, lebih pucat keputihan hingga krem merah muda, memiliki rasa ringan alih-alih pahit, dan terutama tumbuh pada kayu tumbuhan runjung. Panus rudis lebih besar, lebih berbulu, dan menunjukkan tudung cokelat kemerahan hingga cokelat merah muda dengan semburat ungu muda saat muda.",
+      "notes": "Bioluminesensi bervariasi secara geografis: galur dari Amerika Utara bagian timur umumnya memancarkan cahaya hijau kekuningan redup (berpuncak sekitar 525–528 nm) baik dari lamela maupun miselium, yang dikendalikan oleh satu alel dominan, sedangkan koleksi dari Eropa, Amerika Utara bagian Pasifik, Rusia, Jepang, dan Selandia Baru umumnya tidak berpendar (dan galur non-bioluminesen juga ditemukan di Amerika Utara bagian timur). Sebagai jamur lapuk putih pengurai lignin yang menghasilkan lakase dan peroksidase, jamur ini telah diteliti untuk bioremediasi limbah cair fenolik pabrik minyak zaitun, dioksin poliklorinasi, dan akumulasi logam berat, serta biosensor toksisitas tanah berbasis bioluminesensi.",
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Fungo lignicolo a lamelle, tenace e ampiamente diffuso, che cresce in fitti gruppi embricati a mensola su tronchi, ceppaie e rami morti di latifoglie in Europa, Nord America, Asia, Nord Africa, Australia e Nuova Zelanda. Prevalentemente saprotrofo e agente di carie bianca, produce carpofori durevoli e reviviscenti che persistono per tutto l'anno.",
+      "cap": "Largo 0,5–4 cm, da convesso a quasi piano e con profilo reniforme, a conchiglia o a ventaglio, con margine involuto da giovane che diventa ondulato, lobato o leggermente crenulato con l'età. La superficie superiore asciutta è finemente vellutata, forforaceo-squamulosa o leggermente lanosa, talvolta debolmente zonata concentricamente, e spesso diviene rugosa o screpolato-squamosa invecchiando; con tempo umido la cuticola può risultare leggermente appiccicosa. I cappelli freschi variano dal giallo ocra e giallo-arancio al camoscio, bruno chiaro o bruno cannella, schiarendosi verso il color argilla o il bianco sporco con il secco e rivivendo con la pioggia. L'idrossido di potassio (KOH) dà una reazione da negativa a grigiastra sulla superficie del cappello.",
+      "hymenium": "Lamelle strette, fitte, da bruno pallido a bruno cannella, intercalate da frequenti lamellule, spesso forcate e collegate alla base da fini venature trasversali (anastomosi), che terminano bruscamente con una linea netta nel punto d'incontro con il gambo. Nei ceppi del Nord America orientale il filo lamellare, le anastomosi e la giunzione tra lamelle e gambo emettono spesso un tenue bagliore giallo-verdastro nel buio completo. Basidi clavati, 15–25 × 2–3,5 µm, tetrasporici con giunti a fibbia basali. Cheilocistidi abbondanti e fitti lungo il filo appiccicoso delle lamelle, 17–75 × 2,5–6 µm, cilindrici, fusiformi o filiformi e spesso forcati o diverticolati all'apice; pleurocistidi 17–50 × 3–4,5 µm, da fusiformi a clavati, sparsi o in fasci.",
+      "stipe": "Corto e tozzo, lungo 0,3–2 cm e spesso 0,2–0,8 cm, inserito lateralmente o eccentricamente sul cappello e attenuato verso il basso in direzione del legno. Color camoscio pallido, bianco opaco o giallo ocra, liscio nei primissimi stadi e presto ricoperto da fini fibrille sericee o squamule forforacee come il cappello. Privo di anello e di volva.",
+      "flesh": "Sottile, tenace, elastica e coriacea, da biancastra a crema o giallo-bruno pallido, che indurisce con il secco e si ammorbidisce nuovamente quando viene inumidita. Immutabile al taglio. Odore indistinto o debolmente gradevole; sapore fortemente amaro, acre e astringente nella maggior parte delle raccolte, benché occasionalmente mite.",
+      "sporePrint": "Bianca. Basidiospore lisce, ialine, da ellissoidali a leggermente a forma di salsiccia (suballantoidi), amiloidi (da debolmente a nettamente blu-nerastre nel reagente di Melzer), di 2,5–6 × 1,5–3 µm.",
+      "habitat": "Saprotrofo su legno morto di latifoglie — in particolare quercia, faggio e betulla, oltre a ontano, acero, carpino, nocciolo, noce americano, castagno e frassino — e raramente su conifere come il pino, colonizzando occasionalmente ferite su alberi vivi. Fruttifica in fitti piani embricati su ceppaie, tronchi caduti e rami in boschi, parchi e siepi, provocando una carie bianca. I carpofori si possono osservare tutto l'anno, da gennaio a dicembre, perché sono longevi e rivivono dopo la pioggia, con un picco di fruttificazione fresca in autunno e all'inizio dell'inverno (da settembre a novembre) e durante periodi miti in primavera o inverno.",
+      "uses": "Non commestibile per la consistenza tenace e coriacea, le piccole dimensioni e il sapore intensamente amaro e astringente. Sebbene generalmente ritenuto non velenoso, in alcune regioni l'ingestione è stata associata a vomito o disturbi digestivi. Storicamente impiegato nella medicina tradizionale cinese come emostatico per arrestare le emorragie e come forte purgante.",
+      "confusion": "Crepidotus mollis e altre specie di Crepidotus formano carpofori altrettanto piccoli, pallidi e a ventaglio su legno morto di latifoglie, ma sono più molli, sessili o quasi e producono un'impronta sporale bruna anziché bianca. Schizophyllum commune presenta un cappello densamente peloso, da bianco a grigiastro, e pieghe lamelliformi fessurate longitudinalmente anziché vere lamelle fitte. Sarcomyxa serotina è più grande, ha cappelli da verde oliva a giallo oliva con uno strato gelatinoso sotto la cuticola e lamelle prive di anastomosi evidenti. Tapinella panuoides manca di un gambo distinto, presenta pieghe lamelliformi giallo-arancio, forcate e decorrenti, e produce spore bruno-giallastre molto più grandi. Panellus mitis è più piccolo, più pallido (da biancastro a camoscio rosato), ha sapore mite anziché amaro e cresce soprattutto su legno di conifere. Panus rudis è più grande, più peloso e mostra cappelli da bruno-rossastri a ocraceo-rosati con sfumature lilla da giovane.",
+      "notes": "La bioluminescenza varia geograficamente: i ceppi del Nord America orientale emettono tipicamente un tenue bagliore giallo-verdastro (con picco intorno a 525–528 nm) sia dalle lamelle sia dal micelio, controllato da un singolo allele dominante, mentre le raccolte provenienti da Europa, costa pacifica del Nord America, Russia, Giappone e Nuova Zelanda sono generalmente non luminescenti (e ceppi non luminescenti si rinvengono anche nel Nord America orientale). Come fungo della carie bianca degradatore della lignina produttore di laccasi e perossidasi, è stato studiato per la biorimediazione delle acque reflue fenoliche dei frantoi oleari, delle diossine policlorurate e per l'accumulo di metalli pesanti, nonché in biosensori di tossicità del suolo basati sulla bioluminescenza.",
+      "sourceUrls": []
+    },
+    "ja": {
+      "label": "ワサビタケ",
+      "wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B5%E3%83%93%E3%82%BF%E3%82%B1",
+      "description": "ヨーロッパ、北アメリカ、アジア、北アフリカ、オーストラリア、ニュージーランドにかけて、広葉樹の枯れた倒木、切り株、枯れ枝に密集して重なり合う棚状の群れをつくって発生する、広く分布する強靭な木材腐朽性のひだのあるキノコです。主に腐生性で白色腐朽を引き起こし、丈夫で乾燥後も吸水して回復する子実体は一年中見られます。",
+      "cap": "傘の直径は0.5〜4 cmで、まんじゅう形からほぼ平らになり、輪郭は腎臓形、二枚貝形、または扇形です。縁は幼菌時に内側に巻き込み、成熟すると波打ったり、浅く裂けたり、かすかに波状の刻みが入ったりします。乾いた上面は細かいビロード状からふけ状の鱗片に覆われるか、わずかに綿毛状で、まれにかすかな同心円状の環紋があり、老成するとしわが寄ったりひび割れた鱗片状になったりすることがよくあります。湿った天候では表皮がわずかに粘性を帯びることがあります。新鮮な傘は黄土色や黄橙色から淡黄褐色、黄褐色、肉桂褐色まで変化し、乾くと粘土色や灰白色に褪色しますが、雨に濡れると回復します。水酸化カリウム（KOH）は傘の表面に無反応から灰色の反応を示します。",
+      "hymenium": "ひだは幅が狭く密で、淡黄褐色から肉桂褐色を呈し、多数の小ひだを交えます。しばしば分岐し、基部で細い連絡脈（吻合）によって互いにつながり、柄との境界で鋭い線を描いて急に終わります。北アメリカ東部の系統では、完全な暗闇の中でひだの縁、連絡脈、およびひだと柄の接合部が淡い黄緑色の微弱な光を発することがよくあります。担子器はこん棒形で15〜25 × 2〜3.5 µm、4胞子性で基部にクランプを備えます。縁シスチジアは粘性のあるひだの縁に多数密集し、17〜75 × 2.5〜6 µm、円筒形、紡錘形、または糸状で先端がしばしば分岐するか突起状になります。側シスチジアは17〜50 × 3〜4.5 µm、紡錘形からこん棒形で、散在するか束になって生じます。",
+      "stipe": "柄は短く太めで、長さ0.3〜2 cm、太さ0.2〜0.8 cm、傘の側部または偏心位置につき、基部の材に向かって細くなります。淡黄褐色、くすんだ白色、または黄土色で、ごく若いときは平滑ですが、まもなく傘と同じような細かい絹状の繊維やふけ状の鱗片に覆われます。つばやつぼはありません。",
+      "flesh": "肉は薄く強靭で弾力があり革質で、帯白色からクリーム色または淡黄褐色を呈し、乾くと硬くなり湿ると再び柔らかくなります。傷つけても変色しません。においはほとんどないかかすかに心地よく、味は多くの標本で強い苦味、辛味、渋みがありますが、まれに穏やかなこともあります。",
+      "sporePrint": "白色です。担子胞子は平滑で無色、楕円形からわずかにソーセージ形（亜ソーセージ形）、アミロイド（メルツァー試薬で弱くから明瞭に青黒色に染まる）で、大きさは2.5〜6 × 1.5〜3 µmです。",
+      "habitat": "広葉樹の枯死材（特にナラ類、ヨーロッパブナ、カバノキ類のほか、ハンノキ類、カエデ類、シデ類、ハシバミ類、ヒッコリー類、クリ類、トネリコ類）に腐生し、まれにマツ類などの針葉樹にも発生し、ときには生木の傷口に定着することもあります。森林、公園、生け垣の切り株、倒木、枯れ枝に密集して瓦状に重なり合って子実体をつくり、白色腐朽を引き起こします。子実体は耐久性があり雨後に回復するため1月から12月まで通年見られますが、新しい発生は秋から初冬（9月から11月）および温暖な春や冬の時期にピークを迎えます。",
+      "uses": "硬く革質な肉質、小型の大きさ、および強い苦味と渋みのため不食です。一般に有毒とはみなされていませんが、地域によっては摂取により嘔吐や消化器系の不調を引き起こした報告があります。歴史的には中国伝統医学で止血薬や強力な下剤として利用されていました。",
+      "confusion": "チャヒラタケ（Crepidotus mollis）やその他のCrepidotus属の種も広葉樹の枯れ木に似た小型で淡色の扇形子実体をつくりますが、より柔らかく、無柄またはほぼ無柄で、白色ではなく褐色の胞子紋を生じます。スエヒロタケ（Schizophyllum commune）は白い毛から灰色の毛が密生した傘をもち、密な本当のひだではなく縦に裂けたひだ状のしわを備えます。ムキタケ（Sarcomyxa serotina）はより大型で、表皮下にゼラチン層をもつ緑オリーブ色から黄オリーブ色の傘をつけ、ひだに顕著な連絡脈がありません。イチョウタケ（Tapinella panuoides）は明瞭な柄を欠き、黄橙色で分岐した垂生するひだ状のしわをもち、はるかに大きい黄褐色の胞子をつくります。ヒメカワキタケ（Panellus mitis）はより小型で、帯白色から淡紅黄褐色と色が薄く、苦味ではなく穏やかな味で、主に針葉樹材に発生します。アラゲカワキタケ（Panus rudis）はより大型で毛が多く、幼時にライラック色を帯びた赤褐色から淡紅褐色の傘を示します。",
+      "notes": "生物発光には地理的変異があります。北アメリカ東部の系統は、単一の優性対立遺伝子によって制御され、ひだと菌糸体の両方から微弱な黄緑色の光（ピークは525〜528 nm付近）を発するのが一般的ですが、ヨーロッパ、北アメリカ太平洋岸、ロシア、日本、ニュージーランドの標本は一般に発光しません（北アメリカ東部にも非発光系統が存在します）。ラッカーゼやペルオキシダーゼを産生するリグニン分解性の白色腐朽菌として、フェノール類を含むオリーブ搾油廃水やポリ塩化ダイオキシン類のバイオレメディエーション、重金属の蓄積、さらに生物発光を利用した土壌毒性バイオセンサーの研究対象となっています。",
+      "sourceUrls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B5%E3%83%93%E3%82%BF%E3%82%B1"
+      ]
+    },
+    "ko": {
+      "label": "부채버섯",
+      "wikipedia": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%B1%84%EB%B2%84%EC%84%AF",
+      "description": "유럽, 북아메리카, 아시아, 북아프리카, 오스트레일리아, 뉴질랜드 전역의 죽은 활엽수 통나무, 그루터기, 가지에 빽빽하게 겹쳐진 선반 모양의 무리를 지어 자라는 널리 분포하는 질긴 목재부후성 주름살 버섯입니다. 주로 부생성으로 백색부후를 일으키며, 내구성이 강하고 비를 맞으면 되살아나는 자실체는 연중 내내 남아 있습니다.",
+      "cap": "갓은 지름 0.5–4 cm로 볼록형에서 거의 편평형으로 펴지며, 윤곽은 콩팥 모양, 조개 모양 또는 부채 모양입니다. 어릴 때 안쪽으로 말려 있던 가장자리는 성숙하면서 물결 모양이 되거나 갈라지거나 미세하게 톱니 모양을 이룹니다. 건조한 윗면은 미세한 벨벳 모양에서 비듬 같은 인편 또는 약한 솜털 모양을 띠며, 때때로 희미한 동심원 고리 무늬가 있고 노숙하면 주름지거나 갈라진 인편 모양이 되는 경우가 많습니다. 습한 날씨에는 표피가 약간 끈적거릴 수 있습니다. 신선한 갓은 황토색과 황주황색에서 담황갈색, 황갈색 또는 계피갈색에 이르며, 마르면 점토색이나 탁한 흰색으로 바래고 비를 맞으면 다시 생기를 되찾습니다. 수산화칼륨(KOH) 용액은 갓 표면에서 음성에서 회색빛 반응을 보입니다.",
+      "hymenium": "주름살은 좁고 빽빽하며 담황갈색에서 계피갈색을 띠고, 짧은 주름살이 자주 섞여 있습니다. 흔히 갈라지고 기부가 미세한 가로맥(문합)으로 서로 연결되며, 대와 만나는 지점에서 뚜렷한 경계선을 이루며 급격히 끝납니다. 북아메리카 동부 계통에서는 완전한 어둠 속에서 주름살 가장자리, 가로맥 및 주름살과 대의 접합부가 희미한 연두빛 노란색 빛을 내는 경우가 많습니다. 담자기는 곤봉형으로 15–25 × 2–3.5 µm이며 4포자성이고 기부에 꺾쇠연결이 있습니다. 연낭상체는 끈적한 주름살 가장자리에 풍부하고 빽빽하게 배열되며 17–75 × 2.5–6 µm로 원통형, 방추형 또는 실 모양이고 끝이 흔히 갈라지거나 돌기가 있습니다. 측낭상체는 17–50 × 3–4.5 µm로 방추형에서 곤봉형이며 흩어져 있거나 다발을 이룹니다.",
+      "stipe": "대는 짧고 뭉툭하며 길이 0.3–2 cm, 굵기 0.2–0.8 cm로 갓의 측면이나 편심 위치에 붙고 나무 쪽 아래로 갈수록 가늘어집니다. 연한 담황색, 탁한 흰색 또는 황토색을 띠며, 아주 어릴 때는 매끄럽지만 곧 갓과 마찬가지로 미세한 비단결 섬유나 비듬 같은 인편으로 덮입니다. 턱받이나 대주머니는 없습니다.",
+      "flesh": "살은 얇고 질기며 유연한 가죽질로, 흰색에서 크림색 또는 연한 황갈색을 띠며 마르면 단단해지고 젖으면 다시 부드러워집니다. 잘라도 색이 변하지 않습니다. 냄새는 뚜렷하지 않거나 약간 향기로우며, 맛은 대부분의 채집품에서 강하게 쓰고 맵고 떫지만 드물게 순한 경우도 있습니다.",
+      "sporePrint": "흰색입니다. 담자포자는 매끄럽고 무색 투명하며 타원형에서 약간 소시지 모양(아소시지형)이고, 아밀로이드성(멜처 시약에서 약하거나 뚜렷한 청흑색 반응)이며 크기는 2.5–6 × 1.5–3 µm입니다.",
+      "habitat": "활엽수의 죽은 나무—특히 참나무, 유럽너도밤나무, 자작나무를 비롯해 오리나무, 단풍나무, 서어나무, 개암나무, 히코리, 밤나무, 물푸레나무—에서 부생성으로 자라며, 드물게 소나무 같은 침엽수에서도 발생하고 때때로 살아 있는 나무의 상처 부위에 정착하기도 합니다. 숲, 공원, 생울타리의 그루터기, 쓰러진 줄기, 가지에 기와처럼 겹쳐진 빽빽한 층을 이루며 자실체를 형성하고 백색부후를 일으킵니다. 자실체가 오래가고 비가 온 뒤 되살아나기 때문에 1월부터 12월까지 연중 관찰할 수 있으며, 새로운 자실체 발생은 가을과 초겨울(9월–11월) 및 온화한 봄이나 겨울철에 절정에 달합니다.",
+      "uses": "질기고 가죽 같은 육질, 작은 크기, 강하게 쓰고 떫은맛 때문에 식용 부적합합니다. 일반적으로 독버섯으로 간주되지는 않으나 일부 지역에서는 섭취 시 구토나 소화 장애를 일으킨 사례가 보고되었습니다. 역사적으로 중국 전통 의학에서 출혈을 멈추는 지혈제와 강력한 설사약으로 사용되었습니다.",
+      "confusion": "귀버섯류인 Crepidotus mollis와 다른 Crepidotus속 종들도 죽은 활엽수재에 비슷하게 작고 연한 부채 모양 자실체를 형성하지만, 더 부드럽고 대가 없거나 거의 없으며 흰색이 아닌 갈색 포자문을 남깁니다. 치마버섯(Schizophyllum commune)은 흰색에서 회색빛의 털이 빽빽한 갓을 가지며, 빽빽한 진짜 주름살 대신 세로로 갈라진 주름살 모양의 주름을 지닙니다. 참부채버섯(Sarcomyxa serotina)은 더 크고 표피 아래에 젤라틴층이 있는 녹올리브색에서 황올리브색 갓을 가지며, 주름살에 뚜렷한 가로맥이 없습니다. 은행잎버섯(Tapinella panuoides)은 뚜렷한 대가 없고 황주황색의 갈라지고 내린 주름살 모양 주름을 가지며, 훨씬 큰 황갈색 포자를 생성합니다. 흰부채버섯(Panellus mitis)은 더 작고 흰색에서 분홍빛 담황색으로 더 연하며 쓴맛 대신 순한 맛을 지니고 주로 침엽수재에서 자랍니다. 털느타리(Panus rudis)는 더 크고 털이 많으며 어릴 때 연보라빛이 감도는 적갈색에서 분홍갈색 갓을 보입니다.",
+      "notes": "생물발광은 지리적으로 차이를 보입니다. 북아메리카 동부 계통은 단일 우성 대립유전자의 조절을 받아 주름살과 균사체 모두에서 희미한 연두빛 노란색 빛(약 525–528 nm에서 정점)을 내는 것이 일반적이지만, 유럽, 북아메리카 태평양 연안, 러시아, 일본, 뉴질랜드에서 채집된 계통은 대체로 발광하지 않습니다(북아메리카 동부에도 비발광 계통이 존재합니다). 라카아제와 과산화효소를 생성하는 리그닌 분해 백색부후균으로서, 페놀성 올리브 착유 폐수와 폴리염화 다이옥신의 생물정화, 중금속 축적, 그리고 생물발광 기반 토양 독성 바이오센서 연구에 활용되고 있습니다.",
+      "sourceUrls": [
+        "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%B1%84%EB%B2%84%EC%84%AF"
+      ]
+    },
+    "lt": {
+      "label": "ąžuolinis skiautenėlis",
+      "wikipedia": "https://lt.wikipedia.org/wiki/%C4%84%C5%BEuolinis_skiauten%C4%97lis",
+      "description": "Plačiai paplitęs, tamprus medieną ardantis lakštelinis grybas, augantis tankiais, čerpiškai susiklojusiais kuokštais ant negyvos lapuočių medienos — rąstų, kelmų ir šakų — Europoje, Šiaurės Amerikoje, Azijoje, Šiaurės Afrikoje, Australijoje ir Naujojoje Zelandijoje. Daugiausia saprotrofinis grybas, sukeliantis baltąjį puvinį; jo patvarūs, po lietaus atsigaunantys vaisiakūniai išsilaiko ištisus metus.",
+      "cap": "0,5–4 cm skersmens, išgaubta iki beveik plokščios, kontūru inkstiška, kriauklės arba vėduoklės pavidalo, jaunų vaisiakūnių kraštas užsirietęs į vidų, o senstant tampa banguotas, skiautėtas arba silpnai karbuotas. Sausas viršutinis paviršius smulkiai aksomiškas, smulkiai žvynuotas arba šiek tiek pūkuotas, kartais su neryškiomis koncentrinėmis juostomis, o senstant dažnai susiraukšlėja arba sutrūkinėja žvyneliais; drėgnu oru odelė gali būti lengvai lipni. Šviežių kepurėlių spalva svyruoja nuo ochriškai geltonos ir gelsvai oranžinės iki gelsvai rusvos, šviesiai rudos ar cinamono rudos, išdžiūvusios jos išblunka iki molio spalvos ar nešvariai baltos, o po lietaus vėl atsigauna. Kalio hidroksidas (KOH) ant kepurėlės paviršiaus duoda neigiamą arba pilkšvą reakciją.",
+      "hymenium": "Siauri, tankūs, šviesiai rusvi ar cinamono rudi lakšteliai su gausiais trumpaisiais lakšteliais, dažnai dvišakai šakoti ir ties pamatu sujungti smulkiomis skersinėmis gyslelėmis (anastomozėmis), ties kotu staigiai pasibaigiantys ryškia linija. Rytų Šiaurės Amerikos kamienų lakštelių pakraščiai, skersinės gyslelės ir lakštelių jungtis su kotu visiškoje tamsoje dažnai skleidžia silpną žalsvai gelsvą švytėjimą. Bazidijos buožiškos, 15–25 × 2–3,5 µm dydžio, ketursporės, su sagtelėmis prie pamato. Cheilocistidės gausios ir tankiai išsidėsčiusios palei lipnų lakštelių pakraštį, 17–75 × 2,5–6 µm, cilindriškos, verpstiškos arba siūliškos, viršūnėje dažnai šakotos arba su išaugomis; pleurocistidės 17–50 × 3–4,5 µm, verpstiškos ar buožiškos, išsibarsčiusios arba kuokšteliais.",
+      "stipe": "Trumpas ir kresnas, 0,3–2 cm ilgio ir 0,2–0,8 cm storio, prie kepurėlės priaugęs šoniškai arba ekscentriškai ir žemyn link medienos siaurėjantis. Šviesiai gelsvai rusvas, blankiai baltas arba ochriškai geltonas, labai jaunas lygus, bet netrukus pasidengia smulkiais šilkiškais plaušeliais arba smulkiais žvyneliais kaip kepurėlė. Be žiedo ir išnaros.",
+      "flesh": "Plona, tampri, lanksti ir odiška, balkšva, kreminė arba šviesiai gelsvai ruda; išdžiūvusi sukietėja, o sudrėkinta vėl suminkštėja. Perpjauta spalvos nekeičia. Kvapas neryškus arba silpnai malonus; skonis daugumoje rinkinių stipriai kartus, aitrus ir sutraukiantis, nors kartais būna švelnus.",
+      "sporePrint": "Baltas. Bazidiosporos lygios, bespalvės, elipsiškos ar šiek tiek dešrelės pavidalo (subalantoidinės), amiloidinės (Melcerio reagente silpnai ar ryškiai melsvai juodos), 2,5–6 × 1,5–3 µm dydžio.",
+      "habitat": "Saprotrofinis grybas ant negyvos lapuočių medienos — ypač ąžuolo, paprastojo buko ir beržo, taip pat alksnio, klevo, skroblo, lazdyno, karijos, kaštainio ir uosio —, rečiau ant spygliuočių, pavyzdžiui, pušies; kartais įsikuria gyvų medžių pažeidimuose. Vaisiakūnius formuoja tankiais, čerpiškais aukštais ant kelmų, išvartų ir šakų miškuose, parkuose ir gyvatvorėse, sukeldamas baltąjį puvinį. Vaisiakūnių galima rasti ištisus metus nuo sausio iki gruodžio, nes jie ilgalaikiai ir po lietaus atsigauna, o naujų vaisiakūnių augimo pikas būna rudenį ir žiemos pradžioje (rugsėjo–lapkričio mėnesiais) bei švelniais pavasario ar žiemos laikotarpiais.",
+      "uses": "Nevalgomas dėl tamprios, odiškos tramos, nedidelio dydžio ir labai kartaus, sutraukiančio skonio. Nors paprastai laikomas nenuodingu, kai kuriuose regionuose pranešta, kad jį suvalgius gali pasireikšti vėmimas ar virškinimo sutrikimai. Istoriškai tradicinėje kinų medicinoje naudotas kaip kraujavimą stabdanti priemonė ir stiprus vidurius laisvinantis vaistas.",
+      "confusion": "Crepidotus mollis ir kitos Crepidotus rūšys taip pat formuoja smulkius, šviesius, vėduokliškus vaisiakūnius ant negyvos lapuočių medienos, tačiau jos minkštesnės, bekočiai arba beveik bekočiai, o jų sporų atspaudas rudas, o ne baltas. Schizophyllum commune turi tankiai plaukuotą baltą ar pilkšvą kepurėlę ir išilgai skeltas į lakštelius panašias klostes vietoj tikrų tankių lakštelių. Sarcomyxa serotina yra stambesnė, jos kepurėlė žalsvai alyvinė ar gelsvai alyvinė su drebučių sluoksniu po odele, o lakšteliai neturi ryškių skersinių gyslelių. Tapinella panuoides neturi aiškaus koto, pasižymi gelsvai oranžinėmis, dvišakai šakotomis, nuaugtinėmis į lakštelius panašiomis klostėmis ir daug stambesnėmis gelsvai rudomis sporomis. Panellus mitis yra smulkesnis, blyškesnis — balkšvas ar rausvai gelsvas —, švelnaus, o ne kartaus skonio ir auga daugiausia ant spygliuočių medienos. Panus rudis yra stambesnis, plaukuotesnis, o jaunos jo kepurėlės būna rausvai rudos ar rausvai gelsvos su alyviniu atspalviu.",
+      "notes": "Bioliuminescencija skiriasi geografiškai: rytinės Šiaurės Amerikos kamienai paprastai skleidžia blankų žalsvai gelsvą švytėjimą (pikas ties 525–528 nm) tiek iš lakštelių, tiek iš grybienos, ir šį požymį lemia vienas dominantinis alelis, o Europoje, Šiaurės Amerikos Ramiojo vandenyno pakrantėje, Rusijoje, Japonijoje ir Naujojoje Zelandijoje surinkti pavyzdžiai dažniausiai nešvyti (nešvytinčių kamienų pasitaiko ir rytinėje Šiaurės Amerikoje). Kaip ligniną ardantis baltojo puvinio grybas, gaminantis lakazę ir peroksidazes, jis buvo tiriamas fenolių turtingų alyvuogių aliejaus spaudyklų nuotekų ir polichlorintų dioksinų bioremediacijai, sunkiųjų metalų kaupimui, taip pat bioliuminescencija pagrįstuose dirvožemio toksiškumo biojutikliuose.",
+      "sourceUrls": [
+        "https://lt.wikipedia.org/wiki/%C4%84%C5%BEuolinis_skiauten%C4%97lis"
+      ]
+    },
+    "lv": {
+      "description": "Plaši izplatīta, sīksta, koksni noārdoša lapiņu sēne, kas aug blīvos, dakstiņveidīgi sakārtotos puduros uz atmirušas lapkoku koksnes — stumbriem, celmiem un zariem — Eiropā, Ziemeļamerikā, Āzijā, Ziemeļāfrikā, Austrālijā un Jaunzēlandē. Galvenokārt saprotrofa suga, kas izraisa balto trupi; tās izturīgie, pēc lietus atdzīvojošies augļķermeņi saglabājas visu gadu.",
+      "cap": "0,5–4 cm plata, izliekta līdz gandrīz plakana, pēc apveida nierveida, gliemežvāka vai vēdekļveida, jaunībā ar ieritinātu malu, kas ar vecumu kļūst viļņaina, daivaina vai vāji robotaina. Sausā virspuse ir smalki samtaina līdz sīkzvīņaina vai nedaudz pūkaina, reizēm ar vāji izteiktām koncentriskām joslām, un ar vecumu bieži kļūst krunkaina vai saplaisājusi zvīņās; mitrā laikā virsmiziņa var būt viegli lipīga. Svaigu cepurīšu krāsa variē no okera dzeltenas un dzeltenoranžas līdz bēšai, gaiši brūnai vai kanēļbrūnai, sausumā tās izbalo līdz māla krāsai vai netīri baltai, bet lietū atkal atdzīvojas. Kālija hidroksīds (KOH) uz cepurītes virsmas dod negatīvu līdz pelēcīgu reakciju.",
+      "hymenium": "Šauras, ciešas, gaiši brūnas līdz kanēļbrūnas lapiņas, starp kurām bieži ir īslapiņas; tās nereti ir dakšveidīgi zarotas un pie pamatnes savienotas ar smalkām šķērsdzīsliņām (anastomozēm), un pie kātiņa pēkšņi beidzas ar asu robežlīniju. Ziemeļamerikas austrumu celmiem lapiņu šķautnes, šķērsdzīsliņas un lapiņu saskares vieta ar kātiņu pilnīgā tumsā bieži izstaro blāvu zaļgandzeltenu spīdumu. Bazīdijas ir vālīšveida, 15–25 × 2–3,5 µm lielas, četrsporu, ar skavām pie pamatnes. Heilocistīdas ir bagātīgas un blīvas gar lipīgo lapiņu šķautni, 17–75 × 2,5–6 µm, cilindriskas, vārpstveida vai diegveida, galotnē bieži dakšveidīgi zarotas vai ar izaugumiem; pleirocistīdas ir 17–50 × 3–4,5 µm, vārpstveida līdz vālīšveida, izkliedētas vai pušķos.",
+      "stipe": "Īss un drukns, 0,3–2 cm garš un 0,2–0,8 cm resns, pievienots cepurītei sāniski vai ekscentriski un uz leju pret koksni sašaurināts. Gaiši bēšs, blāvi balts vai okera dzeltens, pavisam jaunībā gluds, bet drīz pārklājas ar smalkām zīdainām šķiedriņām vai sīkzvīņām tāpat kā cepurīte. Bez gredzena un maksts.",
+      "flesh": "Plāns, sīksts, lokans un ādains, bālgans līdz krēmkrāsas vai gaiši dzeltenbrūns; izžūstot sacietē, bet samitrinot atkal kļūst mīkstāks. Griezumā krāsu nemaina. Smarža neizteikta vai viegli patīkama; garša vairumam eksemplāru izteikti rūgta, sīva un savelkoša, lai gan reizēm maiga.",
+      "sporePrint": "Balts. Bazīdijsporas ir gludas, bezkrāsainas, elipsoīdas līdz nedaudz desveida (subalantoīdas), amiloīdas (Melcera reaģentā vāji līdz izteikti zilganmelnas), 2,5–6 × 1,5–3 µm lielas.",
+      "habitat": "Saprotrofa uz atmirušas lapkoku koksnes — īpaši uz ozola, dižskābarža un bērza, kā arī alkšņa, kļavas, skābarža, lazdas, kārijas, ēdamās kastaņas un oša — un reti uz skujkokiem, piemēram, priedes; reizēm iemitinās dzīvu koku ievainojumos. Aug blīvos, dakstiņveidīgos stāvos uz celmiem, kritušiem stumbriem un zariem mežos, parkos un dzīvžogos, izraisot balto trupi. Augļķermeņi sastopami visu gadu no janvāra līdz decembrim, jo tie ir ilgmūžīgi un pēc lietus atdzīvojas; jaunu augļķermeņu veidošanās maksimums ir rudenī un ziemas sākumā (no septembra līdz novembrim), kā arī maigos pavasara vai ziemas periodos.",
+      "uses": "Neēdama sīkstās, ādainās konsistences, nelielā izmēra un izteikti rūgtās, savelkošās garšas dēļ. Lai gan kopumā tiek uzskatīta par neindīgu, atsevišķos reģionos tās apēšana ir izraisījusi vemšanu vai gremošanas traucējumus. Vēsturiski izmantota tradicionālajā ķīniešu medicīnā kā asinsapturošs līdzeklis un spēcīgs caurejas līdzeklis.",
+      "confusion": "Crepidotus mollis un citas Crepidotus sugas arī veido nelielus, bālus, vēdekļveida augļķermeņus uz atmirušas lapkoku koksnes, taču tās ir mīkstākas, sēdošas vai gandrīz bez kātiņa, un to sporu nospiedums ir brūns, nevis balts. Schizophyllum commune ir blīvi pūkaina, balta līdz pelēcīga cepurīte un gareniski šķeltas lapiņām līdzīgas krokas, nevis īstas, ciešas lapiņas. Sarcomyxa serotina ir lielāka, ar zaļganolīvu līdz dzeltenolīvu cepurīti, zem kuras virsmiziņas ir želejveida slānis, un tās lapiņām nav izteiktu šķērsdzīsliņu. Tapinella panuoides nav izteikta kātiņa, tai ir dzeltenoranžas, dakšveidīgi zarotas, nolaidenas lapiņām līdzīgas krokas un daudz lielākas dzeltenbrūnas sporas. Panellus mitis ir mazāka, bālāka — bālgana līdz sārtbēša —, ar maigu, nevis rūgtu garšu, un aug galvenokārt uz skujkoku koksnes. Panus rudis ir lielāka, pūkaināka un jaunībā ar sarkanbrūnu līdz sārtbēšu cepurīti un violetīgu nokrāsu.",
+      "notes": "Bioluminiscence variē ģeogrāfiski: Ziemeļamerikas austrumu daļas celmi parasti izstaro blāvu zaļgandzeltenu gaismu (ar maksimumu ap 525–528 nm) gan no lapiņām, gan no micēlija, un šo pazīmi nosaka viena dominanta alēle, turpretī Eiropā, Ziemeļamerikas Klusā okeāna piekrastē, Krievijā, Japānā un Jaunzēlandē ievāktie paraugi parasti nespīd (nespīdoši celmi sastopami arī Ziemeļamerikas austrumos). Kā lignīnu noārdoša baltās trupes sēne, kas ražo lakāzi un peroksidāzes, tā ir pētīta fenolus saturošu olīveļļas ražotņu notekūdeņu un polihlorēto dioksīnu bioremediācijai, smago metālu uzkrāšanai, kā arī uz bioluminiscenci balstītos augsnes toksicitātes biosensoros.",
+      "sourceUrls": []
+    },
+    "nl": {
+      "label": "Scherpe schelpzwam",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Scherpe_schelpzwam",
+      "description": "Een wijdverbreide, taaie houtafbrekende plaatjeszwam die in dichte, dakpansgewijs overlappende groepen groeit op dood loofhout zoals stammen, stronken en takken in Europa, Noord-Amerika, Azië, Noord-Afrika, Australië en Nieuw-Zeeland. De soort leeft voornamelijk saprotroof en veroorzaakt witrot; de duurzame, na uitdroging weer oplevende vruchtlichamen zijn het hele jaar door te vinden.",
+      "cap": "0,5–4 cm breed, gewelfd tot vrijwel vlak en nier-, schelp- of waaiervormig van omtrek, met een jonge ingerolde rand die bij het ouder worden golvend, gelobd of zwak gekarteld wordt. De droge bovenzijde is fijn fluwelig tot zemelig-schubbig of licht wollig, soms zwak concentrisch gezoneerd, en wordt met de jaren vaak gerimpeld of barstig-schubbig; bij nat weer kan de hoedhuid iets kleverig aanvoelen. Verse hoeden variëren van okergeel en geeloranje tot zeemkleurig, lichtbruin of kaneelbruin, verbleken bij droogte tot kleikleurig of gebroken wit en leven bij regen weer op. Kaliumhydroxide (KOH) geeft op het hoedoppervlak een negatieve tot grijsachtige reactie.",
+      "hymenium": "Smalle, dicht opeenstaande, bleek bruine tot kaneelbruine plaatjes met talrijke tussenplaatjes, vaak gevorkt en aan de basis verbonden door fijne dwarsadertjes (anastomosen), die scherp afgesneden eindigen waar ze de steel raken. Bij stammen uit het oosten van Noord-Amerika geven de plaatjessneden, dwarsadertjes en de overgang naar de steel in volledige duisternis vaak een zwak groengeel schijnsel af. De basidiën zijn knotsvormig, 15–25 × 2–3,5 µm, viersporig en voorzien van gespen aan de basis. Cheilocystiden zijn talrijk en staan dicht opeen langs de kleverige plaatjessnede; ze meten 17–75 × 2,5–6 µm, zijn cilindrisch, spoelvormig of draadvormig en aan de top vaak gevorkt of met uitstulpingen. Pleurocystiden meten 17–50 × 3–4,5 µm, zijn spoel- tot knotsvormig en staan verspreid of in bundels.",
+      "stipe": "Kort en gedrongen, 0,3–2 cm lang en 0,2–0,8 cm dik, zijdelings of excentrisch aan de hoed gehecht en naar het hout toe versmallend. Bleek zeemkleurig, vuilwit of okergeel, zeer jong glad en al snel bedekt met fijne zijdeachtige vezeltjes of zemelige schubjes zoals op de hoed. Zonder ring of beurs.",
+      "flesh": "Dun, taai, buigzaam en leerachtig, witachtig tot crème of bleek geelbruin, verhardend bij droogte en weer zacht wordend wanneer het vochtig wordt. Verkleurt niet bij doorsnijden. Geur onopvallend of zwak aangenaam; smaak bij de meeste vondsten sterk bitter, scherp en samentrekkend, al is deze soms mild.",
+      "sporePrint": "Wit. De basidiosporen zijn glad, hyalien, ellipsoïde tot licht worstvormig (suballantoïde), amyloïde (zwak tot duidelijk blauwzwart in Melzers reagens) en meten 2,5–6 × 1,5–3 µm.",
+      "habitat": "Saprotroof op dood hout van loofbomen – vooral eik, beuk en berk, evenals els, esdoorn, haagbeuk, hazelaar, hickory, tamme kastanje en es – en zelden op naaldhout zoals den, waarbij soms ook wonden op levende bomen worden gekoloniseerd. Vruchtlichamen groeien in dichte, dakpansgewijze rijen op stronken, omgevallen stammen en takken in bossen, parken en houtwallen en veroorzaken witrot. Doordat de vruchtlichamen lang meegaan en na regen weer opleven, zijn ze het hele jaar door van januari tot december te vinden, met een piek van verse vruchtlichamen in de herfst en vroege winter (september tot november) en tijdens zachte perioden in winter en voorjaar.",
+      "uses": "Niet eetbaar vanwege de taaie, leerachtige structuur, het kleine formaat en de intens bittere, samentrekkende smaak. Hoewel de paddenstoel doorgaans als niet giftig wordt beschouwd, is in sommige streken braken of maag-darmklachten gemeld na inname. Historisch werd de soort in de traditionele Chinese geneeskunde gebruikt als bloedstelpend middel en als sterk laxeermiddel.",
+      "confusion": "Het week oorzwammetje (Crepidotus mollis) en andere Crepidotus-soorten vormen vergelijkbare kleine, bleke, waaiervormige vruchtlichamen op dood loofhout, maar ze zijn zachter, zittend of vrijwel steelloos en geven een bruine in plaats van een witte sporenprint. Het waaiertje (Schizophyllum commune) heeft een dicht behaarde witte tot grijsachtige hoed en in de lengte gespleten plaatjesachtige plooien in plaats van echte dicht opeenstaande plaatjes. De groene schelpzwam (Sarcomyxa serotina) is groter, heeft groen-olijfkleurige tot geel-olijfkleurige hoeden met een geleiachtige laag onder de hoedhuid en plaatjes zonder opvallende dwarsadertjes. De houtkrulzoom (Tapinella panuoides) mist een duidelijke steel, heeft geeloranje, gevorkte, aflopende plaatjesachtige plooien en vormt veel grotere geelbruine sporen. De witte schelpzwam (Panellus mitis) is kleiner, bleker witachtig tot rozig-zeemkleurig, smaakt mild in plaats van bitter en groeit vooral op naaldhout. Panus rudis is groter, sterker behaard en heeft roodbruine tot rozig-okerbruine hoeden met lila tinten in de jeugd.",
+      "notes": "Bioluminescentie varieert geografisch: stammen uit het oosten van Noord-Amerika stralen doorgaans een zwak groengeel licht uit (met een piek rond 525–528 nm) vanuit zowel de plaatjes als het mycelium, aangestuurd door één enkel dominant allel, terwijl vondsten uit Europa, de Pacifische kust van Noord-Amerika, Rusland, Japan en Nieuw-Zeeland meestal niet lichtgevend zijn (ook in het oosten van Noord-Amerika komen niet-lichtgevende stammen voor). Als lignine-afbrekende witrotzwam die laccase en peroxidasen produceert, is de soort onderzocht voor bioremediatie van fenolrijk afvalwater van olijfmolens, polychloor-dioxinen en ophoping van zware metalen, evenals voor op bioluminescentie gebaseerde biosensoren voor bodemtoxiciteit.",
+      "sourceUrls": [
+        "https://nl.wikipedia.org/wiki/Scherpe_schelpzwam"
+      ]
+    },
+    "no": {
+      "label": "besk lærhatt",
+      "description": "En vidt utbredt, seig og vednedbrytende skivesopp som vokser i tette, taklagte knipper på død løvved som læger, stubber og greiner i Europa, Nord-Amerika, Asia, Nord-Afrika, Australia og New Zealand. Arten er hovedsakelig saprotrof og forårsaker hvitråte; de slitesterke fruktlegemene tåler uttørking, lever opp igjen i fuktig vær og kan finnes hele året.",
+      "cap": "0,5–4 cm bred, hvelvet til nesten flat og nyre-, musling- eller vifteformet i omriss, med innrullet kant som ung, senere bølget, lappet eller svakt småbuklet. Den tørre oversiden er fint fløyelsaktig til kliaktig skjellet eller lett ullen, av og til svakt konsentrisk sonert, og blir ofte rynket eller oppsprukket skjellet med alderen; i fuktig vær kan hatthuden kjennes lett klebrig. Friske hatter varierer fra okergule og guloransje til lærbrune, lysebrune eller kanelbrune, blekner til leirfargede eller skittenhvite ved tørke og lever opp igjen i regn. Kaliumhydroksid (KOH) gir negativ til grålig reaksjon på hattoverflaten.",
+      "hymenium": "Smale, tette, blekt lysebrune til kanelbrune skiver med tallrike korte mellomskiver, ofte gaffeldelte og forbundet ved basis av fine tverrårer (anastomoser), som slutter brått langs en skarp linje der de møter stilken. Hos stammer fra det østlige Nord-Amerika avgir skiveeggene, tverrårene og overgangen mellom skiver og stilk ofte et svakt grønngult lys i fullstendig mørke. Basidiene er kølleformede, 15–25 × 2–3,5 µm, firesporede og har bøyler ved basis. Cheilocystider er tallrike og står tett langs den klebrige skiveeggen; de måler 17–75 × 2,5–6 µm, er sylindriske, spoleformede eller trådformede og ofte gaffeldelte eller med små utvekster i spissen. Pleurocystider måler 17–50 × 3–4,5 µm, er spole- til kølleformede og sitter spredt eller i bunter.",
+      "stipe": "Kort og butt, 0,3–2 cm lang og 0,2–0,8 cm tykk, sidestilt eller eksentrisk festet til hatten og avsmalnende nedover mot veden. Blekt lærfarget, skittenhvit eller okergul, glatt som helt ung og snart dekket av fine silkeaktige fibre eller kliaktige skjell som på hatten. Uten ring og slire.",
+      "flesh": "Tynt, seigt, bøyelig og læraktig, hvitaktig til kremfarget eller blekt gulbrunt, hardner ved uttørking og mykner igjen når det fuktes. Endrer ikke farge ved gjennomskjæring. Lukt ubetydelig eller svakt behagelig; smaken er i de fleste funn kraftig bitter, skarp og snerpende, men unntaksvis mild.",
+      "sporePrint": "Hvitt. Basidiosporene er glatte, hyaline, ellipsoide til lett pølseformede (suballantoide), amyloide (svakt til tydelig blåsvarte i Melzers reagens) og måler 2,5–6 × 1,5–3 µm.",
+      "habitat": "Saprotrof på død ved av løvtrær – særlig eik, bøk og bjørk, samt or, lønn, agnbøk, hassel, hickory, kastanje og ask – og sjelden på bartrær som furu; kan av og til kolonisere sår på levende trær. Fruktlegemene vokser i tette, taklagte rekker på stubber, falne stammer og greiner i skoger, parker og hekker og forårsaker hvitråte. Fordi fruktlegemene er langlivede og lever opp igjen etter regn, kan de finnes hele året fra januar til desember, med størst dannelse av ferske fruktlegemer om høsten og tidlig på vinteren (september til november) samt i milde perioder om vinteren og våren.",
+      "uses": "Ikke matsopp på grunn av den seige, læraktige konsistensen, den lille størrelsen og den sterkt bitre, snerpende smaken. Selv om soppen generelt ikke regnes som giftig, er det i enkelte områder rapportert oppkast eller magebesvær etter inntak. Historisk har den vært brukt i tradisjonell kinesisk medisin som blodstillende middel og som et sterkt avføringsmiddel.",
+      "confusion": "Myk muslingsopp (Crepidotus mollis) og andre Crepidotus-arter danner tilsvarende små, bleke, vifteformede fruktlegemer på død løvved, men de er mykere, sittende eller nesten stilkløse og gir et brunt i stedet for et hvitt sporeavtrykk. Kløyvsopp (Schizophyllum commune) har en tett håret hvit til grålig hatt og langsgående kløvde skivelignende folder fremfor ekte tette skiver. Grønnlig vinterøsterssopp (Sarcomyxa serotina) er større, har grønnlig olivenfargede til gulaktig olivenfargede hatter med et gelatinøst lag under hatthuden og skiver uten tydelige tverrårer. Gul pluggsopp (Tapinella panuoides) mangler tydelig stilk, har guloransje, gaffeldelte, nedløpende skivelignende folder og danner langt større gulbrune sporer. Hvit lærhatt (Panellus mitis) er mindre, blekere hvitaktig til rosa-lærfarget, har mild snarere enn bitter smak og vokser hovedsakelig på barved. Panus rudis er større, mer håret og har rødbrune til rosa-lysebrune hatter med lilla skjær som ung.",
+      "notes": "Bioluminescens varierer geografisk: stammer fra det østlige Nord-Amerika avgir vanligvis et svakt grønngult lys (med topp rundt 525–528 nm) fra både skiver og mycel, styrt av ett enkelt dominant allel, mens funn fra Europa, Stillehavskysten av Nord-Amerika, Russland, Japan og New Zealand som regel ikke lyser (ikke-lysende stammer forekommer også i det østlige Nord-Amerika). Som en ligninnedbrytende hvitråtesopp som produserer lakkase og peroksidaser, har arten blitt studert til bioremediering av fenolholdig avløpsvann fra olivenmøller, polyklorerte dioksiner og opptak av tungmetaller, samt til bioluminescensbaserte biosensorer for jordtoksisitet.",
+      "sourceUrls": []
+    },
+    "pl": {
+      "label": "łycznik ochrowy",
+      "names": [
+        "łycznik trzonkowy"
+      ],
+      "wikipedia": "https://pl.wikipedia.org/wiki/%C5%81ycznik_ochrowy",
+      "description": "Rozpowszechniony, łykowaty grzyb blaszkowy rozkładający drewno, rosnący w gęstych, dachówkowato zachodzących na siebie skupiskach na martwych kłodach, pniakach i gałęziach drzew liściastych w Europie, Ameryce Północnej, Azji, Afryce Północnej, Australii i Nowej Zelandii. Jest głównie saprotroficzny i wywołuje białą zgniliznę drewna; jego trwałe, ożywające po deszczu owocniki utrzymują się przez cały rok.",
+      "cap": "Szerokości 0,5–4 cm, wypukły do niemal płaskiego, w zarysie nerkowaty, muszlowaty lub wachlarzowaty, z brzegiem za młodu podwiniętym, który z wiekiem staje się falisty, płatowaty lub delikatnie karbowany. Sucha górna powierzchnia jest drobno aksamitna do otrębiasto-łuseczkowatej lub lekko wełnistej, czasem słabo koncentrycznie strefowana, a z wiekiem często pomarszczona lub popękana na drobne łuseczki; podczas wilgotnej pogody skórka może być lekko lepka. Świeże kapelusze mają barwę od ochrowożółtej i żółtopomarańczowej po płową, jasnobrązową lub cynamonowobrązową, w czasie suszy bledną do gliniastej lub białawej i odzyskują turgor po deszczu. Wodorotlenek potasu (KOH) daje na powierzchni kapelusza reakcję negatywną do szarawej.",
+      "hymenium": "Wąskie, gęste, bladoochrowobrązowe do cynamonowobrązowych blaszki poprzetykane licznymi blaszeczkami, często rozwidlone i połączone u podstawy drobnymi żyłkami poprzecznymi (anastomozami), ostro i wyraźnie odgraniczone w miejscu zetknięcia z trzonem. U szczepów ze wschodniej części Ameryki Północnej ostrza blaszek, żyłki poprzeczne oraz strefa połączenia blaszek z trzonem często emitują w całkowitej ciemności słabą zielonożółtą poświatę. Podstawki są maczugowate, 15–25 × 2–3,5 µm, czterozarodnikowe ze sprzążką u podstawy. Cheilocystydy są liczne i ciasno skupione wzdłuż lepkiego ostrza blaszek, 17–75 × 2,5–6 µm, cylindryczne, wrzecionowate lub nitkowate, często rozwidlone lub palczasto rozgałęzione na szczycie; pleurocystydy mają wymiary 17–50 × 3–4,5 µm, są wrzecionowate do maczugowatych, rozproszone lub w wiązkach.",
+      "stipe": "Krótki i krępy, długości 0,3–2 cm i grubości 0,2–0,8 cm, przytwierdzony do kapelusza bocznie lub ekscentrycznie i zwężający się ku podstawie przy drewnie. Bladopłowy, matowobiały lub ochrowożółty, u bardzo młodych owocników gładki, wkrótce pokryty drobnymi jedwabistymi włókienkami lub otrębiastymi łuseczkami jak kapelusz. Bez pierścienia i pochwy.",
+      "flesh": "Cienki, łykowaty, elastyczny i skórzasty, białawy do kremowego lub bladożółtobrązowego, twardniejący po wyschnięciu i mięknący ponownie po zwilżeniu. Po przekrojeniu nie zmienia barwy. Zapach niewyraźny lub słabo przyjemny; smak w większości zbiorów silnie gorzki, piekący i cierpki, choć sporadycznie łagodny.",
+      "sporePrint": "Biały. Zarodniki podstawkowe są gładkie, hialinowe, elipsoidalne do lekko kiełbaskowatych (suballantoidalnych), amyloidalne (w odczynniku Melzera barwią się słabo do wyraźnie niebieskoczarno) i mierzą 2,5–6 × 1,5–3 µm.",
+      "habitat": "Saprotroficzny na martwym drewnie drzew liściastych — zwłaszcza dębu, buka zwyczajnego i brzozy, a także olszy, klonu, grabu, leszczyny, orzesznika, kasztana i jesionu — oraz rzadko na iglastych, takich jak sosna; sporadycznie zasiedla rany na żywych drzewach. Owocnikuje w gęstych, dachówkowatych skupiskach na pniakach, powalonych pniach i gałęziach w lasach, parkach i zaroślach, wywołując białą zgniliznę drewna. Owocniki można znaleźć przez cały rok od stycznia do grudnia, ponieważ są trwałe i ożywają po deszczu, przy czym pojaw świeżych owocników osiąga szczyt jesienią i wczesną zimą (od września do listopada) oraz podczas łagodnych okresów wiosennych lub zimowych.",
+      "uses": "Niejadalny ze względu na łykowatą, skórzastą konsystencję, niewielkie rozmiary oraz intensywnie gorzki, ściągający smak. Choć zasadniczo nie uważa się go za trujący, w niektórych regionach odnotowywano po spożyciu wymioty lub dolegliwości żołądkowo-jelitowe. Historycznie stosowany w tradycyjnej medycynie chińskiej jako środek tamujący krwawienie oraz jako silny środek przeczyszczający.",
+      "confusion": "Crepidotus mollis i inne gatunki z rodzaju Crepidotus tworzą podobnie małe, jasne, wachlarzowate owocniki na martwym drewnie liściastym, lecz są bardziej miękkie, siedzące lub niemal pozbawione trzonu i dają brązowy, a nie biały wysyp zarodników. Schizophyllum commune ma gęsto owłosiony biały do szarawego kapelusz i podłużnie rozszczepione fałdy przypominające blaszki zamiast prawdziwych gęstych blaszek. Sarcomyxa serotina jest większa, ma zielonooliwkowe do żółtooliwkowych kapelusze z galaretowatą warstwą pod skórką oraz blaszki bez wyraźnych żyłek poprzecznych. Tapinella panuoides nie ma wyraźnego trzonu, ma żółtopomarańczowe, rozwidlone, zbiegające fałdy przypominające blaszki i wytwarza znacznie większe żółtobrązowe zarodniki. Panellus mitis jest mniejszy, jaśniejszy, białawy do różowawopłowego, ma łagodny, a nie gorzki smak i rośnie głównie na drewnie iglastym. Panus rudis jest większy, bardziej owłosiony i ma czerwonobrązowe do różowawobrązowych kapelusze z liliowym odcieniem za młodu.",
+      "notes": "Bioluminescencja jest zróżnicowana geograficznie: szczepy ze wschodniej części Ameryki Północnej zwykle emitują słabe zielonożółte światło (z maksimum około 525–528 nm) zarówno z blaszek, jak i z grzybni, co jest kontrolowane przez jeden dominujący allel, podczas gdy zbiory z Europy, pacyficznego wybrzeża Ameryki Północnej, Rosji, Japonii i Nowej Zelandii są na ogół nieświecące (przy czym nieświecące szczepy występują również we wschodniej Ameryce Północnej). Jako grzyb białej zgnilizny rozkładający ligninę za pomocą lakazy i peroksydaz jest badany pod kątem bioremediacji fenolowych ścieków z tłoczenia oliwy, polichlorowanych dioksyn oraz akumulacji metali ciężkich, a także jako bioluminescencyjny biosensor toksyczności gleby.",
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/%C5%81ycznik_ochrowy"
+      ]
+    },
+    "pt": {
+      "description": "Cogumelo lignícola de lâminas, tenaz e amplamente distribuído, que cresce em tufos densos e sobrepostos em prateleiras sobre troncos, cepos e ramos mortos de folhosas na Europa, América do Norte, Ásia, Norte de África, Austrália e Nova Zelândia. Principalmente saprotrófico e causador de podridão branca, forma corpos frutíferos duradouros e revivescentes que persistem durante todo o ano.",
+      "cap": "De 0,5–4 cm de largura, convexo a quase plano e de contorno reniforme, em forma de concha ou de leque, com a margem enrolada quando jovem, tornando-se ondulada, lobada ou ligeiramente recortada com a idade. A superfície superior seca é finamente aveludada a furfuráceo-escamosa ou ligeiramente lanosa, por vezes tenuemente zonada concentricamente, tornando-se frequentemente enrugada ou fissurado-escamosa ao envelhecer; em tempo húmido, a cutícula pode parecer ligeiramente pegajosa. Os chapéus frescos variam de amarelo-ocre e amarelo-alaranjado a camurça, castanho-claro ou castanho-canela, empalidecendo para cor de argila ou esbranquiçado quando secos e revivendo com a chuva. O hidróxido de potássio (KOH) dá uma reação negativa a acinzentada na superfície do chapéu.",
+      "hymenium": "Lâminas estreitas, apertadas, castanho-claras a castanho-canela, intercaladas com frequentes lamelas curtas, frequentemente bifurcadas e unidas na base por finas veias transversais (anastomoses), terminando bruscamente numa linha nítida ao encontrar o estipe. Nas estirpes do leste da América do Norte, a aresta das lâminas, as veias transversais e a junção entre as lâminas e o estipe emitem frequentemente um ténue brilho verde-amarelado na escuridão total. Basídios clavados, de 15–25 × 2–3,5 µm, tetraspóricos com ansas basais. Queilocistídios abundantes e apertados ao longo da aresta pegajosa das lâminas, de 17–75 × 2,5–6 µm, cilíndricos, fusiformes ou filiformes e frequentemente bifurcados ou diverticulados no ápice; pleurocistídios de 17–50 × 3–4,5 µm, fusiformes a clavados, dispersos ou em feixes.",
+      "stipe": "Curto e atarracado, de 0,3–2 cm de comprimento e 0,2–0,8 cm de espessura, inserido lateral ou excentricamente no chapéu e atenuado para baixo em direção à madeira. Camurça-pálido, branco-baço ou amarelo-ocre, liso quando muito jovem e depressa coberto por finas fibrilas sedosas ou escamulas furfuráceas semelhantes às do chapéu. Sem anel nem volva.",
+      "flesh": "Delgada, tenaz, flexível e coriácea, esbranquiçada a creme ou castanho-amarelada pálida, endurecendo ao secar e amolecendo novamente quando humedecida. Imutável ao corte. Odor indistinto ou tenuemente agradável; sabor fortemente amargo, acre e adstringente na maioria das colheitas, embora ocasionalmente suave.",
+      "sporePrint": "Branca. Basidiósporos lisos, hialinos, elipsoides a ligeiramente em forma de salsicha (subalantoides), amiloides (fraca a nitidamente preto-azulados no reagente de Melzer), medindo 2,5–6 × 1,5–3 µm.",
+      "habitat": "Saprotrófico em madeira morta de árvores folhosas — especialmente carvalho, faia e bétula, bem como amieiro, ácer, carpino, aveleira, nogueira-americana, castanheiro e freixo — e raramente em coníferas como o pinheiro, colonizando ocasionalmente feridas em árvores vivas. Frutifica em andares densos e imbricados em cepos, troncos caídos e ramos em florestas, parques e sebes, causando podridão branca. Os corpos frutíferos podem encontrar-se durante todo o ano, de janeiro a dezembro, por serem duradouros e reviverem após a chuva, com um pico de frutificação fresca no outono e início do inverno (de setembro a novembro) e durante períodos amenos de primavera ou inverno.",
+      "uses": "Não comestível devido à textura tenaz e coriácea, ao pequeno porte e ao sabor intensamente amargo e adstringente. Embora geralmente considerado não venenoso, a sua ingestão foi associada a vómitos ou perturbações digestivas em algumas regiões. Historicamente utilizado na medicina tradicional chinesa como hemostático para estancar hemorragias e como purgante forte.",
+      "confusion": "Crepidotus mollis e outras espécies de Crepidotus formam corpos frutíferos igualmente pequenos, pálidos e em forma de leque sobre madeira morta de folhosas, mas são mais moles, sésseis ou quase sésseis e produzem esporada castanha em vez de branca. Schizophyllum commune apresenta um chapéu densamente peludo, branco a acinzentado, e pregas lameliformes fendidas longitudinalmente em vez de verdadeiras lâminas apertadas. Sarcomyxa serotina é maior, possui chapéus verde-azeitona a amarelo-azeitona com uma camada gelatinosa sob a cutícula e lâminas sem veias transversais proeminentes. Tapinella panuoides carece de estipe distinto, tem pregas lameliformes amarelo-alaranjadas, bifurcadas e decorrentes, e produz esporos castanho-amarelados muito maiores. Panellus mitis é mais pequeno, mais pálido (esbranquiçado a camurça-rosado), de sabor suave e não amargo, e cresce sobretudo em madeira de coníferas. Panus rudis é maior, mais peludo e exibe chapéus castanho-avermelhados a camurça-rosados com matizes lilases quando jovem.",
+      "notes": "A bioluminescência varia geograficamente: as estirpes do leste da América do Norte emitem tipicamente um ténue brilho verde-amarelado (com pico em torno de 525–528 nm) tanto nas lâminas como no micélio, controlado por um único alelo dominante, ao passo que as colheitas da Europa, costa pacífica da América do Norte, Rússia, Japão e Nova Zelândia são geralmente não luminescentes (ocorrendo também estirpes não luminescentes no leste da América do Norte). Enquanto fungo de podridão branca degradador de lenhina que produz lacase e peroxidases, tem sido estudado para a biorremediação de águas residuais fenólicas de lagares de azeite, dioxinas policloradas e acumulação de metais pesados, bem como em biossensores de toxicidade do solo baseados na bioluminescência.",
+      "sourceUrls": []
+    },
+    "ro": {
+      "wikipedia": "https://ro.wikipedia.org/wiki/Panellus_stipticus",
+      "description": "O ciupercă lignicolă cu lamele, tenace și larg răspândită, care crește în buchete dense, suprapuse etajat, pe bușteni, cioate și ramuri moarte de foioase în Europa, America de Nord, Asia, Africa de Nord, Australia și Noua Zeelandă. Preponderent saprotrofă, provocând putregai alb, aceasta formează corpuri de fructificație rezistente, reviviscente, care persistă tot timpul anului.",
+      "cap": "De 0,5–4 cm lățime, convexă până la aproape plată, cu contur reniform, în formă de scoică sau de evantai, cu marginea răsfrântă spre interior la tinerețe, devenind ondulată, lobată sau ușor crenelată cu vârsta. Suprafața superioară uscată este fin catifelată până la furfuraceu-scuamoasă sau ușor lânoasă, uneori slab zonată concentric, devenind adesea zbârcită sau crăpat-solzoasă la maturitate; pe vreme umedă cuticula poate fi ușor lipicioasă. Pălăriile proaspete variază de la galben-ocru și galben-portocaliu la crem-brun, brun-deschis sau brun-scorțișoară, decolorându-se la culoarea argilei sau alb-murdar când se usucă și revigorându-se la ploaie. Hidroxidul de potasiu (KOH) produce pe suprafața pălăriei o reacție negativă până la cenușie.",
+      "hymenium": "Lamele înguste, dese, brun-pal până la brun-scorțișoară, intercalate cu numeroase lamele scurte, adesea bifurcate și unite la bază prin vinișoare transversale fine (anastomoze), terminându-se brusc într-o linie netă la întâlnirea cu piciorul. La tulpinile din estul Americii de Nord, muchiile lamelelor, vinișoarele transversale și zona de joncțiune cu piciorul emit adesea o lumină slabă verde-gălbuie în întuneric total. Bazidiile sunt clavate, de 15–25 × 2–3,5 µm, tetrasporice, cu catarame bazale. Cheilocistidele sunt abundente și înghesuite de-a lungul muchiei lipicioase a lamelelor, de 17–75 × 2,5–6 µm, cilindrice, fusiforme sau filiforme și adesea bifurcate sau diverticulate la vârf; pleurocistidele măsoară 17–50 × 3–4,5 µm, sunt fusiforme până la clavate, dispersate sau grupate în fascicule.",
+      "stipe": "Scurt și îndesat, de 0,3–2 cm lungime și 0,2–0,8 cm grosime, prins lateral sau excentric de pălărie și îngustat spre bază, către lemn. Crem-brun pal, alb-murdar sau galben-ocru, neted la exemplarele foarte tinere, acoperindu-se curând cu fibrile fine mătăsoase sau scuame furfuracee, ca pălăria. Fără inel și fără volvă.",
+      "flesh": "Subțire, tenace, flexibilă și pieloasă, albicioasă până la crem sau galben-brun pal, întărindu-se la uscare și înmuindu-se din nou la umezire. Nu își schimbă culoarea la tăiere. Miros indistinct sau slab plăcut; gust puternic amar, iute și astringent la majoritatea exemplarelor, deși ocazional poate fi blând.",
+      "sporePrint": "Albă. Bazidiosporii sunt netezi, hialini, elipsoidali până la ușor în formă de cârnat (subalantoizi), amiloizi (slab până la distinct albăstrui-negri în reactivul Melzer) și măsoară 2,5–6 × 1,5–3 µm.",
+      "habitat": "Saprotrofă pe lemn mort de foioase — în special stejar, fag și mesteacăn, precum și arin, arțar, carpen, alun, hicori, castan și frasin — și rar pe conifere precum pinul, colonizând ocazional rănile arborilor vii. Fructifică în etaje dense, imbricate, pe cioate, trunchiuri căzute și ramuri din păduri, parcuri și garduri vii, provocând putregai alb. Corpurile de fructificație pot fi întâlnite tot anul, din ianuarie până în decembrie, deoarece sunt persistente și revin la viață după ploaie, cu un vârf al fructificației proaspete toamna și la începutul iernii (din septembrie până în noiembrie), precum și în perioadele blânde de primăvară sau iarnă.",
+      "uses": "Necomestibilă din cauza texturii tenace, pieloase, a dimensiunilor reduse și a gustului intens amar și astringent. Deși este considerată în general neotrăvitoare, ingestia ei a fost asociată în unele regiuni cu vărsături sau tulburări digestive. A fost folosită istoric în medicina tradițională chineză ca hemostatic pentru oprirea sângerărilor și ca purgativ puternic.",
+      "confusion": "Crepidotus mollis și alte specii de Crepidotus formează corpuri de fructificație similare, mici, palide și în formă de evantai pe lemn mort de foioase, dar sunt mai moi, sesile sau aproape sesile și produc o amprentă sporală brună, nu albă. Schizophyllum commune are o pălărie dens păroasă, albă până la cenușie, și pliuri asemănătoare lamelelor despicate longitudinal, în locul lamelelor adevărate și dese. Sarcomyxa serotina este mai mare, prezintă pălării verde-măsliniu până la galben-măsliniu cu un strat gelatinos sub cuticulă și lamele fără vinișoare transversale evidente. Tapinella panuoides nu are un picior distinct, prezintă pliuri lameliforme galben-portocalii, bifurcate și decurente, și produce spori galben-bruni mult mai mari. Panellus mitis este mai mic, mai palid, albicios până la roz-crem, are gust blând, nu amar, și crește mai ales pe lemn de conifere. Panus rudis este mai mare, mai păros și prezintă pălării brun-roșcate până la roz-ocracee, cu nuanțe liliachii la tinerețe.",
+      "notes": "Bioluminescența variază geografic: tulpinile din estul Americii de Nord emit de obicei o lumină slabă verde-gălbuie (cu un maxim în jur de 525–528 nm) atât din lamele, cât și din miceliu, controlată de o singură alelă dominantă, în timp ce exemplarele din Europa, zona pacifică a Americii de Nord, Rusia, Japonia și Noua Zeelandă sunt în general nebioluminescente (tulpini neluminescente apar și în estul Americii de Nord). Ca ciupercă de putregai alb care degradează lignina și produce lacază și peroxidaze, a fost studiată pentru bioremedierea apelor uzate fenolice din morile de ulei de măsline, a dioxinelor policlorurate și pentru acumularea metalelor grele, precum și în biosenzori de toxicitate a solului bazați pe bioluminescență.",
+      "sourceUrls": [
+        "https://ro.wikipedia.org/wiki/Panellus_stipticus"
+      ]
+    },
+    "ru": {
+      "label": "панеллюс вяжущий",
+      "names": [
+        "сычужный гриб"
+      ],
+      "wikipedia": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B5%D0%BB%D0%BB%D1%8E%D1%81_%D0%B2%D1%8F%D0%B6%D1%83%D1%89%D0%B8%D0%B9",
+      "description": "Широко распространенный жесткий дереворазрушающий пластинчатый гриб, растущий плотными черепитчатыми скоплениями на мертвых стволах, пнях и ветвях лиственных деревьев в Европе, Северной Америке, Азии, Северной Африке, Австралии и Новой Зеландии. Преимущественно сапротрофный вид, вызывающий белую гниль; его прочные, способные восстанавливаться после подсыхания плодовые тела сохраняются круглый год.",
+      "cap": "Диаметром 0,5–4 см, от выпуклой до почти плоской, почковидной, раковиновидной или вееровидной формы, с подвернутым краем в молодости, который с возрастом становится волнистым, лопастным или слабо городчатым. Сухая верхняя поверхность тонкобархатистая, мелкочешуйчато-отрубистая или слегка войлочная, иногда со слабой концентрической зональностью, с возрастом часто морщинистая или растрескивающаяся на мелкие чешуйки; во влажную погоду кожица может быть слегка клейкой. Свежие шляпки окрашены от охристо-желтого и желтовато-оранжевого до палевого, светло-бурого или корично-коричневого цвета, при высыхании бледнеют до глинистого или беловатого оттенка и вновь восстанавливаются после дождя. Реакция поверхности шляпки с гидроксидом калия (KOH) отрицательная или дает сероватое окрашивание.",
+      "hymenium": "Узкие, частые пластинки от светло-палевого до корично-коричневого цвета с многочисленными укороченными пластиночками, часто разветвленные и соединенные у основания тонкими поперечными перемычками (анастомозами), резко обрывающиеся четкой границей у ножки. У штаммов из восточной части Северной Америки края пластинок, поперечные перемычки и место прикрепления пластинок к ножке нередко излучают в полной темноте слабое зеленовато-желтое свечение. Базидии булавовидные, 15–25 × 2–3,5 мкм, четырехспоровые, с пряжками у основания. Хейлоцистиды многочисленные, густо расположенные по клейкому краю пластинки, 17–75 × 2,5–6 мкм, цилиндрические, веретеновидные или нитевидные, часто разветвленные или с пальцевидными выростами на вершине; плевроцистиды 17–50 × 3–4,5 мкм, от веретеновидных до булавовидных, рассеянные или собранные в пучки.",
+      "stipe": "Короткая и толстоватая, длиной 0,3–2 см и толщиной 0,2–0,8 см, прикрепленная к шляпке сбоку или эксцентрично и сужающаяся книзу к древесине. Светло-палевая, грязно-белая или охристо-желтая, гладкая у самых молодых плодовых тел, но вскоре покрывающаяся тонкими шелковистыми волокнами или отрубистыми чешуйками, как на шляпке. Кольцо и вольва отсутствуют.",
+      "flesh": "Тонкая, жесткая, эластичная и кожистая, от беловатой до кремовой или светло-желто-бурой, затвердевающая при высыхании и вновь размягчающаяся при увлажнении. На срезе цвет не меняет. Запах невыраженный или слабо приятный; вкус у большинства сборов сильно горький, едкий и вяжущий, хотя изредка бывает мягким.",
+      "sporePrint": "Белый. Базидиоспоры гладкие, гиалиновые, эллипсоидные или слегка сосисковидные (субаллантоидные), амилоидные (от слабого до отчетливого синевато-черного окрашивания в реактиве Мельцера), размером 2,5–6 × 1,5–3 мкм.",
+      "habitat": "Сапротроф на мертвой древесине лиственных деревьев — особенно дуба, бука европейского и березы, а также ольхи, клена, граба, лещины, гикори, каштана и ясеня — и изредка на хвойных, например сосне; иногда заселяет раны на живых деревьях. Плодоносит плотными черепитчатыми ярусами на пнях, валежных стволах и ветвях в лесах, парках и живых изгородях, вызывая белую гниль. Плодовые тела можно встретить круглый год с января по декабрь, поскольку они долговечны и оживают после дождя; пик образования свежих плодовых тел приходится на осень и начало зимы (с сентября по ноябрь), а также на мягкие периоды весны и зимы.",
+      "uses": "Несъедобный из-за жесткой кожистой консистенции, мелкого размера и резко горького вяжущего вкуса. Хотя обычно вид не считают ядовитым, в отдельных регионах сообщалось о случаях рвоты и расстройства пищеварения после его употребления. В традиционной китайской медицине исторически применялся как кровоостанавливающее средство и сильное слабительное.",
+      "confusion": "Крепидот мягкий (Crepidotus mollis) и другие виды рода Crepidotus образуют сходные мелкие светлые вееровидные плодовые тела на мертвой лиственной древесине, но они мягче, сидячие или почти без ножки и дают бурый, а не белый споровый порошок. Щелелистник обыкновенный (Schizophyllum commune) отличается густо опушенной белой или сероватой шляпкой и продольно расщепленными пластинковидными складками вместо настоящих частых пластинок. Вешенка поздняя (Sarcomyxa serotina) крупнее, имеет зеленовато-оливковую или желтовато-оливковую шляпку со студенистым слоем под кожицей и пластинки без выраженных поперечных перемычек. Тапинелла панусовидная (Tapinella panuoides) не имеет отчетливой ножки, несет желтовато-оранжевые разветвленные низбегающие складки и образует гораздо более крупные желтовато-бурые споры. Panellus mitis мельче, бледнее — от беловатого до розовато-палевого оттенка, обладает мягким, а не горьким вкусом и растет преимущественно на хвойной древесине. Panus rudis крупнее, более волосистый и отличается красновато-коричневыми или розовато-палевыми шляпками с лиловым оттенком в молодости.",
+      "notes": "Биолюминесценция зависит от географического происхождения: штаммы из восточной части Северной Америки обычно излучают тусклое зеленовато-желтое свечение (с максимумом около 525–528 нм) как пластинками, так и мицелием, что контролируется одним доминантным аллелем, тогда как сборы из Европы, тихоокеанского побережья Северной Америки, России, Японии и Новой Зеландии, как правило, не светятся (несветящиеся штаммы встречаются и на востоке Северной Америки). Как разрушающий лигнин гриб белой гнили, вырабатывающий лакказу и пероксидазы, он изучается для биоремедиации фенольных сточных вод переработки оливок, полихлорированных диоксинов и накопления тяжелых металлов, а также для создания биолюминесцентных биосенсоров токсичности почв.",
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B5%D0%BB%D0%BB%D1%8E%D1%81_%D0%B2%D1%8F%D0%B6%D1%83%D1%89%D0%B8%D0%B9"
+      ]
+    },
+    "sk": {
+      "label": "pňovka obyčajná",
+      "description": "Rozšírená, húževnatá drevokazná lupeňovitá huba, ktorá rastie v hustých, škridlicovito prekrývajúcich sa trsoch na odumretých kmeňoch, pňoch a konároch listnatých stromov v Európe, Severnej Amerike, Ázii, severnej Afrike, Austrálii a na Novom Zélande. Je prevažne saprotrofná a spôsobuje bielu hnilobu dreva; jej trvácne, po daždi opäť ožívajúce plodnice vytrvávajú po celý rok.",
+      "cap": "Široký 0,5–4 cm, klenutý až takmer plochý, v obryse obličkovitý, mušľovitý alebo vejárovitý, s okrajom za mladi podvinutým, v dospelosti zvlneným, laločnatým alebo jemne vrúbkovaným. Suchý vrchný povrch je jemne zamatový až otrubovito šupinkatý alebo mierne plstnatý, niekedy nevýrazne sústredne pásovaný a s vekom často zvráskavený či rozpraskaný na drobné šupinky; za vlhkého počasia môže byť pokožka mierne lepkavá. Čerstvé klobúky sú okrovožlté a žltooranžové až bledožlté, žltohnedé alebo škoricovohnedé, za sucha blednú do ílovitej až belavej farby a po daždi opäť ožívajú. Hydroxid draselný (KOH) vyvoláva na povrchu klobúka negatívnu až sivastú reakciu.",
+      "hymenium": "Úzke, husté, bledožltohnedé až škoricovohnedé lupene prestúpené početnými kratšími lupienkami, často rozvidlené a pri báze pospájané jemnými priečnymi žilkami (anastomózami); na mieste styku s hlúbikom sa náhle končia ostrou líniou. Pri kmeňoch z východnej časti Severnej Ameriky ostrie lupeňov, priečne žilky aj prechod medzi lupeňmi a hlúbikom v úplnej tme často vydávajú slabú zelenožltú žiaru. Bazídiá sú kyjakovité, 15–25 × 2–3,5 µm, štvorvýtrusné s prackou na báze. Cheilocystidy sú početné a husto usporiadané pozdĺž lepkavého ostria lupeňov, 17–75 × 2,5–6 µm, valcovité, vretenovité alebo vláknité a na vrchole často rozvidlené či výbežkaté; pleurocystidy merajú 17–50 × 3–4,5 µm, sú vretenovité až kyjakovité, roztrúsené alebo vo zväzkoch.",
+      "stipe": "Krátky a zavalitý, 0,3–2 cm dlhý a 0,2–0,8 cm hrubý, ku klobúku pripojený bočne alebo výstredne a smerom k drevu sa zužujúci. Bledookrový, matne biely alebo okrovožltý, celkom za mladi hladký a čoskoro pokrytý jemnými hodvábnymi vláknami alebo otrubovitými šupinkami podobne ako klobúk. Bez prsteňa a pošvy.",
+      "flesh": "Tenká, húževnatá, pružná a kožovitá, belavá až krémová alebo bledožltohnedá, za sucha tvrdne a po navlhčení opäť zmäkne. Na reze nemení farbu. Vôňa je nevýrazná alebo slabo príjemná; chuť je vo väčšine nálezov silno horká, štipľavá a trpká, hoci občas býva mierna.",
+      "sporePrint": "Biely. Bazídiospóry sú hladké, hyalínne, elipsoidné až mierne párkovité (subalantoidné), amyloidné (v Melzerovom činidle sa sfarbujú slabo až výrazne modročierno) a merajú 2,5–6 × 1,5–3 µm.",
+      "habitat": "Saprotrofná na odumretom dreve listnatých stromov — najmä duba, buka lesného a brezy, ako aj jelše, javora, hraba, liesky, hikórie, gaštana a jaseňa — a zriedkavo na ihličnanoch, napríklad na borovici; príležitostne osídľuje poranenia živých stromov. Plodnice vyrastajú v hustých, škridlicovito usporiadaných trsoch na pňoch, spadnutých kmeňoch a konároch v lesoch, parkoch a kroviskách, pričom spôsobujú bielu hnilobu dreva. Keďže plodnice sú trvácne a po daždi opäť ožívajú, možno ich nájsť celoročne od januára do decembra, pričom tvorba čerstvých plodníc vrcholí na jeseň a začiatkom zimy (od septembra do novembra) a počas miernych jarných či zimných období.",
+      "uses": "Nejedlá pre svoju húževnatú, kožovitú konzistenciu, malé rozmery a intenzívne horkú, trpkú chuť. Hoci sa vo všeobecnosti nepovažuje za jedovatú, v niektorých oblastiach bolo po požití hlásené vracanie alebo tráviace ťažkosti. Historicky sa využívala v tradičnej čínskej medicíne ako prostriedok na zastavenie krvácania (styptikum) a ako silné preháňadlo.",
+      "confusion": "Crepidotus mollis a ďalšie druhy rodu Crepidotus tvoria podobne malé, bledé, vejárovité plodnice na odumretom listnatom dreve, sú však mäkšie, prisadnuté alebo takmer bez hlúbika a majú hnedý výtrusný prach namiesto bieleho. Schizophyllum commune má husto chlpatý biely až sivastý klobúk a pozdĺžne rozštiepené lupeňovité lišty namiesto pravých hustých lupeňov. Sarcomyxa serotina je väčšia, má zelenoolivové až žltoolivové klobúky s rôsolovitou vrstvou pod pokožkou a jej lupene nemajú výrazné priečne žilky. Tapinella panuoides nemá zreteľný hlúbik, má žltooranžové, rozvidlené, zbiehavé lupeňovité lišty a tvorí oveľa väčšie žltohnedé výtrusy. Panellus mitis je menší, bledší, belavý až ružovkastookrový, má miernu, nie horkú chuť a rastie prevažne na dreve ihličnanov. Panus rudis je väčší, chlpatejší a má červenohnedé až ružovkastohnedé klobúky s fialkastým nádychom za mladi.",
+      "notes": "Bioluminiscencia sa líši geograficky: kmene z východnej časti Severnej Ameriky zvyčajne vyžarujú slabé zelenožlté svetlo (s maximom okolo 525–528 nm) z lupeňov aj z podhubia, čo riadi jediná dominantná alela, zatiaľ čo nálezy z Európy, tichomorského pobrežia Severnej Ameriky, Ruska, Japonska a Nového Zélandu sú spravidla neluminiscentné (a neluminiscentné kmene sa vyskytujú aj vo východnej Severnej Amerike). Ako huba spôsobujúca bielu hnilobu a rozkladajúca lignín pomocou lakázy a peroxidáz sa skúma pri bioremediácii fenolických odpadových vôd z lisovania olív, polychlórovaných dioxínov a akumulácii ťažkých kovov, ako aj v biosenzoroch toxicity pôdy založených na bioluminiscencii.",
+      "sourceUrls": []
+    },
+    "sl": {
+      "label": "trpki zgručevec",
+      "wikipedia": "https://sl.wikipedia.org/wiki/Trpki_zgru%C4%8Devec",
+      "description": "Razširjen, žilav lističar in lesni razkrojevalec, ki raste v gostih, strešasto prekrivajočih se šopih na odmrlih deblih, štorih in vejah listavcev po Evropi, Severni Ameriki, Aziji, severni Afriki, Avstraliji in Novi Zelandiji. Je pretežno saprotrofen in povzroča belo trohnobo lesa; njegovi trpežni trosnjaki, ki ob vlagi znova oživijo, vztrajajo vse leto.",
+      "cap": "Širok 0,5–4 cm, izbočen do skoraj raven, po obliki ledvičast, školjkast ali pahljačast, z robom, ki je pri mladih gobah podvihan, s starostjo pa postane valovit, krpast ali rahlo nazobčan. Suha zgornja površina je drobno žametasta do otrobičasto luskasta ali rahlo volnata, včasih neizrazito koncentrično pasasta, s starostjo pa pogosto nagubana ali razpokana v drobne luske; v mokrem vremenu je kožica lahko rahlo lepljiva. Sveži klobuki so okrasto rumeni in rumenkasto oranžni do bledo okrasti, rjavkasti ali cimetasto rjavi, v suši zbledijo v glinasto ali umazano belo barvo, ob dežju pa znova oživijo. Kalijev hidroksid (KOH) na površini klobuka povzroči negativno do sivkasto reakcijo.",
+      "hymenium": "Ozki, gosti, bledo rjavkasti do cimetasto rjavi lističi, prepleteni s številnimi krajšimi lističi, pogosto viličasto razcepljeni in ob dnu povezani s finimi prečnimi žilicami (anastomozami); na stiku z betom se ostro in nenadno končajo. Pri sevih iz vzhodnega dela Severne Amerike ostrinka lističev, prečne žilice in stik lističev z betom v popolni temi pogosto oddajajo šibek zelenkasto rumen sij. Bazidiji so kijasti, 15–25 × 2–3,5 µm, štiritrosni z bazalnimi zaponkami. Heilocistide so številne in gosto razporejene vzdolž lepljive ostrinke lističev, 17–75 × 2,5–6 µm, valjaste, vretenaste ali nitaste ter na vrhu pogosto razcepljene ali z izrastki; plevrocistide merijo 17–50 × 3–4,5 µm, so vretenaste do kijaste, raztresene ali v snopih.",
+      "stipe": "Kratek in čokat, dolg 0,3–2 cm in debel 0,2–0,8 cm, prirasel na klobuk stransko ali izsredno in se proti lesu zožuje. Bledo okrast, motno bel ali okrasto rumen, pri zelo mladih primerkih gladek, kmalu pa pokrit s finimi svilnatimi vlakenci ali otrobičastimi luskicami kakor klobuk. Brez obročka in lupine.",
+      "flesh": "Tanko, žilavo, prožno in usnjato, belkasto do smetanasto ali bledo rumenkasto rjavo; ob sušenju otrdi, ob vlaženju pa se znova zmehča. Na prerezu ne spreminja barve. Vonj je neizrazit ali rahlo prijeten; okus je pri večini najdb izrazito grenak, pekoč in trpek, čeprav je občasno blag.",
+      "sporePrint": "Bel. Bazidiospore so gladke, hialine, elipsoidne do rahlo klobasaste (subalantoidne), amiloidne (v Melzerjevem reagentu se obarvajo šibko do izrazito modrikasto črno) in merijo 2,5–6 × 1,5–3 µm.",
+      "habitat": "Saprotrofen na odmrlem lesu listavcev — zlasti hrasta, navadne bukve in breze, pa tudi jelše, javorja, gabra, leske, hikorija, kostanja in jesena — ter redko na iglavcih, kot je bor; občasno naseljuje rane na živih drevesih. Raste v gostih, strešasto razporejenih vrstah na štorih, podrtih deblih in vejah v gozdovih, parkih in živih mejah ter povzroča belo trohnobo lesa. Trosnjake je mogoče najti vse leto od januarja do decembra, saj so obstojni in po dežju znova oživijo; tvorba svežih trosnjakov doseže vrhunec jeseni in zgodaj pozimi (od septembra do novembra) ter v milih spomladanskih ali zimskih obdobjih.",
+      "uses": "Neužitna zaradi žilavega, usnjatega mesa, majhne velikosti in močno grenkega, trpkega okusa. Čeprav na splošno ne velja za strupeno, so v nekaterih območjih po zaužitju poročali o bruhanju ali prebavnih težavah. Zgodovinsko se je uporabljala v tradicionalni kitajski medicini kot sredstvo za ustavljanje krvavitev (stiptik) in kot močno odvajalo.",
+      "confusion": "Crepidotus mollis in druge vrste rodu Crepidotus tvorijo podobno majhne, blede, pahljačaste trosnjake na odmrlem lesu listavcev, vendar so mehkejši, sedeči ali skoraj brez beta ter imajo rjav namesto belega trosnega prahu. Schizophyllum commune ima gosto dlakav bel do sivkast klobuk in vzdolžno razcepljene lističem podobne gube namesto pravih gostih lističev. Sarcomyxa serotina je večja, ima zelenkasto olivne do rumenkasto olivne klobuke z želatinasto plastjo pod kožico in lističe brez izrazitih prečnih žilic. Tapinella panuoides nima izrazitega beta, ima rumenkasto oranžne, viličaste, poraščajoče lističem podobne gube ter tvori precej večje rumenkasto rjave trose. Panellus mitis je manjši, bledejši, belkast do rožnato okrast, ima blag in ne grenak okus ter raste predvsem na lesu iglavcev. Panus rudis je večji, bolj dlakav in ima rdečkasto rjave do rožnato rjave klobuke z lila odtenki v mladosti.",
+      "notes": "Bioluminiscenca se geografsko razlikuje: sevi iz vzhodne Severne Amerike običajno oddajajo šibko zelenkasto rumeno svetlobo (z vrhom okoli 525–528 nm) iz lističev in micelija, kar nadzoruje en sam dominanten alel, medtem ko so najdbe iz Evrope, pacifiške Severne Amerike, Rusije, Japonske in Nove Zelandije praviloma neluminiscentne (neluminiscentni sevi pa se pojavljajo tudi v vzhodni Severni Ameriki). Kot gliva bele trohnobe, ki razgrajuje lignin z lakazo in peroksidazami, jo preučujejo za bioremediacijo fenolnih odpadnih vod iz oljarn, polikloriranih dioksinov in kopičenja težkih kovin ter za bioluminiscenčne biosenzorje toksičnosti tal.",
+      "sourceUrls": [
+        "https://sl.wikipedia.org/wiki/Trpki_zgru%C4%8Devec"
+      ]
+    },
+    "sr": {
+      "description": "Широко распрострањена, жилава лигниколна гљива са листићима која расте у густим, црепасто преклопљеним скупинама на мртвим стаблима, пањевима и гранама листопадног дрвећа широм Европе, Северне Америке, Азије, северне Африке, Аустралије и Новог Зеланда. Претежно је сапротрофна и изазива белу трулеж дрвета; њена трајна плодна тела која након кише поново оживе опстају током целе године.",
+      "cap": "Широк 0,5–4 cm, испупчен до готово раван, по облику бубрежаст, шкољкаст или лепезаст, са ободом у младости подвијеним, који са старошћу постаје таласаст, режњевит или благо назубљен. Сува горња површина је фино баршунаста до мекињасто-љуспаста или благо вунаста, понекад нејасно концентрично појасаста, а са старошћу често наборана или испуцала у ситне љуске; за влажног времена кожица може бити благо лепљива. Свежи шешири су окержути и жућкастонаранџасти до светлоокер, жутосмеђи или циметастосмеђи, при сушењу бледе до боје глине или прљавобеле и поново оживе након кише. Калијум-хидроксид (KOH) на површини шешира даје негативну до сивкасту реакцију.",
+      "hymenium": "Уски, густи, бледосмеђи до циметастосмеђи листићи испреплетани бројним краћим листићима, често рачвасти и при основи повезани финим попречним жилицама (анастомозама), који се нагло завршавају оштром линијом на споју са дршком. Код сојева из источног дела Северне Америке оштрица листића, попречне жилице и спој листића са дршком у потпуном мраку често емитују слаб зеленкастожути сјај. Базидије су батинасте, 15–25 × 2–3,5 µm, четвороспорне са базалним копчама. Хеилоцистиде су бројне и густо распоређене дуж лепљиве оштрице листића, 17–75 × 2,5–6 µm, цилиндричне, вретенасте или кончасте и на врху често рачвасте или са изданцима; плеуроцистиде мере 17–50 × 3–4,5 µm, вретенасте су до батинасте, расуте или у сноповима.",
+      "stipe": "Кратка и здепаста, дуга 0,3–2 cm и дебела 0,2–0,8 cm, за шешир причвршћена бочно или ексцентрично и сужава се према дрвету. Светлоокер, мутнобела или окержута, код веома младих примерака глатка, а убрзо прекривена финим свиленкастим влаканцима или мекињастим љускицама попут шешира. Без прстена и омотача.",
+      "flesh": "Танко, жилаво, савитљиво и кожасто, беличасто до крем или бледо жутосмеђе, при сушењу очврсне, а након влажења поново омекша. На пресеку не мења боју. Мирис је неизразит или благо пријатан; укус је у већини налаза изразито горак, љут и опор, мада је повремено благ.",
+      "sporePrint": "Бео. Базидиоспоре су глатке, хијалине, елипсоидне до благо кобасичасте (субалантоидне), амилоидне (у Мелзеровом реагенсу боје се слабо до изразито плавоцрно) и мере 2,5–6 × 1,5–3 µm.",
+      "habitat": "Сапротрофна на мртвом дрвету листопадног дрвећа — нарочито храста, европске букве и брезе, као и јове, јавора, граба, леске, хикорија, кестена и јасена — и ретко на четинарима као што је бор; повремено насељава ране на живим стаблима. Плодоноси у густим, црепасто сложеним редовима на пањевима, обореним деблима и гранама у шумама, парковима и живицама, изазивајући белу трулеж дрвета. Плодна тела могу се наћи током целе године од јануара до децембра јер су дуготрајна и након кише поново оживе, при чему свеже плодоношење достиже врхунац у јесен и рану зиму (од септембра до новембра) и током благих пролећних или зимских периода.",
+      "uses": "Нејестива због жилаве, кожасте текстуре, малих димензија и изразито горког, опорог укуса. Иако се генерално не сматра отровном, у појединим областима је након конзумације забележено повраћање или дигестивне сметње. Историјски се користила у традиционалној кинеској медицини као стиптик за заустављање крварења и као снажно средство за чишћење.",
+      "confusion": "Crepidotus mollis и друге врсте рода Crepidotus образују слично мала, светла, лепезаста плодна тела на мртвом листопадном дрвету, али су мекше, седеће или готово без дршке и дају смеђи уместо белог отиска спора. Schizophyllum commune има густо длакав бео до сивкаст шешир и уздужно расцепљене наборе налик листићима уместо правих густих листића. Sarcomyxa serotina је већа, има зеленкастомаслинасте до жућкастомаслинасте шешире са желатинозним слојем испод кожице и листиће без изражених попречних жилица. Tapinella panuoides нема изражену дршку, има жућкастонаранџасте, рачвасте, силазне наборе налик листићима и ствара знатно веће жутосмеђе споре. Panellus mitis је мањи, блеђи, беличаст до ружичастоокер, има благ уместо горког укуса и расте углавном на дрвету четинара. Panus rudis је већи, длакавији и има црвенкастосмеђе до ружичастосмеђе шешире са лила нијансама у младости.",
+      "notes": "Биолуминесценција варира географски: сојеви из источне Северне Америке обично емитују слабу зеленкастожуту светлост (са максимумом око 525–528 nm) из листића и мицелија, што контролише један доминантан алел, док су налази из Европе, пацифичке Северне Америке, Русије, Јапана и Новог Зеланда углавном нелуминесцентни (а нелуминесцентни сојеви јављају се и у источној Северној Америци). Као гљива беле трулежи која разграђује лигнин помоћу лаказе и пероксидаза, проучава се за биоремедијацију фенолних отпадних вода из уљара, полихлорованих диоксина и акумулације тешких метала, као и за биолуминесцентне биосензоре токсичности земљишта.",
+      "sourceUrls": []
+    },
+    "sv": {
+      "label": "epålettsvamp",
+      "wikipedia": "https://sv.wikipedia.org/wiki/Ep%C3%A5lettsvamp",
+      "description": "En vidsträckt, seg och vedlevande skivling som växer i täta, taktegellagda gyttringar på död lövved såsom lågor, stubbar och grenar i Europa, Nordamerika, Asien, Nordafrika, Australien och Nya Zeeland. Arten är huvudsakligen saprotrof och orsakar vitröta; de tåliga fruktkropparna torkar in och vaknar till liv igen vid fukt, varför de påträffas året runt.",
+      "cap": "0,5–4 cm bred, välvd till nästan plan och njur-, mussle- eller solfjäderformad i omkrets, som ung med inrullad kant som med åldern blir vågig, flikig eller svagt naggad. Den torra ovansidan är fint sammetsluden till mjöligt fjällig eller lätt ullig, ibland svagt koncentriskt zonerad, och blir ofta rynkig eller uppsprucket fjällig med åldern; i vått väder kan hatthuden kännas lätt klibbig. Färska hattar varierar från ockragula och gulorange till sämskfärgade, ljusbruna eller kanelbruna, bleknar vid torka till lerfärgade eller smutsvita och lever upp igen i regn. Kaliumhydroxid (KOH) ger en negativ till gråaktig reaktion på hattytan.",
+      "hymenium": "Smala, tätt sittande, blekt ljusbruna till kanelbruna skivor med talrika korta mellanskivor, ofta gaffelgrenade och förenade vid basen av fina tvärådror (anastomoser), som slutar tvärt längs en skarp linje mot foten. Hos stammar från östra Nordamerika avger skiveggarna, tvärådrorna och övergången mellan skivor och fot ofta ett svagt gröngult sken i fullständigt mörker. Basidierna är klubbformade, 15–25 × 2–3,5 µm, fyrsporiga och försedda med söljor vid basen. Cheilocystider är talrika och står tätt längs den klibbiga skiveggen; de mäter 17–75 × 2,5–6 µm, är cylindriska, spolformade eller trådformade och ofta gaffelgrenade eller försedda med utskott i spetsen. Pleurocystider mäter 17–50 × 3–4,5 µm, är spol- till klubbformade och sitter spridda eller i knippen.",
+      "stipe": "Kort och knubbig, 0,3–2 cm lång och 0,2–0,8 cm tjock, sidoställd eller excentriskt fäst vid hatten och avsmalnande nedåt mot veden. Blekt sämskfärgad, smutsvit eller ockragul, slät som mycket ung och snart klädd med fina silkiga fibrer eller mjöliga fjäll liksom hatten. Saknar ring och strumpa.",
+      "flesh": "Tunt, segt, böjligt och läderartat, vitaktigt till gräddfärgat eller blekt gulbrunt, hårdnar vid torka och mjuknar igen vid fukt. Förändrar inte färg vid snitt. Doft obetydlig eller svagt behaglig; smaken är hos de flesta fynd kraftigt bitter, skarp och sammandragande, men ibland mild.",
+      "sporePrint": "Vitt. Basidiosporerna är släta, hyalina, ellipsoida till svagt korvformade (suballantoida), amyloida (svagt till tydligt blåsvarta i Melzers reagens) och mäter 2,5–6 × 1,5–3 µm.",
+      "habitat": "Saprotrof på död ved av lövträd – särskilt ek, bok och björk, liksom al, lönn, avenbok, hassel, hickory, kastanj och ask – och sällsynt på barrträd som tall; kan ibland kolonisera sår på levande träd. Fruktkropparna växer i täta, taktegellagda rader på stubbar, fallna stammar och grenar i skogar, parker och häckar och orsakar vitröta. Eftersom fruktkropparna är långlivade och lever upp igen efter regn kan de hittas året runt från januari till december, med mest nybildning under hösten och förvintern (september till november) samt under milda perioder på vintern och våren.",
+      "uses": "Oätlig på grund av den sega, läderartade konsistensen, den lilla storleken och den intensivt bittra, sammandragande smaken. Även om svampen i allmänhet inte betraktas som giftig har kräkningar eller magbesvär rapporterats efter förtäring i vissa regioner. Historiskt har den använts inom traditionell kinesisk medicin som blodstillande medel och starkt laxermedel.",
+      "confusion": "Mjuk mussling (Crepidotus mollis) och andra Crepidotus-arter bildar liknande små, bleka, solfjäderformade fruktkroppar på död lövved, men de är mjukare, sittande eller nästan fotlösa och ger ett brunt snarare än vitt sporavtryck. Klyvblad (Schizophyllum commune) har en tätt hårig vit till gråaktig hatt och längsgående kluvna skivliknande åsar i stället för äkta tätt sittande skivor. Grönmussling (Sarcomyxa serotina) är större, har grönolivfärgade till gulolivfärgade hattar med ett gelatinöst skikt under hatthuden samt skivor utan framträdande tvärådror. Källarsvamp (Tapinella panuoides) saknar tydlig fot, har gulorange, gaffelgrenade, nedlöpande skivliknande åsar och bildar mycket större gulbruna sporer. Vitmussling (Panellus mitis) är mindre, blekare vitaktig till rosa-sämskfärgad, har mild i stället för bitter smak och växer främst på barrved. Panus rudis är större, mer hårig och har rödbruna till rosa-ljusbruna hattar med lila inslag som ung.",
+      "notes": "Bioluminescensen varierar geografiskt: stammar från östra Nordamerika avger vanligen ett svagt gröngult ljus (med topp kring 525–528 nm) från både skivor och mycel, styrt av en enda dominant allel, medan fynd från Europa, Stillahavskusten i Nordamerika, Ryssland, Japan och Nya Zeeland i regel inte lyser (icke-lysande stammar förekommer även i östra Nordamerika). Som en ligninnedbrytande vitrötesvamp som bildar lackas och peroxidaser har arten studerats för bioremediering av fenolrikt avloppsvatten från olivoljekvarnar, polyklorerade dioxiner och anrikning av tungmetaller, liksom för bioluminescensbaserade biosensorer för marktoxicitet.",
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Ep%C3%A5lettsvamp"
+      ]
+    },
+    "tr": {
+      "wikipedia": "https://tr.wikipedia.org/wiki/Panellus_stipticus",
+      "description": "Avrupa, Kuzey Amerika, Asya, Kuzey Afrika, Avustralya ve Yeni Zelanda'da ölü geniş yapraklı ağaç kütükleri, gövdeleri ve dalları üzerinde sık, üst üste binen raf benzeri kümeler hâlinde yetişen, yaygın ve sert yapılı, odun çürüten lamelli bir mantardır. Başlıca saprotroftur ve beyaz çürüklüğe yol açar; dayanıklı ve nemle yeniden canlanabilen meyve gövdeleri yıl boyunca kalıcıdır.",
+      "cap": "0,5–4 cm çapında, dışbükeyden neredeyse düze, böbrek, istiridye kabuğu veya yelpaze biçimindedir; gençken içe kıvrık olan kenarı yaşlandıkça dalgalı, loplu veya hafifçe tırtıklı bir hâl alır. Kuru üst yüzeyi ince kadifemsiden kepeksi-pulluya veya hafifçe yünsüye değişir, bazen belirsiz eşmerkezli kuşaklıdır ve yaşlandıkça sıklıkla buruşur ya da çatlaklı-pullu olur; nemli havalarda üst deri hafifçe yapışkan hissedilebilir. Taze şapkalar koyu sarı ve sarımsı turuncudan açık ten rengine, açık kahverengiye veya tarçın kahverengisine uzanır; kuruyunca kil rengine ya da kirli beyaza solar ve yağmurla yeniden canlanır. Potasyum hidroksit (KOH) şapka yüzeyinde olumsuz ile grimsi arası bir tepkime verir.",
+      "hymenium": "Dar, sık, açık ten renginden tarçın kahverengisine uzanan lameller çok sayıda kısa lamelle aralanmıştır; sıklıkla çatallanır, tabanlarında ince çapraz damarlarla (anastomoz) birbirine bağlanır ve sapla birleştikleri yerde keskin bir çizgi hâlinde aniden son bulur. Doğu Kuzey Amerika soylarında lamel kenarları, çapraz damarlar ve lamel-sap birleşim yeri tam karanlıkta sıklıkla soluk yeşilimsi sarı bir ışık yayar. Bazidiyumlar çomak biçimli, 15–25 × 2–3,5 µm boyutlarında, dört sporlu ve taban kancalıdır. Keilosistitler yapışkan lamel kenarı boyunca bol ve sık dizilidir, 17–75 × 2,5–6 µm boyutlarında, silindirik, iğ biçimli veya ipliksi olup uçta sıklıkla çatallı ya da çıkıntılıdır; plörosistitler 17–50 × 3–4,5 µm boyutlarında, iğ ile çomak arası biçimli, dağınık veya demetler hâlindedir.",
+      "stipe": "Kısa ve küt, 0,3–2 cm uzunluğunda ve 0,2–0,8 cm kalınlığındadır; şapkaya yandan veya merkez dışı bağlanır ve oduna doğru aşağıya indikçe incelir. Açık ten rengi, mat beyaz veya koyu sarıdır; çok gençken pürüzsüz olup kısa sürede şapkadaki gibi ince ipeksi lifçikler veya kepeksi pullarla kaplanır. Yüzük ve volva yoktur.",
+      "flesh": "İnce, sert, esnek ve derimsi, beyazımsıdan krem rengine veya soluk sarı-kahverengiye değişir; kuruyunca sertleşir, ıslandığında yeniden yumuşar. Kesildiğinde rengi değişmez. Kokusu belirsiz veya hafifçe hoştur; tadı çoğu örnekte şiddetle acı, yakıcı ve büzücü olmakla birlikte zaman zaman hafif olabilir.",
+      "sporePrint": "Beyazdır. Bazidiyosporlar pürüzsüz, saydam, elipsoidden hafif sosis biçimliye (suballantoid), amiloid (Melzer ayıraçında zayıftan belirgine mavimsi siyah) olup 2,5–6 × 1,5–3 µm boyutlarındadır.",
+      "habitat": "Geniş yapraklı ağaçların — özellikle meşe, Avrupa kayını ve huş ile kızılağaç, akçaağaç, gürgen, fındık, hikori, kestane ve dişbudak — ölü odunlarında, nadiren de çam gibi iğne yapraklılarda saprotrof olarak gelişir; zaman zaman canlı ağaçlardaki yaralara da yerleşir. Ormanlarda, parklarda ve çit kenarlarında kütükler, devrik gövdeler ve dallar üzerinde sık, kiremit dizilişli katmanlar hâlinde meyve verir ve beyaz çürüklüğe neden olur. Uzun ömürlü olup yağmurdan sonra yeniden canlandıkları için meyve gövdeleri ocaktan aralığa yıl boyunca görülebilir; taze meyve verme sonbahar ve erken kışta (eylülden kasıma) ile ılıman ilkbahar veya kış dönemlerinde doruğa ulaşır.",
+      "uses": "Sert, derimsi dokusu, küçük boyutu ve yoğun biçimde acı, büzücü tadı nedeniyle yenmez. Genel olarak zehirli kabul edilmemekle birlikte, bazı bölgelerde yenmesinin kusma veya sindirim rahatsızlığına yol açtığı bildirilmiştir. Geleneksel Çin tıbbında kanamayı durdurmak için kan kesici olarak ve güçlü bir müshil olarak kullanılmıştır.",
+      "confusion": "Crepidotus mollis ve diğer Crepidotus türleri de ölü geniş yapraklı odunlarda benzer küçük, soluk, yelpaze biçimli meyve gövdeleri oluşturur; ancak daha yumuşaktırlar, sapsız veya neredeyse sapsızdırlar ve beyaz yerine kahverengi spor izi verirler. Schizophyllum commune yoğun tüylü beyazdan grimsiye şapkaya ve gerçek sık lameller yerine boyuna yarık lamel benzeri kıvrımlara sahiptir. Sarcomyxa serotina daha büyüktür, üst derisinin altında jelatinimsi bir tabaka bulunan yeşilimsi zeytin ile sarımsı zeytin arası şapkalar taşır ve lamellerinde belirgin çapraz damarlar bulunmaz. Tapinella panuoides belirgin bir saptan yoksundur, sarımsı turuncu, çatallı, aşağı uzanan lamel benzeri kıvrımlara sahiptir ve çok daha büyük sarımsı kahverengi sporlar üretir. Panellus mitis daha küçük, daha soluk beyazımsıdan pembemsi açık ten renginedir, acı yerine hafif tatlıdır ve başlıca iğne yapraklı odunlarda yetişir. Panus rudis daha büyüktür, daha tüylüdür ve gençken leylak tonları taşıyan kızılımsı kahverengiden pembemsi açık kahverengiye şapkalara sahiptir.",
+      "notes": "Biyolüminesans coğrafi olarak değişkenlik gösterir: doğu Kuzey Amerika'dan gelen soylar genellikle tek bir baskın alel tarafından kontrol edilen biçimde hem lamellerden hem de miselyumdan soluk yeşilimsi sarı bir ışıltı (yaklaşık 525–528 nm dalga boyunda tepe yapan) yayarken, Avrupa, Pasifik Kuzey Amerika, Rusya, Japonya ve Yeni Zelanda örnekleri genellikle ışık yaymaz (doğu Kuzey Amerika'da da ışık yaymayan soylar bulunur). Lakkaz ve peroksidaz üreten, lignini parçalayan bir beyaz çürüklük mantarı olarak fenolik zeytinyağı fabrikası atık sularının, poliklorlu dioksinlerin biyoremediasyonu, ağır metal birikimi ve biyolüminesansa dayalı toprak toksisitesi biyosensörleri açısından incelenmiştir.",
+      "sourceUrls": []
+    },
+    "uk": {
+      "label": "гірка глива",
+      "names": [
+        "панелус сяючий",
+        "панус терпкий"
+      ],
+      "wikipedia": "https://uk.wikipedia.org/wiki/Panellus_stipticus",
+      "description": "Поширений, жорсткий дереворуйнівний пластинчастий гриб, що росте густими черепичастими скупченнями на мертвих стовбурах, пнях і гілках листяних дерев у Європі, Північній Америці, Азії, Північній Африці, Австралії та Новій Зеландії. Переважно сапротрофний, викликає білу гниль деревини; його витривалі плодові тіла, здатні оживати після дощу, зберігаються цілорічно.",
+      "cap": "Діаметром 0,5–4 см, опукла до майже плоскої, ниркоподібної, черепашкоподібної або віялоподібної форми, з підгорнутим у молодості краєм, який із віком стає хвилястим, лопатевим або слабко зубчастим. Суха верхня поверхня тонкооксамитова до висівкоподібно-лускатої або злегка повстистої, іноді зі слабкою концентричною зональністю, а з віком часто зморшкувата або розтріскана на дрібні лусочки; у вологу погоду шкірка може бути злегка клейкою. Свіжі шапинки мають забарвлення від вохристо-жовтого й жовто-оранжевого до палевого, світло-коричневого або корично-коричневого, у суху погоду бліднуть до глинистого чи брудно-білого та знову оживають після дощу. Гідроксид калію (KOH) на поверхні шапинки дає негативну або сірувату реакцію.",
+      "hymenium": "Вузькі, густі, блідо-коричневі до корично-коричневих пластинки, перемішані з численними коротшими пластиночками, часто розгалужені й з'єднані при основі тонкими поперечними жилками (анастомозами); на межі з ніжкою вони різко обриваються чіткою лінією. У штамів зі східної частини Північної Америки край пластинок, поперечні жилки та місце переходу пластинок у ніжку в повній темряві часто випромінюють слабке зеленувато-жовте сяйво. Базидії булавоподібні, 15–25 × 2–3,5 мкм, чотириспорові з базальними пряжками. Хейлоцистиди численні й густо розташовані вздовж клейкого краю пластинок, 17–75 × 2,5–6 мкм, циліндричні, веретеноподібні або ниткоподібні, на верхівці часто роздвоєні або з виростами; плевроцистиди розміром 17–50 × 3–4,5 мкм, веретеноподібні до булавоподібних, розсіяні або в пучках.",
+      "stipe": "Коротка й кремезна, завдовжки 0,3–2 см і завтовшки 0,2–0,8 см, прикріплена до шапинки боком або ексцентрично й звужена донизу до деревини. Блідо-палева, матово-біла або вохристо-жовта, у зовсім молодих плодових тіл гладенька, а невдовзі вкрита тонкими шовковистими волоконцями або висівкоподібними лусочками, як на шапинці. Без кільця та піхви.",
+      "flesh": "Тонкий, жорсткий, гнучкий і шкірястий, білуватий до кремового або блідо-жовто-коричневого, при висиханні твердне, а після зволоження знову стає м'якшим. На зрізі кольору не змінює. Запах невиразний або слабко приємний; смак у більшості зборів сильно гіркий, пекучий і терпкий, хоча іноді буває м'яким.",
+      "sporePrint": "Білий. Базидіоспори гладенькі, гіалінові, еліпсоїдні до злегка ковбасоподібних (субалантоїдних), амілоїдні (у реактиві Мельцера забарвлюються слабко або виразно синювато-чорно) і мають розміри 2,5–6 × 1,5–3 мкм.",
+      "habitat": "Сапротрофний на мертвій деревині листяних дерев — особливо дуба, бука звичайного та берези, а також вільхи, клена, граба, ліщини, гікорі, каштана та ясена — і рідко на хвойних, таких як сосна; іноді заселяє рани на живих деревах. Плодоносить густими черепичастими ярусами на пнях, повалених стовбурах і гілках у лісах, парках і живоплотах, викликаючи білу гниль деревини. Плодові тіла можна знайти цілорічно з січня по грудень, оскільки вони довговічні й оживають після дощу, причому поява свіжих плодових тіл досягає піку восени та на початку зими (з вересня по листопад) і під час м'яких весняних чи зимових періодів.",
+      "uses": "Неїстівний через жорстку, шкірясту консистенцію, дрібний розмір і дуже гіркий, терпкий смак. Хоча загалом його не вважають отруйним, у деяких регіонах після споживання повідомлялося про блювання або розлади травлення. Історично застосовувався в традиційній китайській медицині як кровоспинний засіб та сильне проносне.",
+      "confusion": "Crepidotus mollis та інші види роду Crepidotus утворюють схожі дрібні, світлі, віялоподібні плодові тіла на мертвій листяній деревині, але вони м'якші, сидячі або майже без ніжки й дають коричневий, а не білий споровий порошок. Schizophyllum commune має густо опушену білу до сіруватої шапинку та поздовжньо розщеплені пластинкоподібні складки замість справжніх густих пластинок. Sarcomyxa serotina більша, має зеленувато-оливкові до жовтувато-оливкових шапинки з желатинозним шаром під шкіркою та пластинки без виразних поперечних жилок. Tapinella panuoides не має чіткої ніжки, має жовто-оранжеві, розгалужені, збіжні пластинкоподібні складки й утворює значно більші жовто-коричневі спори. Panellus mitis менший, блідіший, білуватий до рожевувато-палевого, має м'який, а не гіркий смак і росте переважно на хвойній деревині. Panus rudis більший, сильніше опушений і має червонувато-коричневі до рожевувато-коричневих шапинки з бузковим відтінком у молодості.",
+      "notes": "Біолюмінесценція різниться географічно: штами зі східної частини Північної Америки зазвичай випромінюють слабке зеленувато-жовте світло (з максимумом близько 525–528 нм) як із пластинок, так і з міцелію, що контролюється одним домінантним алелем, тоді як зразки з Європи, тихоокеанського узбережжя Північної Америки, Росії, Японії та Нової Зеландії зазвичай не світяться (причому нелюмінесцентні штами трапляються й у східній Північній Америці). Як гриб білої гнилі, що розкладає лігнін за допомогою лакази та пероксидаз, він досліджується для біоремедіації фенольних стічних вод оливкового виробництва, поліхлорованих діоксинів і накопичення важких металів, а також як біолюмінесцентний біосенсор токсичності ґрунту.",
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/Panellus_stipticus"
+      ]
+    },
+    "zh": {
+      "label": "鱗皮扇菇",
+      "wikipedia": "https://zh.wikipedia.org/wiki/%E9%B1%97%E7%9A%AE%E6%89%87%E8%8F%87",
+      "description": "一種分布廣泛、質地堅韌的木腐傘菌，在歐洲、北美洲、亞洲、北非、澳洲與紐西蘭的枯死闊葉樹倒木、樹樁與枯枝上成群緊密覆瓦狀叢生。主要行腐生生活並造成白色腐朽，其耐久且遇水能復甦的子實體可全年存留。",
+      "cap": "菌蓋直徑0.5–4 cm，呈凸面至近扁平，輪廓為腎形、蛤殼形或扇形；幼時邊緣內捲，隨成熟變為波狀、裂瓣狀或微具圓齒。乾燥的上表面呈細絨毛狀至糠狀鱗片或略帶綿毛，有時具微弱的同心環紋，老熟時常起皺或龜裂成鱗片；潮濕天氣下菌蓋表皮可能略具黏性。新鮮菌蓋呈赭黃色、黃橙色至淺黃褐色、茶褐色或肉桂褐色，乾燥時褪為黏土色或灰白色，遇雨可重新復甦。氫氧化鉀（KOH）在菌蓋表面呈陰性至灰褐色反應。",
+      "hymenium": "菌褶狹窄而密，淺茶褐色至肉桂褐色，其間夾雜許多短菌褶，常分叉並在基部以纖細的橫脈（網脈）相互連結，於菌褶與菌柄交接處以一條銳利的分界線戛然而止。在北美洲東部的菌株中，菌褶邊緣、橫脈以及菌褶與菌柄的交界處在完全黑暗中常發出微弱的黃綠色螢光。擔子棍棒狀，15–25 × 2–3.5 µm，具四枚孢子及基部扣子體。緣生囊狀體豐富且密集排列於帶黏性的菌褶邊緣，17–75 × 2.5–6 µm，圓柱形、紡錘形或絲狀，頂端常分叉或具小突起；側生囊狀體17–50 × 3–4.5 µm，紡錘形至棍棒狀，散生或成束。",
+      "stipe": "菌柄短而粗壯，長0.3–2 cm、粗0.2–0.8 cm，側生或偏生於菌蓋，向下朝基木漸細。呈淺黃褐色、暗白色或赭黃色，極幼時平滑，不久即覆蓋與菌蓋相似的細絲狀纖毛或糠狀鱗片。無菌環及菌托。",
+      "flesh": "菌肉薄而堅韌、富彈性且呈革質，帶白色至奶油色或淡黃褐色，乾燥時變硬，受潮後再次軟化。切開後不變色。氣味不明顯或略帶清香；多數採集標本味道極苦、辛辣且具強烈收斂性，偶爾較溫和。",
+      "sporePrint": "白色。擔孢子平滑、無色透明，橢圓形至略呈香腸形（亞香腸形），具澱粉質反應（於梅氏試劑中呈微弱至明顯的藍黑色），大小為2.5–6 × 1.5–3 µm。",
+      "habitat": "腐生於闊葉樹枯木上——尤其是橡樹、歐洲山毛櫸與樺樹，亦見於榿木、楓樹、鵝耳櫪、榛樹、山核桃、栗樹與白蠟樹——罕見於松樹等針葉樹，偶爾亦會定殖於活樹傷口處。於森林、公園與樹籬中的樹樁、倒木和枯枝上密生覆瓦狀層群，引起白色腐朽。由於子實體耐久且雨後能復甦，全年1月至12月皆可見到，而新鮮出菇高峰期在秋季至初冬（9月至11月）以及溫和的春季或冬季期間。",
+      "uses": "因質地堅韌革質、體型細小且味道極苦澀，屬於不可食菇類。雖一般認為無毒，但部分地區曾有誤食後引起嘔吐或腸胃不適的報告。歷史上在傳統中醫中曾作為止血藥與強力瀉藥使用。",
+      "confusion": "軟靴耳（Crepidotus mollis）及其他靴耳屬（Crepidotus）物種亦在闊葉樹枯木上形成類似的小型、淡色扇形子實體，但質地較軟、無柄或近無柄，且孢子印為褐色而非白色。裂褶菌（Schizophyllum commune）具有密被白至灰色粗毛的菌蓋，以及縱向開裂的類菌褶皺褶，而非真正密集的菌褶。晚生亞側耳（Sarcomyxa serotina）體型較大，菌蓋呈綠橄欖色至黃橄欖色且表皮下具膠質層，菌褶亦無明顯橫脈。扇形樁菇（Tapinella panuoides）缺乏明顯菌柄，具黃橙色、分叉且延生的類菌褶皺褶，並產生大得多的黃褐色孢子。溫和扇菇（Panellus mitis）體型更小，色澤較淡呈帶白色至粉淺黃褐色，味溫和而不苦，且主要生長於針葉樹枯木上。粗毛革耳（Panus rudis）體型較大、毛被更密，幼時菌蓋呈紅褐色至粉茶褐色並帶淡紫色調。",
+      "notes": "生物發光具有地理差異：北美洲東部的菌株通常由單一顯性等位基因控制，菌褶與菌絲體皆會發出微弱的黃綠色光（峰值約在525–528 nm），而歐洲、北美洲太平洋沿岸、俄羅斯、日本與紐西蘭的採集標本通常不發光（北美洲東部亦存在不發光菌株）。作為能分泌漆酶與過氧化酶的木質素分解白腐菌，已被研究應用於含酚橄欖油廠廢水與多氯戴奧辛的生物修復、重金屬累積，以及基於生物發光的土壤毒性生物感測器。",
+      "sourceUrls": [
+        "https://zh.wikipedia.org/wiki/%E9%B1%97%E7%9A%AE%E6%89%87%E8%8F%87"
+      ]
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus stipticus",
+      "author": "Bull.",
+      "year": 1783,
+      "rank": "species",
+      "type": "basionym",
+      "if": 234413
+    },
+    {
+      "name": "Merulius stipticus",
+      "author": "(Bull.) Lam.",
+      "year": 1815,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Crepidopus stipticus",
+      "author": "(Bull.) Gray",
+      "year": 1821,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Rhipidium stipticum",
+      "author": "(Bull.) Wallr.",
+      "year": 1833,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Panus stipticus",
+      "author": "(Bull.) Fr.",
+      "year": 1838,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Pleurotus stipticus",
+      "author": "(Bull.) P. Kumm.",
+      "year": 1871,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Lentinus stipticus",
+      "author": "(Bull.) J. Schröt.",
+      "year": 1889,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Pocillaria stiptica",
+      "author": "(Bull.) Kuntze",
+      "year": 1898,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Pleuropus stipticus",
+      "author": "(Bull.) Zawadzki",
+      "year": 1835,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Agaricus lateralis",
+      "author": "Schaeff.",
+      "year": 1774,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Agaricus semipetiolatus",
+      "author": "Lightf.",
+      "year": 1777,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Agaricus flabelliformis",
+      "author": "J.F. Gmel.",
+      "year": 1792,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Agaricus farinaceus",
+      "author": "Schumach.",
+      "year": 1803,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Panus farinaceus",
+      "author": "(Schumach.) Fr.",
+      "year": 1838,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Panus schultzii",
+      "author": "Kalchbr.",
+      "year": 1874,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Panellus farinaceus",
+      "author": "(Schumach.) P. Karst.",
+      "year": 1879,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Panus semipetiolatus",
+      "author": "(Schaeff.) Sacc.",
+      "year": 1887,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Paxillus lateralis",
+      "author": "(Schaeff.) Sacc.",
+      "year": 1887,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Lentinus farinaceus",
+      "author": "(Schumach.) Henn.",
+      "year": 1898,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Panus albidotomentosus",
+      "author": "(Cooke & Massee) McIlv. & Macadam",
+      "year": 1900,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Panellus stipticus var. albidotomentosus",
+      "author": "(Cooke & Massee) Z.S. Bi",
+      "year": 1987,
+      "rank": "variety",
+      "type": "heterotypic",
+      "if": 127147
+    },
+    {
+      "name": "Panellus stipticus var. farinaceus",
+      "author": "(Schumach.) Rea",
+      "year": 1922,
+      "rank": "variety",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Panellus stipticus var. albus",
+      "author": "(Bres.) P. Roux",
+      "year": 2006,
+      "rank": "variety",
+      "type": "heterotypic"
+    }
+  ],
+  "reserved": false,
+  "id": 247,
+  "citation": "Hattsvampar 14: fig. 172 (1879) [Bidr. Känn. Finl. Nat. Folk 32: 96]"
 }
 ];

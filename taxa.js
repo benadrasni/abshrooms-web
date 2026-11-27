@@ -1233,5 +1233,22 @@ export const TAXA = {
   },
   Daedaleopsis: {
     rank: "genus"
+  },
+  Stereaceae: {
+    rank: "family",
+    sk: "pevníkovité",
+    de: "Schichtpilzverwandte"
+  },
+  Stereum: {
+    rank: "genus",
+    sk: "pevník",
+    cs: "pevník",
+    de: "Schichtpilze"
+  },
+  Panellus: {
+    rank: "genus",
+    sk: "pňovka",
+    cs: "pařezník",
+    de: "Zwergknäuelinge"
   }
 };
