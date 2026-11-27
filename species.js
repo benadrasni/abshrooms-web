@@ -249245,5 +249245,1920 @@ export const CATALOG = [
   "reserved": false,
   "id": 247,
   "citation": "Hattsvampar 14: fig. 172 (1879) [Bidr. Känn. Finl. Nat. Folk 32: 96]"
+},
+{
+  "name": "Gloeophyllum sepiarium",
+  "author": "(Wulfen) P. Karst.",
+  "family": "Gloeophyllaceae",
+  "genus": "Gloeophyllum",
+  "order": "Gloeophyllales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Incertae sedis",
+    "Gloeophyllales",
+    "Gloeophyllaceae",
+    "Gloeophyllum"
+  ],
+  "summary": [
+    "Gloeophyllales",
+    "Gloeophyllaceae",
+    "Gloeophyllum"
+  ],
+  "edibility": "inedible",
+  "hymenium": "gills",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "yellow",
+    "brown",
+    "dark"
+  ],
+  "capFrom": 2.0,
+  "capTo": 12.0,
+  "fruitingFrom": 1,
+  "fruitingTo": 12,
+  "label": {
+    "en": "conifer mazegill",
+    "cs": "trámovka plotní",
+    "da": "fyrre-korkhat",
+    "de": "Zaun-Blättling",
+    "et": "mustjas kõrbik",
+    "fi": "aidaskääpä",
+    "fr": "lenzite des clôtures",
+    "hu": "cifra lemezestapló",
+    "nl": "geelbruine plaatjeshoutzwam",
+    "no": "vedmusling",
+    "pl": "niszczyca płotowa",
+    "ru": "трутовик заборный",
+    "sk": "trámovka plotová",
+    "sl": "sivorjava tramovka",
+    "sv": "vedmussling"
+  },
+  "names": {
+    "en": [
+      "rusty gilled polypore"
+    ],
+    "et": [
+      "pruun kõrbik"
+    ],
+    "fr": [
+      "polypore des clôtures",
+      "gloeophylle des haies"
+    ],
+    "ru": [
+      "глеофиллум заборный"
+    ]
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=356810",
+        "detail": "356810"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum",
+        "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=356810",
+        "detail": "356810"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/5249253",
+        "detail": "5249253"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q12951866"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Gloeophyllum_sepiarium"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/gloeophyllum-sepiarium.php"
+      },
+      {
+        "group": "text",
+        "name": "MushroomExpert",
+        "href": "https://www.mushroomexpert.com/gloeophyllum_sepiarium.html"
+      },
+      {
+        "group": "text",
+        "name": "Myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Gloeophyllum-sepiarium/"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Zaun-Bl%C3%A4ttling",
+        "detail": "de"
+      }
+    ],
+    "cs": [
+      {
+        "group": "text",
+        "name": "Myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Gloeophyllum-sepiarium/"
+      }
+    ],
+    "de": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Zaun-Bl%C3%A4ttling"
+      }
+    ],
+    "es": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://es.wikipedia.org/wiki/Gloeophyllum_sepiarium"
+      }
+    ],
+    "et": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://et.wikipedia.org/wiki/Mustjas_k%C3%B5rbik"
+      }
+    ],
+    "fi": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://fi.wikipedia.org/wiki/Aidask%C3%A4%C3%A4p%C3%A4"
+      }
+    ],
+    "fr": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://fr.wikipedia.org/wiki/Lenzite_des_cl%C3%B4tures"
+      }
+    ],
+    "hu": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://hu.wikipedia.org/wiki/Cifra_lemezestapl%C3%B3"
+      }
+    ],
+    "nl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://nl.wikipedia.org/wiki/Geelbruine_plaatjeshoutzwam"
+      }
+    ],
+    "pl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://pl.wikipedia.org/wiki/Niszczyca_p%C5%82otowa"
+      }
+    ],
+    "ru": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D1%82%D0%BE%D0%B2%D0%B8%D0%BA_%D0%B7%D0%B0%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9"
+      }
+    ],
+    "sl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://sl.wikipedia.org/wiki/Sivorjava_tramovka"
+      }
+    ],
+    "sv": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://sv.wikipedia.org/wiki/Vedmussling"
+      }
+    ]
+  },
+  "added": "2026-11-27",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Gloeophyllales/Gloeophyllaceae/Gloeophyllum_sepiarium/Gloeophyllum_sepiarium@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Gloeophyllales/Gloeophyllaceae/Gloeophyllum_sepiarium/Gloeophyllum_sepiarium@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "license": "All rights reserved",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Gloeophyllales/Gloeophyllaceae/Gloeophyllum_sepiarium/Gloeophyllum_sepiarium@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Gloeophyllales/Gloeophyllaceae/Gloeophyllum_sepiarium/Gloeophyllum_sepiarium_1.webp",
+      "author": "NobbiP",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Baumstumpf_mit_Zaun-Bl%C3%A4ttling_Gloeophyllum_sepiarium_4077.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Gloeophyllales/Gloeophyllaceae/Gloeophyllum_sepiarium/Gloeophyllum_sepiarium_2.webp",
+      "author": "Zinnmann",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:20161225_Gloeophyllum_sepiarium_1.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Gloeophyllales/Gloeophyllaceae/Gloeophyllum_sepiarium/Gloeophyllum_sepiarium_3.webp",
+      "author": "Jerzy Opioła",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Gloelophyllum_sepiarium_G1.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Gloeophyllales/Gloeophyllaceae/Gloeophyllum_sepiarium/Gloeophyllum_sepiarium_4.webp",
+      "author": "Ryan Hodnett",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Conifer_Mazegill_(Gloeophyllum_sepiarium)_-_Algonquin_Provincial_Park,_Ontario_2015-09-21.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Gloeophyllales/Gloeophyllaceae/Gloeophyllum_sepiarium/Gloeophyllum_sepiarium_5.webp",
+      "author": "Ryan Hodnett",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fungi_-_Oslo,_Norway_2020-08-14_(02).jpg"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Gloeophyllales/Gloeophyllaceae/Gloeophyllum_sepiarium/Gloeophyllum_sepiarium@1600.webp",
+      "author": "Gemini",
+      "license": "All rights reserved",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Gloeophyllales/Gloeophyllaceae/Gloeophyllum_sepiarium/Gloeophyllum_sepiarium@1600.webp"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Gloeophyllales/Gloeophyllaceae/Gloeophyllum_sepiarium/Gloeophyllum_sepiarium_1.webp",
+      "author": "NobbiP",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baumstumpf_mit_Zaun-Bl%C3%A4ttling_Gloeophyllum_sepiarium_4077.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Gloeophyllales/Gloeophyllaceae/Gloeophyllum_sepiarium/Gloeophyllum_sepiarium_2.webp",
+      "author": "Zinnmann",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20161225_Gloeophyllum_sepiarium_1.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Gloeophyllales/Gloeophyllaceae/Gloeophyllum_sepiarium/Gloeophyllum_sepiarium_3.webp",
+      "author": "Jerzy Opioła",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gloelophyllum_sepiarium_G1.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Gloeophyllales/Gloeophyllaceae/Gloeophyllum_sepiarium/Gloeophyllum_sepiarium_4.webp",
+      "author": "Ryan Hodnett",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Conifer_Mazegill_(Gloeophyllum_sepiarium)_-_Algonquin_Provincial_Park,_Ontario_2015-09-21.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Gloeophyllales/Gloeophyllaceae/Gloeophyllum_sepiarium/Gloeophyllum_sepiarium_5.webp",
+      "author": "Ryan Hodnett",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fungi_-_Oslo,_Norway_2020-08-14_(02).jpg"
+    }
+  ],
+  "text": {
+    "en": {
+      "label": "conifer mazegill",
+      "names": [
+        "rusty gilled polypore"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Gloeophyllum_sepiarium",
+      "description": "A tough, leathery, wood-decaying bracket fungus that grows in overlapping shelves or rows on dead conifer wood and exposed outdoor timber, causing an intense cubical brown rot. Widespread across the temperate Northern Hemisphere, including Europe, North America, and northern Asia, it also occurs in South America and parts of Africa.",
+      "cap": "Fruit bodies are sessile, annual or reviving to persist for more than one year, and typically 2–12 cm wide (occasionally 1.5–15 cm) and up to 1 cm thick, reaching 2 cm at the attachment. Side-attached brackets are semicircular, fan-shaped, or kidney-shaped and often fuse laterally in shelving tiers emerging from cracks in the wood; specimens on stump tops can form irregular rosettes, and those on the underside of logs may lie flat and resupinate. The rugged, concentrically zoned and wavy-furrowed upper surface is velvety to coarsely hairy at first, smoothing and darkening with age. Young caps and actively growing margins are bright yellow to golden-orange, giving way inward to rusty-brown, deep sepia, or nearly black, and weathering greyish in sun-exposed old specimens.",
+      "hymenium": "Although classified among the polypores, the underside bears thick-walled, radially arranged, gill-like lamellae (15–20 per cm at the margin) that frequently fork and interconnect into elongated, maze-like slots up to 1 cm deep and about 2 mm wide. The lamellae are pale ochre-yellow when fresh and darken to rusty-brown or dark brown with age. The hyphal system is trimitic, with clamped generative hyphae, thick-walled skeletal hyphae, and sparse binding hyphae. Basidia are narrowly club-shaped, four-spored, and 18–40 × 4.5–7 µm (occasionally elongated up to 110 µm); cylindrical cystidia are frequent, thin- to thick-walled, and 25–95 × 3–7 µm (up to 100 × 10 µm).",
+      "stipe": "Absent; the bracket attaches broadly and directly to the wood.",
+      "flesh": "Thin, tough, leathery to corky, dark rusty-brown to dark yellow-brown, turning black immediately with potassium hydroxide (KOH). The odour is indistinct and the taste is mild.",
+      "sporePrint": "White. Spores are cylindrical to slightly curved (allantoid), smooth, hyaline, inamyloid, and measure 8–13 × 3–5 µm.",
+      "habitat": "Saprotrophic on dead, often barkless conifer wood—most commonly spruce (Picea) and pine (Pinus), as well as fir (Abies), larch (Larix), juniper (Juniperus), cypress (Cupressus), Douglas-fir (Pseudotsuga), and hemlock (Tsuga)—and rarely on hardwoods such as alder, birch, beech, aspen, oak, or willow. It thrives on dry, sun- and wind-exposed stumps, fallen trunks, fence posts, beams, benches, and untreated structural lumber. Fruit bodies persist year-round, with active growth and spore production mainly from May to December.",
+      "uses": "Inedible; the tough, corky texture makes it unsuitable for the kitchen, though it is not considered poisonous.",
+      "confusion": "Gloeophyllum abietinum has a warm brown cap without a bright yellow-orange growing margin and more widely spaced lamellae (8–13 per cm at the margin) with thicker walls up to 1 mm. Gloeophyllum trabeum has a smoother, paler, softer cap and denser, strongly anastomosing labyrinthine pores (2–4 per mm) and occurs more often on hardwoods. Gloeophyllum odoratum develops round to angular pores rather than gill-like lamellae and has a strong anise odour when actively growing. Trametes betulina has thinner white to cream gills, paler greyish-banded caps, and grows on hardwoods such as birch. Daedaleopsis confragosa has paler, smoother caps and whitish to pinkish-brown bruising pores on hardwoods, while Daedalea quercina forms thicker, pale cork-coloured brackets with wide-walled maze-like pores mainly on oak.",
+      "notes": "An important and destructive brown-rot timber fungus that readily colonises untreated outdoor woodwork such as fences, railings, roof beams, and garden structures, though pressure-treated softwood resists colonisation. Because its mycelium first decays the moister interior of sun-heated timber and produces brackets relatively late, structural damage is often advanced before fruit bodies appear. It is heterothallic with a bipolar mating system.",
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=356810",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=356810",
+        "https://www.gbif.org/species/5249253",
+        "https://www.wikidata.org/wiki/Q12951866",
+        "https://en.wikipedia.org/wiki/Gloeophyllum_sepiarium",
+        "https://www.first-nature.com/fungi/gloeophyllum-sepiarium.php",
+        "https://www.mushroomexpert.com/gloeophyllum_sepiarium.html",
+        "https://www.myko.cz/myko-atlas/Gloeophyllum-sepiarium/",
+        "https://de.wikipedia.org/wiki/Zaun-Bl%C3%A4ttling"
+      ]
+    },
+    "ar": {
+      "description": "فطر رفّي قاسٍ وجلدي محلِّل للخشب ينمو في رفوف متراكبة أو صفوف على أخشاب الصنوبريات الميتة والأخشاب المكشوفة في الهواء الطلق، مسبّباً تعفّناً بنّياً مكعّباً شديداً. ينتشر على نطاق واسع في المناطق المعتدلة من نصف الكرة الشمالي، بما في ذلك أوروبا وأمريكا الشمالية وشمال آسيا، كما يوجد في أمريكا الجنوبية وأجزاء من أفريقيا.",
+      "cap": "الأجسام الثمرية جالسة (بلا ساق)، حولية أو تتجدد لتدوم أكثر من عام واحد، ويتراوح عرضها عادة بين ٢–١٢ سم (وأحياناً ١٫٥–١٥ سم) ويصل سمكها إلى ١ سم، وقد يبلغ ٢ سم عند موضع الاتصال. تكون الرفوف المتصلة جانبياً نصف دائرية أو مروحية أو كلوية الشكل، وغالباً ما تلتحم جانبياً في طبقات متدرجة تنبثق من شقوق الخشب؛ وقد تشكّل العينات النامية على قمم الجذوع وريدات غير منتظمة، بينما قد تنبسط العينات الموجودة على الجانب السفلي من الجذوع وتلتصق به بالكامل. السطح العلوي خشن ذو نطاقات متحدة المركز وأخاديد متموجة، مخملي إلى خشن الشعر في البداية ثم يصبح أكثر ملاسة وأغمق لوناً مع التقدم في العمر. تكون القبعات الفتية والحواف النشطة النمو صفراء زاهية إلى برتقالية ذهبية، وتتحول نحو الداخل إلى بنّي صدئ أو بني داكن عميق (سيبيا) أو شبه أسود، وتكتسب لوناً رمادياً بفعل العوامل الجوية في العينات القديمة المعرضة للشمس.",
+      "hymenium": "على الرغم من تصنيفه ضمن الفطريات المسامية، يحمل الجانب السفلي صفائح سميكة الجدران ومرتبة شعاعياً تشبه الصفائح الحقيقية (١٥–٢٠ صفيحة لكل سم عند الحافة)، كثيراً ما تتفرع وتترابط مكوّنة شقوقاً متطاولة شبيهة بالمتاهة يصل عمقها إلى ١ سم وعرضها نحو ٢ مم. تكون الصفائح صفراء مغرية باهتة عندما تكون طازجة وتغمق إلى بنّي صدئ أو بنّي داكن مع التقدم في العمر. النظام الخيطي ثلاثي الخيوط (تريميتي)، يضم خيوطاً مولّدة ذات مشابك، وخيوطاً هيكلية سميكة الجدران، وخيوطاً رابطة متفرقة. الدعامات (الباسيديومات) ضيقة هراوية الشكل، رباعية الأبواغ، وأبعادها ١٨–٤٠ × ٤٫٥–٧ ميكرومتر (وقد تستطيل أحياناً حتى ١١٠ ميكرومتر)؛ وتكثر السيستيدات الأسطوانية، رقيقة إلى سميكة الجدران، بأبعاد ٢٥–٩٥ × ٣–٧ ميكرومتر (وتصل إلى ١٠٠ × ١٠ ميكرومتر).",
+      "stipe": "غائبة؛ يتصل الرف مباشرة وبمساحة عريضة بالخشب.",
+      "flesh": "رقيق، قاسٍ، جلدي إلى فليني، لونه بنّي صدئ داكن إلى بنّي مصفر داكن، ويسودّ فوراً عند ملامسة هيدروكسيد البوتاسيوم (KOH). الرائحة غير مميزة والطعم معتدل.",
+      "sporePrint": "أبيض. الأبواغ أسطوانية إلى منحنية قليلاً (مقوّسة)، ملساء، شفافة، غير نشوية (غير أميلويدية)، وتقيس ٨–١٣ × ٣–٥ ميكرومتر.",
+      "habitat": "فطر رمّي ينمو على أخشاب الصنوبريات الميتة وغالباً الخالية من اللحاء، وأكثرها شيوعاً التنوب (Picea) والصنوبر (Pinus)، وكذلك الشوح (Abies) والأرزية (Larix) والعرعر (Juniperus) والسرو (Cupressus) والتنوب الدوغلاسي (Pseudotsuga) والشوكران (Tsuga)، ونادراً على الأخشاب الصلبة مثل النغت والبتولا والزان والحور الرجراج والبلوط والصفصاف. يزدهر على الجذوع الجافة المعرضة للشمس والرياح، والجذوع الساقطة، وأعمدة السياج، والعوارض، والمقاعد، والأخشاب الإنشائية غير المعالجة. تبقى الأجسام الثمرية قائمة على مدار العام، بينما يتركز النمو النشط وإنتاج الأبواغ أساساً من مايو إلى ديسمبر.",
+      "uses": "غير صالح للأكل؛ إذ يجعل قوامه القاسي الفليني غير مناسب للاستخدام في المطبخ، على الرغم من أنه لا يُعدّ ساماً.",
+      "confusion": "يتميز Gloeophyllum abietinum بقبعة بنية دافئة تفتقر إلى الحافة الصفراء البرتقالية الزاهية النشطة النمو، وبصفائح أكثر تباعداً (٨–١٣ صفيحة لكل سم عند الحافة) ذات جدران أكثر سمكاً تصل إلى ١ مم. أما Gloeophyllum trabeum فله قبعة أكثر ملاسة وشحوباً ونعومة، ومسام متاهية أكثر كثافة وترابطاً (٢–٤ لكل مم)، وينمو غالباً على الأخشاب الصلبة. بينما يكوّن Gloeophyllum odoratum مساماً مستديرة إلى مضلعة بدلاً من الصفائح، وله رائحة يانسون قوية أثناء النمو النشط. ولدى Trametes betulina صفائح أرق بيضاء إلى كريمية وقبعات أبهت ذات نطاقات رمادية، وينمو على الأخشاب الصلبة مثل البتولا. ويحمل Daedaleopsis confragosa قبعات أبهت وأكثر ملاسة ومساماً بيضاء تتحول إلى بنّي وردي عند الكدم على الأخشاب الصلبة، في حين يشكّل Daedalea quercina رفوفاً أكثر سمكاً بلون الفلين الباهت ومساماً متاهية عريضة الجدران، غالباً على البلوط.",
+      "notes": "فطر خشبي مهم ومخرّب يسبّب التعفّن البني ويستعمر بسهولة الأعمال الخشبية الخارجية غير المعالجة مثل الأسوار والدرابزين وعوارض الأسقف ومنشآت الحدائق، غير أن الأخشاب اللينة المعالجة بالضغط تقاوم الاستعمار. ونظراً لأن غزله الفطري يحلّل أولاً الداخل الأكثر رطوبة من الخشب المسخّن بالشمس ولا ينتج الرفوف إلا في مرحلة متأخرة نسبياً، فإن الضرر البنيوي غالباً ما يكون متقدماً قبل ظهور الأجسام الثمرية. وهو فطر متغاير الثالوس ذو نظام تزاوج ثنائي القطب.",
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Жилава, кожеста дърворазрушаваща гъба с конзолни плодни тела, която расте на припокриващи се етажи или редици върху мъртва иглолистна дървесина и изложен на открито дървен материал, причинявайки интензивно кубично кафяво гниене. Широко разпространена в умерения пояс на Северното полукълбо, включително Европа, Северна Америка и Северна Азия, тя се среща също в Южна Америка и части от Африка.",
+      "cap": "Плодните тела са приседнали, едногодишни или се възобновяват и оцеляват повече от една година, обикновено широки 2–12 см (понякога 1,5–15 см) и дебели до 1 см, достигайки 2 см при основата на прикрепване. Странично прикрепените конзоли са полукръгли, ветрилообразни или бъбрековидни и често се срастват странично в стъпаловидни редици, излизащи от пукнатини в дървесината; екземплярите върху горната част на пъновете могат да образуват неправилни розетки, а тези от долната страна на трупите могат да лежат плоско и ресупинатно. Грапавата, концентрично зонирана и вълнообразно набраздена горна повърхност отначало е кадифена до грубо влакнеста, а с възрастта се изглажда и потъмнява. Младите гугли и активно растящите ръбове са ярко жълти до златистооранжеви, преминавайки навътре в ръждивокафяво, тъмносепийно или почти черно, а при старите, изложени на слънце екземпляри избледняват до сивкаво.",
+      "hymenium": "Макар да е класифицирана сред полипоровите гъби, долната страна носи дебелостенни, радиално разположени ламели (15–20 на см при ръба), които често се разклоняват и свързват помежду си в удължени, лабиринтовидни цепнатини, дълбоки до 1 см и широки около 2 мм. Ламелите са бледо охреножълти в свежо състояние и потъмняват до ръждивокафяви или тъмнокафяви с възрастта. Хифалната система е тримитична, с генеративни хифи с катарами, дебелостенни скелетни хифи и оскъдни свързващи хифи. Базидиите са тясно бухалковидни, четириспорови, с размери 18–40 × 4,5–7 µm (понякога удължени до 110 µm); цилиндричните цистиди са чести, тънко- до дебелостенни, с размери 25–95 × 3–7 µm (до 100 × 10 µm).",
+      "stipe": "Отсъства; конзолата е широко и директно прикрепена към дървесината.",
+      "flesh": "Тънко, жилаво, кожесто до корково, тъмно ръждивокафяво до тъмно жълтокафяво, почерняващо незабавно при контакт с калиев хидроксид (KOH). Миризмата е неизразителна, а вкусът е мек.",
+      "sporePrint": "Бял. Спорите са цилиндрични до леко извити (алантоидни), гладки, безцветни (хиалинни), неамилоидни и са с размери 8–13 × 3–5 µm.",
+      "habitat": "Сапротрофна върху мъртва, често обелена иглолистна дървесина — най-често смърч (Picea) и бор (Pinus), както и ела (Abies), лиственица (Larix), хвойна (Juniperus), кипарис (Cupressus), дугласка ела (Pseudotsuga) и цуга (Tsuga) — и рядко върху широколистни дървета като елша, бреза, бук, трепетлика, дъб или върба. Развива се добре върху сухи, изложени на слънце и вятър пънове, паднали стволове, оградни колове, греди, пейки и необработен строителен дървен материал. Плодните тела се запазват целогодишно, като активният растеж и спорообразуването протичат главно от май до декември.",
+      "uses": "Неядлива; жилавата, коркова консистенция я прави негодна за кулинарна употреба, въпреки че не се смята за отровна.",
+      "confusion": "Gloeophyllum abietinum има топло кафява гугла без ярко жълто-оранжев растящ ръб и по-разредени ламели (8–13 на см при ръба) с по-дебели стени до 1 мм. Gloeophyllum trabeum има по-гладка, по-бледа и по-мека гугла и по-гъсти, силно анастомозиращи лабиринтовидни пори (2–4 на мм), като се среща по-често върху широколистна дървесина. Gloeophyllum odoratum образува кръгли до ъгловати пори вместо ламели и има силна миризма на анасон при активен растеж. Trametes betulina има по-тънки бели до кремави ламели, по-бледи сивкаво-ивичести гугли и расте върху широколистни дървета като бреза. Daedaleopsis confragosa има по-бледи, по-гладки гугли и белезникави пори, които при нараняване стават розово-кафяви, върху широколистни дървета, докато Daedalea quercina образува по-дебели, бледи коркови конзоли с широкостенни лабиринтовидни пори главно върху дъб.",
+      "notes": "Важна и разрушителна гъба на кафявото гниене на дървесината, която лесно колонизира необработени външни дървени конструкции като огради, парапети, покривни греди и градински съоръжения, макар че импрегнираната под налягане иглолистна дървесина устоява на колонизацията. Тъй като мицелът ѝ първо разгражда по-влажната вътрешност на нагрятата от слънцето дървесина и образува плодни тела сравнително късно, структурните повреди често са вече напреднали преди появата на конзолите. Видът е хетероталичен с биполярна система на чифтосване.",
+      "sourceUrls": []
+    },
+    "cs": {
+      "label": "trámovka plotní",
+      "description": "Pevná, kožovitá dřevokazná chorošovitá houba, která roste ve střechovitě uspořádaných skupinách nebo řadách na odumřelém dřevě jehličnanů a na exponovaném venkovním řezivu, kde způsobuje intenzivní kostkovitou hnědou hnilobu. Je široce rozšířená v mírném pásmu severní polokoule včetně Evropy, Severní Ameriky a severní Asie a vyskytuje se také v Jižní Americe a částech Afriky.",
+      "cap": "Plodnice jsou přisedlé, jednoleté nebo ožívající a vytrvávající déle než jeden rok, obvykle 2–12 cm široké (výjimečně 1,5–15 cm) a až 1 cm tlusté, v místě přirostění dosahující 2 cm. Bokem přirostlé klobouky jsou polokruhovité, vějířovité nebo ledvinovité a často bočně srůstají do patrovitých řad vyrůstajících z prasklin ve dřevě; plodnice na řezných plochách pařezů mohou tvořit nepravidelné růžice a plodnice na spodní straně kmenů mohou ležet naplocho a být rozlité (resupinátní). Drsný, soustředně pásovaný a zvlněně brázditý svrchní povrch je v mládí sametový až hrubě plstnatý, stářím olysává a tmavne. Mladé klobouky a aktivně rostoucí okraje jsou jasně žluté až zlato-oranžové, směrem dovnitř přecházejí do rezavě hnědé, hluboce sépiové až téměř černé barvy a u starých plodnic vystavených slunci zvětrávají do šeda.",
+      "hymenium": "Ačkoli patří mezi chorošovité houby, spodní strana nese tlustostěnné, paprsčitě uspořádané lupenovité lišty (15–20 na cm při okraji), které se často větví a propojují v protáhlé labyrintické štěrbiny hluboké až 1 cm a široké kolem 2 mm. Za čerstva jsou bledě okrově žluté a stářím tmavnou do rezavě hnědé až tmavě hnědé. Hyfový systém je trimitický, s generativními hyfami s přezkami, tlustostěnnými skeletovými hyfami a řídkými vazebnými hyfami. Bazidie jsou úzce kyjovité, čtyřvýtrusné, velké 18–40 × 4,5–7 µm (ojediněle protažené až do 110 µm); válcovité cystidy jsou hojné, tenko- až tlustostěnné, 25–95 × 3–7 µm (až 100 × 10 µm).",
+      "stipe": "Chybí; plodnice přirůstá ke dřevu široce a přímo.",
+      "flesh": "Tenká, houževnatá, kožovitá až korkovitá, tmavě rezavě hnědá až tmavě žlutohnědá, s hydroxidem draselným (KOH) okamžitě černající. Vůně je nevýrazná a chuť mírná.",
+      "sporePrint": "Bílý. Výtrusy jsou válcovité až mírně zakřivené (alantoidní), hladké, hyalinní, neamyloidní a měří 8–13 × 3–5 µm.",
+      "habitat": "Saprotrofní na odumřelém, často odkorněném dřevě jehličnanů — nejčastěji na smrku (Picea) a borovici (Pinus), dále na jedli (Abies), modřínu (Larix), jalovci (Juniperus), cypřiši (Cupressus), douglasce (Pseudotsuga) a jedlovci (Tsuga) — a vzácně na listnáčích, jako je olše, bříza, buk, osika, dub nebo vrba. Daří se jí na suchých, slunci a větru vystavených pařezech, padlých kmenech, plotových sloupcích, trámech, lavičkách a neošetřeném stavebním řezivu. Plodnice vytrvávají celoročně, přičemž aktivní růst a tvorba výtrusů probíhají hlavně od května do prosince.",
+      "uses": "Nejedlá; houževnatá, korkovitá dužnina ji činí nevhodnou pro kuchyňské využití, ačkoli není považována za jedovatou.",
+      "confusion": "Gloeophyllum abietinum má teplohnědý klobouk bez jasně žlutooranžového rostoucího okraje a řidší lupeny (8–13 na cm při okraji) se silnějšími stěnami až do 1 mm. Gloeophyllum trabeum má hladší, bledší, měkčí klobouk a hustší, silně propojené labyrintické póry (2–4 na mm) a častěji se vyskytuje na listnáčích. Gloeophyllum odoratum tvoří okrouhlé až hranaté póry místo lupenovitých lišt a při aktivním růstu má silnou anýzovou vůni. Trametes betulina má tenčí bílé až krémové lupeny, bledší šedě pásované klobouky a roste na listnáčích, například na bříze. Daedaleopsis confragosa má bledší, hladší klobouky a bělavé póry, které po otlačení růžovohnědnou, a roste na listnáčích, zatímco Daedalea quercina tvoří silnější, světle korkově zbarvené plodnice se širokostěnnými labyrintickými póry hlavně na dubu.",
+      "notes": "Významná a destruktivní dřevokazná houba způsobující hnědou hnilobu, která snadno kolonizuje neošetřené venkovní dřevěné prvky, jako jsou ploty, zábradlí, střešní trámy a zahradní stavby, ačkoli tlakově impregnované měkké dřevo kolonizaci odolává. Protože její mycelium nejprve rozkládá vlhčí vnitřek sluncem zahřívaného dřeva a plodnice vytváří poměrně pozdě, bývá konstrukční poškození často pokročilé ještě před objevením plodnic. Je heterothalická s bipolárním systémem páření.",
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Gloeophyllum-sepiarium/"
+      ]
+    },
+    "da": {
+      "label": "fyrre-korkhat",
+      "description": "En sej, læderagtig, trænedbrydende poresvamp, som vokser i taglagte hylder eller rækker på dødt nåletræ og udsat udendørs tømmer, hvor den forårsager en kraftig kubisk brunmuld. Den er vidt udbredt i den tempererede del af den nordlige halvkugle, herunder Europa, Nordamerika og Nordasien, og forekommer desuden i Sydamerika og dele af Afrika.",
+      "cap": "Frugtlegemerne er siddende, enårige eller kan leve videre i mere end ét år, og er typisk 2–12 cm brede (af og til 1,5–15 cm) og op til 1 cm tykke, ved tilhæftningen op til 2 cm. Sidefæstede hatte er halvcirkelformede, vifteformede eller nyreformede og vokser ofte sammen i siderne til taglagte etager, der bryder frem fra revner i træet; eksemplarer på toppen af stubbe kan danne uregelmæssige rosetter, og frugtlegemer på undersiden af stammer kan ligge fladt og resupinat. Den ujævne, koncentrisk zonerede og bølget-furede overside er først fløjlsagtig til groft håret, men glattes ud og mørkner med alderen. Unge hatte og aktivt voksende rande er kraftigt gule til gyldenorange og går indad over i rustbrunt, mørkt sepiabrunt eller næsten sort, mens gamle soleksponerede eksemplarer forvitrer til gråligt.",
+      "hymenium": "Selvom arten hører til poresvampene, bærer undersiden tykvæggede, radiært ordnede, lamellignende lameller (15–20 pr. cm ved randen), som ofte forgrener sig og forbindes til aflange, labyrintagtige spalter op til 1 cm dybe. Spalterne er omkring 2 mm brede. Lamellerne er blegt okkergule som friske og mørkner til rustbrunt eller mørkebrunt med alderen. Hyfesystemet er trimitisk med generative hyfer med øskner, tykvæggede skelethyfer og sparsomme bindehyfer. Basidierne er smalt kølleformede, firesporede og 18–40 × 4,5–7 µm (lejlighedsvis forlængede op til 110 µm); cylindriske cystider er hyppige, tynd- til tykvæggede og 25–95 × 3–7 µm (op til 100 × 10 µm).",
+      "stipe": "Mangler; hatten er bredt og direkte tilhæftet træet.",
+      "flesh": "Kødet er tyndt, sejt, læderagtigt til korkagtigt, mørkt rustbrunt til mørkt gulbrunt og farves øjeblikkeligt sort med kaliumhydroxid (KOH). Lugten er utydelig, og smagen er mild.",
+      "sporePrint": "Hvidt. Sporerne er cylindriske til let krumme (allantoide), glatte, hyaline, inamyloide og måler 8–13 × 3–5 µm.",
+      "habitat": "Saprotrof på dødt, ofte afbarket nåletræ — hyppigst gran (Picea) og fyr (Pinus), men også ædelgran (Abies), lærk (Larix), ene (Juniperus), cypres (Cupressus), douglasgran (Pseudotsuga) og hemlock (Tsuga) — samt sjældent på løvtræer som el, birk, bøg, asp, eg eller pil. Den trives på tørre, sol- og vindeksponerede stubbe, væltede stammer, hegnspæle, bjælker, bænke og ubehandlet konstruktionstræ. Frugtlegemerne holder sig hele året, med aktiv vækst og sporedannelse hovedsageligt fra maj til december.",
+      "uses": "Uspiselig; den seje, korkagtige konsistens gør den uegnet i køkkenet, selvom den ikke regnes for giftig.",
+      "confusion": "Gloeophyllum abietinum har en varmt brun hat uden kraftigt gulorange vækstrand og bredere stillede lameller (8–13 pr. cm ved randen) med tykkere vægge på op til 1 mm. Gloeophyllum trabeum har en glattere, lysere, blødere hat og tættere, kraftigt anastomoserende labyrintiske porer (2–4 pr. mm) og forekommer oftere på løvtræ. Gloeophyllum odoratum danner runde til kantede porer i stedet for lameller og har en kraftig anislugt under aktiv vækst. Trametes betulina har tyndere hvide til cremefarvede lameller, lysere gråligt zonerede hatte og vokser på løvtræer som birk. Daedaleopsis confragosa har lysere, glattere hatte og hvidlige porer, der bruner rosabrunt ved tryk, på løvtræ, mens Daedalea quercina danner tykkere, blegt korkfarvede hatte med bredvæggede labyrintiske porer overvejende på eg.",
+      "notes": "En vigtig og ødelæggende brunmuldssvamp i tømmer, som let koloniserer ubehandlet udendørs træværk som hegn, gelændere, tagbjælker og havekonstruktioner, mens trykimprægneret nåletræ modstår kolonisering. Da myceliet først nedbryder det mere fugtige indre af solopvarmet tømmer og danner frugtlegemer forholdsvis sent, er den strukturelle skade ofte fremskreden, før frugtlegemerne viser sig. Arten er heterothallisk med et bipolært parringssystem.",
+      "sourceUrls": []
+    },
+    "de": {
+      "label": "Zaun-Blättling",
+      "wikipedia": "https://de.wikipedia.org/wiki/Zaun-Bl%C3%A4ttling",
+      "description": "Ein zäher, lederiger, holzzersetzender Konsolenpilz, der in dachziegeligen Reihen oder Gruppen an totem Nadelholz sowie an bewittertem Bauholz im Freien wächst und eine intensive Würfelbraunfäule verursacht. Er ist in den gemäßigten Zonen der Nordhalbkugel einschließlich Europas, Nordamerikas und Nordasiens weit verbreitet und kommt auch in Südamerika sowie in Teilen Afrikas vor.",
+      "cap": "Die Fruchtkörper sind sitzend, einjährig oder über mehr als ein Jahr hinweg wiederauflebend, typischerweise 2–12 cm breit (gelegentlich 1,5–15 cm) und bis 1 cm dick, an der Anwachsstelle bis 2 cm. Seitlich angewachsene Hüte sind halbkreisförmig, fächer- oder nierenförmig und verwachsen häufig seitlich zu dachziegeligen Reihen, die aus Holzrissen hervorbrechen; Exemplare auf Stubbenoberseiten können unregelmäßige Rosetten bilden, und solche an der Unterseite von Stämmen können flach aufliegen und resupinat wachsen. Die raue, konzentrisch gezonte und wellig gefurchte Oberseite ist jung samtig bis grob striegelig behaart und verkahlt sowie dunkelt im Alter nach. Junge Hüte und aktiv wachsende Zuwachsränder sind leuchtend gelb bis goldorange, gehen nach innen in Rostbraun, tiefes Sepiabraun oder nahezu Schwarz über und bleichen bei alten, sonnenexponierten Fruchtkörpern gräulich aus.",
+      "hymenium": "Obwohl die Art zu den Porlingen gezählt wird, trägt die Unterseite dickwandige, radial angeordnete, lamellenartige Blätter (15–20 pro cm am Rand), die sich häufig gabeln und zu länglichen, labyrinthischen Schlitzen von bis zu 1 cm Tiefe und etwa 2 mm Breite verbinden. Die Lamellen sind frisch blass ockergelb und dunkeln im Alter rostbraun bis dunkelbraun nach. Das Hyphensystem ist trimitisch mit schnallentragenden generativen Hyphen, dickwandigen Skeletthyphen und spärlichen Bindehyphen. Die Basidien sind schmal keulenförmig, viersporig und messen 18–40 × 4,5–7 µm (gelegentlich bis 110 µm verlängert); zylindrische Zystiden sind häufig, dünn- bis dickwandig und 25–95 × 3–7 µm groß (bis 100 × 10 µm).",
+      "stipe": "Fehlt; der konsolenförmige Fruchtkörper ist breit und direkt am Holz angewachsen.",
+      "flesh": "Dünn, zäh, lederig bis korkig, dunkel rostbraun bis dunkel gelbbraun, mit Kalilauge (KOH) sofort schwarz verfärbend. Der Geruch ist unauffällig, der Geschmack mild.",
+      "sporePrint": "Weiß. Die Sporen sind zylindrisch bis leicht gekrümmt (allantoid), glatt, hyalin, inamyloid und messen 8–13 × 3–5 µm.",
+      "habitat": "Saprotroph an totem, oft entrindetem Nadelholz — am häufigsten an Fichte (Picea) und Kiefer (Pinus), daneben auch an Tanne (Abies), Lärche (Larix), Wacholder (Juniperus), Zypresse (Cupressus), Douglasie (Pseudotsuga) und Hemlocktanne (Tsuga) — sowie selten an Laubholz wie Erle, Birke, Buche, Zitterpappel, Eiche oder Weide. Die Art gedeiht an trockenen, sonnen- und windexponierten Baumstümpfen, liegenden Stämmen, Zaunpfählen, Balken, Bänken und unbehandeltem Bauholz. Die Fruchtkörper überdauern ganzjährig, wobei aktives Wachstum und Sporenbildung vor allem von Mai bis Dezember stattfinden.",
+      "uses": "Ungenießbar; die zähe, korkige Konsistenz macht den Pilz für die Küche ungeeignet, er gilt jedoch nicht als giftig.",
+      "confusion": "Gloeophyllum abietinum besitzt einen warmbraunen Hut ohne leuchtend gelborangen Zuwachsrand sowie weiter stehende Lamellen (8–13 pro cm am Rand) mit dickeren Wänden bis 1 mm. Gloeophyllum trabeum hat einen glatteren, blasseren, weicheren Hut und dichtere, stark anastomosierende labyrinthische Poren (2–4 pro mm) und kommt häufiger an Laubholz vor. Gloeophyllum odoratum bildet rundliche bis eckige Poren statt lamellenartiger Blätter und riecht im aktiven Wachstum stark nach Anis. Trametes betulina hat dünnere weiße bis cremefarbene Lamellen, blassere grau gezonte Hüte und wächst an Laubholz wie Birke. Daedaleopsis confragosa zeigt blassere, glattere Hüte und weißliche, bei Druck rosa-bräunlich verfärbende Poren an Laubholz, während Daedalea quercina dickere, blass korkfarbene Konsolen mit breitwandigen labyrinthischen Poren vor allem an Eiche bildet.",
+      "notes": "Ein bedeutender und destruktiver Braunfäuleerreger an verbautem Holz, der unbehandeltes Holz im Außenbereich wie Zäune, Geländer, Dachbalken und Gartenbauwerke leicht besiedelt, während kesseldruckimprägniertes Nadelholz einer Besiedlung widersteht. Da das Myzel zunächst das feuchtere Innere sonnenbeschienenen Holzes abbaut und Fruchtkörper erst relativ spät bildet, sind konstruktive Schäden häufig bereits weit fortgeschritten, bevor Fruchtkörper erscheinen. Die Art ist heterothallisch mit bipolarem Paarungssystem.",
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Zaun-Bl%C3%A4ttling"
+      ]
+    },
+    "es": {
+      "wikipedia": "https://es.wikipedia.org/wiki/Gloeophyllum_sepiarium",
+      "description": "Hongo lignícola en consola, tenaz y coriáceo, que crece en repisas imbricadas o hileras sobre madera muerta de coníferas y madera estructural expuesta a la intemperie, causando una intensa podredumbre parda cúbica. Ampliamente distribuido por las regiones templadas del hemisferio norte, incluidas Europa, América del Norte y el norte de Asia, también aparece en América del Sur y en partes de África.",
+      "cap": "Los cuerpos fructíferos son sésiles, anuales o reviviscentes capaces de persistir más de un año, normalmente de 2–12 cm de anchura (ocasionalmente 1,5–15 cm) y hasta 1 cm de grosor, alcanzando 2 cm en la zona de inserción. Las consolas adheridas lateralmente son semicirculares, en forma de abanico o reniformes, y a menudo se fusionan lateralmente en pisos imbricados que emergen de las grietas de la madera; los ejemplares situados sobre la cara superior de los tocones pueden formar rosetas irregulares y los que crecen bajo los troncos pueden disponerse planos y resupinados. La superficie superior, rugosa, zonada concéntricamente y surcada de forma ondulada, es aterciopelada a groseramente pelosa al principio, volviéndose más lisa y oscura con la edad. Los sombreros jóvenes y los márgenes en crecimiento activo son de color amarillo vivo a naranja dorado, pasando hacia el interior a pardo herrumbroso, sepia oscuro o casi negro, y adquiriendo tonos grisáceos por la intemperie en ejemplares viejos expuestos al sol.",
+      "hymenium": "Aunque se clasifica entre los políporos, la cara inferior presenta láminas de paredes gruesas dispuestas radialmente (15–20 por cm en el margen) que con frecuencia se bifurcan e interconectan formando hendiduras alargadas y laberínticas de hasta 1 cm de profundidad y unos 2 mm de anchura. Las láminas son de color amarillo ocre pálido en fresco y se oscurecen a pardo herrumbroso o pardo oscuro con la edad. El sistema hifal es trimítico, con hifas generativas fibuladas, hifas esqueléticas de pared gruesa y escasas hifas envolventes. Los basidios son estrechamente claviformes, tetraspóricos, de 18–40 × 4,5–7 µm (ocasionalmente alargados hasta 110 µm); los cistidios cilíndricos son frecuentes, de pared delgada a gruesa, de 25–95 × 3–7 µm (hasta 100 × 10 µm).",
+      "stipe": "Ausente; la consola se adhiere amplia y directamente a la madera.",
+      "flesh": "Delgada, tenaz, de coriácea a suberosa, de color pardo herrumbroso oscuro a pardo amarillento oscuro, ennegreciendo inmediatamente con hidróxido potásico (KOH). El olor es indistinto y el sabor suave.",
+      "sporePrint": "Blanca. Las esporas son cilíndricas a ligeramente curvadas (alantoides), lisas, hialinas, inamiloides, y miden 8–13 × 3–5 µm.",
+      "habitat": "Saprótrofo sobre madera muerta de coníferas, a menudo descortezada —más comúnmente pícea (Picea) y pino (Pinus), así como abeto (Abies), alerce (Larix), enebro (Juniperus), ciprés (Cupressus), abeto de Douglas (Pseudotsuga) y tsuga (Tsuga)— y raramente sobre frondosas como aliso, abedul, haya, álamo temblón, roble o sauce. Prospera en tocones secos expuestos al sol y al viento, troncos caídos, postes de cercas, vigas, bancos y madera de construcción sin tratar. Los cuerpos fructíferos persisten todo el año, con crecimiento activo y producción de esporas principalmente de mayo a diciembre.",
+      "uses": "No comestible; su textura tenaz y suberosa lo hace inadecuado para la cocina, aunque no se considera tóxico.",
+      "confusion": "Gloeophyllum abietinum tiene un sombrero pardo cálido sin margen de crecimiento amarillo anaranjado vivo y láminas más espaciadas (8–13 por cm en el margen) con paredes más gruesas de hasta 1 mm. Gloeophyllum trabeum presenta un sombrero más liso, pálido y blando, con poros laberínticos más densos y fuertemente anastomosados (2–4 por mm), y aparece con mayor frecuencia en frondosas. Gloeophyllum odoratum desarrolla poros redondeados a angulosos en lugar de láminas y desprende un fuerte olor a anís cuando crece activamente. Trametes betulina tiene láminas más delgadas de color blanco a crema, sombreros más pálidos con bandas grisáceas y crece sobre frondosas como el abedul. Daedaleopsis confragosa presenta sombreros más pálidos y lisos y poros blanquecinos que se manchan de pardo rosado al roce en frondosas, mientras que Daedalea quercina forma consolas más gruesas, de color corcho pálido, con poros laberínticos de paredes anchas principalmente sobre roble.",
+      "notes": "Importante y destructivo hongo de podredumbre parda en madera de construcción que coloniza con facilidad carpintería exterior sin tratar como vallas, barandillas, vigas de cubierta y estructuras de jardín, aunque la madera de coníferas tratada en autoclave resiste la colonización. Dado que su micelio degrada primero el interior más húmedo de la madera calentada por el sol y produce consolas relativamente tarde, el daño estructural suele estar avanzado antes de que aparezcan los cuerpos fructíferos. Es heterotálico con un sistema de apareamiento bipolar.",
+      "sourceUrls": [
+        "https://es.wikipedia.org/wiki/Gloeophyllum_sepiarium"
+      ]
+    },
+    "et": {
+      "label": "mustjas kõrbik",
+      "names": [
+        "pruun kõrbik"
+      ],
+      "wikipedia": "https://et.wikipedia.org/wiki/Mustjas_k%C3%B5rbik",
+      "description": "Sitke, nahkjas, puitu lagundav torikseen, mis kasvab katusekivitaoliste riiulite või ridadena surnud okaspuupuidul ja ilmastikule avatud välispuidul, põhjustades intensiivset kuubilist pruunmädanikku. See on laialt levinud põhjapoolkera parasvöötmes, sealhulgas Euroopas, Põhja-Ameerikas ja Põhja-Aasias, ning esineb ka Lõuna-Ameerikas ja osas Aafrikast.",
+      "cap": "Viljakehad on jalata, üheaastased või uuesti kasvama hakkavad ja üle ühe aasta püsivad, tavaliselt 2–12 cm laiad (harva 1,5–15 cm) ja kuni 1 cm paksud, kinnituskohas kuni 2 cm. Külgmiselt kinnitunud kübarad on poolringikujulised, lehvikjad või neerjad ning kasvavad sageli külgedelt kokku puidu pragudest väljuvateks riiulikihtideks; kändude pealispinnal kasvavad viljakehad võivad moodustada korrapäratuid rosette ja tüvede alapinnal lamada lamedalt ning liibuvalt. Ebatasane, kontsentriliselt vöödiline ja laineliselt vaoline ülapind on algul sametine kuni karedakarvane, muutudes vananedes siledamaks ja tumedamaks. Noored kübarad ja aktiivselt kasvavad servad on erkkollased kuni kuldoranžid, minnes sissepoole üle roostepruuniks, sügavseepiapruuniks või peaaegu mustaks, ning päikesele avatud vanad viljakehad pleegivad ilmastiku toimel hallikaks.",
+      "hymenium": "Kuigi liik kuulub torikseente hulka, kannab alapind paksuseinalisi, radiaalselt paiknevaid eoslehelaadseid eoslehti (15–20 tükki cm kohta servas), mis sageli harunevad ja ühinevad piklikeks labürintjateks piludeks sügavusega kuni 1 cm. Pilud on umbes 2 mm laiad. Värsked eoslehed on kahvatu-ookerkollased ning tumenevad vananedes roostepruuniks või tumepruuniks. Hüüfisüsteem on trimiitiline, pannaldega generatiivhüüfide, paksuseinaliste skeletthüüfide ja hõredate sidehüüfidega. Basiidiumid on kitsalt nuikujulised, neljaeoselised ja 18–40 × 4,5–7 µm (mõnikord veninud kuni 110 µm-ni); silindrilised tsüstiidid on sagedased, õhukese- kuni paksuseinalised ja 25–95 × 3–7 µm (kuni 100 × 10 µm).",
+      "stipe": "Puudub; kübar kinnitub laialt ja otse puidule.",
+      "flesh": "Seeneliha on õhuke, sitke, nahkjas kuni korkjas, tumeroostepruun kuni tumekollakaspruun ning muutub kaaliumhüdroksiidiga (KOH) kohe mustaks. Lõhn on ebamäärane ja maitse mahe.",
+      "sporePrint": "Valge. Eosed on silindrilised kuni kergelt kõverad (allantoidsed), siledad, hüaliinsed, inamüloidsed ja mõõtmetega 8–13 × 3–5 µm.",
+      "habitat": "Saprotroofne surnud, sageli kooreta okaspuupuidul — kõige sagedamini kuusel (Picea) ja männil (Pinus), samuti nulul (Abies), lehisel (Larix), kadakal (Juniperus), küpressil (Cupressus), ebatsuugal (Pseudotsuga) ja tsuugal (Tsuga) — ning harva lehtpuudel, nagu lepp, kask, pöök, haab, tamm või paju. See eelistab kuivi, päikesele ja tuulele avatud kände, lamatüvesid, aiaposte, talasid, pinke ja töötlemata ehituspuitu. Viljakehad püsivad aasta läbi, aktiivne kasv ja eoste tootmine toimub peamiselt maist detsembrini.",
+      "uses": "Mittesöödav; sitke, korkja konsistentsi tõttu ei sobi see toiduks, kuigi seda ei peeta mürgiseks.",
+      "confusion": "Liigil Gloeophyllum abietinum on soojapruun kübar ilma erkkollakasoranži kasvuservata ja harvemad eoslehed (8–13 tükki cm kohta servas), mille seinad on paksemad, kuni 1 mm. Liigil Gloeophyllum trabeum on siledam, kahvatum, pehmem kübar ja tihedamad, tugevalt anastomoosivad labürintjad poorid (2–4 tükki mm kohta) ning see esineb sagedamini lehtpuudel. Gloeophyllum odoratum moodustab eoslehelaadsete eoslehtede asemel ümaraid kuni nurgelisi poore ja lõhnab aktiivsel kasvul tugevalt aniisi järele. Liigil Trametes betulina on õhemad valged kuni kreemikad eoslehed, kahvatumad hallikasvöödilised kübarad ning see kasvab lehtpuudel, näiteks kasel. Liigil Daedaleopsis confragosa on kahvatumad, siledamad kübarad ja valkjad, vigastamisel roosakaspruuniks muutuvad poorid lehtpuudel, samas kui Daedalea quercina moodustab paksemaid, kahvatuid korkja värvusega viljakehi laieseinaliste labürintjate pooridega peamiselt tammel.",
+      "notes": "Oluline ja kahjulik pruunmädanikku põhjustav puiduseen, mis asustab kergesti töötlemata välispuitkonstruktsioone, nagu piirdeaiad, käsipuud, katusepalgid ja aiaehitised, samas kui surveimmutatud okaspuit peab koloniseerimisele vastu. Kuna mütseel lagundab esmalt päikese käes soojenenud puidu niiskemat siseosa ja moodustab viljakehi suhteliselt hilja, on konstruktsioonikahjustus viljakehade ilmumise ajaks sageli juba kaugele arenenud. Liik on heterotalliline bipolaarse ristumissüsteemiga.",
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Mustjas_k%C3%B5rbik"
+      ]
+    },
+    "fa": {
+      "description": "قارچی چوب‌پوسان، سفت و چرمی به شکل تاقچه‌های روی‌هم‌افتاده یا ردیفی است که بر روی چوب مردهٔ سوزنی‌برگان و الوارهای روباز در فضای بیرونی می‌روید و پوسیدگی قهوه‌ای مکعبی شدیدی ایجاد می‌کند. این گونه در سراسر نیم‌کرهٔ شمالی معتدل از جمله اروپا، آمریکای شمالی و شمال آسیا پراکنش گسترده‌ای دارد و در آمریکای جنوبی و بخش‌هایی از آفریقا نیز دیده می‌شود.",
+      "cap": "اندام‌های بارده بی‌ساقه، یک‌ساله یا با قابلیت تجدید حیات برای ماندگاری بیش از یک سال هستند و معمولاً ۲–۱۲ سانتی‌متر عرض (گاهی ۱٫۵–۱۵ سانتی‌متر) و تا ۱ سانتی‌متر ضخامت دارند و در محل اتصال به ۲ سانتی‌متر می‌رسند. تاقچه‌های متصل از پهلو نیم‌دایره‌ای، بادبزنی یا کلیوی‌شکل هستند و اغلب از پهلو به هم جوش می‌خورند و در ردیف‌های طبقه‌ای از شکاف‌های چوب بیرون می‌آیند؛ نمونه‌های روی سطح بالایی کنده‌ها ممکن است روزت‌های نامنظم بسازند و نمونه‌های زیر تنه‌ها می‌توانند صاف و گسترده (رسوپینات) باشند. سطح بالایی ناهموار، دارای نوارهای هم‌مرکز و شیارهای موج‌دار است که در ابتدا مخملی تا زبرپرز است و با افزایش سن صاف‌تر و تیره‌تر می‌شود. کلاهک‌های جوان و لبه‌های در حال رشد فعال به رنگ زرد روشن تا نارنجی طلایی هستند که به سمت داخل به قهوه‌ای زنگاری، قهوه‌ای تیرهٔ سپیا یا تقریباً سیاه تغییر رنگ می‌دهند و در نمونه‌های مسن در معرض آفتاب به رنگ خاکستری فرسوده می‌شوند.",
+      "hymenium": "با وجود قرار گرفتن در میان قارچ‌های روزنه‌دار، سطح زیرین دارای تیغه‌های ضخیم‌دیواره و شعاعی (۱۵–۲۰ عدد در هر سانتی‌متر در لبه) است که به‌طور مکرر دوشاخه می‌شوند و به هم می‌پیوندند و شکاف‌های کشیده و هزارتومانندی تا عمق ۱ سانتی‌متر و عرض حدود ۲ میلی‌متر تشکیل می‌دهند. تیغه‌ها در حالت تازه زرد اخرایی کم‌رنگ هستند و با گذشت زمان به قهوه‌ای زنگاری یا قهوه‌ای تیره تغییر رنگ می‌دهند. سامانهٔ ریسه سه‌ریختی (تریمیتیک) است و شامل ریسه‌های زایا با پیوند چنگکی، ریسه‌های اسکلتی ضخیم‌دیواره و ریسه‌های پیوندی پراکنده است. بازیدی‌ها باریک و چماقی‌شکل، چهارهاگی و به اندازهٔ ۱۸–۴۰ × ۴٫۵–۷ میکرومتر هستند (گاهی تا ۱۱۰ میکرومتر کشیده می‌شوند)؛ سیستیدهای استوانه‌ای فراوان، نازک‌دیواره تا ضخیم‌دیواره و به ابعاد ۲۵–۹۵ × ۳–۷ میکرومتر (تا ۱۰۰ × ۱۰ میکرومتر) هستند.",
+      "stipe": "ندارد؛ تاقچه به‌طور مستقیم و با سطحی پهن به چوب متصل می‌شود.",
+      "flesh": "نازک، سفت، چرمی تا چوب‌پنبه‌ای، به رنگ قهوه‌ای زنگاری تیره تا زرد-قهوه‌ای تیره است که در تماس با هیدروکسید پتاسیم (KOH) بلافاصله سیاه می‌شود. بوی آن نامشخص و طعمش ملایم است.",
+      "sporePrint": "سفید. هاگ‌ها استوانه‌ای تا اندکی خمیده (آلانتوئید)، صاف، بی‌رنگ، غیرآمیلوئید و به اندازهٔ ۸–۱۳ × ۳–۵ میکرومتر هستند.",
+      "habitat": "به‌صورت ساپروتروف روی چوب مرده و اغلب بدون پوست سوزنی‌برگان—به‌ویژه نوئل (Picea) و کاج (Pinus)، و همچنین نراد (Abies)، سیاه‌کاج (Larix)، ارس (Juniperus)، سرو (Cupressus)، صنوبر داگلاس (Pseudotsuga) و شوکران (Tsuga)—و به‌ندرت روی چوب پهن‌برگان مانند توسکا، توس، راش، صنوبر لرزان، بلوط یا بید می‌روید. روی کنده‌های خشک و در معرض آفتاب و باد، تنه‌های افتاده، تیرک‌های پرچین، تیرها، نیمکت‌ها و الوارهای ساختمانی تیمارنشده به‌خوبی رشد می‌کند. اندام‌های بارده در تمام طول سال باقی می‌مانند و رشد فعال و تولید هاگ عمدتاً از مه تا دسامبر صورت می‌گیرد.",
+      "uses": "غیرخوراکی؛ بافت سفت و چوب‌پنبه‌ای آن برای مصرف آشپزی نامناسب است، هرچند سمی به‌شمار نمی‌آید.",
+      "confusion": "Gloeophyllum abietinum کلاهکی به رنگ قهوه‌ای گرم بدون لبهٔ در حال رشد زرد-نارنجی روشن دارد و تیغه‌های آن با فاصلهٔ بیشتر (۸–۱۳ عدد در هر سانتی‌متر در لبه) و دیواره‌های ضخیم‌تر تا ۱ میلی‌متر قرار گرفته‌اند. Gloeophyllum trabeum کلاهکی صاف‌تر، کم‌رنگ‌تر و نرم‌تر با روزنه‌های هزارتویی متراکم‌تر و به‌شدت به هم پیوسته (۲–۴ عدد در هر میلی‌متر) دارد و بیشتر روی چوب پهن‌برگان دیده می‌شود. Gloeophyllum odoratum به‌جای تیغه‌ها، روزنه‌های گرد تا زاویه‌دار تولید می‌کند و هنگام رشد فعال بوی تند بادیان دارد. Trametes betulina تیغه‌های نازک‌تر سفید تا کرم‌رنگ و کلاهک‌های کم‌رنگ‌تر با نوارهای خاکستری دارد و روی پهن‌برگان مانند توس می‌روید. Daedaleopsis confragosa کلاهک‌هایی کم‌رنگ‌تر و صاف‌تر و روزنه‌هایی سفیدرنگ دارد که با لمس به قهوه‌ای صورتی تغییر رنگ می‌دهند و روی پهن‌برگان می‌روید، در حالی که Daedalea quercina تاقچه‌هایی ضخیم‌تر به رنگ چوب‌پنبهٔ روشن با روزنه‌های هزارتویی پهن‌دیواره عمدتاً روی بلوط تشکیل می‌دهد.",
+      "notes": "قارچ پوسیدگی قهوه‌ای مهم و مخرب الوار است که سازه‌های چوبی روباز تیمارنشده مانند پرچین‌ها، نرده‌ها، تیرهای سقف و سازه‌های باغی را به‌آسانی کلونیزه می‌کند، هرچند چوب‌های نرم تحت تیمار فشاری در برابر آن مقاوم‌اند. از آنجا که میسلیوم آن ابتدا بخش درونی مرطوب‌تر چوب گرم‌شده در آفتاب را می‌پوساند و تاقچه‌ها را نسبتاً دیر تولید می‌کند، آسیب ساختاری اغلب پیش از پدیدار شدن اندام‌های بارده به مرحلهٔ پیشرفته می‌رسد. این گونه هتروتالیک با سامانهٔ جفت‌گیری دوقطبی است.",
+      "sourceUrls": []
+    },
+    "fi": {
+      "label": "aidaskääpä",
+      "wikipedia": "https://fi.wikipedia.org/wiki/Aidask%C3%A4%C3%A4p%C3%A4",
+      "description": "Sitkeä, nahkamainen, puuta lahottava kääpä, joka kasvaa limittäisinä hyllyinä tai riveinä kuolleella havupuulla ja säälle alttiilla ulkorakenteiden puutavaralla aiheuttaen voimakasta kuutiomaista ruskolahoa. Se on laajalle levinnyt pohjoisen pallonpuoliskon lauhkealla vyöhykkeellä, mukaan lukien Eurooppa, Pohjois-Amerikka ja Pohjois-Aasia, ja esiintyy myös Etelä-Amerikassa sekä osissa Afrikkaa.",
+      "cap": "Itiöemät ovat jalattomia, yksivuotisia tai kasvuaan jatkavia ja yli vuoden kestäviä, tyypillisesti 2–12 cm leveitä (joskus 1,5–15 cm) ja enintään 1 cm paksuja, kiinnittymiskohdastaan jopa 2 cm. Sivukiinnitteiset lakit ovat puolipyöreitä, viuhkamaisia tai munuaismaisia ja kasvavat usein sivuiltaan yhteen puun halkeamista työntyviksi hyllykerroksiksi; kantojen leikkauspinnoilla itiöemät voivat muodostaa epäsäännöllisiä ruusukkeita ja maapuiden alapinnoilla kasvaa litteinä ja alustanmyötäisinä. Epätasainen, samankeskisesti vyöhykkeinen ja aaltouurteinen yläpinta on aluksi samettinen tai karkeakarvainen, mutta silenee ja tummenee iän myötä. Nuoret lakit ja aktiivisesti kasvavat reunat ovat kirkkaan keltaisia tai kullanoransseja, vaihtuen sisäänpäin ruosteenruskeiksi, syvän seepianruskeiksi tai lähes mustiksi, ja vanhat auringolle alttiit itiöemät harmaantuvat sään vaikutuksesta.",
+      "hymenium": "Vaikka laji kuuluu kääpiin, alapinnalla on paksuseinäisiä, säteittäisesti järjestyneitä helttamaisia helttoja (15–20 kpl/cm reunassa), jotka haarautuvat ja yhtyvät usein pitkänomaisiksi, labyrinttimaisiksi, enintään 1 cm syviksi raoiksi. Raot ovat noin 2 mm leveitä. Heltat ovat tuoreina vaalean okrankeltaisia ja tummenevat iän myötä ruosteenruskeiksi tai tummanruskeiksi. Rihmastorakenne on trimiittinen: siinä on sinkilällisiä alkeisrihmoja, paksuseinäisiä tukirihmoja ja niukasti sitojarihmoja. Basidit ovat kapean nuijamaisia, neli-itiöisiä ja 18–40 × 4,5–7 µm (joskus venyneitä jopa 110 µm:iin); lieriömäiset kystidit ovat yleisiä, ohut- tai paksuseinäisiä ja 25–95 × 3–7 µm (jopa 100 × 10 µm).",
+      "stipe": "Puuttuu; lakki kiinnittyy leveälti ja suoraan puuhun.",
+      "flesh": "Malto on ohutta, sitkeää, nahkamaista tai korkkimaista, tumman ruosteenruskeaa tai tumman kellanruskeaa, ja muuttuu kaliumhydroksidilla (KOH) välittömästi mustaksi. Haju on epäselvä ja maku mieto.",
+      "sporePrint": "Valkoinen. Itiöt ovat lieriömäisiä tai hieman käyriä (allantoidisia), sileitä, värittömiä, inamyloideja ja kooltaan 8–13 × 3–5 µm.",
+      "habitat": "Lahottaja (saprotrofi) kuolleella, usein kuorettomalla havupuulla — yleisimmin kuusella (Picea) ja männyllä (Pinus) sekä pihdalla (Abies), lehtikuusella (Larix), katajalla (Juniperus), sypressillä (Cupressus), douglaskuusella (Pseudotsuga) ja hemlokilla (Tsuga) — ja harvoin lehtipuilla, kuten lepällä, koivulla, pyökillä, haavalla, tammella tai pajulla. Se viihtyy kuivilla, auringolle ja tuulelle alttiilla kannoilla, kaatuneilla rungoilla, aidantolpissa, palkeissa, penkeissä ja käsittelemättömässä rakennuspuutavarassa. Itiöemät säilyvät ympäri vuoden, ja aktiivinen kasvu sekä itiöiden muodostuminen painottuvat toukokuusta joulukuuhun.",
+      "uses": "Syötäväksi kelpaamaton; sitkeän, korkkimaisen rakenteensa vuoksi se ei sovellu ruoanlaittoon, vaikka sitä ei pidetäkään myrkyllisenä.",
+      "confusion": "Gloeophyllum abietinum -lajilla on lämpimänruskea lakki ilman kirkasta keltaoranssia kasvureunaa sekä harvemmat heltat (8–13 kpl/cm reunassa), joiden seinämät ovat paksumpia, jopa 1 mm. Gloeophyllum trabeum -lajilla on sileämpi, vaaleampi ja pehmeämpi lakki sekä tiheämpi, voimakkaasti yhteenkasvaneiden labyrinttimaisten pillien muodostama pillistö (2–4 kpl/mm), ja se esiintyy useammin lehtipuilla. Gloeophyllum odoratum muodostaa pyöreitä tai kulmikkaita pillejä helttamaisten helttojen sijaan ja tuoksuu aktiivisesti kasvaessaan voimakkaasti anikselta. Trametes betulina -lajilla on ohuemmat valkoiset tai kermanväriset heltat, vaaleammat harmaavyöhykkeiset lakit, ja se kasvaa lehtipuilla, kuten koivulla. Daedaleopsis confragosa -lajilla on vaaleammat, sileämmät lakit ja vaaleat, kosketuksesta vaaleanpunaruskeaksi värjäytyvät pillit lehtipuilla, kun taas Daedalea quercina muodostaa paksumpia, vaalean korkinvärisiä lakkeja paksuseinäisine labyrinttipilleineen pääasiassa tammella.",
+      "notes": "Tärkeä ja tuhoisa puutavaran ruskolahottajasieni, joka asuttaa herkästi käsittelemättömiä ulkopuurakenteita, kuten aitoja, kaiteita, kattopalkkeja ja puutarharakenteita, kun taas painekyllästetty havupuu kestää lahon aiheuttajaa. Koska rihmasto lahottaa ensin auringon lämmittämän puutavaran kosteampaa sisäosaa ja muodostaa itiöemiä melko myöhään, rakenteellinen vaurio on usein pitkällä jo ennen itiöemien ilmestymistä. Laji on heterotallinen ja sen parittelujärjestelmä on bipolaarinen.",
+      "sourceUrls": [
+        "https://fi.wikipedia.org/wiki/Aidask%C3%A4%C3%A4p%C3%A4"
+      ]
+    },
+    "fr": {
+      "label": "lenzite des clôtures",
+      "names": [
+        "polypore des clôtures",
+        "gloeophylle des haies"
+      ],
+      "wikipedia": "https://fr.wikipedia.org/wiki/Lenzite_des_cl%C3%B4tures",
+      "description": "Champignon lignicole en console, tenace et coriace, qui pousse en consoles imbriquées ou en rangées sur le bois mort de conifères et le bois d'œuvre exposé en extérieur, provoquant une intense pourriture brune cubique. Largement répandu dans les régions tempérées de l'hémisphère Nord, notamment en Europe, en Amérique du Nord et dans le nord de l'Asie, il est également présent en Amérique du Sud et dans certaines parties de l'Afrique.",
+      "cap": "Les sporophores sont sessiles, annuels ou reviviscents et capables de persister plus d'un an, généralement larges de 2–12 cm (parfois 1,5–15 cm) et épais jusqu'à 1 cm, atteignant 2 cm au point d'attache. Les consoles fixées latéralement sont semi-circulaires, en éventail ou réniformes et fusionnent souvent latéralement en étages imbriqués émergeant des fissures du bois ; les spécimens poussant au sommet des souches peuvent former des rosettes irrégulières, et ceux situés sous les grumes peuvent s'étaler à plat de façon résupinée. La face supérieure, rugueuse, zonée concentriquement et ondulée-sillonnée, est d'abord veloutée à grossièrement poilue, puis devient plus lisse et plus sombre avec l'âge. Les jeunes chapeaux et les marges en croissance active sont jaune vif à jaune-orangé doré, passant vers l'intérieur au brun rouille, au sépia foncé ou presque au noir, et prenant une teinte grisâtre chez les vieux exemplaires exposés au soleil.",
+      "hymenium": "Bien que classé parmi les polypores, la face inférieure porte des lames épaisses, disposées radialement (15–20 par cm à la marge), qui se fourchent et s'anastomosent fréquemment en fentes allongées et labyrinthiformes atteignant 1 cm de profondeur et environ 2 mm de largeur. Les lames sont jaune ocre pâle à l'état frais et foncent vers le brun rouille ou le brun foncé avec l'âge. Le système hyphal est trimitique, avec des hyphes génératrices bouclées, des hyphes squelettiques à paroi épaisse et des hyphes conjonctives éparses. Les basides sont étroitement clavées, tétrasporiques et mesurent 18–40 × 4,5–7 µm (parfois allongées jusqu'à 110 µm) ; les cystides cylindriques sont fréquentes, à paroi mince à épaisse, et mesurent 25–95 × 3–7 µm (jusqu'à 100 × 10 µm).",
+      "stipe": "Absent ; la console est largement et directement fixée au bois.",
+      "flesh": "Mince, tenace, coriace à subéreuse, brun rouille foncé à brun-jaune foncé, noircissant immédiatement au contact de l'hydroxyde de potassium (KOH). L'odeur est indistincte et la saveur douce.",
+      "sporePrint": "Blanche. Les spores sont cylindriques à légèrement courbées (allantoïdes), lisses, hyalines, inamyloïdes, et mesurent 8–13 × 3–5 µm.",
+      "habitat": "Saprotrophe sur bois mort de conifères, souvent écorcé — le plus souvent sur épicéa (Picea) et pin (Pinus), ainsi que sur sapin (Abies), mélèze (Larix), genévrier (Juniperus), cyprès (Cupressus), douglas (Pseudotsuga) et pruche (Tsuga) — et rarement sur feuillus tels que l'aulne, le bouleau, le hêtre, le tremble, le chêne ou le saule. Il prospère sur les souches sèches exposées au soleil et au vent, les troncs tombés, les piquets de clôture, les poutres, les bancs et le bois de charpente non traité. Les sporophores persistent toute l'année, avec une croissance active et une sporulation principalement de mai à décembre.",
+      "uses": "Non comestible ; sa texture tenace et subéreuse le rend impropre à la cuisine, bien qu'il ne soit pas considéré comme toxique.",
+      "confusion": "Gloeophyllum abietinum présente un chapeau brun chaud dépourvu de marge de croissance jaune-orangé vif et des lames plus espacées (8–13 par cm à la marge) aux parois plus épaisses, jusqu'à 1 mm. Gloeophyllum trabeum possède un chapeau plus lisse, plus pâle et plus mou, ainsi que des pores labyrinthiformes plus denses et fortement anastomosés (2–4 par mm), et pousse plus souvent sur feuillus. Gloeophyllum odoratum développe des pores arrondis à anguleux plutôt que des lames et dégage une forte odeur d'anis en croissance active. Trametes betulina possède des lames plus fines blanches à crème, des chapeaux plus pâles zonés de grisâtre et pousse sur feuillus tels que le bouleau. Daedaleopsis confragosa a des chapeaux plus pâles et plus lisses ainsi que des pores blanchâtres brunissant-rosissant au toucher sur feuillus, tandis que Daedalea quercina forme des consoles plus épaisses, couleur liège pâle, à pores labyrinthiformes à parois larges, principalement sur chêne.",
+      "notes": "Champignon lignivore majeur et destructeur à pourriture brune qui colonise facilement les boiseries extérieures non traitées telles que les clôtures, garde-corps, poutres de toiture et structures de jardin, bien que le bois résineux traité par autoclave résiste à la colonisation. Comme son mycélium dégrade d'abord l'intérieur plus humide du bois chauffé par le soleil et ne produit des consoles que relativement tard, les dégâts structurels sont souvent avancés avant l'apparition des sporophores. L'espèce est hétérothallique avec un système d'appariement bipolaire.",
+      "sourceUrls": [
+        "https://fr.wikipedia.org/wiki/Lenzite_des_cl%C3%B4tures"
+      ]
+    },
+    "he": {
+      "description": "פטריית מדף קשיחה, עורית ומפרקת עץ, הגדלה במדפים חופפים או בשורות על עץ מחטני מת ועל קורות עץ חשופות בחוץ, וגורמת לריקבון חום קובייתי עז. היא נפוצה ברחבי האזורים הממוזגים של חצי הכדור הצפוני, כולל אירופה, אמריקה הצפונית וצפון אסיה, ומופיעה גם באמריקה הדרומית ובחלקים מאפריקה.",
+      "cap": "גופי הפרי חסרי רגל, חד-שנתיים או מתחדשים ומתמידים ליותר משנה אחת, ורוחבם לרוב 2–12 cm (לעיתים 1.5–15 cm) ועוביים עד 1 cm, כשהם מגיעים ל-2 cm בנקודת החיבור. המדפים המחוברים מהצד הם בצורת חצי עיגול, מניפה או כליה, ולעיתים קרובות מתאחים לרוחב בשורות מדורגות המגיחות מסדקים בעץ; פרטים הגדלים על ראשי גדמים עשויים ליצור שושנות לא סדירות, ואלה שעל צידם התחתון של גזעים עלולים להיות שטוחים וצמודים (רסופינטיים). המשטח העליון מחוספס, בעל אזורים קונצנטריים ותלמים גליים, קטיפתי עד שעיר גס בתחילה ומתחלק ומתכהה עם הגיל. כובעים צעירים ושוליים הגדלים באופן פעיל צבועים צהוב בהיר עד כתום-זהוב, ומתחלפים פנימה לחום-חלודה, ספיה כהה או כמעט שחור, ומאפירים בבליה בפרטים ותיקים החשופים לשמש.",
+      "hymenium": "אף שהיא מסווגת בקרב הפוליפורים, צידה התחתון נושא דפים עבי-דופן המסודרים באופן רדיאלי (15–20 ל-cm בשוליים), המתפצלים ומתחברים תכופות לחריצים מוארכים דמויי מבוך בעומק של עד 1 cm וברוחב של כ-2 mm. הדפים צהובים-אוקר חיוורים כשהם טריים ומתכהים לחום-חלודה או חום כהה עם הגיל. מערכת הקורים היא תלת-סוגית (טרימיטית), וכוללת קורים גנרטיביים בעלי אבזמים, קורי שלד עבי-דופן וקורים קושרים דלילים. הבסידיות צרות דמויות אלה, בעלות ארבעה נבגים, וגודלן 18–40 × 4.5–7 µm (לעיתים מוארכות עד 110 µm); ציסטידיות גליליות שכיחות, דקות עד עבות-דופן, בגודל 25–95 × 3–7 µm (עד 100 × 10 µm).",
+      "stipe": "חסרה; המדף מתחבר ישירות ובאופן רחב אל העץ.",
+      "flesh": "דק, קשיח, עורי עד שעם, חום-חלודה כהה עד חום-צהבהב כהה, ומשחיר מיד במגע עם אשלגן הידרוקסיד (KOH). הריח אינו מובחן והטעם עדין.",
+      "sporePrint": "לבן. הנבגים גליליים עד כפופים קלות (אלנטואידיים), חלקים, שקופים, בלתי-עמילניים, וממדיהם 8–13 × 3–5 µm.",
+      "habitat": "סאפרוטרופית על עץ מחטני מת ולעיתים קרובות חסר קליפה — הנפוצים ביותר הם אשוחית (Picea) ואורן (Pinus), וכן אשוח (Abies), ארזית (Larix), ערער (Juniperus), ברוש (Cupressus), אשוח דאגלס (Pseudotsuga) וצוגה (Tsuga) — ורק לעיתים נדירות על עצי עלים רחבים כגון אלנוס, שדר, אשור, צפצפה, אלון או ערבה. היא משגשגת על גדמים יבשים החשופים לשמש ולרוח, גזעים שנפלו, עמודי גדר, קורות, ספסלים ועץ בנייה לא מטופל. גופי הפרי מתמידים לאורך כל השנה, כאשר גדילה פעילה וייצור נבגים מתרחשים בעיקר ממאי עד דצמבר.",
+      "uses": "לא למאכל; המרקם הקשיח והשעמי הופך אותה לבלתי מתאימה לשימוש במטבח, אם כי אינה נחשבת רעילה.",
+      "confusion": "ל-Gloeophyllum abietinum כובע חום חמים ללא שוליים גדלים בצבע צהוב-כתום בהיר ודפים מרווחים יותר (8–13 ל-cm בשוליים) בעלי דפנות עבות יותר עד 1 mm. ל-Gloeophyllum trabeum כובע חלק, חיוור ורך יותר ונקבוביות מבוכיות צפופות יותר ומתאחות מאוד (2–4 ל-mm), והוא גדל לעיתים קרובות יותר על עצי עלים רחבים. Gloeophyllum odoratum מפתח נקבוביות עגולות עד זוויתיות במקום דפים, ויש לו ריח אניס חזק בזמן גדילה פעילה. ל-Trametes betulina דפים דקים יותר בצבע לבן עד שמנת וכובעים חיוורים יותר בעלי פסים אפרפרים, והוא גדל על עצי עלים רחבים כגון שדר. ל-Daedaleopsis confragosa כובעים חיוורים וחלקים יותר ונקבוביות לבנבנות המשנות צבע לחום-ורדרד בפציעה על עצי עלים רחבים, ואילו Daedalea quercina יוצר מדפים עבים יותר בצבע שעם חיוור עם נקבוביות מבוכיות רחבות-דופן בעיקר על אלון.",
+      "notes": "פטריית ריקבון חום חשובה ומזיקה לעץ בנייה, המיישבת בקלות עבודות עץ חיצוניות לא מטופלות כגון גדרות, מעקות, קורות גג ומבני גן, אם כי עץ רך מטופל בלחץ עמיד בפני התיישבות. מאחר שהתפטיר מפרק תחילה את הפנים הלח יותר של עץ המתחמם בשמש ומייצר מדפים בשלב מאוחר יחסית, הנזק המבני לרוב כבר מתקדם לפני שגופי הפרי מופיעים. המין הוא הטרוטאלי בעל מערכת הזדווגות דו-קוטבית.",
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "यह एक सख्त, चमड़े जैसा, लकड़ी सड़ाने वाला ब्रैकेट कवक है जो मृत शंकुधारी लकड़ी और बाहर खुली इमारती लकड़ी पर एक-दूसरे के ऊपर चढ़ी हुई परतों या पंक्तियों में उगता है और तीव्र घनाकार भूरा सड़न (cubical brown rot) पैदा करता है। यह यूरोप, उत्तरी अमेरिका और उत्तरी एशिया सहित समशीतोष्ण उत्तरी गोलार्ध में व्यापक रूप से फैला है, तथा दक्षिण अमेरिका और अफ्रीका के कुछ हिस्सों में भी पाया जाता है।",
+      "cap": "फलन काय डंठल-रहित होते हैं, जो एकवर्षीय हो सकते हैं या फिर से सक्रिय होकर एक वर्ष से अधिक समय तक बने रह सकते हैं; ये सामान्यतः 2–12 cm चौड़े (कभी-कभी 1.5–15 cm) और 1 cm तक मोटे होते हैं, जो जुड़ाव वाले स्थान पर 2 cm तक पहुँच जाते हैं। किनारे से जुड़े ब्रैकेट अर्धवृत्ताकार, पंखे जैसे या गुर्दे के आकार के होते हैं और अक्सर लकड़ी की दरारों से निकलकर पार्श्व रूप से जुड़ते हुए सीढ़ीदार पंक्तियाँ बनाते हैं; ठूँठ के ऊपरी हिस्से पर उगने वाले नमूने अनियमित रोज़ेट बना सकते हैं, जबकि लट्ठों के निचले हिस्से पर उगने वाले नमूने चपटे और फैले हुए (रेसुपिनेट) हो सकते हैं। खुरदरी, संकेंद्रित धारियों और लहरदार खाँचों वाली ऊपरी सतह शुरू में मखमली से लेकर मोटे रोओं वाली होती है, जो उम्र बढ़ने के साथ चिकनी और गहरी हो जाती है। युवा टोपियाँ और सक्रिय रूप से बढ़ते किनारे चमकीले पीले से सुनहरे-नारंगी होते हैं, जो भीतर की ओर जंग-भूरे, गहरे सेपिया या लगभग काले रंग में बदल जाते हैं, और धूप के संपर्क में आने वाले पुराने नमूनों में धूसर पड़ जाते हैं।",
+      "hymenium": "यद्यपि इसे पॉलीपोर कवकों में वर्गीकृत किया जाता है, इसकी निचली सतह पर मोटी भित्ति वाले, अरीय रूप से व्यवस्थित, गिल्स जैसे पटल (किनारे पर प्रति cm 15–20) होते हैं, जो बार-बार द्विभाजित होकर और आपस में जुड़कर 1 cm तक गहरे और लगभग 2 mm चौड़े लंबे, भूलभुलैया जैसे खाँचे बना लेते हैं। ताज़ा होने पर ये पटल हल्के गेरुआ-पीले होते हैं और उम्र के साथ जंग-भूरे या गहरे भूरे हो जाते हैं। कवकजाल तंत्र त्रि-सूत्रक (ट्राइमिटिक) होता है, जिसमें क्लैम्प-युक्त जनन तंतु, मोटी भित्ति वाले कंकाली तंतु और विरल बंधक तंतु होते हैं। बेसिडियम संकरे गदाकार, चार-बीजाणु वाले और 18–40 × 4.5–7 µm आकार के होते हैं (कभी-कभी 110 µm तक लंबे); बेलनाकार सिस्टिडिया प्रचुर मात्रा में, पतली से मोटी भित्ति वाले और 25–95 × 3–7 µm (अधिकतम 100 × 10 µm) आकार के होते हैं।",
+      "stipe": "अनुपस्थित; ब्रैकेट चौड़े आधार के साथ सीधे लकड़ी से जुड़ा होता है।",
+      "flesh": "पतला, सख्त, चमड़े जैसा से कॉर्क जैसा, गहरा जंग-भूरा से गहरा पीला-भूरा होता है, जो पोटेशियम हाइड्रॉक्साइड (KOH) के संपर्क में आते ही तुरंत काला पड़ जाता है। गंध अस्पष्ट और स्वाद हल्का होता है।",
+      "sporePrint": "सफेद। बीजाणु बेलनाकार से हल्के मुड़े हुए (एलेंटॉइड), चिकने, पारदर्शी, इनअमाइलॉइड होते हैं और इनका माप 8–13 × 3–5 µm होता है।",
+      "habitat": "यह मृत, प्रायः छाल-रहित शंकुधारी लकड़ी पर मृतोपजीवी के रूप में उगता है—सबसे अधिक स्प्रूस (Picea) और चीड़ (Pinus) पर, साथ ही फर (Abies), लार्च (Larix), जुनिपर (Juniperus), साइप्रस (Cupressus), डगलस-फर (Pseudotsuga) और हेमलॉक (Tsuga) पर—और दुर्लभ रूप से एल्डर, बर्च, बीच, एस्पेन, ओक या विलो जैसी कठोर लकड़ियों पर भी पाया जाता है। यह धूप और हवा के संपर्क में रहने वाले सूखे ठूँठों, गिरे हुए तनों, बाड़ के खंभों, शहतीरों, बेंचों और अनुपचारित इमारती लकड़ी पर अच्छी तरह पनपता है। फलन काय वर्ष भर बने रहते हैं, जबकि सक्रिय वृद्धि और बीजाणु उत्पादन मुख्य रूप से मई से दिसंबर तक होता है।",
+      "uses": "अखाद्य; इसकी सख्त, कॉर्क जैसी बनावट इसे रसोई के लिए अनुपयुक्त बनाती है, हालाँकि इसे विषाक्त नहीं माना जाता है।",
+      "confusion": "Gloeophyllum abietinum की टोपी गर्म भूरे रंग की होती है जिसमें चमकीला पीला-नारंगी बढ़ता किनारा नहीं होता, और इसके पटल अधिक दूरी पर (किनारे पर प्रति cm 8–13) तथा 1 mm तक मोटी भित्ति वाले होते हैं। Gloeophyllum trabeum की टोपी अधिक चिकनी, हल्की और नरम होती है, इसके भूलभुलैया जैसे छिद्र अधिक घने और अत्यधिक आपस में जुड़े (प्रति mm 2–4) होते हैं, और यह कठोर लकड़ियों पर अधिक पाया जाता है। Gloeophyllum odoratum में गिल्स जैसे पटलों के बजाय गोल से कोणीय छिद्र होते हैं और सक्रिय वृद्धि के दौरान इसमें सौंफ जैसी तेज़ गंध आती है। Trametes betulina के गिल्स अधिक पतले, सफेद से क्रीम रंग के होते हैं, टोपियाँ हल्की धूसर धारियों वाली होती हैं, और यह बर्च जैसी कठोर लकड़ियों पर उगता है। Daedaleopsis confragosa की टोपियाँ अधिक हल्की और चिकनी होती हैं तथा कठोर लकड़ियों पर इसके सफेदी लिए छिद्र चोट लगने पर गुलाबी-भूरे पड़ जाते हैं, जबकि Daedalea quercina मुख्य रूप से ओक पर चौड़ी भित्ति वाले भूलभुलैया जैसे छिद्रों के साथ अधिक मोटे, हल्के कॉर्क-रंग के ब्रैकेट बनाता है।",
+      "notes": "यह एक महत्वपूर्ण और विनाशकारी भूरा-सड़न लकड़ी कवक है जो बाड़, रेलिंग, छत के शहतीर और बगीचे के ढाँचों जैसी अनुपचारित बाहरी लकड़ी पर आसानी से फैल जाता है, हालाँकि दबाव-उपचारित नरम लकड़ी इसके संक्रमण का प्रतिरोध करती है। चूँकि इसका कवकजाल पहले धूप से गर्म लकड़ी के अधिक नम आंतरिक भाग को सड़ाता है और ब्रैकेट अपेक्षाकृत देर से बनाता है, इसलिए फलन काय दिखने से पहले ही संरचनात्मक क्षति अक्सर काफी बढ़ चुकी होती है। यह द्विध्रुवीय संभोग तंत्र (bipolar mating system) वाला विषमजालिक (heterothallic) कवक है।",
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Žilava, kožasta lignikolna gljiva s konzolastim plodištima koja raste u preklapajućim policama ili nizovima na mrtvom drvu četinjača i na otvorenom izloženoj drvenoj građi, uzrokujući intenzivnu kubičnu smeđu trulež. Široko je rasprostranjena u umjerenom pojasu sjeverne polutke, uključujući Europu, Sjevernu Ameriku i sjevernu Aziju, a pojavljuje se i u Južnoj Americi te dijelovima Afrike.",
+      "cap": "Plodišta su sjedeća, jednogodišnja ili se obnavljaju i opstaju dulje od jedne godine, obično široka 2–12 cm (povremeno 1,5–15 cm) i debela do 1 cm, dosežući 2 cm na mjestu prirastanja. Bočno prirasle konzole su polukružne, lepezaste ili bubrežaste te se često bočno spajaju u stepenaste nizove koji izbijaju iz pukotina u drvu; primjerci na vrhu panjeva mogu tvoriti nepravilne rozete, a oni s donje strane trupaca mogu ležati plosnato i resupinatno. Grbava, koncentrično zonirana i valovito izbrazdana gornja površina isprva je baršunasta do grubo dlakava, a sa starošću postaje glađa i tamnija. Mladi klobuci i aktivno rastući rubovi žarko su žuti do zlatnonarančasti, prema unutra prelaze u hrđavosmeđu, tamnosepijsku ili gotovo crnu boju, dok kod starih primjeraka izloženih suncu posive.",
+      "hymenium": "Iako je svrstana među rupičavke, donja strana nosi debelostjene, zrakasto raspoređene listiće (15–20 po cm uz rub) koji se često račvaju i međusobno spajaju u izdužene, labirintaste proreze duboke do 1 cm i široke oko 2 mm. Listići su u svježem stanju blijedo okeržuti, a starenjem tamne u hrđavosmeđu ili tamnosmeđu boju. Hifalni sustav je trimitičan, s generativnim hifama s kopčama, debelostjenim skeletnim hifama i rijetkim vezivnim hifama. Bazidiji su usko batinasti, četverosporni i mjere 18–40 × 4,5–7 µm (povremeno izduženi do 110 µm); valjkaste cistide su česte, tanko- do debelostjene, i mjere 25–95 × 3–7 µm (do 100 × 10 µm).",
+      "stipe": "Nema stručka; konzola je široko i izravno prirasla za drvo.",
+      "flesh": "Tanko, žilavo, kožasto do plutasto, tamno hrđavosmeđe do tamno žutosmeđe, u dodiru s kalijevim hidroksidom (KOH) odmah pocrni. Miris je neizrazit, a okus blag.",
+      "sporePrint": "Bijel. Spore su valjkaste do blago zakrivljene (alantoidne), glatke, bezbojne (hijaline), neamiloidne i mjere 8–13 × 3–5 µm.",
+      "habitat": "Saprotrofna na mrtvom, često ogoljenom drvu četinjača — najčešće smreke (Picea) i bora (Pinus), kao i jele (Abies), ariša (Larix), borovice (Juniperus), čempresa (Cupressus), duglazije (Pseudotsuga) i čuge (Tsuga) — te rijetko na listačama poput johe, breze, bukve, jasike, hrasta ili vrbe. Uspijeva na suhim panjevima izloženima suncu i vjetru, palim deblima, stupovima ograda, gredama, klupama i neobrađenoj građevinskoj građi. Plodišta opstaju tijekom cijele godine, uz aktivan rast i stvaranje spora uglavnom od svibnja do prosinca.",
+      "uses": "Nejestiva; žilava, plutasta tekstura čini je neprikladnom za kuhinju, iako se ne smatra otrovnom.",
+      "confusion": "Gloeophyllum abietinum ima toplo smeđ klobuk bez žarko žutonarančastog ruba rasta i rjeđe raspoređene listiće (8–13 po cm uz rub) s debljim stijenkama do 1 mm. Gloeophyllum trabeum ima glađi, bljeđi i mekši klobuk te gušće, snažno anastomozirajuće labirintaste pore (2–4 po mm) i češće se javlja na listačama. Gloeophyllum odoratum umjesto listića razvija okrugle do uglate pore i ima jak miris po anisu tijekom aktivnog rasta. Trametes betulina ima tanje bijele do krem listiće, bljeđe sivkasto prugaste klobuke i raste na listačama poput breze. Daedaleopsis confragosa ima bljeđe, glađe klobuke i bjelkaste pore koje na dodir dobivaju ružičastosmeđe mrlje na listačama, dok Daedalea quercina tvori deblje, blijede plutaste konzole sa širokostjenim labirintastim porama uglavnom na hrastu.",
+      "notes": "Važna i razorna gljiva smeđe truleži drva koja lako kolonizira neobrađene vanjske drvene konstrukcije poput ograda, rukohvata, krovnih greda i vrtnih građevina, iako tlačno impregnirano meko drvo odolijeva kolonizaciji. Budući da njezin micelij najprije razgrađuje vlažniju unutrašnjost suncem zagrijanog drva i razmjerno kasno stvara konzole, konstrukcijsko oštećenje često je već uznapredovalo prije pojave plodišta. Heterotalična je s bipolarnim sustavom sparivanja.",
+      "sourceUrls": []
+    },
+    "hu": {
+      "label": "cifra lemezestapló",
+      "wikipedia": "https://hu.wikipedia.org/wiki/Cifra_lemezestapl%C3%B3",
+      "description": "Szívós, bőrszerű, fabontó taplógomba, amely elhalt fenyőfán és a szabadban kitett faanyagon egymásra boruló konzolokban vagy sorokban nő, és intenzív barna kockakorhadást okoz. Az északi félteke mérsékelt övében – így Európában, Észak-Amerikában és Észak-Ázsiában – széles körben elterjedt, de Dél-Amerikában és Afrika egyes részein is előfordul.",
+      "cap": "A termőtestek ülők, egyévesek vagy újraéledve több éven át fennmaradók, általában 2–12 cm szélesek (esetenként 1,5–15 cm) és legfeljebb 1 cm vastagok, a tapadási helyen elérhetik a 2 cm-t. Az oldalukkal tapadó konzolok félkör, legyező vagy vese alakúak, és gyakran oldalirányban összenőve lépcsőzetes sorokban törnek elő a fa repedéseiből; a tuskók tetején növő példányok szabálytalan rozettákat alkothatnak, míg a fekvő fatörzsek alsó oldalán lévők laposan elterülve, rezupinátusan nőhetnek. A rücskös, körkörösen zónázott és hullámosan barázdált felszín kezdetben bársonyos vagy durván szőrös, idővel simábbá és sötétebbé válik. A fiatal kalapok és az aktívan növekvő szegély élénksárga–aranysárga, befelé rozsdabarnába, sötét szépia- vagy csaknem fekete színbe megy át, a napnak kitett idős példányok pedig szürkésre fakulnak.",
+      "hymenium": "Bár a taplógombák közé tartozik, alsó oldalán vastag falú, sugarasan elrendeződő lemezek találhatók (a szegélynél 15–20 db/cm), amelyek gyakran elágaznak és akár 1 cm mély, körülbelül 2 mm széles, megnyúlt, labirintusszerű résekké kapcsolódnak össze. A lemezek frissen halvány okkersárgák, idővel rozsdabarnára vagy sötétbarnára sötétednek. A hifarendszer trimitikus: csattos generatív hifákból, vastag falú vázhifákból és gyér kötőhifákból áll. A bazídiumok keskeny bunkó alakúak, négyspórásak, 18–40 × 4,5–7 µm méretűek (esetenként akár 110 µm-re is megnyúlnak); a hengeres cisztídiumok gyakoriak, vékony vagy vastag falúak, 25–95 × 3–7 µm (legfeljebb 100 × 10 µm) méretűek.",
+      "stipe": "Nincs; a konzol szélesen és közvetlenül a fához tapad.",
+      "flesh": "Vékony, szívós, bőrszerű–parás, sötét rozsdabarna vagy sötét sárgásbarna, kálium-hidroxid (KOH) hatására azonnal megfeketedik. Szaga nem jellegzetes, íze enyhe.",
+      "sporePrint": "Fehér. A spórák hengeresek vagy enyhén hajlottak (allantoidok), simák, színtelenek (hialinok), nem amiloidok, méretük 8–13 × 3–5 µm.",
+      "habitat": "Szaprotróf elhalt, gyakran kéregtelen fenyőfán – leggyakrabban lucfenyőn (Picea) és fenyőn (Pinus), továbbá jegenyefenyőn (Abies), vörösfenyőn (Larix), borókán (Juniperus), cipruson (Cupressus), duglászfenyőn (Pseudotsuga) és hemlokfenyőn (Tsuga) –, ritkán lombos fákon, például égeren, nyíren, bükkön, rezgő nyáron, tölgyön vagy fűzön. Kedveli a száraz, napnak és szélnek kitett tuskókat, kidőlt törzseket, kerítésoszlopokat, gerendákat, padokat és a kezeletlen épületfát. A termőtestek egész évben megmaradnak, az aktív növekedés és spóraképzés főként májustól decemberig tart.",
+      "uses": "Nem ehető; szívós, parás állaga miatt konyhai célra alkalmatlan, bár nem számít mérgezőnek.",
+      "confusion": "A Gloeophyllum abietinum kalapja meleg barna, élénk sárgásnarancs növekedési szegély nélkül, lemezei ritkábbak (a szegélynél 8–13 db/cm), faluk pedig vastagabb, akár 1 mm-es. A Gloeophyllum trabeum kalapja simább, halványabb és puhább, pórusai sűrűbbek, erősen anasztomizáló, labirintusszerűek (2–4 db/mm), és gyakrabban nő lombos fán. A Gloeophyllum odoratum lemezek helyett kerekded–szögletes pórusokat fejleszt, és aktív növekedésekor erős ánizsszagú. A Trametes betulina lemezei vékonyabbak, fehérek–krémszínűek, kalapja halványabb, szürkésen sávos, és lombos fákon, például nyíren nő. A Daedaleopsis confragosa kalapja halványabb és simább, fehéres pórusai nyomásra rózsásbarnára színeződnek, és lombos fákon él, míg a Daedalea quercina vastagabb, halvány parafaszínű konzolokat képez széles falú, labirintusszerű pórusokkal, főként tölgyön.",
+      "notes": "Jelentős és kártékony barnakorhasztó faanyagbontó gomba, amely könnyen megtelepszik a kezeletlen kültéri faszerkezeteken, például kerítéseken, korlátokon, tetőgerendákon és kerti építményeken, bár a nyomás alatt telített fenyőfa ellenáll a megtelepedésnek. Mivel micéliuma először a nap melegítette faanyag nedvesebb belsejét bontja el, és a konzolokat viszonylag későn fejleszti ki, a szerkezeti károsodás gyakran már előrehaladott, mire a termőtestek megjelennek. Heterotallikus, bipoláris párosodási rendszerű faj.",
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Cifra_lemezestapl%C3%B3"
+      ]
+    },
+    "id": {
+      "description": "Jamur papan pelapuk kayu yang liat dan seperti kulit, tumbuh dalam rak bertumpuk atau berderet pada kayu konifer mati dan kayu bangunan terbuka di luar ruangan, menyebabkan lapuk cokelat kubikal yang kuat. Tersebar luas di seluruh Belahan Bumi Utara beriklim sedang, termasuk Eropa, Amerika Utara, dan Asia utara, serta juga ditemukan di Amerika Selatan dan sebagian Afrika.",
+      "cap": "Tubuh buahnya tidak bertangkai, bersifat semusim atau dapat hidup kembali hingga bertahan lebih dari satu tahun, umumnya selebar 2–12 cm (kadang 1,5–15 cm) dan setebal hingga 1 cm, mencapai 2 cm di pangkal perlekatannya. Papan yang menempel di sisi berbentuk setengah lingkaran, kipas, atau ginjal dan sering menyatu secara menyamping dalam deretan bertingkat yang muncul dari celah kayu; spesimen di bagian atas tunggul dapat membentuk roset tidak beraturan, sedangkan yang tumbuh di sisi bawah batang tumbang dapat melekat rata (resupinat). Permukaan atas yang kasar, berzona konsentris, dan beralur bergelombang mula-mula terasa seperti beludru hingga berambut kasar, lalu menghalus dan menggelap seiring bertambahnya usia. Tudung muda dan tepi yang sedang aktif tumbuh berwarna kuning cerah hingga jingga keemasan, berangsur ke arah dalam menjadi cokelat karat, sepia gelap, atau hampir hitam, serta memudar keabu-abuan pada spesimen tua yang terpapar sinar matahari.",
+      "hymenium": "Meskipun tergolong dalam kelompok polipor, bagian bawahnya memiliki lamela berdinding tebal yang tersusun radial menyerupai bilah (15–20 per cm di bagian tepi) yang sering bercabang dan saling terhubung membentuk celah memanjang menyerupai labirin sedalam hingga 1 cm dan selebar sekitar 2 mm. Lamela berwarna kuning oker pucat saat segar dan menggelap menjadi cokelat karat atau cokelat tua seiring usia. Sistem hifanya trimitik, dengan hifa generatif bercangkuk, hifa rangka berdinding tebal, dan hifa pengikat yang jarang. Basidium berbentuk gada sempit, berspora empat, berukuran 18–40 × 4,5–7 µm (kadang memanjang hingga 110 µm); sistidia berbentuk silindris sering dijumpai, berdinding tipis hingga tebal, berukuran 25–95 × 3–7 µm (hingga 100 × 10 µm).",
+      "stipe": "Tidak ada; papan melekat langsung dan lebar pada kayu.",
+      "flesh": "Tipis, liat, seperti kulit hingga menyerupai gabus, berwarna cokelat karat gelap hingga cokelat kekuningan gelap, dan segera menghitam bila ditetesi kalium hidroksida (KOH). Baunya tidak khas dan rasanya ringan.",
+      "sporePrint": "Putih. Spora berbentuk silindris hingga sedikit melengkung (alantoid), halus, hialin, inamiloid, berukuran 8–13 × 3–5 µm.",
+      "habitat": "Saprotrof pada kayu konifer mati yang sering kali sudah tidak berkulit—paling umum pada separ (Picea) dan pinus (Pinus), serta cemara fir (Abies), larch (Larix), juniper (Juniperus), sipres (Cupressus), Douglas-fir (Pseudotsuga), dan hemlock (Tsuga)—serta jarang pada kayu keras seperti alder, birch, beech, aspen, ek, atau willow. Jamur ini tumbuh subur pada tunggul kering yang terpapar matahari dan angin, batang tumbang, tiang pagar, balok, bangku, dan kayu konstruksi yang tidak diawetkan. Tubuh buah bertahan sepanjang tahun, dengan pertumbuhan aktif dan produksi spora terutama dari Mei hingga Desember.",
+      "uses": "Tidak dapat dimakan; teksturnya yang liat dan seperti gabus membuatnya tidak cocok untuk dimasak, meskipun tidak dianggap beracun.",
+      "confusion": "Gloeophyllum abietinum memiliki tudung cokelat hangat tanpa tepi tumbuh kuning-jingga cerah dan lamela yang lebih renggang (8–13 per cm di tepi) dengan dinding lebih tebal hingga 1 mm. Gloeophyllum trabeum memiliki tudung yang lebih halus, lebih pucat, dan lebih lunak serta pori labirin yang lebih rapat dan kuat beranastomosis (2–4 per mm), dan lebih sering tumbuh pada kayu keras. Gloeophyllum odoratum membentuk pori bulat hingga bersudut alih-alih lamela seperti bilah dan berbau adas manis yang kuat saat aktif tumbuh. Trametes betulina memiliki lamela lebih tipis berwarna putih hingga krem, tudung lebih pucat berpita keabu-abuan, dan tumbuh pada kayu keras seperti birch. Daedaleopsis confragosa memiliki tudung lebih pucat dan halus serta pori keputihan yang memar menjadi cokelat kemerahmudaan pada kayu keras, sedangkan Daedalea quercina membentuk papan lebih tebal berwarna gabus pucat dengan pori labirin berdinding lebar terutama pada ek.",
+      "notes": "Jamur lapuk cokelat kayu yang penting dan merusak, mudah mengolonisasi konstruksi kayu luar ruangan yang tidak diawetkan seperti pagar, pegangan tangga, balok atap, dan struktur taman, meskipun kayu lunak yang diawetkan dengan tekanan tahan terhadap kolonisasi. Karena miseliumnya terlebih dahulu melapukkan bagian dalam kayu yang lebih lembap di bawah permukaan yang terpapar panas matahari dan baru membentuk papan relatif belakangan, kerusakan struktural sering kali sudah parah sebelum tubuh buah muncul. Spesies ini bersifat heterotalik dengan sistem perkawinan bipolar.",
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo lignicolo a mensola, tenace e coriaceo, che cresce in mensole sovrapposte o in file sul legno morto di conifere e sul legname esposto all'aperto, provocando un'intensa carie bruna cubica. Ampiamente diffuso nelle regioni temperate dell'emisfero boreale, tra cui Europa, Nord America e Asia settentrionale, è presente anche in Sud America e in alcune zone dell'Africa.",
+      "cap": "I corpi fruttiferi sono sessili, annuali oppure capaci di riprendere a crescere e persistere per più di un anno, generalmente larghi 2–12 cm (occasionalmente 1,5–15 cm) e spessi fino a 1 cm, raggiungendo i 2 cm al punto di attacco. Le mensole a inserzione laterale sono semicircolari, a ventaglio o reniformi e spesso si fondono lateralmente in piani sovrapposti che emergono dalle fessure del legno; gli esemplari sulla sommità dei ceppi possono formare rosette irregolari, mentre quelli sulla faccia inferiore dei tronchi possono crescere distesi e resupinati. La superficie superiore, irregolare, zonata concentricamente e solcata in modo ondulato, è inizialmente vellutata fino a grossolanamente pelosa, per poi diventare più liscia e scura con l'età. I cappelli giovani e i margini in crescita attiva sono giallo vivo fino ad arancio dorato, sfumando verso l'interno in bruno-ruggine, seppia scuro o quasi nero, e scolorendo al grigiastro negli esemplari vecchi esposti al sole.",
+      "hymenium": "Sebbene sia classificato tra i polipori, la faccia inferiore porta lamelle a parete spessa, disposte radialmente e simili a quelle degli agarici (15–20 per cm al margine), che frequentemente si biforcano e si interconnettono in fessure allungate e labirintiche profonde fino a 1 cm e larghe circa 2 mm. Le lamelle sono giallo-ocra pallido allo stato fresco e si scuriscono in bruno-ruggine o bruno scuro con l'età. Il sistema ifale è trimitico, con ife generatrici provviste di giunti a fibbia, ife scheletriche a parete spessa e scarse ife connettive. I basidi sono strettamente clavati, tetrasporici, di 18–40 × 4,5–7 µm (occasionalmente allungati fino a 110 µm); i cistidi cilindrici sono frequenti, a parete da sottile a spessa, e misurano 25–95 × 3–7 µm (fino a 100 × 10 µm).",
+      "stipe": "Assente; la mensola si inserisce ampiamente e direttamente sul legno.",
+      "flesh": "Sottile, tenace, da coriacea a suberosa, da bruno-ruggine scuro a bruno-giallastro scuro, che annerisce immediatamente con idrossido di potassio (KOH). L'odore è indistinto e il sapore è mite.",
+      "sporePrint": "Bianca. Le spore sono da cilindriche a leggermente ricurve (allantoidi), lisce, ialine, inamiloidi e misurano 8–13 × 3–5 µm.",
+      "habitat": "Saprotrofo su legno morto di conifere, spesso scortecciato — più comunemente abete rosso (Picea) e pino (Pinus), oltre ad abete bianco (Abies), larice (Larix), ginepro (Juniperus), cipresso (Cupressus), douglasia (Pseudotsuga) e tsuga (Tsuga) — e raramente su latifoglie come ontano, betulla, faggio, pioppo tremulo, quercia o salice. Prospera su ceppi asciutti ed esposti al sole e al vento, tronchi caduti, pali di recinzione, travi, panchine e legname da costruzione non trattato. I corpi fruttiferi persistono tutto l'anno, con crescita attiva e produzione di spore principalmente da maggio a dicembre.",
+      "uses": "Non commestibile; la consistenza tenace e suberosa lo rende inadatto alla cucina, sebbene non sia considerato velenoso.",
+      "confusion": "Gloeophyllum abietinum presenta un cappello bruno caldo privo di margine di crescita giallo-arancio vivo e lamelle più spaziate (8–13 per cm al margine) con pareti più spesse fino a 1 mm. Gloeophyllum trabeum ha un cappello più liscio, più pallido e più morbido, pori labirintici più fitti e fortemente anastomizzati (2–4 per mm) e cresce più spesso su latifoglie. Gloeophyllum odoratum sviluppa pori da arrotondati ad angolosi anziché lamelle e ha un forte odore di anice durante la crescita attiva. Trametes betulina ha lamelle più sottili, da bianche a crema, cappelli più pallidi a bande grigiastre e cresce su latifoglie come la betulla. Daedaleopsis confragosa ha cappelli più pallidi e lisci e pori biancastri che si macchiano di bruno-rosato su latifoglie, mentre Daedalea quercina forma mensole più spesse, color sughero pallido, con pori labirintici a parete larga soprattutto su quercia.",
+      "notes": "Un importante e distruttivo fungo da carie bruna del legname che colonizza facilmente manufatti in legno esposti all'aperto non trattati come recinzioni, ringhiere, travi di tetti e strutture da giardino, mentre il legno di conifera impregnato a pressione resiste alla colonizzazione. Poiché il micelio degrada dapprima l'interno più umido del legname riscaldato dal sole e produce le mensole relativamente tardi, il danno strutturale è spesso già avanzato quando compaiono i corpi fruttiferi. È eterotallico con un sistema di accoppiamento bipolare.",
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "枯れた針葉樹材や屋外に露出した木材の上に重なり合う棚状や列状に生える、強靭で革質の木材腐朽性サルノコシカケ類で、強い立方体状の褐色腐朽を引き起こします。ヨーロッパ、北アメリカ、北アジアを含む北半球の温帯全域に広く分布し、南アメリカやアフリカの一部にも発生します。",
+      "cap": "子実体は無柄で、一年生または再生して一年以上存続し、幅は通常2–12 cm（まれに1.5–15 cm）、厚さは1 cmまでで、付着部では2 cmに達します。側生する棚状の傘は半円形、扇形、または腎臓形で、材の割れ目から出て横方向に癒合し、階段状の棚を形成することがよくあります。切り株の上面に生える個体は不規則なロゼット状になることがあり、倒木の下面に生えるものは平坦な背着生となる場合があります。粗く同心円状の環紋と波打つ溝のある上面は、初めビロード状から粗毛に覆われ、老熟すると平滑になり暗色化します。若い傘や活発に成長している縁は鮮やかな黄色から黄金色みを帯びた橙色で、内側に向かって錆褐色、濃いセピア色、またはほぼ黒色に変わり、日光にさらされた古い個体では風化して灰色みを帯びます。",
+      "hymenium": "多孔菌類に分類されますが、下面には厚壁で放射状に並ぶひだ状の構造（縁部で1 cmあたり15–20本）があり、頻繁に分岐・連絡して深さ1 cmまで、幅約2 mmの細長い迷路状の裂け目を形成します。ひだ状構造は新鮮なうちは淡い黄土色ですが、古くなると錆褐色から暗褐色に変わります。菌糸系は三菌糸型で、クランプをもつ生殖菌糸、厚壁の骨格菌糸、およびまばらな結合菌糸からなります。担子器は細いこん棒形で4胞子性、18–40 × 4.5–7 µm（まれに110 µmまで伸長）です。円筒形のシスチジアが多く見られ、薄壁から厚壁で、大きさは25–95 × 3–7 µm（最大100 × 10 µm）です。",
+      "stipe": "ありません。傘は幅広い基部で木材に直接付着します。",
+      "flesh": "薄く強靭で、革質からコルク質、暗い錆褐色から暗黄褐色を呈し、水酸化カリウム（KOH）溶液に接すると直ちに黒変します。においは特徴がなく、味は穏やかです。",
+      "sporePrint": "白色です。胞子は円筒形からわずかに湾曲したソーセージ形（腸詰形）、平滑、無色、非アミロイド性で、大きさは8–13 × 3–5 µmです。",
+      "habitat": "枯れた、しばしば樹皮の剥がれた針葉樹材に腐生性として発生します。最も多いのはトウヒ属（Picea）とマツ属（Pinus）で、モミ属（Abies）、カラマツ属（Larix）、ビャクシン属（Juniperus）、イトスギ属（Cupressus）、トガサワラ属（Pseudotsuga）、ツガ属（Tsuga）にも見られ、まれにハンノキ、カバノキ、ブナ、ヤマナラシ、ナラ、ヤナギなどの広葉樹にも生えます。乾燥して日当たりと風通しのよい切り株、倒木、柵の杭、梁、ベンチ、無処理の建築用材などでよく育ちます。子実体は一年中残りますが、活発な成長と胞子形成は主に5月から12月にかけて行われます。",
+      "uses": "不食です。強靭でコルク質の肉質のため食用には適しませんが、有毒とは考えられていません。",
+      "confusion": "Gloeophyllum abietinumは鮮やかな黄橙色の成長縁を欠く温かみのある褐色の傘をもち、ひだ状構造の間隔がより広く（縁部で1 cmあたり8–13本）、壁も1 mmまでと厚くなります。Gloeophyllum trabeumはより平滑で淡色かつ柔らかい傘をもち、より密で強く連絡する迷路状の管孔（1 mmあたり2–4個）を備え、広葉樹に多く発生します。Gloeophyllum odoratumはひだ状ではなく円形から角張った管孔を形成し、活発な成長期には強いアニス臭があります。Trametes betulinaはより薄い白色からクリーム色のひだと淡い灰色の帯をもつ傘を特徴とし、カバノキなどの広葉樹に生えます。Daedaleopsis confragosaは広葉樹に生え、より淡色で平滑な傘と傷つくと淡紅褐色に変わる白色の管孔をもち、Daedalea quercinaは主にナラ類に生え、厚壁の迷路状管孔を備えたより厚い淡コルク色の棚状子実体を形成します。",
+      "notes": "柵、手すり、屋根の梁、庭園構造物など無処理の屋外木造物に容易に定着する重要かつ破壊的な褐色腐朽材菌ですが、加圧防腐処理を施した針葉樹材には定着しにくいとされています。菌糸体は日光で温められた材のより湿った内部を先に腐朽させ、子実体の形成は比較的遅いため、傘が現れる頃には構造的な損傷がすでに進行していることが少なくありません。二極性の交配様式をもつヘテロタリックな種です。",
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "죽은 침엽수 목재나 야외에 노출된 목재 위에서 겹쳐진 선반 모양이나 열을 지어 자라는 질기고 가죽 같은 목재부후성 구멍장이류 버섯으로, 강한 입방형 갈색부후를 일으킵니다. 유럽, 북아메리카, 북아시아를 포함한 북반구 온대 전역에 널리 분포하며, 남아메리카와 아프리카 일부 지역에서도 발견됩니다.",
+      "cap": "자실체는 대가 없으며 일년생이거나 다시 생장하여 1년 이상 지속되기도 합니다. 너비는 보통 2–12 cm(간혹 1.5–15 cm), 두께는 최대 1 cm이며 부착 부위에서는 2 cm에 이릅니다. 측면으로 붙는 갓은 반원형, 부채형 또는 콩팥형이며, 목재의 갈라진 틈에서 나와 옆으로 유합하며 층진 선반 모양을 이루는 경우가 많습니다. 그루터기 윗면에 자라는 개체는 불규칙한 로제트 모양을 형성할 수 있으며, 통나무 아랫면에 자라는 개체는 평평하게 퍼지는 배착성 형태를 띠기도 합니다. 거칠고 동심원 고리 무늬와 물결 모양의 홈이 있는 윗면은 처음에는 벨벳 같거나 거친 털이 덮여 있으나, 노화하면서 매끄러워지고 어두워집니다. 어린 갓과 활발히 자라는 가장자리는 밝은 노란색에서 황금빛 주황색을 띠며, 안쪽으로 갈수록 녹갈색, 짙은 세피아색 또는 거의 검은색으로 변하고, 햇빛에 노출된 오래된 개체는 풍화되어 회색빛을 띱니다.",
+      "hymenium": "구멍장이류로 분류되지만 아랫면에는 두꺼운 벽을 가진 방사상의 주름살 모양 구조(가장자리에서 cm당 15–20개)가 있으며, 이는 자주 갈라지고 서로 연결되어 깊이 최대 1 cm, 너비 약 2 mm의 길쭉한 미로 모양 틈을 이룹니다. 주름살 모양 구조는 신선할 때 연한 황토색을 띠고 노화하면서 녹갈색이나 암갈색으로 어두워집니다. 균사계는 3균사형으로, 꺾쇠연결이 있는 생식균사, 두꺼운 벽의 골격균사, 드문드문 분포하는 결합균사로 구성됩니다. 담자기는 좁은 곤봉형이며 4포자성이고 크기는 18–40 × 4.5–7 µm(간혹 110 µm까지 신장)입니다. 원통형 낭상체가 흔하며 얇은 벽에서 두꺼운 벽을 가지고 크기는 25–95 × 3–7 µm(최대 100 × 10 µm)입니다.",
+      "stipe": "없습니다. 갓이 넓은 면적으로 목재에 직접 부착됩니다.",
+      "flesh": "얇고 질기며 가죽질에서 코르크질이고, 짙은 녹갈색에서 어두운 황갈색을 띠며 수산화칼륨(KOH) 용액에 닿으면 즉시 검게 변합니다. 냄새는 뚜렷하지 않으며 맛은 순합니다.",
+      "sporePrint": "흰색입니다. 포자는 원통형에서 약간 굽은 소시지형(알란토이드)이며 표면이 매끄럽고 투명하며 비아밀로이드성으로, 크기는 8–13 × 3–5 µm입니다.",
+      "habitat": "죽은, 흔히 껍질이 벗겨진 침엽수 목재에서 부생성으로 자랍니다. 가장 흔한 기주는 가문비나무속(Picea)과 소나무속(Pinus)이며, 전나무속(Abies), 잎갈나무속(Larix), 향나무속(Juniperus), 편백·측백류(Cupressus), 미송속(Pseudotsuga), 솔송나무속(Tsuga)에서도 자라고, 드물게 오리나무, 자작나무, 너도밤나무, 사시나무, 참나무, 버드나무 같은 활엽수에서도 발견됩니다. 햇빛과 바람에 노출된 건조한 그루터기, 쓰러진 줄기, 울타리 기둥, 들보, 벤치, 방부 처리하지 않은 건축용 목재에서 잘 자랍니다. 자실체는 연중 남아 있으며, 활발한 생장과 포자 형성은 주로 5월부터 12월 사이에 이루어집니다.",
+      "uses": "식용 부적합합니다. 질기고 코르크 같은 식감 때문에 요리용으로 적합하지 않으나 독버섯으로 간주되지는 않습니다.",
+      "confusion": "Gloeophyllum abietinum은 밝은 황주황색 생장 가장자리가 없는 따뜻한 갈색 갓을 가지며, 주름살 모양 구조의 간격이 더 넓고(가장자리에서 cm당 8–13개) 벽이 최대 1 mm로 더 두껍습니다. Gloeophyllum trabeum은 더 매끄럽고 연하며 부드러운 갓과 더 조밀하고 강하게 문합하는 미로형 관공(mm당 2–4개)을 가지며 활엽수에서 더 자주 발견됩니다. Gloeophyllum odoratum은 주름살 모양 대신 둥글거나 각진 관공을 형성하며 활발히 자랄 때 강한 아니스 향이 납니다. Trametes betulina는 더 얇은 흰색에서 크림색 주름살과 회색 띠가 있는 더 연한 갓을 가지며 자작나무 같은 활엽수에서 자랍니다. Daedaleopsis confragosa는 활엽수에서 자라며 더 연하고 매끄러운 갓과 상처 시 분홍빛 갈색으로 변하는 희끄무레한 관공을 가지는 반면, Daedalea quercina는 주로 참나무에서 두꺼운 벽의 미로형 관공을 지닌 더 두껍고 연한 코르크색의 선반형 자실체를 형성합니다.",
+      "notes": "울타리, 난간, 지붕 들보, 정원 구조물 등 방부 처리하지 않은 야외 목조물에 쉽게 정착하는 중요하고 파괴적인 갈색부후 목재 버섯이지만, 가압 방부 처리된 침엽수재는 정착에 저항성을 보입니다. 균사체가 햇빛에 데워진 목재의 더 습한 내부를 먼저 부후시키고 자실체는 비교적 늦게 형성하므로, 갓이 눈에 띄기 전에 이미 구조적 손상이 상당히 진행된 경우가 많습니다. 이극성 교배 체계를 가진 자웅이체성(heterothallic) 종입니다.",
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Kietas, odiškas, medieną ardantis kempininis grybas, augantis čerpiškai persidengiančiomis lentynėlėmis arba eilėmis ant negyvos spygliuočių medienos ir lauke esančių medinių konstrukcijų, sukeliantis intensyvų kubinį rudąjį puvinį. Plačiai paplitęs Šiaurės pusrutulio vidutinio klimato juostoje, įskaitant Europą, Šiaurės Ameriką ir Šiaurės Aziją, taip pat aptinkamas Pietų Amerikoje ir dalyje Afrikos.",
+      "cap": "Vaisiakūniai bekočiai, vienmečiai arba atsinaujinantys ir išliekantys ilgiau nei vienus metus, paprastai 2–12 cm pločio (kartais 1,5–15 cm) ir iki 1 cm storio, ties prisitvirtinimo vieta siekiantys 2 cm. Šonu prisitvirtinusios kepurėlės yra pusapvalės, vėduokliškos arba inkstiškos ir dažnai šonais suauga į čerpiškus aukštus, išlindusius iš medienos plyšių; ant kelmų viršūnių augantys egzemplioriai gali sudaryti netaisyklingas skroteles, o ant rąstų apačios dažnai būna plokšti ir prigludę. Nelygus, koncentriškai rievėtas ir banguotai vagotas viršutinis paviršius pradžioje būna aksomiškas arba šiurkščiai plaukuotas, o sendamas tampa lygesnis ir tamsėja. Jaunos kepurėlės ir aktyviai augantys pakraščiai yra ryškiai geltoni ar auksiniai oranžiniai, į vidų pereinantys į rūdžių rudą, tamsiai sepijos arba beveik juodą spalvą, o saulės veikiami seni vaisiakūniai išblunka iki pilkšvų.",
+      "hymenium": "Nors rūšis priskiriama kempininiams grybams, apatinė pusė padengta storasieniais, spinduliškai išsidėsčiusiais lakšteliais (15–20 vienam cm prie pakraščio), kurie dažnai šakojasi ir jungiasi į pailgus labirintiškus plyšius iki 1 cm gylio. Plyšiai yra apie 2 mm pločio. Švieži lakšteliai būna blyškiai ochriškai geltoni, o sendami tamsėja iki rūdžių rudos arba tamsiai rudos spalvos. Hifų sistema trimitinė: ją sudaro generatyviniai hifai su sagtelėmis, storasieniai skeletiniai hifai ir negausūs jungiamieji hifai. Bazidijos siaurai kuokiškos, ketursporės, 18–40 × 4,5–7 µm dydžio (kartais pailgėjusios iki 110 µm); cilindrinės cistidės dažnos, plonasienės arba storasienės, 25–95 × 3–7 µm (iki 100 × 10 µm).",
+      "stipe": "Nėra; kepurėlė plačiai ir tiesiogiai prisitvirtinusi prie medienos.",
+      "flesh": "Trama plona, kieta, odiška arba kamštiška, tamsiai rūdžių ruda iki tamsiai gelsvai rudos, nuo kalio hidroksido (KOH) akimirksniu pajuoduoja. Kvapas neryškus, skonis švelnus.",
+      "sporePrint": "Baltas. Sporos cilindrinės arba šiek tiek lenktos (alantoidinės), lygios, bespalvės, neamiloidinės, 8–13 × 3–5 µm dydžio.",
+      "habitat": "Saprotrofinis grybas, augantis ant negyvos, dažnai bežievės spygliuočių medienos — dažniausiai eglės (Picea) ir pušies (Pinus), taip pat kėnio (Abies), maumedžio (Larix), kadagio (Juniperus), kipariso (Cupressus), pocūgės (Pseudotsuga) ir cūgos (Tsuga) — bei retai ant lapuočių, tokių kaip alksnis, beržas, bukas, drebulė, ąžuolas ar gluosnis. Gerai auga ant sausų, saulės ir vėjo veikiamų kelmų, išvartų, tvoros stulpų, sijų, suolų ir neapdorotos statybinės medienos. Vaisiakūniai išlieka ištisus metus, o aktyvus augimas ir sporų formavimasis daugiausia vyksta nuo gegužės iki gruodžio.",
+      "uses": "Nevalgomas; dėl kietos, kamštiškos konsistencijos netinkamas maistui, nors nelaikomas nuodingu.",
+      "confusion": "Gloeophyllum abietinum turi šiltai rudą kepurėlę be ryškaus geltonai oranžinio augančio pakraščio ir retesnius lakštelius (8–13 vienam cm prie pakraščio) su storesnėmis, iki 1 mm sienelėmis. Gloeophyllum trabeum išsiskiria lygesne, blyškesne, minkštesne kepurėle ir tankesnėmis, stipriai anastomuojančiomis labirintiškomis poromis (2–4 vienam mm) bei dažniau auga ant lapuočių. Gloeophyllum odoratum vietoj lakštelių formuoja apvalias arba kampuotas poras ir aktyviai augdamas skleidžia stiprų anyžių kvapą. Trametes betulina turi plonesnius baltus arba kreminius lakštelius, blyškesnes pilkšvai rievėtas kepurėles ir auga ant lapuočių, pavyzdžiui, beržo. Daedaleopsis confragosa turi blyškesnes, lygesnes kepurėles ir balsvas, pažeistas rausvai ruduojančias poras ant lapuočių, o Daedalea quercina formuoja storesnius, blyškios kamščio spalvos vaisiakūnius su plačiasienėmis labirintiškomis poromis daugiausia ant ąžuolo.",
+      "notes": "Svarbus ir žalingas rudojo puvinio medienos grybas, lengvai apnikantis neapdorotus lauko medinius statinius — tvoras, turėklus, stogo sijas ir sodo konstrukcijas, nors slėgiu impregnuota spygliuočių mediena yra atspari pažeidimui. Kadangi grybiena pirmiausia ardo drėgnesnį saulės įkaitintos medienos vidų, o vaisiakūnius išaugina palyginti vėlai, konstrukcinė žala dažnai jau būna toli pažengusi, kol vaisiakūniai pasirodo. Rūšis heterotalinė, turinti bipolinę kryžminimosi sistemą.",
+      "sourceUrls": []
+    },
+    "lv": {
+      "description": "Sīksta, ādaina, koksni noārdoša piepju sēne, kas aug jumstiņveida plauktos vai rindās uz atmirušas skujkoku koksnes un laikapstākļiem pakļautiem āra kokmateriāliem, izraisot intensīvu kubisko brūno trupi. Plaši izplatīta Ziemeļu puslodes mērenajā joslā, tostarp Eiropā, Ziemeļamerikā un Ziemeļāzijā, kā arī sastopama Dienvidamerikā un daļā Āfrikas.",
+      "cap": "Augļķermeņi ir sēdoši, viengadīgi vai spēj atjaunot augšanu un saglabāties ilgāk par vienu gadu; tie parasti ir 2–12 cm plati (reizēm 1,5–15 cm) un līdz 1 cm biezi, pie piestiprināšanās vietas sasniedzot 2 cm. Sāniski piestiprinātās cepurītes ir pusapaļas, vēdekļveida vai nierveida un bieži saaug sānos jumstiņveida stāvos, kas izspraucas no koksnes plaisām; uz celmu virsmas augošie eksemplāri var veidot neregulāras rozetes, bet uz kritalu apakšpuses tie mēdz būt plakani un pieguloši. Nelīdzenā, koncentriski joslotā un viļņaini rievainā virspuse sākumā ir samtaina līdz rupji mataina, ar vecumu kļūstot gludāka un tumšāka. Jaunas cepurītes un aktīvi augošās malas ir koši dzeltenas līdz zeltaini oranžas, virzienā uz centru pārejot rūsas brūnā, dziļi sēpijas brūnā vai gandrīz melnā krāsā, savukārt saulē pakļauti veci augļķermeņi izbālē pelēcīgi.",
+      "hymenium": "Lai gan suga pieder pie piepēm, apakšpusē ir biezsienu, radiāli izvietotas, lapiņām līdzīgas lapiņas (15–20 uz cm pie malas), kas bieži zarojas un savienojas iegarenās, labirintveida spraugās līdz 1 cm dziļumā. Spraugas ir apmēram 2 mm platas. Svaigas lapiņas ir bāli okerdzeltenas un ar vecumu satumst līdz rūsas brūnām vai tumši brūnām. Hifu sistēma ir trimītiska — ar ģeneratīvajām hifām ar skavām, biezsienu skeleta hifām un retām saistošajām hifām. Bazīdijas ir šauri vālesveida, četrsporu, 18–40 × 4,5–7 µm (reizēm izstieptas līdz 110 µm); cilindriskas cistīdas ir biežas, plānsienu līdz biezsienu, 25–95 × 3–7 µm (līdz 100 × 10 µm).",
+      "stipe": "Nav; cepurīte ir plaši un tieši piestiprināta pie koksnes.",
+      "flesh": "Mīkstums ir plāns, sīksts, ādains līdz korķains, tumši rūsas brūns līdz tumši dzeltenbrūns, un kālija hidroksīda (KOH) ietekmē nekavējoties nomelnē. Smarža ir neizteikta, un garša ir maiga.",
+      "sporePrint": "Balts. Sporas ir cilindriskas līdz viegli izliektas (alantoīdas), gludas, bezkrāsainas, neamiloīdas, to izmērs ir 8–13 × 3–5 µm.",
+      "habitat": "Saprotrofs uz atmirušas, bieži atmizojušās skujkoku koksnes — visbiežāk uz egles (Picea) un priedes (Pinus), kā arī uz baltegles (Abies), lapegles (Larix), kadiķa (Juniperus), cipreses (Cupressus), duglāzijas (Pseudotsuga) un tsugas (Tsuga) — un reti uz lapu kokiem, piemēram, alkšņa, bērza, dižskābarža, apses, ozola vai vītola. Tā labi aug uz sausiem, saulei un vējam pakļautiem celmiem, kritalām, žoga stabiem, sijām, soliem un neapstrādātiem būvkokiem. Augļķermeņi saglabājas visu gadu, bet aktīva augšana un sporu veidošanās notiek galvenokārt no maija līdz decembrim.",
+      "uses": "Neēdama; sīkstās, korķainās konsistences dēļ nav piemērota uzturam, lai gan netiek uzskatīta par indīgu.",
+      "confusion": "Gloeophyllum abietinum ir silti brūna cepurīte bez koši dzeltenoranžas augšanas malas un retākas lapiņas (8–13 uz cm pie malas) ar biezākām sienām līdz 1 mm. Gloeophyllum trabeum ir gludāka, bālāka, mīkstāka cepurīte un blīvākas, stipri anastomozējošas labirintveida poras (2–4 uz mm), un tā biežāk sastopama uz lapu kokiem. Gloeophyllum odoratum lapiņu vietā veido apaļas līdz stūrainas poras un aktīvas augšanas laikā izdala spēcīgu anīsa smaržu. Trametes betulina ir plānākas baltas līdz krēmkrāsas lapiņas, bālākas pelēcīgi joslotas cepurītes, un tā aug uz lapu kokiem, piemēram, bērza. Daedaleopsis confragosa ir bālākas, gludākas cepurītes un bālganas, pieskaroties sārtbrūnas kļūstošas poras uz lapu kokiem, savukārt Daedalea quercina veido biezākus, bāli korķkrāsas augļķermeņus ar platsienu labirintveida porām galvenokārt uz ozola.",
+      "notes": "Nozīmīga un postīga brūnās trupes koksnes sēne, kas viegli apdzīvo neapstrādātas āra koka konstrukcijas — žogus, margas, jumta sijas un dārza būves, turpretim ar spiedienu impregnēta skujkoku koksne ir noturīga pret kolonizāciju. Tā kā micēlijs vispirms noārda saules sasildītās koksnes mitrāko iekšpusi un augļķermeņus veido salīdzinoši vēlu, konstrukcijas bojājums bieži jau ir tālu progresējis, pirms parādās augļķermeņi. Suga ir heterotalliska ar bipolāru krustošanās sistēmu.",
+      "sourceUrls": []
+    },
+    "nl": {
+      "label": "geelbruine plaatjeshoutzwam",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Geelbruine_plaatjeshoutzwam",
+      "description": "Een taaie, leerachtige, houtafbrekende consolevormige zwam die in dakpansgewijze rijen of groepen groeit op dood naaldhout en onbeschermd buitenhout, en een intensieve kubieke bruinrot veroorzaakt. De soort is wijdverspreid in de gematigde streken van het noordelijk halfrond, waaronder Europa, Noord-Amerika en Noord-Azië, en komt ook voor in Zuid-Amerika en delen van Afrika.",
+      "cap": "De vruchtlichamen zijn zittend, eenjarig of herlevend om langer dan één jaar te blijven bestaan, en doorgaans 2–12 cm breed (soms 1,5–15 cm) en tot 1 cm dik, oplopend tot 2 cm bij de aanhechting. Zijdelings aangehechte consoles zijn halfrond, waaier- of niervormig en vergroeien vaak zijdelings tot dakpansgewijze rijen die uit houtscheuren tevoorschijn komen; exemplaren boven op stronken kunnen onregelmatige rozetten vormen en exemplaren aan de onderzijde van stammen kunnen vlak en korstvormig (resupinaat) uitgroeien. De ruwe, concentrisch gezoneerde en golvend gegroefde bovenzijde is aanvankelijk fluwelig tot grof behaard en wordt met de leeftijd kaler en donkerder. Jonge hoeden en actief groeiende randen zijn heldergeel tot goudoranje, naar binnen overgaand in roestbruin, diep sepiabruin of bijna zwart, en verweren grijsachtig bij oude, aan de zon blootgestelde exemplaren.",
+      "hymenium": "Hoewel de soort tot de gaatjeszwammen wordt gerekend, draagt de onderzijde dikwandige, radiaal gerangschikte, plaatjesachtige lamellen (15–20 per cm aan de rand) die vaak vertakken en onderling verbinden tot langwerpige, doolhofachtige sleuven tot 1 cm diep en ongeveer 2 mm breed. De plaatjes zijn vers bleek okergeel en verkleuren met de leeftijd naar roestbruin of donkerbruin. Het hyfensysteem is trimitisch, met gespendragende generatieve hyfen, dikwandige skelethyfen en schaarse bindhyfen. De basidiën zijn smal knotsvormig, viersporig en meten 18–40 × 4,5–7 µm (soms verlengd tot 110 µm); cilindrische cystiden zijn talrijk, dun- tot dikwandig en 25–95 × 3–7 µm groot (tot 100 × 10 µm).",
+      "stipe": "Afwezig; de console zit breed en rechtstreeks op het hout vast.",
+      "flesh": "Dun, taai, leerachtig tot kurkachtig, donker roestbruin tot donker geelbruin, direct zwart verkleurend met kaliumhydroxide (KOH). De geur is onopvallend en de smaak mild.",
+      "sporePrint": "Wit. De sporen zijn cilindrisch tot licht gekromd (allantoïd), glad, hyalien, inamyloïd en meten 8–13 × 3–5 µm.",
+      "habitat": "Saprotroof op dood, vaak ontschorst naaldhout — het vaakst op spar (Picea) en den (Pinus), maar ook op zilverspar (Abies), lariks (Larix), jeneverbes (Juniperus), cipres (Cupressus), douglasspar (Pseudotsuga) en hemlockspar (Tsuga) — en zelden op loofhout zoals els, berk, beuk, ratelpopulier, eik of wilg. De soort gedijt goed op droge, aan zon en wind blootgestelde stronken, liggende stammen, afrasteringspalen, balken, banken en onbehandeld bouwhout. De vruchtlichamen blijven het hele jaar aanwezig, met actieve groei en sporenvorming voornamelijk van mei tot december.",
+      "uses": "Niet eetbaar; de taaie, kurkachtige structuur maakt de zwam ongeschikt voor de keuken, al wordt hij niet als giftig beschouwd.",
+      "confusion": "Gloeophyllum abietinum heeft een warmbruine hoed zonder helder geeloranje groeirand en wijder uiteenstaande plaatjes (8–13 per cm aan de rand) met dikkere wanden tot 1 mm. Gloeophyllum trabeum heeft een gladdere, blekere, zachtere hoed en dichtere, sterk anastomoserende labyrintische poriën (2–4 per mm) en komt vaker voor op loofhout. Gloeophyllum odoratum vormt ronde tot hoekige poriën in plaats van plaatjesachtige lamellen en heeft tijdens actieve groei een sterke anijsgeur. Trametes betulina heeft dunnere witte tot crèmekleurige plaatjes, blekere grijs gezoneerde hoeden en groeit op loofhout zoals berk. Daedaleopsis confragosa heeft blekere, gladdere hoeden en witachtige, bij kneuzing rozebruin verkleurende poriën op loofhout, terwijl Daedalea quercina dikkere, bleek kurkkleurige consoles met dikwandige doolhofachtige poriën vormt, vooral op eik.",
+      "notes": "Een belangrijke en schadelijke bruinrotzwam die gemakkelijk onbehandeld buitenhout aantast, zoals hekken, leuningen, dakbalken en tuinconstructies, al is onder druk geïmpregneerd naaldhout goed bestand tegen kolonisatie. Doordat het mycelium eerst het vochtigere binnenste van door de zon verwarmd hout afbreekt en pas relatief laat vruchtlichamen vormt, is constructieve schade vaak al ver gevorderd voordat de zwam zichtbaar wordt. De soort is heterothallisch met een bipolair paringssysteem.",
+      "sourceUrls": [
+        "https://nl.wikipedia.org/wiki/Geelbruine_plaatjeshoutzwam"
+      ]
+    },
+    "no": {
+      "label": "vedmusling",
+      "description": "En seig, læraktig, vednedbrytende kjuke som vokser i taklagte hyller eller rader på død bartreved og utsatt utendørs treverk, der den forårsaker en kraftig kubisk brunråte. Den er vidt utbredt i den tempererte delen av den nordlige halvkule, inkludert Europa, Nord-Amerika og Nord-Asia, og forekommer også i Sør-Amerika og deler av Afrika.",
+      "cap": "Fruktlegemene er sittende, ettårige eller kan leve videre i mer enn ett år, og er typisk 2–12 cm brede (av og til 1,5–15 cm) og opptil 1 cm tykke, opptil 2 cm ved festet. Sidestilte hatter er halvsirkelformede, vifteformede eller nyreformede og vokser ofte sammen sideveis i taklagte etasjer som bryter frem fra sprekker i veden; eksemplarer på toppen av stubber kan danne uregelmessige rosetter, og eksemplarer på undersiden av stokker kan ligge flatt og resupinat. Den ujevne, konsentrisk sonerte og bølget-furete oversiden er først fløyelsaktig til grovt håret, men blir glattere og mørkere med alderen. Unge hatter og aktivt voksende kanter er sterkt gule til gyllenoransje og går innover over i rustbrunt, mørkt sepiabrunt eller nesten svart, mens gamle soleksponerte eksemplarer forvitrer til grålig.",
+      "hymenium": "Selv om arten regnes blant kjukene, har undersiden tykkveggede, radiært ordnede, skivelignende lameller (15–20 per cm ved kanten) som ofte forgrener seg og forbindes til avlange, labyrintaktige spalter opptil 1 cm dype. Spaltene er omkring 2 mm brede. Skivene er blekt okergule som friske og mørkner til rustbrunt eller mørkebrunt med alderen. Hyfesystemet er trimitisk, med generative hyfer med bøyler, tykkveggede skjeletthyfer og sparsomme bindehyfer. Basidiene er smalt klubbeformede, firesporede og 18–40 × 4,5–7 µm (av og til forlenget opptil 110 µm); sylindriske cystider er hyppige, tynn- til tykkveggede og 25–95 × 3–7 µm (opptil 100 × 10 µm).",
+      "stipe": "Mangler; hatten er bredt og direkte festet til veden.",
+      "flesh": "Kjøttet er tynt, seigt, læraktig til korkaktig, mørkt rustbrunt til mørkt gulbrunt, og farges umiddelbart svart med kaliumhydroksid (KOH). Lukten er utydelig og smaken er mild.",
+      "sporePrint": "Hvitt. Sporene er sylindriske til svakt krumme (allantoide), glatte, hyaline, inamyloide og måler 8–13 × 3–5 µm.",
+      "habitat": "Saprotrof på død, ofte barkløs bartreved — vanligst gran (Picea) og furu (Pinus), samt edelgran (Abies), lerk (Larix), einer (Juniperus), sypress (Cupressus), douglasgran (Pseudotsuga) og hemlokk (Tsuga) — og sjelden på løvtrær som or, bjørk, bøk, osp, eik eller pil. Den trives på tørre, sol- og vindeksponerte stubber, falne stammer, gjerdestolper, bjelker, benker og ubehandlet konstruksjonsvirke. Fruktlegemene holder seg hele året, med aktiv vekst og sporedannelse hovedsakelig fra mai til desember.",
+      "uses": "Ikke matsopp; den seige, korkaktige konsistensen gjør den uegnet til mat, selv om den ikke regnes som giftig.",
+      "confusion": "Gloeophyllum abietinum har en varmt brun hatt uten sterkt guloransje vekstsone i kanten og mer spredtstilte skiver (8–13 per cm ved kanten) med tykkere vegger på opptil 1 mm. Gloeophyllum trabeum har en glattere, lysere, mykere hatt og tettere, sterkt anastomoserende labyrintiske porer (2–4 per mm) og forekommer oftere på løvtrær. Gloeophyllum odoratum danner runde til kantede porer i stedet for skivelignende lameller og har en sterk anislukt ved aktiv vekst. Trametes betulina har tynnere hvite til kremfargede skiver, lysere grålig sonerte hatter og vokser på løvtrær som bjørk. Daedaleopsis confragosa har lysere, glattere hatter og hvitlige porer som får rosabrune flekker ved berøring, på løvtrær, mens Daedalea quercina danner tykkere, blekt korkfargede hatter med bredveggede labyrintiske porer hovedsakelig på eik.",
+      "notes": "En viktig og ødeleggende brunråtesopp i trevirke som lett koloniserer ubehandlet utendørs treverk som gjerder, rekkverk, takbjelker og hagekonstruksjoner, mens trykkimpregnert bartrevirke motstår kolonisering. Fordi mycelet først bryter ned det fuktigere indre av soloppvarmet trevirke og danner fruktlegemer relativt sent, er den strukturelle skaden ofte langt fremskreden før fruktlegemene kommer til syne. Arten er heterotallisk med et bipolært parringssystem.",
+      "sourceUrls": []
+    },
+    "pl": {
+      "label": "niszczyca płotowa",
+      "wikipedia": "https://pl.wikipedia.org/wiki/Niszczyca_p%C5%82otowa",
+      "description": "Twardy, skórzasty grzyb rozkładający drewno o konsolowatych owocnikach, rosnący w dachówkowatych skupiskach lub rzędach na martwym drewnie iglastym oraz odsłoniętym drewnie użytkowym na zewnątrz, powodujący intensywną brunatną zgniliznę kostkową. Szeroko rozpowszechniony w strefie umiarkowanej półkuli północnej, w tym w Europie, Ameryce Północnej i północnej Azji, występuje także w Ameryce Południowej oraz w części Afryki.",
+      "cap": "Owocniki są siedzące, jednoroczne lub odnawiające się i utrzymujące przez ponad rok, zazwyczaj 2–12 cm szerokie (wyjątkowo 1,5–15 cm) i do 1 cm grube, osiągając 2 cm u nasady. Przyrośnięte bokiem kapelusze są półkoliste, wachlarzowate lub nerkowate i często zrastają się bokami w piętrowe rzędy wyrastające ze szczelin drewna; okazy na powierzchni cięcia pniaków mogą tworzyć nieregularne rozety, a rosnące na spodniej stronie kłód mogą przylegać płasko i być rozpostarte (resupinatowe). Szorstka, koncentrycznie strefowana i falisto bruzdowana górna powierzchnia jest początkowo aksamitna do grubo owłosionej, z wiekiem łysieje i ciemnieje. Młode kapelusze i aktywnie rosnące brzegi są jasnożółte do złocistopomarańczowych, przechodząc ku środkowi w barwę rdzawobrązową, głębokosepiową lub niemal czarną, a u starych owocników wystawionych na słońce szarzeją.",
+      "hymenium": "Choć zaliczany jest do grzybów poliporoidalnych, spodnia strona ma grubościenne, promieniście ułożone, przypominające blaszki przegrody (15–20 na cm przy brzegu), które często się rozwidlają i łączą w wydłużone, labiryntowate szczeliny głębokie do 1 cm i szerokie na około 2 mm. Za młodu są bladoochrowożółte, a z wiekiem ciemnieją do rdzawobrązowych lub ciemnobrązowych. System strzępkowy jest trymityczny, ze strzępkami generatywnymi ze sprzążkami, grubościennymi strzępkami szkieletowymi i nielicznymi strzępkami łącznikowymi. Podstawki są wąskomaczugowate, czterozarodnikowe, o wymiarach 18–40 × 4,5–7 µm (wyjątkowo wydłużone do 110 µm); cylindryczne cystydy są liczne, cienko- do grubościennych, o wymiarach 25–95 × 3–7 µm (do 100 × 10 µm).",
+      "stipe": "Brak; owocnik przyrasta szeroko i bezpośrednio do drewna.",
+      "flesh": "Cienki, twardy, skórzasty do korkowatego, ciemno rdzawobrązowy do ciemno żółtobrązowego, natychmiast czerniejący pod wpływem wodorotlenku potasu (KOH). Zapach jest niewyraźny, a smak łagodny.",
+      "sporePrint": "Biały. Zarodniki są cylindryczne do lekko wygiętych (alantoidalne), gładkie, szkliste (hialinowe), nieamyloidalne i mierzą 8–13 × 3–5 µm.",
+      "habitat": "Saprotroficzny na martwym, często okorowanym drewnie iglastym — najczęściej na świerku (Picea) i sośnie (Pinus), a także na jodle (Abies), modrzewiu (Larix), jałowcu (Juniperus), cyprysie (Cupressus), daglezji (Pseudotsuga) i choinie (Tsuga) — oraz rzadko na drzewach liściastych, takich jak olcha, brzoza, buk, osika, dąb czy wierzba. Dobrze rozwija się na suchych, nasłonecznionych i przewiewnych pniakach, powalonych pniach, słupkach ogrodzeniowych, belkach, ławkach i nieimpregnowanym drewnie konstrukcyjnym. Owocniki utrzymują się przez cały rok, a aktywny wzrost i zarodnikowanie przypadają głównie na okres od maja do grudnia.",
+      "uses": "Niejadalny; twarda, korkowata konsystencja czyni go nieprzydatnym kulinarnie, choć nie uważa się go za trujący.",
+      "confusion": "Gloeophyllum abietinum ma ciepłobrązowy kapelusz bez jasnożółtopomarańczowego rosnącego brzegu oraz rzadziej rozmieszczone blaszki (8–13 na cm przy brzegu) o grubszych ścianach do 1 mm. Gloeophyllum trabeum ma gładszy, bledszy, bardziej miękki kapelusz oraz gęstsze, silnie łączące się labiryntowate pory (2–4 na mm) i częściej występuje na drewnie liściastym. Gloeophyllum odoratum wytwarza okrągłe do kanciastych pory zamiast blaszek i wydziela silny zapach anyżu w okresie aktywnego wzrostu. Trametes betulina ma cieńsze białe do kremowych blaszki, bledsze szarawo strefowane kapelusze i rośnie na drewnie liściastym, takim jak brzoza. Daedaleopsis confragosa ma bledsze, gładsze kapelusze i białawe pory różowobrązowiejące po uciśnięciu na drewnie liściastym, natomiast Daedalea quercina tworzy grubsze, bladokorkowe owocniki o grubościennych labiryntowatych porach głównie na dębie.",
+      "notes": "Ważny i niszczycielski grzyb powodujący brunatną zgniliznę drewna, który łatwo zasiedla nieimpregnowane zewnętrzne elementy drewniane, takie jak płoty, balustrady, belki dachowe i konstrukcje ogrodowe, choć drewno iglaste impregnowane ciśnieniowo jest odporne na kolonizację. Ponieważ jego grzybnia najpierw rozkłada wilgotniejsze wnętrze nagrzewanego słońcem drewna i wytwarza owocniki stosunkowo późno, uszkodzenia konstrukcyjne są często zaawansowane, zanim pojawią się owocniki. Jest gatunkiem heterotalicznym o bipolarnym systemie kojarzenia.",
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Niszczyca_p%C5%82otowa"
+      ]
+    },
+    "pt": {
+      "description": "Fungo lignícola em consola, tenaz e coriáceo, que cresce em prateleiras imbricadas ou fileiras sobre madeira morta de coníferas e madeira estrutural exposta ao ar livre, causando uma intensa podridão castanha cúbica. Amplamente distribuído pelas regiões temperadas do hemisfério norte, incluindo a Europa, a América do Norte e o norte da Ásia, ocorre também na América do Sul e em partes de África.",
+      "cap": "Os corpos frutíferos são sésseis, anuais ou reviviscentes capazes de persistir por mais de um ano, medindo tipicamente 2–12 cm de largura (ocasionalmente 1,5–15 cm) e até 1 cm de espessura, atingindo 2 cm na zona de inserção. As consolas inseridas lateralmente são semicirculares, em forma de leque ou reniformes e fundem-se frequentemente lateralmente em patamares imbricados que emergem das fissuras da madeira; exemplares no topo de cepos podem formar rosetas irregulares e os que se desenvolvem na face inferior de troncos podem crescer planos e ressupinados. A superfície superior, rugosa, zonada concentricamente e sulcada de forma ondulada, é aveludada a grosseiramente peluda de início, tornando-se mais lisa e escura com a idade. Os chapéus jovens e as margens em crescimento ativo são amarelo-vivo a laranja-dourado, passando para o interior a castanho-ferrugem, sépia-escuro ou quase preto, e adquirindo tons acinzentados pela exposição solar nos exemplares velhos.",
+      "hymenium": "Embora classificado entre os políporos, a face inferior apresenta lâminas de paredes espessas dispostas radialmente (15–20 por cm na margem) que frequentemente se bifurcam e se interligam formando fendas alongadas e labirínticas até 1 cm de profundidade e cerca de 2 mm de largura. As lâminas são amarelo-ocre pálido em fresco e escurecem para castanho-ferrugem ou castanho-escuro com a idade. O sistema hifal é trimítico, com hifas generativas com ansas de anastomose, hifas esqueléticas de parede espessa e raras hifas envolventes. Os basídios são estreitamente claviformes, tetraspóricos, medindo 18–40 × 4,5–7 µm (ocasionalmente alongados até 110 µm); os cistídios cilíndricos são frequentes, de parede fina a espessa, com 25–95 × 3–7 µm (até 100 × 10 µm).",
+      "stipe": "Ausente; a consola adere ampla e diretamente à madeira.",
+      "flesh": "Fina, tenaz, coriácea a suberosa, castanho-ferrugem escura a castanho-amarelada escura, enegrecendo imediatamente com hidróxido de potássio (KOH). O odor é indistinto e o sabor suave.",
+      "sporePrint": "Branca. Os esporos são cilíndricos a ligeiramente curvados (alantoides), lisos, hialinos, inamiloides e medem 8–13 × 3–5 µm.",
+      "habitat": "Saprotrófico em madeira morta de coníferas, frequentemente descascada — sobretudo pícea (Picea) e pinheiro (Pinus), bem como abeto (Abies), lariço (Larix), zimbro (Juniperus), cipreste (Cupressus), pseudotsuga (Pseudotsuga) e tsuga (Tsuga) — e raramente em folhosas como amieiro, bétula, faia, choupo-tremedor, carvalho ou salgueiro. Desenvolve-se bem em cepos secos expostos ao sol e ao vento, troncos caídos, postes de vedação, vigas, bancos e madeira estrutural não tratada. Os corpos frutíferos persistem durante todo o ano, com crescimento ativo e produção de esporos principalmente de maio a dezembro.",
+      "uses": "Não comestível; a textura tenaz e suberosa torna-o inadequado para a cozinha, embora não seja considerado venenoso.",
+      "confusion": "Gloeophyllum abietinum tem um chapéu castanho quente sem margem de crescimento amarelo-alaranjada viva e lâminas mais espaçadas (8–13 por cm na margem) com paredes mais espessas até 1 mm. Gloeophyllum trabeum apresenta um chapéu mais liso, pálido e macio e poros labirínticos mais densos e fortemente anastomosados (2–4 por mm), ocorrendo com maior frequência em folhosas. Gloeophyllum odoratum desenvolve poros arredondados a angulosos em vez de lâminas e exala um forte odor a anis quando está em crescimento ativo. Trametes betulina possui lâminas mais finas, brancas a creme, chapéus mais pálidos com faixas acinzentadas e cresce em folhosas como a bétula. Daedaleopsis confragosa apresenta chapéus mais pálidos e lisos e poros esbranquiçados que adquirem tons castanho-rosados ao toque em folhosas, enquanto Daedalea quercina forma consolas mais espessas, cor de cortiça pálida, com poros labirínticos de paredes largas sobretudo em carvalho.",
+      "notes": "Importante e destrutivo fungo de podridão castanha em madeiras, que coloniza facilmente estruturas exteriores não tratadas como vedações, corrimões, vigas de telhado e mobiliário de jardim, embora a madeira de coníferas tratada em autoclave resista à colonização. Como o micélio degrada primeiro o interior mais húmido da madeira aquecida pelo sol e produz consolas relativamente tarde, os danos estruturais encontram-se frequentemente avançados antes de surgirem os corpos frutíferos. É heterotálico com um sistema de acasalamento bipolar.",
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă lignicolă cu corp fructifer în formă de consolă, tenace și pieloasă, care crește în etaje suprapuse sau în șiruri pe lemn mort de conifere și pe cherestea expusă în aer liber, provocând un putregai brun cubic intens. Larg răspândită în regiunile temperate ale emisferei nordice, inclusiv Europa, America de Nord și Asia de Nord, apare și în America de Sud și în unele părți ale Africii.",
+      "cap": "Corpurile fructifere sunt sesile, anuale sau capabile să își reia creșterea și să persiste mai mult de un an, având de obicei 2–12 cm lățime (ocazional 1,5–15 cm) și până la 1 cm grosime, ajungând la 2 cm la locul de prindere. Consolele prinse lateral sunt semicirculare, în formă de evantai sau reniforme și adesea se contopesc lateral în etaje suprapuse care ies din crăpăturile lemnului; exemplarele de pe partea superioară a cioatelor pot forma rozete neregulate, iar cele de pe fața inferioară a buștenilor se pot întinde plat, resupinat. Suprafața superioară, neregulată, zonată concentric și brăzdată ondulat, este la început catifelată până la aspru păroasă, netezindu-se și închizându-se la culoare odată cu vârsta. Pălăriile tinere și marginile aflate în creștere activă sunt galben-vii până la portocaliu-aurii, trecând spre interior la brun-ruginiu, sepia închis sau aproape negru, și decolorându-se spre cenușiu la exemplarele bătrâne expuse la soare.",
+      "hymenium": "Deși este clasificată printre polipori, fața inferioară poartă lamele cu pereți groși, dispuse radial (15–20 pe cm la margine), care se bifurcă și se interconectează frecvent în fante alungite, labirintice, adânci până la 1 cm și late de aproximativ 2 mm. Lamelele sunt ocru-gălbui pal în stare proaspătă și se închid la brun-ruginiu sau brun închis cu vârsta. Sistemul hifal este trimitic, cu hife generative cu catarame, hife scheletice cu pereți groși și hife conjunctive rare. Bazidiile sunt îngust clavate, tetrasporice, de 18–40 × 4,5–7 µm (ocazional alungite până la 110 µm); cistidele cilindrice sunt frecvente, cu pereți subțiri până la groși, și măsoară 25–95 × 3–7 µm (până la 100 × 10 µm).",
+      "stipe": "Absent; consola se prinde larg și direct pe lemn.",
+      "flesh": "Subțire, tenace, pieloasă până la suberoasă, brun-ruginiu închis până la brun-gălbui închis, care se înnegrește imediat la contactul cu hidroxidul de potasiu (KOH). Mirosul este nedistinct, iar gustul este blând.",
+      "sporePrint": "Albă. Sporii sunt cilindrici până la ușor curbați (alantoizi), netezi, hialini, inamiloizi și măsoară 8–13 × 3–5 µm.",
+      "habitat": "Saprotrofă pe lemn mort de conifere, adesea decojit — cel mai frecvent molid (Picea) și pin (Pinus), precum și brad (Abies), larice (Larix), ienupăr (Juniperus), chiparos (Cupressus), duglas (Pseudotsuga) și tsuga (Tsuga) — și rar pe foioase precum arin, mesteacăn, fag, plop tremurător, stejar sau salcie. Prosperă pe cioate uscate, expuse la soare și vânt, trunchiuri căzute, stâlpi de gard, grinzi, bănci și lemn de construcție netratat. Corpurile fructifere persistă tot anul, cu creștere activă și sporulare în principal din mai până în decembrie.",
+      "uses": "Necomestibilă; textura tenace și suberoasă o face nepotrivită pentru bucătărie, deși nu este considerată otrăvitoare.",
+      "confusion": "Gloeophyllum abietinum are o pălărie brun-caldă, fără margine de creștere galben-portocalie vie, și lamele mai distanțate (8–13 pe cm la margine), cu pereți mai groși, până la 1 mm. Gloeophyllum trabeum are o pălărie mai netedă, mai palidă și mai moale, pori labirintici mai deși și puternic anastomozanți (2–4 pe mm) și apare mai des pe foioase. Gloeophyllum odoratum formează pori rotunzi până la angulari în loc de lamele și are un miros puternic de anason în perioada de creștere activă. Trametes betulina are lamele mai subțiri, albe până la crem, pălării mai palide cu benzi cenușii și crește pe foioase precum mesteacănul. Daedaleopsis confragosa are pălării mai palide și mai netede și pori albicioși care se pătează brun-rozaliu la atingere, pe foioase, în timp ce Daedalea quercina formează console mai groase, de culoarea plutei pale, cu pori labirintici cu pereți groși, în principal pe stejar.",
+      "notes": "O ciupercă importantă și distructivă de putregai brun al lemnului, care colonizează cu ușurință construcțiile din lemn netratat aflate în aer liber, precum garduri, balustrade, grinzi de acoperiș și structuri de grădină, deși lemnul de rășinoase impregnat sub presiune rezistă colonizării. Deoarece miceliul său degradează mai întâi interiorul mai umed al lemnului încălzit de soare și formează console relativ târziu, degradarea structurală este adesea avansată înainte de apariția corpurilor fructifere. Este heterotalică, cu sistem de împerechere bipolar.",
+      "sourceUrls": []
+    },
+    "ru": {
+      "label": "трутовик заборный",
+      "names": [
+        "глеофиллум заборный"
+      ],
+      "wikipedia": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D1%82%D0%BE%D0%B2%D0%B8%D0%BA_%D0%B7%D0%B0%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9",
+      "description": "Жесткий, кожистый дереворазрушающий трутовый гриб, растущий черепитчатыми ярусами или рядами на мертвой древесине хвойных пород и открытых деревянных конструкциях, вызывая интенсивную кубическую бурую гниль. Широко распространен в умеренном поясе Северного полушария, включая Европу, Северную Америку и Северную Азию; встречается также в Южной Америке и некоторых регионах Африки.",
+      "cap": "Плодовые тела сидячие, однолетние или возобновляющиеся и сохраняющиеся более одного года, обычно 2–12 см шириной (изредка 1,5–15 см) и до 1 см толщиной, у основания достигая 2 см. Прикрепленные боком шляпки полукруглые, вееровидные или почковидные и часто срастаются краями в черепитчатые ряды, выступающие из трещин древесины; экземпляры на срезах пней могут образовывать неправильные розетки, а растущие на нижней стороне бревен способны распростираться плоско и ресупинатно. Неровная, концентрически зонированная и волнисто-бороздчатая верхняя поверхность сначала бархатистая до грубоволосистой, с возрастом становится более гладкой и темной. Молодые шляпки и активно растущие края ярко-желтые до золотисто-оранжевых, к центру переходят в ржаво-бурые, темно-сепийные или почти черные, а у старых, открытых солнцу экземпляров выцветают до сероватых.",
+      "hymenium": "Хотя вид относится к полипоровым грибам, нижняя сторона несет толстостенные, радиально расположенные пластинки (15–20 на см у края), которые часто ветвятся и соединяются в вытянутые лабиринтовидные щели глубиной до 1 см и шириной около 2 мм. В свежем состоянии пластинки бледно-охристо-желтые, с возрастом темнеют до ржаво-бурых или темно-бурых. Гифальная система тримитическая: генеративные гифы с пряжками, толстостенные скелетные гифы и немногочисленные связывающие гифы. Базидии узкобулавовидные, четырехспоровые, 18–40 × 4,5–7 мкм (изредка удлиненные до 110 мкм); цилиндрические цистиды многочисленные, от тонко- до толстостенных, 25–95 × 3–7 мкм (до 100 × 10 мкм).",
+      "stipe": "Отсутствует; плодовое тело широко и непосредственно прикрепляется к древесине.",
+      "flesh": "Тонкая, жесткая, от кожистой до пробковой, темно-ржаво-бурая до темно-желто-бурой, мгновенно чернеющая под действием гидроксида калия (KOH). Запах невыраженный, вкус мягкий.",
+      "sporePrint": "Белый. Споры цилиндрические до слегка изогнутых (аллантоидные), гладкие, бесцветные (гиалиновые), неамилоидные, размером 8–13 × 3–5 мкм.",
+      "habitat": "Сапротрофный на мертвой, часто лишенной коры древесине хвойных пород — чаще всего ели (Picea) и сосны (Pinus), а также пихты (Abies), лиственницы (Larix), можжевельника (Juniperus), кипариса (Cupressus), псевдотсуги (Pseudotsuga) и тсуги (Tsuga) — и редко на лиственных породах, таких как ольха, береза, бук, осина, дуб или ива. Хорошо развивается на сухих, открытых солнцу и ветру пнях, валежных стволах, заборных столбах, балках, скамьях и необработанных строительных пиломатериалах. Плодовые тела сохраняются круглый год, активный рост и спороношение происходят главным образом с мая по декабрь.",
+      "uses": "Несъедобный; жесткая пробковая консистенция делает его непригодным для кулинарии, хотя ядовитым он не считается.",
+      "confusion": "Gloeophyllum abietinum имеет тепло-бурую шляпку без ярко-желто-оранжевого растущего края и более редкие пластинки (8–13 на см у края) с более толстыми стенками до 1 мм. Gloeophyllum trabeum отличается более гладкой, бледной и мягкой шляпкой и более частыми, сильно анастомозирующими лабиринтовидными порами (2–4 на мм), чаще встречаясь на лиственных породах. Gloeophyllum odoratum образует округлые или угловатые поры вместо пластинок и обладает сильным анисовым запахом в период активного роста. Trametes betulina имеет более тонкие белые или кремовые пластинки, более бледные серовато-полосатые шляпки и растет на лиственных породах, например березе. Daedaleopsis confragosa имеет более бледные, гладкие шляпки и беловатые поры, темнеющие при надавливании до розовато-бурых, на лиственных породах, тогда как Daedalea quercina образует более толстые, бледные пробковые плодовые тела с толстостенными лабиринтовидными порами преимущественно на дубе.",
+      "notes": "Важный и опасный возбудитель бурой гнили древесины, легко заселяющий необработанные наружные деревянные конструкции, такие как заборы, перила, кровельные балки и садовые постройки, хотя пропитанная под давлением хвойная древесина устойчива к заселению. Поскольку его мицелий сначала разрушает более влажную внутреннюю часть прогреваемой солнцем древесины и образует плодовые тела сравнительно поздно, конструкционные повреждения часто оказываются уже значительными к моменту появления шляпок. Гетероталличен, с биполярной системой спаривания.",
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D1%82%D0%BE%D0%B2%D0%B8%D0%BA_%D0%B7%D0%B0%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9"
+      ]
+    },
+    "sk": {
+      "label": "trámovka plotová",
+      "description": "Pevná, kožovitá drevokazná chorošovitá huba, ktorá rastie v škridlicovito usporiadaných skupinách alebo radoch na odumretom dreve ihličnanov a na vystavenom vonkajšom rezive, kde spôsobuje intenzívnu kockovitú hnedú hnilobu. Je široko rozšírená v miernom pásme severnej pologule vrátane Európy, Severnej Ameriky a severnej Ázie a vyskytuje sa aj v Južnej Amerike a v častiach Afriky.",
+      "cap": "Plodnice sú prisadnuté, jednoročné alebo ožívajúce a vytrvávajúce viac ako jeden rok, zvyčajne 2–12 cm široké (zriedkavo 1,5–15 cm) a do 1 cm hrubé, v mieste prirastenia dosahujúce 2 cm. Bokom prirastené klobúky sú polkruhovité, vejárovité alebo obličkovité a často bočne zrastajú do poschodovitých radov vyrastajúcich z prasklín dreva; plodnice na rezných plochách pňov môžu vytvárať nepravidelné ružice a tie na spodnej strane kmeňov môžu ležať naplocho a byť rozliate (rezupinátne). Drsný, sústredne pásovaný a vlnito brázdený vrchný povrch je za mladi zamatový až hrubo plstnatý, vekom olysieva a tmavne. Mladé klobúky a aktívne rastúce okraje sú jasne žlté až zlato-oranžové, smerom dovnútra prechádzajú do hrdzavohnedej, tmavosépiovej až takmer čiernej farby a u starých plodníc vystavených slnku zvetrávajú do siva.",
+      "hymenium": "Hoci patrí medzi chorošovité huby, spodná strana nesie hrubostenné, lúčovito usporiadané lupeňovité lišty (15–20 na cm pri okraji), ktoré sa často rozkonárujú a spájajú do pretiahnutých bludiskovitých štrbín hlbokých do 1 cm a širokých asi 2 mm. Za čerstva sú bledo okrovožlté a vekom tmavnú do hrdzavohnedej až tmavohnedej farby. Hýfový systém je trimitický, s generatívnymi hýfami s prackami, hrubostennými skeletovými hýfami a riedkymi väzobnými hýfami. Bazídiá sú úzko kyjakovité, štvorvýtrusné, veľké 18–40 × 4,5–7 µm (zriedkavo predĺžené až do 110 µm); valcovité cystidy sú hojné, tenko- až hrubostenné, 25–95 × 3–7 µm (až do 100 × 10 µm).",
+      "stipe": "Chýba; plodnica prirastá k drevu široko a priamo.",
+      "flesh": "Tenká, húževnatá, kožovitá až korkovitá, tmavo hrdzavohnedá až tmavo žltohnedá, s roztokom hydroxidu draselného (KOH) okamžite černejúca. Vôňa je nevýrazná a chuť mierna.",
+      "sporePrint": "Biely. Výtrusy sú valcovité až mierne zahnuté (alantoidné), hladké, hyalínne, neamyloidné a merajú 8–13 × 3–5 µm.",
+      "habitat": "Saprotrofná na odumretom, často odkôrnenom dreve ihličnanov — najčastejšie na smreku (Picea) a borovici (Pinus), ako aj na jedli (Abies), smrekovci (Larix), borievke (Juniperus), cyprusoch (Cupressus), duglaske (Pseudotsuga) a tsuge (Tsuga) — a zriedkavo na listnáčoch, ako sú jelša, breza, buk, osika, dub alebo vŕba. Darí sa jej na suchých, slnku a vetru vystavených pňoch, padnutých kmeňoch, plotových stĺpikoch, trámoch, lavičkách a neošetrenom stavebnom rezive. Plodnice vytrvávajú celoročne, pričom aktívny rast a tvorba výtrusov prebiehajú najmä od mája do decembra.",
+      "uses": "Nejedlá; húževnatá, korkovitá dužina ju robí nevhodnou na kuchynské spracovanie, hoci sa nepovažuje za jedovatú.",
+      "confusion": "Gloeophyllum abietinum má teplohnedý klobúk bez jasne žltooranžového rastúceho okraja a redšie lupene (8–13 na cm pri okraji) s hrubšími stenami do 1 mm. Gloeophyllum trabeum má hladší, bledší, mäkší klobúk a hustejšie, silno prepojené bludiskovité póry (2–4 na mm) a častejšie rastie na listnáčoch. Gloeophyllum odoratum tvorí okrúhle až hranaté póry namiesto lupeňovitých líšt a za aktívneho rastu má silnú anízovú vôňu. Trametes betulina má tenšie biele až krémové lupene, bledšie sivo pásované klobúky a rastie na listnáčoch, napríklad na breze. Daedaleopsis confragosa má bledšie, hladšie klobúky a belavé póry, ktoré po otlačení hnedoružovejú, a rastie na listnáčoch, zatiaľ čo Daedalea quercina tvorí hrubšie, bledé korkovofarebné plodnice so širokostennými bludiskovitými pórmi najmä na dube.",
+      "notes": "Významná a deštruktívna drevokazná huba spôsobujúca hnedú hnilobu, ktorá ľahko osídľuje neošetrené vonkajšie drevené konštrukcie, ako sú ploty, zábradlia, strešné trámy a záhradné stavby, hoci tlakovo impregnované mäkké drevo osídleniu odoláva. Keďže jej podhubie najprv rozkladá vlhšie vnútro slnkom rozohriateho dreva a plodnice vytvára pomerne neskoro, konštrukčné poškodenie býva často pokročilé ešte pred objavením plodníc. Je heterotalická s bipolárnym systémom párenia.",
+      "sourceUrls": []
+    },
+    "sl": {
+      "label": "sivorjava tramovka",
+      "wikipedia": "https://sl.wikipedia.org/wiki/Sivorjava_tramovka",
+      "description": "Žilav, usnjat lesni razkrojevalec s konzolastimi trosnjaki, ki raste v strehasto prekrivajočih se policah ali vrstah na odmrlem lesu iglavcev in na prostem izpostavljenem lesu ter povzroča intenzivno kockasto rjavo trohnobo. Široko je razširjen po zmernem pasu severne poloble, vključno z Evropo, Severno Ameriko in severno Azijo, pojavlja pa se tudi v Južni Ameriki in delih Afrike.",
+      "cap": "Trosnjaki so sedeči, enoletni ali pa se obnavljajo in vztrajajo več kot eno leto; običajno so široki 2–12 cm (občasno 1,5–15 cm) in debeli do 1 cm, na prirastišču pa dosežejo 2 cm. Stransko prirasle konzole so polkrožne, pahljačaste ali ledvičaste in se pogosto bočno zraščajo v stopničaste vrste, ki izraščajo iz razpok v lesu; primerki na vrhu štorov lahko tvorijo nepravilne rozete, tisti na spodnji strani debel pa ležijo plosko in resupinatno. Grbinasta, koncentrično pasasta in valovito brazdasta zgornja površina je sprva žametasta do grobo dlakava, s starostjo pa postane bolj gladka in temnejša. Mladi klobuki in aktivno rastoči robovi so živo rumeni do zlato oranžni, proti notranjosti prehajajo v rjasto rjavo, temno sepijasto ali skoraj črno, pri starih, soncu izpostavljenih primerkih pa posivijo.",
+      "hymenium": "Čeprav je uvrščena med luknjičarje, ima na spodnji strani debelostenske, žarkasto razporejene lističe (15–20 na cm ob robu), ki se pogosto viličasto cepijo in povezujejo v podolgovate, labirintaste reže, globoke do 1 cm in široke približno 2 mm. Lističi so v svežem stanju bledo okrasto rumeni, s starostjo pa potemnijo v rjasto rjavo ali temno rjavo. Hifni sistem je trimitičen, z generativnimi hifami z zaponkami, debelostenskimi skeletnimi hifami in redkimi vezivnimi hifami. Bazidiji so ozko kijasti, štiritrosni in merijo 18–40 × 4,5–7 µm (občasno podaljšani do 110 µm); valjaste cistide so pogoste, tanko- do debelostenske, velike 25–95 × 3–7 µm (do 100 × 10 µm).",
+      "stipe": "Brez beta; konzola je široko in neposredno prirasla na les.",
+      "flesh": "Tanko, žilavo, usnjato do plutasto, temno rjasto rjavo do temno rumeno rjavo, ob stiku s kalijevim hidroksidom (KOH) v hipu počrni. Vonj je neizrazit, okus pa mil.",
+      "sporePrint": "Bel. Trosi so valjasti do rahlo ukrivljeni (alantoidni), gladki, brezbarvni (hialini), neamiloidni in merijo 8–13 × 3–5 µm.",
+      "habitat": "Saprotrofni na odmrlem, pogosto olupljenem lesu iglavcev — najpogosteje smreke (Picea) in bora (Pinus), pa tudi jelke (Abies), macesna (Larix), brina (Juniperus), ciprese (Cupressus), duglazije (Pseudotsuga) in čuge (Tsuga) — ter redko na listavcih, kot so jelša, breza, bukev, trepetlika, hrast ali vrba. Uspeva na suhih, soncu in vetru izpostavljenih štorih, podrtih deblih, ograjnih kolih, tramovih, klopeh in neobdelanem gradbenem lesu. Trosnjaki vztrajajo vse leto, aktivna rast in tvorba trosov pa potekata predvsem od maja do decembra.",
+      "uses": "Neuživna; zaradi žilave, plutaste teksture je neprimerna za kuhinjo, čeprav ne velja za strupeno.",
+      "confusion": "Gloeophyllum abietinum ima toplo rjav klobuk brez živo rumeno-oranžnega rastnega roba in redkejše lističe (8–13 na cm ob robu) z debelejšimi stenami do 1 mm. Gloeophyllum trabeum ima bolj gladek, bledejši, mehkejši klobuk in gostejše, močno anastomozirajoče labirintaste pore (2–4 na mm) ter se pogosteje pojavlja na listavcih. Gloeophyllum odoratum namesto lističev razvije okrogle do oglate pore in ima med aktivno rastjo močan vonj po janežu. Trametes betulina ima tanjše bele do kremaste lističe, bledejše sivkasto pasaste klobuke in raste na listavcih, kot je breza. Daedaleopsis confragosa ima bledejše, bolj gladke klobuke in belkaste pore, ki ob pritisku porjavijo v rožnato rjavo, na listavcih, medtem ko Daedalea quercina tvori debelejše, bledo plutaste konzole s širokostenskimi labirintastimi porami predvsem na hrastu.",
+      "notes": "Pomembna in uničujoča gliva rjave trohnobe lesa, ki zlahka naseli neobdelane zunanje lesene izdelke, kot so ograje, ograjne letve, strešni tramovi in vrtne konstrukcije, medtem ko je tlačno impregniran les iglavcev odporen proti naselitvi. Ker njen micelij najprej razkroji bolj vlažno notranjost na soncu ogretega lesa in trosnjake oblikuje razmeroma pozno, je konstrukcijska škoda pogosto že močno napredovala, preden se pojavijo trosnjaki. Je heterotalična z bipolarnim sistemom parjenja.",
+      "sourceUrls": [
+        "https://sl.wikipedia.org/wiki/Sivorjava_tramovka"
+      ]
+    },
+    "sr": {
+      "description": "Жилава, кожаста лигниколна гљива са конзоластим плодним телима која расте у преклапајућим полицама или низовима на мртвом дрвету четинара и на отвореном изложеној дрвеној грађи, изазивајући интензивну кубичну мрку трулеж. Широко је распрострањена у умереном појасу северне хемисфере, укључујући Европу, Северну Америку и северну Азију, а јавља се и у Јужној Америци и деловима Африке.",
+      "cap": "Плодна тела су седећа, једногодишња или се обнављају и опстају дуже од једне године, обично широка 2–12 cm (повремено 1,5–15 cm) и дебела до 1 cm, достижући 2 cm на месту прирастања. Бочно прирасле конзоле су полукружне, лепезасте или бубрежасте и често се бочно срастају у степенасте низове који избијају из пукотина у дрвету; примерци на врху пањева могу да образују неправилне розете, а они са доње стране трупаца могу да леже пљоснато и ресупинатно. Неравна, концентрично зонирана и таласасто избраздана горња површина у почетку је сомотаста до грубо длакава, а старењем постаје глађа и тамнија. Млади шешири и активно растуће ивице јарко су жути до златнонаранџасти, ка унутра прелазе у рђастомрку, тамносепијску или готово црну боју, док код старих примерака изложених сунцу постају сивкасти.",
+      "hymenium": "Иако је сврстана међу рупичавке, доња страна носи дебелозидне, зракасто распоређене листиће (15–20 по cm уз ивицу) који се често рачвају и међусобно повезују у издужене, лавиринтске прорезе дубоке до 1 cm и широке око 2 mm. Листићи су у свежем стању бледо окержути, а старењем тамне у рђастомрку или тамномрку боју. Хифни систем је тримитичан, са генеративним хифама са копчама, дебелозидним скелетним хифама и ретким везивним хифама. Базидије су уско батинасте, четвороспорне и мере 18–40 × 4,5–7 µm (повремено издужене до 110 µm); цилиндричне цистиде су честе, танко- до дебелозидне, и мере 25–95 × 3–7 µm (до 100 × 10 µm).",
+      "stipe": "Одсутна; конзола је широко и непосредно прирасла за дрво.",
+      "flesh": "Танко, жилаво, кожасто до плутасто, тамно рђастомрко до тамно жутомрко, у додиру са калијум-хидроксидом (KOH) одмах поцрни. Мирис је неизразит, а укус благ.",
+      "sporePrint": "Бео. Споре су цилиндричне до благо закривљене (алантоидне), глатке, безбојне (хијалине), неамилоидне и мере 8–13 × 3–5 µm.",
+      "habitat": "Сапротрофна на мртвом, често ољуштеном дрвету четинара — најчешће смрче (Picea) и бора (Pinus), као и јеле (Abies), ариша (Larix), клеке (Juniperus), чемпреса (Cupressus), дуглазије (Pseudotsuga) и цуге (Tsuga) — и ретко на лишћарима као што су јова, бреза, буква, јасика, храст или врба. Успева на сувим пањевима изложеним сунцу и ветру, палим стаблима, стубовима ограда, гредама, клупама и необрађеној грађевинској грађи. Плодна тела опстају током целе године, уз активан раст и стварање спора углавном од маја до децембра.",
+      "uses": "Нејестива; жилава, плутаста структура чини је неподесном за исхрану, иако се не сматра отровном.",
+      "confusion": "Gloeophyllum abietinum има топло смеђ шешир без јарко жутонаранџасте ивице раста и ређе распоређене листиће (8–13 по cm уз ивицу) са дебљим зидовима до 1 mm. Gloeophyllum trabeum има глађи, блеђи и мекши шешир и гушће, снажно анастомозирајуће лавиринтске поре (2–4 по mm), а чешће се јавља на лишћарима. Gloeophyllum odoratum уместо листића развија округле до угласте поре и има јак мирис на анис током активног раста. Trametes betulina има тање беле до крем листиће, блеђе сивкасто пругасте шешире и расте на лишћарима попут брезе. Daedaleopsis confragosa има блеђе, глађе шешире и беличасте поре које на додир добијају ружичастосмеђе мрље на лишћарима, док Daedalea quercina образује дебље, бледе плутасте конзоле са широкозидним лавиринтским порама углавном на храсту.",
+      "notes": "Значајна и разорна гљива мрке трулежи дрвета која лако колонизује необрађене спољне дрвене конструкције као што су ограде, рукохвати, кровне греде и баштенске конструкције, док дрво четинара импрегнисано под притиском одолева колонизацији. Пошто њен мицелијум најпре разграђује влажнију унутрашњост сунцем загрејаног дрвета и релативно касно формира конзоле, конструкционо оштећење је често већ узнапредовало пре појаве плодних тела. Хетероталична је са биполарним системом парења.",
+      "sourceUrls": []
+    },
+    "sv": {
+      "label": "vedmussling",
+      "wikipedia": "https://sv.wikipedia.org/wiki/Vedmussling",
+      "description": "En seg, läderartad, vedlevande ticka som växer i taktegellagda hyllor eller rader på död barrved och utsatt utomhusvirke och orsakar en kraftig kubisk brunröta. Den är vitt spridd i den tempererade delen av norra halvklotet, inklusive Europa, Nordamerika och norra Asien, och förekommer även i Sydamerika samt delar av Afrika.",
+      "cap": "Fruktkropparna är sittande, ettåriga eller kan leva vidare i mer än ett år, och är vanligen 2–12 cm breda (ibland 1,5–15 cm) och upp till 1 cm tjocka, vid fästet upp till 2 cm. Sidoställda hattar är halvcirkelformade, solfjäderformade eller njurformade och växer ofta ihop i sidled till taktegellagda våningar som bryter fram ur sprickor i veden; exemplar på toppen av stubbar kan bilda oregelbundna rosetter, och exemplar på undersidan av lågor kan ligga platt och resupinat. Den ojämna, koncentriskt zonerade och vågigt fårade ovansidan är först sammetslen till grovt hårig, men blir slätare och mörknar med åldern. Unga hattar och aktivt växande kanter är klart gula till guldorange och övergår inåt i rostbrunt, mörkt sepiabrunt eller nästan svart, medan gamla solexponerade exemplar vittrar till gråaktigt.",
+      "hymenium": "Trots att arten hör till tickorna har undersidan tjockväggiga, radiärt ordnade, skivliknande lameller (15–20 per cm vid kanten) som ofta förgrenar sig och förenas till avlånga, labyrintliknande springor upp till 1 cm djupa. Springorna är omkring 2 mm breda. Skivorna är blekt ockragula som färska och mörknar till rostbrunt eller mörkbrunt med åldern. Hyfsystemet är trimitiskt med generativa hyfer med söljor, tjockväggiga skeletthyfer och sparsamma bindehyfer. Basidierna är smalt klubbformade, fyrsporiga och 18–40 × 4,5–7 µm (ibland förlängda upp till 110 µm); cylindriska cystider är vanliga, tunn- till tjockväggiga och 25–95 × 3–7 µm (upp till 100 × 10 µm).",
+      "stipe": "Saknas; hatten sitter brett och direkt fäst vid veden.",
+      "flesh": "Köttet är tunt, segt, läderartat till korkartat, mörkt rostbrunt till mörkt gulbrunt och färgas omedelbart svart med kaliumhydroxid (KOH). Lukten är otydlig och smaken är mild.",
+      "sporePrint": "Vitt. Sporerna är cylindriska till svagt krökta (allantoida), släta, hyalina, inamyloida och mäter 8–13 × 3–5 µm.",
+      "habitat": "Saprotrof på död, ofta barklös barrved — vanligast gran (Picea) och tall (Pinus), men även ädelgran (Abies), lärk (Larix), en (Juniperus), cypress (Cupressus), douglasgran (Pseudotsuga) och hemlock (Tsuga) — samt sällan på lövträd som al, björk, bok, asp, ek eller vide. Den trivs på torra, sol- och vindexponerade stubbar, fallna stammar, stängselstolpar, bjälkar, bänkar och obehandlat konstruktionsvirke. Fruktkropparna sitter kvar året runt, med aktiv tillväxt och sporbildning främst från maj till december.",
+      "uses": "Oätlig; den sega, korkartade konsistensen gör den olämplig i köket, även om den inte betraktas som giftig.",
+      "confusion": "Gloeophyllum abietinum har en varmt brun hatt utan klart gulorange tillväxtkant och glesare skivor (8–13 per cm vid kanten) med tjockare väggar på upp till 1 mm. Gloeophyllum trabeum har en slätare, ljusare, mjukare hatt och tätare, kraftigt anastomoserande labyrintiska porer (2–4 per mm) och förekommer oftare på lövträd. Gloeophyllum odoratum bildar runda till kantiga porer i stället för skivliknande lameller och har en stark anislukt under aktiv tillväxt. Trametes betulina har tunnare vita till gräddfärgade skivor, ljusare gråaktigt zonerade hattar och växer på lövträd som björk. Daedaleopsis confragosa har ljusare, slätare hattar och vitaktiga porer som mörknar rosabrunt vid beröring, på lövträd, medan Daedalea quercina bildar tjockare, blekt korkfärgade hattar med bredväggiga labyrintiska porer främst på ek.",
+      "notes": "En viktig och destruktiv brunrötesvamp i virke som lätt koloniserar obehandlat utomhusträ som staket, räcken, takbjälkar och trädgårdskonstruktioner, medan tryckimpregnerat barrträ motstår kolonisering. Eftersom mycelet först bryter ned det fuktigare inre av soluppvärmt virke och bildar fruktkroppar förhållandevis sent, är den strukturella skadan ofta långt gången innan fruktkropparna syns. Arten är heterotallisk med ett bipolärt parningssystem.",
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Vedmussling"
+      ]
+    },
+    "tr": {
+      "description": "Ölü kozalaklı odunu ve dış mekânda açıkta kalan keresteler üzerinde üst üste binen raflar veya sıralar hâlinde gelişen, yoğun kübik kahverengi çürümeye yol açan sert, derimsi, odun çürüten bir raf mantarıdır. Avrupa, Kuzey Amerika ve Kuzey Asya dâhil olmak üzere ılıman Kuzey Yarımküre genelinde yaygındır; Güney Amerika'da ve Afrika'nın bazı bölgelerinde de görülür.",
+      "cap": "Sapsız olan üreme yapıları tek yıllıktır veya yeniden canlanarak birden fazla yıl kalıcı olabilir; genellikle 2–12 cm genişliğinde (bazen 1,5–15 cm) ve 1 cm'ye kadar kalınlıkta olup bağlanma noktasında 2 cm'ye ulaşır. Yandan bağlı raflar yarım daire, yelpaze veya böbrek biçimindedir ve çoğu kez odun çatlaklarından çıkarken yan yana kaynaşarak katmanlı sıralar oluşturur; kütüklerin üst yüzeyinde gelişen örnekler düzensiz rozetler oluşturabilir, kütüklerin alt yüzeyindekiler ise düz ve yayılıcı (resupinat) olabilir. Engebeli, eş merkezli kuşaklı ve dalgalı oluklu üst yüzey başlangıçta kadifemsi ila kaba tüylüdür, yaşlandıkça düzleşir ve koyulaşır. Genç şapkalar ve aktif olarak büyüyen kenarlar parlak sarı ila altın turuncusudur; içe doğru pas kahverengisine, koyu sepyaya veya neredeyse siyaha döner ve güneşe maruz kalan yaşlı örneklerde grimsi bir ton alarak aşınır.",
+      "hymenium": "Poliporlar arasında sınıflandırılmasına karşın alt yüzey, kalın duvarlı, ışınsal dizilimli ve lamel benzeri yapılar (kenarda cm başına 15–20 adet) taşır; bunlar sıkça çatallanıp birbirine bağlanarak 1 cm'ye kadar derinlikte ve yaklaşık 2 mm genişliğinde uzamış, labirent benzeri yarıklara dönüşür. Lameller tazeyken soluk koyu sarımsı (okra sarısı) renktedir, yaşlandıkça pas kahverengisine veya koyu kahverengiye döner. Hif sistemi trimitiktir; kancalı üretken hifler, kalın duvarlı iskelet hifler ve seyrek bağlayıcı hifler içerir. Bazidiyumlar dar çomak biçiminde, dört sporlu ve 18–40 × 4,5–7 µm boyutlarındadır (bazen 110 µm'ye kadar uzayabilir); silindirik sistidyumlar sıktır, ince ila kalın duvarlıdır ve 25–95 × 3–7 µm (en fazla 100 × 10 µm) ölçülerindedir.",
+      "stipe": "Yoktur; raf doğrudan ve geniş bir yüzeyle oduna bağlanır.",
+      "flesh": "İnce, sert, derimsi ila mantarımsı dokudadır; koyu pas kahverengisi ila koyu sarı-kahverengi renktedir ve potasyum hidroksit (KOH) ile temas ettiğinde hemen kararır. Kokusu belirgin değildir ve tadı yumuşaktır.",
+      "sporePrint": "Beyaz. Sporlar silindirik ila hafifçe kavisli (allantoid), düz, renksiz (hiyalin), inamiloid olup 8–13 × 3–5 µm ölçülerindedir.",
+      "habitat": "Ölü ve çoğu kez kabuğu soyulmuş kozalaklı odunu üzerinde saprofit olarak gelişir; en yaygın konukçuları ladin (Picea) ve çam (Pinus) olup göknar (Abies), melez (Larix), ardıç (Juniperus), servi (Cupressus), Duglas göknarı (Pseudotsuga) ve baldıran çamı (Tsuga) üzerinde de bulunur; nadiren kızılağaç, huş, kayın, titrek kavak, meşe veya söğüt gibi geniş yapraklı ağaçlarda görülür. Kuru, güneşe ve rüzgâra açık kütüklerde, devrilmiş gövdelerde, çit direklerinde, kirişlerde, banklarda ve emprenye edilmemiş yapı kerestelerinde iyi gelişir. Üreme yapıları yıl boyunca kalıcıdır; aktif büyüme ve spor üretimi başlıca Mayıs ile Aralık ayları arasında gerçekleşir.",
+      "uses": "Yenmez; sert ve mantarımsı dokusu mutfak kullanımına uygun değildir, ancak zehirli kabul edilmez.",
+      "confusion": "Gloeophyllum abietinum, parlak sarı-turuncu büyüme kenarı olmayan sıcak kahverengi bir şapkaya ve 1 mm'ye kadar daha kalın duvarlı, daha seyrek aralıklı lamellere (kenarda cm başına 8–13 adet) sahiptir. Gloeophyllum trabeum daha düz, daha soluk, daha yumuşak bir şapkaya ve daha sık, güçlü biçimde ağlaşan labirent benzeri gözeneklere (mm başına 2–4 adet) sahiptir ve geniş yapraklı ağaçlarda daha sık görülür. Gloeophyllum odoratum, lamel benzeri yapılar yerine yuvarlak ila köşeli gözenekler geliştirir ve aktif büyüme döneminde güçlü bir anason kokusuna sahiptir. Trametes betulina daha ince beyaz ila krem rengi lamellere ve daha soluk, grimsi kuşaklı şapkalara sahiptir; huş gibi geniş yapraklı ağaçlarda yetişir. Daedaleopsis confragosa geniş yapraklı ağaçlarda daha soluk, daha düz şapkalara ve dokunulduğunda pembemsi kahverengiye dönen beyazımsı gözeneklere sahiptir; Daedalea quercina ise başlıca meşe üzerinde, geniş duvarlı labirent benzeri gözeneklere sahip daha kalın, soluk mantar renginde raflar oluşturur.",
+      "notes": "Çitler, korkuluklar, çatı kirişleri ve bahçe yapıları gibi emprenye edilmemiş dış mekân ahşaplarını kolaylıkla kolonize eden önemli ve yıkıcı bir kahverengi çürükçül kereste mantarıdır; ancak basınçlı emprenye uygulanmış yumuşak ağaç kerestesi kolonizasyona dirençlidir. Miselyumu önce güneşle ısınan kerestenin daha nemli iç kısmını çürüttüğü ve rafları görece geç oluşturduğu için, üreme yapıları ortaya çıkmadan önce yapısal hasar genellikle ileri düzeye ulaşmış olur. İki kutuplu eşleşme sistemine sahip heterotallik bir türdür.",
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Жорсткий, шкірястий дереворуйнівний трутовий гриб, що росте черепичастими ярусами або рядами на мертвій деревині хвойних порід та відкритій будівельній деревині просто неба, спричиняючи інтенсивну кубічну буру гниль. Широко розповсюджений у помірній зоні Північної півкулі, зокрема в Європі, Північній Америці та Північній Азії, а також трапляється в Південній Америці та частині Африки.",
+      "cap": "Плодові тіла сидячі, однорічні або здатні відновлювати ріст і зберігатися понад один рік, зазвичай 2–12 см завширшки (інколи 1,5–15 см) і до 1 см завтовшки, біля основи сягаючи 2 см. Бічно прикріплені шапинки напівкруглі, віялоподібні або ниркоподібні й часто зростаються боками в черепичасті яруси, що виходять із тріщин деревини; екземпляри на зрізах пеньків можуть утворювати неправильні розетки, а на нижньому боці повалених стовбурів нерідко стеляться плоско та розпростерто. Нерівна, концентрично зональна і хвилясто-борозенчаста верхня поверхня спочатку оксамитова або грубоволосиста, з віком стає гладенькою і темнішає. Молоді шапинки та активно ростучі краї яскраво-жовті або золотисто-оранжеві, до середини переходять в іржаво-коричневі, темно-сепієві чи майже чорні, а в старих екземплярів на сонці вицвітають до сіруватих.",
+      "hymenium": "Хоча вид належить до трутових грибів, нижня поверхня несе товстостінні, радіально розташовані пластинкоподібні пластинки (15–20 на см біля краю), які часто розгалужуються і з'єднуються перетинками в видовжені лабіринтоподібні щілини завглибшки до 1 см. Ці щілини мають близько 2 мм завширшки. У свіжому стані пластинки блідо-охристо-жовті, з віком темнішають до іржаво-коричневих або темно-коричневих. Гіфальна система тримітична, з генеративними гіфами з пряжками, товстостінними скелетними гіфами та нечисленними зв'язувальними гіфами. Базидії вузькобулавоподібні, чотириспорові, 18–40 × 4,5–7 мкм (інколи видовжені до 110 мкм); циліндричні цистиди численні, тонко- або товстостінні, 25–95 × 3–7 мкм (до 100 × 10 мкм).",
+      "stipe": "Відсутня; шапинка прикріплюється широко й безпосередньо до деревини.",
+      "flesh": "М'якуш тонкий, жорсткий, шкірястий або корковий, темно-іржаво-коричневий до темно-жовто-коричневого, миттєво чорніє під дією гідроксиду калію (KOH). Запах невиразний, смак м'який.",
+      "sporePrint": "Білий. Спори циліндричні або злегка зігнуті (алантоїдні), гладенькі, безбарвні, неамілоїдні, 8–13 × 3–5 мкм.",
+      "habitat": "Сапротрофний вид на мертвій, часто позбавленій кори деревині хвойних порід — найчастіше на ялині (Picea) та сосні (Pinus), а також на ялиці (Abies), модрині (Larix), ялівці (Juniperus), кипарисі (Cupressus), псевдотсузі (Pseudotsuga) й тсузі (Tsuga) — і зрідка на листяних породах, таких як вільха, береза, бук, осика, дуб або верба. Добре росте на сухих, відкритих сонцю й вітру пеньках, повалених стовбурах, стовпах огорож, балках, лавах і необробленій конструкційній деревині. Плодові тіла зберігаються цілий рік, а активний ріст і спороношення відбуваються переважно з травня по грудень.",
+      "uses": "Неїстівний; через жорстку, коркову консистенцію непридатний для кулінарного використання, хоча отруйним не вважається.",
+      "confusion": "Gloeophyllum abietinum має тепло-коричневу шапинку без яскравого жовто-оранжевого ростового краю та рідші пластинки (8–13 на см біля краю) з товстішими стінками до 1 мм. Gloeophyllum trabeum вирізняється гладенькішою, світлішою, м'якшою шапинкою та густішими, сильно анастомозуючими лабіринтоподібними порами (2–4 на мм) і частіше росте на листяних породах. Gloeophyllum odoratum утворює округлі або кутасті пори замість пластинок і під час активного росту має сильний анісовий запах. Trametes betulina має тонші білі або кремові пластинки, світліші сірувато-зональні шапинки й росте на листяних деревах, зокрема на березі. Daedaleopsis confragosa має світліші, гладенькіші шапинки та білуваті пори, що при пошкодженні рожево-коричневіють, на листяних породах, тоді як Daedalea quercina утворює товстіші, бліді коркового кольору плодові тіла з широкостінними лабіринтоподібними порами переважно на дубі.",
+      "notes": "Важливий і небезпечний руйнівник деревини, що спричиняє буру гниль і легко заселяє необроблені дерев'яні конструкції просто неба — огорожі, поручні, крокви та садові споруди, тоді як імпрегнована під тиском хвойна деревина стійка до заселення. Оскільки його міцелій спершу руйнує вологішу серцевину прогрітої сонцем деревини й утворює плодові тіла порівняно пізно, пошкодження конструкції часто вже значне на момент їх появи. Вид гетероталічний із біполярною системою схрещування.",
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "一種堅韌、革質的木腐層狀真菌，常以覆瓦狀或成排方式生長於枯死針葉樹材及戶外暴露木材上，並造成強烈的塊狀褐色腐朽。廣泛分布於北半球溫帶地區，包括歐洲、北美洲與亞洲北部，亦見於南美洲及非洲部分地區。",
+      "cap": "子實體無菌柄，一年生或可復甦延續超過一年，寬通常2–12 cm（偶爾1.5–15 cm），厚達1 cm，基部附著處可達2 cm。側生菌蓋呈半圓形、扇形或腎形，常由木材裂縫長出並於側面癒合成層疊的棚架狀；生於樹樁頂面者可形成不規則蓮座狀，生於倒木底面者則可能平貼呈平伏狀。上表面粗糙，具同心環帶與波狀溝紋，初時呈絨毛狀至粗毛狀，隨成熟漸變平滑且顏色加深。幼嫩菌蓋與活躍生長的邊緣呈鮮黃色至金橙色，向內過渡為鏽褐色、深烏賊褐色或近黑色，暴露於日照的老熟個體則會風化轉為灰白色調。",
+      "hymenium": "雖歸類於多孔菌類，其菌蓋下表面卻長有厚壁、放射狀排列的菌褶狀構造（邊緣處每cm有15–20片），經常分叉並彼此交連成細長的迷宮狀狹縫，深達1 cm、寬約2 mm。菌褶狀構造新鮮時呈淡赭黃色，老熟後轉暗為鏽褐色或深褐色。菌絲系統為三菌絲型，具扣子體的生殖菌絲、厚壁骨架菌絲及稀疏的聯絡菌絲。擔子窄棒狀，具四枚孢子，大小18–40 × 4.5–7 µm（偶爾伸長至110 µm）；圓柱形囊狀體常見，薄壁至厚壁，大小25–95 × 3–7 µm（最大可達100 × 10 µm）。",
+      "stipe": "無菌柄；菌蓋以寬闊基部直接附著於木材上。",
+      "flesh": "薄而堅韌，革質至軟木質，深鏽褐色至深黃褐色，遇氫氧化鉀（KOH）立即變黑。氣味不明顯，味道溫和。",
+      "sporePrint": "白色。孢子圓柱形至微彎（臘腸形），平滑，無色透明，非類澱粉質，大小8–13 × 3–5 µm。",
+      "habitat": "腐生於枯死且常已脫落樹皮的針葉樹材上，最常見於雲杉屬（Picea）與松屬（Pinus），亦見於冷杉屬（Abies）、落葉松屬（Larix）、刺柏屬（Juniperus）、柏木屬（Cupressus）、黃杉屬（Pseudotsuga）及鐵杉屬（Tsuga），偶爾生於榿木、樺木、山毛櫸、山楊、櫟木或柳樹等闊葉樹材。喜生於乾燥且受日曬與風吹的樹樁、倒木、籬笆柱、橫樑、長椅及未經處理的建築木材。子實體全年可見，活躍生長與產孢主要集中於5月至12月。",
+      "uses": "不可食；其堅韌如軟木的質地不適合烹調食用，但並不被視為有毒。",
+      "confusion": "Gloeophyllum abietinum具溫暖褐色的菌蓋，缺乏鮮黃橙色的生長邊緣，菌褶狀構造間距較寬（邊緣處每cm有8–13片），壁亦較厚，可達1 mm。Gloeophyllum trabeum的菌蓋較平滑、色較淡且質地較軟，具較密且強烈交連的迷宮狀菌管孔（每mm有2–4個），且較常生於闊葉樹材。Gloeophyllum odoratum形成圓形至多角形的菌管孔而非菌褶狀構造，活躍生長時帶有強烈的茴香氣味。Trametes betulina具有較薄的白色至乳白色菌褶與較淡的灰帶狀菌蓋，生於樺木等闊葉樹材。Daedaleopsis confragosa生於闊葉樹材，菌蓋較淡且平滑，灰白色菌管孔受損時會轉為粉褐色；Daedalea quercina則主要生於櫟木，形成較厚、淡軟木色且具寬壁迷宮狀菌管孔的層狀子實體。",
+      "notes": "重要且具破壞性的褐腐木材真菌，極易定殖於未經防腐處理的戶外木造物，如圍籬、欄杆、屋頂橫樑與庭園構造，但經加壓防腐處理的針葉材能抵抗其定殖。由於菌絲體會先腐朽經日曬加熱之木材內部較潮濕處，且子實體形成相對較晚，待菌蓋出現時，結構損壞往往已相當嚴重。本種為異宗配合，具雙極性交配系統。",
+      "sourceUrls": []
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus sepiarius",
+      "author": "Wulfen",
+      "year": 1787,
+      "rank": "species",
+      "type": "basionym",
+      "if": 439654
+    },
+    {
+      "name": "Merulius sepiarius",
+      "author": "(Wulfen) Schrank",
+      "year": 1789,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Daedalea sepiaria",
+      "author": "(Wulfen) Fr.",
+      "year": 1821,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Pleuropus sepiarius",
+      "author": "(Wulfen) Zaw.",
+      "year": 1835,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Lenzites sepiarius",
+      "author": "(Wulfen) Fr.",
+      "year": 1838,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Lenzitina sepiaria",
+      "author": "(Wulfen) P. Karst.",
+      "year": 1889,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Agaricus asserculorum",
+      "author": "Batsch",
+      "year": 1783,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Agaricus undulatus",
+      "author": "Hoffm.",
+      "year": 1794,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Agaricus boletiformis",
+      "author": "Sowerby",
+      "year": 1814,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Lenzites argentinus",
+      "author": "Speg.",
+      "year": 1898,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Daedalea ungulata",
+      "author": "Lloyd",
+      "year": 1915,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Gloeophyllum ungulatum",
+      "author": "(Lloyd) Imazeki",
+      "year": 1943,
+      "rank": "species",
+      "type": "heterotypic"
+    }
+  ],
+  "reserved": false,
+  "id": 248,
+  "citation": "Bidr. Känn. Finl. Nat. Folk 37: 79 (1882)"
+},
+{
+  "name": "Pseudoinonotus dryadeus",
+  "author": "(Pers.) T. Wagner & M. Fisch.",
+  "family": "Hymenochaetaceae",
+  "genus": "Pseudoinonotus",
+  "order": "Hymenochaetales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Hymenochaetales",
+    "Hymenochaetaceae",
+    "Pseudoinonotus"
+  ],
+  "summary": [
+    "Hymenochaetales",
+    "Hymenochaetaceae",
+    "Pseudoinonotus"
+  ],
+  "edibility": "inedible",
+  "hymenium": "tubes",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "yellow",
+    "brown",
+    "dark"
+  ],
+  "capFrom": 10.0,
+  "capTo": 40.0,
+  "fruitingFrom": 7,
+  "fruitingTo": 10,
+  "label": {
+    "cs": "rezavec dubový",
+    "da": "Ege-spejlporesvamp",
+    "de": "Tropfender Schillerporling",
+    "en": "oak bracket",
+    "et": "juurepässik",
+    "fr": "Polypore larmoyant",
+    "he": "קישוטית נוטפת",
+    "hu": "Könnyező rozsdástapló",
+    "ja": "マクラタケ",
+    "ko": "너도시루뻔버섯",
+    "lt": "Kamštinis skylenis",
+    "lv": "Driādu spulgpiepe",
+    "nl": "Eikenweerschijnzwam",
+    "no": "tårekjuke",
+    "pl": "Błyskoporek płaczący",
+    "ru": "Инонотус древесный",
+    "sk": "ryšavec slziaci",
+    "sl": "roseči luknjevec",
+    "sv": "tårticka",
+    "zh": "厚盖拟纤孔菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Tropfender Rostporling"
+    ],
+    "en": [
+      "weeping polypore",
+      "warted oak polypore",
+      "weeping conk"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "Inonotus des chênes"
+    ],
+    "he": [
+      "קישוטית עצית"
+    ],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "kérges rozsdástapló",
+      "könnyező kérgestapló",
+      "könnyező likacsosgomba"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [
+      "Eikeweerschijnzwam"
+    ],
+    "no": [],
+    "pl": [
+      "Bladoporek płaczący"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=474675",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=474675",
+      "https://api.gbif.org/v1/species/match?name=Pseudoinonotus%20dryadeus",
+      "https://www.gbif.org/species/2520036",
+      "https://www.wikidata.org/wiki/Q10708127",
+      "https://www.inaturalist.org/taxa/787944",
+      "https://species.wikimedia.org/wiki/Pseudoinonotus_dryadeus",
+      "https://www.first-nature.com/fungi/pseudoinonotus-dryadeus.php",
+      "https://www.myko.cz/myko-atlas/Pseudoinonotus-dryadeus/",
+      "https://botany.cz/cs/pseudoinonotus-dryadeus/",
+      "https://123pilzsuche.de/daten/details/TropfenderSchillerporling.htm"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://www.inaturalist.org/taxa/787944",
+      "https://www.myko.cz/myko-atlas/Pseudoinonotus-dryadeus/",
+      "https://botany.cz/cs/pseudoinonotus-dryadeus/",
+      "https://www.gbif.org/species/2520036"
+    ],
+    "da": [
+      "https://www.inaturalist.org/taxa/787944",
+      "https://www.gbif.org/species/2520036"
+    ],
+    "de": [
+      "https://www.inaturalist.org/taxa/787944",
+      "https://www.gbif.org/species/2520036",
+      "https://123pilzsuche.de/daten/details/TropfenderSchillerporling.htm"
+    ],
+    "es": [],
+    "et": [
+      "https://et.wikipedia.org/wiki/Juurepässik",
+      "https://www.wikidata.org/wiki/Q10708127"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "https://www.inaturalist.org/taxa/787944",
+      "https://www.gbif.org/species/2520036"
+    ],
+    "he": [
+      "https://www.inaturalist.org/taxa/787944",
+      "https://www.gbif.org/species/2520036"
+    ],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://www.inaturalist.org/taxa/787944",
+      "https://www.gbif.org/species/2520036",
+      "https://hu.wikipedia.org/wiki/Könnyező_rozsdástapló",
+      "https://www.wikidata.org/wiki/Q10708127"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.inaturalist.org/taxa/787944",
+      "https://www.gbif.org/species/2520036",
+      "https://www.wikidata.org/wiki/Q10708127"
+    ],
+    "ko": [
+      "https://www.inaturalist.org/taxa/787944",
+      "https://www.gbif.org/species/2520036"
+    ],
+    "lt": [
+      "https://www.inaturalist.org/taxa/787944",
+      "https://www.gbif.org/species/2520036",
+      "https://www.wikidata.org/wiki/Q10708127",
+      "https://lt.wikipedia.org/wiki/Kamštinis_skylenis"
+    ],
+    "lv": [
+      "https://www.inaturalist.org/taxa/787944",
+      "https://www.gbif.org/species/2520036"
+    ],
+    "nl": [
+      "https://www.inaturalist.org/taxa/787944",
+      "https://www.gbif.org/species/2520036",
+      "https://nl.wikipedia.org/wiki/Eikenweerschijnzwam"
+    ],
+    "no": [
+      "https://www.inaturalist.org/taxa/787944",
+      "https://www.gbif.org/species/2520036",
+      "https://nn.wikipedia.org/wiki/Tårekjuke"
+    ],
+    "pl": [
+      "https://www.inaturalist.org/taxa/787944",
+      "https://www.gbif.org/species/2520036",
+      "https://pl.wikipedia.org/wiki/Bladoporek_płaczący",
+      "https://www.wikidata.org/wiki/Q10708127"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://www.inaturalist.org/taxa/787944",
+      "https://www.gbif.org/species/2520036"
+    ],
+    "sk": [
+      "https://www.inaturalist.org/taxa/787944",
+      "https://botany.cz/cs/pseudoinonotus-dryadeus/",
+      "https://www.gbif.org/species/2520036"
+    ],
+    "sl": [
+      "https://www.inaturalist.org/taxa/787944",
+      "https://www.gbif.org/species/2520036"
+    ],
+    "sr": [],
+    "sv": [
+      "https://www.inaturalist.org/taxa/787944",
+      "https://www.gbif.org/species/2520036",
+      "https://sv.wikipedia.org/wiki/Tårticka"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "https://www.inaturalist.org/taxa/787944"
+    ]
+  },
+  "added": "2026-11-27",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Hymenochaetales/Hymenochaetaceae/Pseudoinonotus_dryadeus/Pseudoinonotus_dryadeus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Hymenochaetales/Hymenochaetaceae/Pseudoinonotus_dryadeus/Pseudoinonotus_dryadeus@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Hymenochaetales/Hymenochaetaceae/Pseudoinonotus_dryadeus/Pseudoinonotus_dryadeus@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Hymenochaetales/Hymenochaetaceae/Pseudoinonotus_dryadeus/Pseudoinonotus_dryadeus_1.webp",
+      "author": "Piermario Maculan",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/242345644"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Hymenochaetales/Hymenochaetaceae/Pseudoinonotus_dryadeus/Pseudoinonotus_dryadeus_2.webp",
+      "author": "bemma",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/176165406"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Hymenochaetales/Hymenochaetaceae/Pseudoinonotus_dryadeus/Pseudoinonotus_dryadeus_3.webp",
+      "author": "Roland Gromes",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/246682383"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Hymenochaetales/Hymenochaetaceae/Pseudoinonotus_dryadeus/Pseudoinonotus_dryadeus_4.webp",
+      "author": "Barry Walter",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/74031095"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Hymenochaetales/Hymenochaetaceae/Pseudoinonotus_dryadeus/Pseudoinonotus_dryadeus_5.webp",
+      "author": "Blanchemain Joël",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/394675943"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Hymenochaetales/Hymenochaetaceae/Pseudoinonotus_dryadeus/Pseudoinonotus_dryadeus@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Hymenochaetales/Hymenochaetaceae/Pseudoinonotus_dryadeus/Pseudoinonotus_dryadeus@1600.webp",
+      "basedOn": [],
+      "existingMark": "The 896×1200 source (JPEG bytes in a .png filename, SHA-256 9b6729c5e55985a2d1bd802a2bf35dd8c95c7f892e286656f0eb51e00fc2d094, Exif Orientation 1, software Picasa, no alpha) was trimmed 48 px on each side (exact 2:3) and enlarged uniformly 2× (Lanczos) to 1600×2400. The cursive Gemini signature has a 60 px right margin and a 36 px bottom margin in the source, so the centred 48 px trim leaves a 12 px clearance and does not clip it; a left-only crop was not required. Official background.webp (SHA-256 d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c) was applied by colour-weighted multiply (tools/plate_blend/multiply_on_background.py). @1600 SHA-256 63d961599209935902d988befc25961d9dd7e7a790675baa6bc34c39ab7e6a5f; @400 SHA-256 86b8254589ca7ba8cfe0b3c969a405774f993eb2e3db6a2d5bf3e0daa59f0cc1."
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Hymenochaetales/Hymenochaetaceae/Pseudoinonotus_dryadeus/Pseudoinonotus_dryadeus_1.webp",
+      "author": "Piermario Maculan",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/242345644"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Hymenochaetales/Hymenochaetaceae/Pseudoinonotus_dryadeus/Pseudoinonotus_dryadeus_2.webp",
+      "author": "bemma",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/176165406"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Hymenochaetales/Hymenochaetaceae/Pseudoinonotus_dryadeus/Pseudoinonotus_dryadeus_3.webp",
+      "author": "Roland Gromes",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/246682383"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Hymenochaetales/Hymenochaetaceae/Pseudoinonotus_dryadeus/Pseudoinonotus_dryadeus_4.webp",
+      "author": "Barry Walter",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/74031095"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Hymenochaetales/Hymenochaetaceae/Pseudoinonotus_dryadeus/Pseudoinonotus_dryadeus_5.webp",
+      "author": "Blanchemain Joël",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/394675943"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر رفّ سنوي كبير بلا ساق، ينمو عند قاعدة البلوط وعلى جذوره. يُعرف بجسم ثمري سميك، وسادي إلى حافري الشكل، أُكري أو بني صدئي، يفرز وهو صغير غالباً قطرات كهرمانية، وبمسام دقيقة جداً رمادية بيجية، وبشحم ليفي بني صدئي.",
+      "cap": "عادة 10–40 سم عرضاً و5–20 سم سماكة؛ تذكر بعض الأدلة حداً أقصى 40 سم وتحدّد السماكة النموذجية بـ10–15 سم، وأخرى عرضاً شائعاً 8–20 سم أو 10–35 سم أو أطرافاً 5–65 سم. الأجسام الفتية درنية، أُكرية شاحبة إلى أُكرية ومُلبَّدة بدقة؛ ثم تصدأ إلى بني داكن، وقد تتشقق، بحافة عريضة أفتح لوناً ومستديرة. لا ساق: الرفّ ملتصق مباشرة بقاعدة الجذع أو بالجذور.",
+      "hymenium": "طبقة أنابيب واحدة، طولها عادة 0,5–2 سم (تذكر بعض الأدلة 2–3 سم)، بنية صدئية. المسام دقيقة جداً، 3–6 في الملم، مستديرة أو قليلة الزوايا، رمادية بيجية إلى رمادية بنية شاحبة، تسود مع العمر أو عند الجرح؛ وقد تلمع المسام الطازجة بلمعة فضية بزاوية معينة. وقد تظهر قطرات كهرمانية أيضاً على سطح المسام قرب الحافة.",
+      "stipe": "لا ساق. الجسم الثمري ملتصق مباشرة بالخشب عند قاعدة الجذع أو على الجذور.",
+      "flesh": "صدئية إلى أصفر بني داكن، ليفية ومخطّطة نطاقاً؛ طرية وعصيرية وهي صغيرة، ثم قاسية فلّينية. قرب موضع الالتصاق قد يوجد لبّ بني أصلب ومحبّب. قد يسود اللحم الطازج بمحلول KOH. رائحة الأجسام القديمة غالباً كريهة؛ والطعم مرّ أو حامض قليلاً.",
+      "sporePrint": "أبيض مائل إلى الكريمي في معظم المصادر الأوروبية؛ وتذكر بعض الأدلة طبعة أبواغ بنية فاتحة. الأبواغ إهليلجية عريضة إلى شبه كروية، سميكة الجدار، ملساء، نحو 6–8,5 × 5–7 ميكرومتر.",
+      "habitat": "طفيلي رمّي، عادة عند قاعدة بلوط حي أو على جذوره، وأيضاً على جذوع وجذمورات بلوط ميتة، وأحياناً على الزان. يسبب تعفناً أبيض في الجذور وأسفل الجذع؛ وقد تصبح الشجرة التي تحمله غير مستقرة وتشكّل خطراً قرب الممرات أو المباني. في وسط أوروبا يثمر من يوليو إلى أكتوبر؛ وفي بريطانيا وأيرلندا يُذكر أيضاً لاحقاً حتى أوائل الشتاء، وقد تبقى أجسام جافة قديمة حتى الموسم التالي. وهو متفرق إلى نادر، أساساً في أوروبا، ويُسجَّل أيضاً في أجزاء من أمريكا الشمالية وآسيا.",
+      "uses": "غير صالح للأكل: اللحم قاسٍ ومرّ، والأجسام القديمة تفوح منها غالباً رائحة كريهة. لا يُعد فطر طعام.",
+      "confusion": "مريبيل عملاق (Meripilus giganteus) يكوّن وريدات من قلنسوات أنحف مروحية تسود مسامها عند الجرح. Inonotus hispidus أحمر صدئي كثيف الأوبار، وينمو عادة أعلى على جذع البلوط أو الدردار أو التفاح. Fistulina hepatica لساني، أحمر دموي ولحمي، ويفرز عصارة حمراء. لأنواع Ganoderma (Ganoderma applanatum) قلنسوة قاسية، غالباً مطلية أو قشرية، بنية، وحافة بيضاء وطبعة أبواغ بنية. Laetiporus sulphureus أصفر كبريتي زاهٍ وينمو في رفوف متدرجة. Inonotus dryophilus أصغر، عادة أعلى على جذع البلوط، وليس له أشواك هيمنيومية.",
+      "notes": "القطرات الكهرمانية الطازجة على رفّ سميك ملبَّد أُكري إلى صدئي عند قاعدة بلوط هي أوثق علامة ميدانية؛ وتفقد الأجسام القديمة القطرات وتزداد دكنة. ولأن الفطر يحلّل الجذور وأسفل الجذع، فإن الأجسام عند قاعدة شجرة قائمة تنذر بأن الشجرة قد تكون غير مستقرة.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Голяма едногодишна, без пънче конзолна гъба в основата и корените на дъба. Познава се по дебелото, възглавничковидно до копитовидно, охра или ръждивокафяво плодно тяло, което в младост често отделя кехлибарени капки, по много дребните сивкавобежови пори и по ръждивокафявата влакнеста месо.",
+      "cap": "Обикновено 10–40 cm в диаметър и 5–20 cm дебело; някои определители дават максимум 40 cm и типична дебелина 10–15 cm, други обичайна ширина 8–20 cm, 10–35 cm или крайности 5–65 cm. Младите плодни тела са грудковидни, бледоохра до охра и фино плъстени; по-късно ръждиви до тъмнокафяви, понякога напукани, с широк по-светъл заоблен ръб. Пънче няма: конзолата е прикрепена направо в основата на ствола или върху корените.",
+      "hymenium": "Един слой тръбички, обикновено дълги 0,5–2 cm (в някои определители 2–3 cm), ръждивокафяв. Порите са много дребни, 3–6 на mm, кръгли или слабо ъглести, сивкавобежови до бледосиво-кафяви, потъмняващи с възрастта или при нараняване; пресните пори под определен ъгъл могат да имат сребрист блясък. Кехлибарени капки могат да се появят и върху повърхността на порите край ръба.",
+      "stipe": "Пънче няма. Плодното тяло е прикрепено направо към дървесината в основата на ствола или върху корените.",
+      "flesh": "Ръждива до тъмно жълтокафява, влакнеста и зонирана; в младост мека и сочна, по-късно твърда и корковидна. При прикрепването може да има по-твърдо зърнесто кафяво ядро. Прясното месо може да почернее с KOH. Миризмата на старите плодни тела често е неприятна; вкусът горчив или леко кисел.",
+      "sporePrint": "В повечето европейски източници белезникав до кремав; някои определители посочват светлокафяв споров прах. Спорите са широко елипсовидни до почти сферични, дебелостенни, гладки, около 6–8,5 × 5–7 µm.",
+      "habitat": "Сапропаразит, обикновено в основата на живи дъбове или върху корените им, също върху мъртви дъбови стволове и пънове, понякога върху бук. Предизвиква бяло гниене на корените и долната част на ствола; дърво, върху което расте, може да стане нестабилно и е опасност край пътеки или сгради. В Централна Европа плододава от юли до октомври; във Великобритания и Ирландия се съобщава и по-късно, до началото на зимата, а стари изсъхнали плодни тела могат да се запазят до следващия сезон. Среща се неравномерно до рядко, главно в Европа, и е отбелязан и в части от Северна Америка и Азия.",
+      "uses": "Неядлива: месото е твърдо и горчиво, а старите плодни тела често миришат неприятно. Не се смята за ядлива гъба.",
+      "confusion": "Гигантската прахан (Meripilus giganteus) образува розетки от по-тънки, ветриловидни шапки, чиито пори при нараняване почерняват. Inonotus hispidus е ръждивочервен, гъсто четинест и обикновено расте по-високо по ствола на дъб, ясен или ябълка. Fistulina hepatica е езиковидна, кървавочервена и месеста и отделя червен сок. Плоската ганодерма (Ganoderma applanatum) и други видове Ganoderma имат твърда, често лакирана или коричкава кафява шапка, бял ръб и кафяв споров прах. Laetiporus sulphureus е ярко сярожълт и расте на етажирани конзоли. Inonotus dryophilus е по-малък, обикновено по-високо по дъбовия ствол и няма химениални четинки.",
+      "notes": "Пресните кехлибарени капки върху дебела, плъстена, охра до ръждива конзола в основата на дъб са най-надеждният теренен белег; по-старите плодни тела губят капките и потъмняват. Понеже гъбата разлага корените и долната част на ствола, плодните тела в основата на стоящо дърво предупреждават, че дървото може да е нестабилно.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Velká, beztřeňová, jednoletá konzolovitá houba bází a kořenů dubů. Pozná se podle tlusté, poduškovité až kopytovité, okrové nebo rezavě hnědé plodnice, která v mládí často roní jantarové kapky, podle velmi jemných šedavookrových pórů a podle rezavě hnědé vláknité dužniny.",
+      "cap": "Obvykle 10–40 cm v průměru a 5–20 cm tlustá; některé příručky uvádějí maximum 40 cm a typickou tloušťku 10–15 cm, jiné běžnou šířku 8–20 cm, 10–35 cm nebo extrémy 5–65 cm. Mladé plodnice jsou hlízovité, bledě okrové až okrové a jemně plstnaté; později rezavé až tmavě hnědé, někdy rozpukané, se širokým světlejším zaobleným okrajem. Třeň chybí: konzola je přirostlá přímo na bázi kmene nebo na kořenech.",
+      "hymenium": "Jedna vrstva rourek, obvykle 0,5–2 cm dlouhých (některé příručky uvádějí 2–3 cm), rezavě hnědá. Póry velmi drobné, 3–6 na mm, okrouhlé nebo slabě hranaté, šedavookrové až světle šedohnědé, stářím nebo po poškození tmavnou; čerstvé póry mohou při určitém úhlu pohledu stříbřitě lesknout. Jantarové kapky se mohou objevit i na povrchu pórů u okraje.",
+      "stipe": "Třeň chybí. Plodnice je přirostlá přímo k dřevu na bázi kmene nebo na kořenech.",
+      "flesh": "Rezavá až tmavě žlutohnědá, vláknitá a páskovaná; v mládí měkká a šťavnatá, později tuhá a korkovitá. U úponu může být tvrdší zrnité hnědé jádro. Čerstvá dužnina může s KOH černat. Vůně starších plodnic je často nepříjemná; chuť hořká nebo slabě kyselá.",
+      "sporePrint": "Ve většině evropských údajů bělavý až krémový; některé příručky uvádějí světle hnědý výtrusný prach. Výtrusy široce elipsoidní až téměř kulovité, tlustostěnné, hladké, přibližně 6–8,5 × 5–7 µm.",
+      "habitat": "Saproparazit, obvykle na bázi živých dubů nebo na jejich kořenech, také na odumřelých kmenech a pařezech dubů, příležitostně na buku. Způsobuje bílou hnilobu kořenů a spodní části kmene; strom, na kterém roste, může být nestabilní a u cest nebo budov představuje bezpečnostní riziko. Ve střední Evropě plodí od července do října; v Británii a Irsku se uvádí i později, až do začátku zimy, a staré vyschlé plodnice mohou přetrvat do následující sezóny. Vyskytuje se nehojně až vzácně, především v Evropě, a je zaznamenán i v částech Severní Ameriky a Asie.",
+      "uses": "Nejedlá: dužnina je tuhá a hořká a staré plodnice často nepříjemně páchnou. Jako jedlá houba se nezařazuje.",
+      "confusion": "Vějířovec obrovský (Meripilus giganteus) tvoří růžice tenčích, vějířovitě uspořádaných klobouků, jejichž póry při poškození černají. Rezavec štětinatý (Inonotus hispidus) je rezavě červený, hustě štětinatý a roste obvykle výše na kmeni dubu, jasanu nebo jabloně. Pstřeň dubový (Fistulina hepatica) je jazykovitý, krvavě červený a masitý a roní červenou šťávu. Lesklokorka ploská (Ganoderma applanatum) a jiné druhy rodu Ganoderma mají tvrdý, často lakovaný nebo kůrovitý hnědý klobouk, bílý okraj a hnědý výtrusný prach. Sírovec žlutooranžový (Laetiporus sulphureus) je jasně sírově žlutý a roste v terasovitých pásech. Rezavec dubomilný (Inonotus dryophilus) je menší, obvykle výše na kmeni dubu a nemá hymeniální sety.",
+      "notes": "Čerstvé jantarové kapky na tlusté, plstnaté okrové až rezavé konzole na bázi dubu jsou nejspolehlivějším terénním znakem; starší plodnice kapky ztrácejí a tmavnou. Protože houba rozkládá kořeny a spodní část kmene, plodnice na bázi stojícího stromu upozorňují, že strom může být nestabilní.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944",
+        "https://www.myko.cz/myko-atlas/Pseudoinonotus-dryadeus/",
+        "https://botany.cz/cs/pseudoinonotus-dryadeus/",
+        "https://www.gbif.org/species/2520036"
+      ],
+      "label": "rezavec dubový"
+    },
+    "da": {
+      "description": "En stor, stokløs, etårig konsolsvamp ved foden og rødderne af eg. Den kendes på et tykt, pude- til hovformet, okker- eller rustbrunt frugtlegeme, der som ungt ofte afsondrer ravfarvede dråber, på meget fine gråligt beige porer og på rustbrunt, trådet kød.",
+      "cap": "Typisk 10–40 cm bred og 5–20 cm tyk; nogle bøger angiver et maksimum på 40 cm og typificerer tykkelsen som 10–15 cm, andre en almindelig bredde på 8–20 cm, 10–35 cm eller yderpunkter på 5–65 cm. Unge frugtlegemer er knoldede, blegt okker til okker og fint filtede; senere rust- til mørkebrune, undertiden revnede, med en bred, lysere afrundet rand. Der er ingen stok: konsollen sidder direkte ved stammens fod eller på rødderne.",
+      "hymenium": "Et enkelt rørlag, typisk 0,5–2 cm langt (nogle angivelser 2–3 cm), rustbrunt. Porer meget små, 3–6 pr. mm, runde eller svagt kantede, gråligt beige til lyst gråbrune, mørknende med alderen eller ved beskadigelse; friske porer kan under en vis vinkel skinne sølvagtigt. Ravfarvede dråber kan også vise sig på porefladen nær randen.",
+      "stipe": "Der er ingen stok. Frugtlegemet er hæftet direkte til veddet ved stammens fod eller på rødderne.",
+      "flesh": "Rust- til mørkt gulbrunt, trådet og zoneret; ungt blødt og saftigt, senere sejt og korkagtigt. Ved fæstet kan der være en hårdere, kornet brun kerne. Friskt kød kan sortne med KOH. Lugten af ældre frugtlegemer er ofte ubehagelig; smagen bitter eller let sur.",
+      "sporePrint": "I de fleste europæiske angivelser hvidligt til cremefarvet; nogle bøger nævner et lysebrunt sporestøv. Sporer bredt ellipsoide til næsten kugleformede, tykvæggede, glatte, omkring 6–8,5 × 5–7 µm.",
+      "habitat": "En saproparasit, sædvanligvis ved foden af levende ege eller på deres rødder, også på døde egestammer og -stød, lejlighedsvis på bøg. Den forårsager hvidråd i rødderne og den nedre stamme; et træ, der bærer den, kan blive ustabilt og er ved stier eller bygninger en sikkerhedsrisiko. I Centraleuropa frugter den fra juli til oktober; i Storbritannien og Irland angives den også senere, ind i den tidlige vinter, og gamle udtørrede frugtlegemer kan blive stående til næste sæson. Den er spredt til ualmindelig, især i Europa, og er også registreret i dele af Nordamerika og Asien.",
+      "uses": "Uspiselig: kødet er sejt og bittert, og gamle frugtlegemer lugter ofte ubehageligt. Den betragtes ikke som en spisesvamp.",
+      "confusion": "Kæmpeporesvamp (Meripilus giganteus) danner rosetter af tyndere, vifteformede hatte, hvis porer sortner ved beskadigelse. Paryk-spejlporesvamp (Inonotus hispidus) er rustrød og tæt børstet og vokser sædvanligvis højere på stammen af eg, ask eller æble. Fistulina hepatica er tungeformet, blodrød og kødfuld og afsondrer rød saft. Flad lakporesvamp (Ganoderma applanatum) og andre Ganoderma-arter har en hård, ofte lakeret eller skorpet brun hat, en hvid rand og brunt sporestøv. Laetiporus sulphureus er klart svovlgul og vokser i taglagte konsoller. Inonotus dryophilus er mindre, sidder sædvanligvis højere på egestammen og mangler hymeniale setae.",
+      "notes": "Friske ravfarvede dråber på en tyk, filtet, okker- til rustfarvet konsol ved foden af en eg er det mest pålidelige feltkendetegn; ældre frugtlegemer mister dråberne og mørkner. Fordi svampen nedbryder rødderne og den nedre stamme, er frugtlegemer ved foden af et stående træ en advarsel om, at træet kan være ustabilt.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944",
+        "https://www.gbif.org/species/2520036"
+      ],
+      "label": "Ege-spejlporesvamp"
+    },
+    "de": {
+      "description": "Ein großer, stielloser, einjähriger Konsolenpilz an Eichenstämmen und -wurzeln. Er ist an einem dicken, kissenförmigen bis hufartigen, ockerfarbenen oder rostbraunen Fruchtkörper zu erkennen, der jung oft bernsteinfarbene Tropfen abscheidet, an sehr feinen graubeigen Poren und an rostbraunem, faserigem Fleisch.",
+      "cap": "Typischerweise 10–40 cm breit und 5–20 cm dick; manche Bestimmungsbücher nennen ein Maximum von 40 cm und typisieren die Dicke mit 10–15 cm, andere eine häufige Breite von 8–20 cm, 10–35 cm oder Extreme von 5–65 cm. Junge Fruchtkörper sind knollig, blass ocker bis ocker und fein filzig; später rost- bis dunkelbraun, manchmal rissig, mit einem breiten, helleren, abgerundeten Rand. Ein Stiel fehlt: Die Konsole sitzt direkt am Stammfuß oder an den Wurzeln.",
+      "hymenium": "Eine einzelne Röhrenschicht, typischerweise 0,5–2 cm lang (manche Angaben 2–3 cm), rostbraun. Poren sehr klein, 3–6 je mm, rund oder schwach eckig, graubeige bis hell graubraun, im Alter oder bei Verletzung nachdunkelnd; frische Poren können unter bestimmtem Winkel silbrig schimmern. Bernsteinfarbene Tropfen können auch auf der Porenfläche nahe dem Rand auftreten.",
+      "stipe": "Ein Stiel fehlt. Der Fruchtkörper ist direkt am Holz am Stammfuß oder an den Wurzeln angewachsen.",
+      "flesh": "Rost- bis dunkelgelbbraun, faserig und gezont; jung weich und saftig, später zäh und korkig. Nahe der Anwachsstelle kann ein härterer, körniger brauner Kern vorhanden sein. Frisches Fleisch kann mit KOH schwärzen. Der Geruch älterer Fruchtkörper ist oft unangenehm; der Geschmack bitter oder leicht säuerlich.",
+      "sporePrint": "In den meisten europäischen Angaben weißlich bis cremefarben; manche Werke nennen ein hellbraunes Sporenpulver. Sporen breit ellipsoid bis fast kugelig, dickwandig, glatt, etwa 6–8,5 × 5–7 µm.",
+      "habitat": "Ein Saproparasit, meist am Fuß lebender Eichen oder an deren Wurzeln, auch an toten Eichenstämmen und -stöcken, gelegentlich an Buche. Er verursacht eine Weißfäule der Wurzeln und des unteren Stammes; ein befallener Baum kann instabil werden und ist an Wegen oder Gebäuden ein Sicherheitsrisiko. In Mitteleuropa fruktifiziert er von Juli bis Oktober; in Großbritannien und Irland wird er auch später, bis in den frühen Winter, angegeben, und alte, ausgetrocknete Fruchtkörper können bis in die nächste Saison stehen bleiben. Er ist zerstreut bis selten, vor allem in Europa, und wird auch in Teilen Nordamerikas und Asiens angegeben.",
+      "uses": "Ungenießbar: das Fleisch ist zäh und bitter, und alte Fruchtkörper riechen oft unangenehm. Er gilt nicht als Speisepilz.",
+      "confusion": "Der Riesenporling (Meripilus giganteus) bildet Rosetten dünnerer, fächerförmiger Hüte, deren Poren bei Verletzung schwarz anlaufen. Der Zottige Schillerporling (Inonotus hispidus) ist rostrot und dicht borstig und wächst meist höher am Stamm von Eiche, Esche oder Apfel. Die Ochsenzunge (Fistulina hepatica) ist zungenförmig, blutrot und fleischig und sondert roten Saft ab. Der Flache Lackporling (Ganoderma applanatum) und andere Ganoderma-Arten haben einen harten, oft lackierten oder krustigen braunen Hut, einen weißen Rand und braunes Sporenpulver. Der Gemeine Schwefelporling (Laetiporus sulphureus) ist leuchtend schwefelgelb und wächst in dachziegeligen Konsolen. Inonotus dryophilus ist kleiner, sitzt meist höher am Eichenstamm und besitzt keine hymenialen Setae.",
+      "notes": "Frische bernsteinfarbene Tropfen auf einer dicken, filzigen, ocker- bis rostfarbenen Konsole am Eichenfuß sind das zuverlässigste Freilandmerkmal; ältere Fruchtkörper verlieren die Tropfen und dunkeln nach. Weil der Pilz die Wurzeln und den unteren Stamm zersetzt, sind Fruchtkörper am Fuß eines stehenden Baumes ein Hinweis, dass der Baum instabil sein kann.",
+      "names": [
+        "Tropfender Rostporling"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944",
+        "https://www.gbif.org/species/2520036",
+        "https://123pilzsuche.de/daten/details/TropfenderSchillerporling.htm"
+      ],
+      "label": "Tropfender Schillerporling"
+    },
+    "en": {
+      "description": "A large, stemless annual bracket of oak bases and roots, recognised by a thick, cushion-shaped to hoof-like ochre or rusty-brown fruit body that often weeps amber droplets when fresh, very fine greyish-buff pores, and rusty-brown fibrous flesh.",
+      "cap": "Typically 10–40 cm across and 5–20 cm thick; some guides give a maximum of 40 cm and typify the thickness as 10–15 cm, while others give a common width of 8–20 cm, 10–35 cm, or extremes of 5–65 cm. Young fruit bodies are knob-like, pale buff to ochre and finely felted; they become rusty to dark brown, sometimes cracked, with a thick paler rounded margin. There is no stem: the bracket is attached directly at the trunk base or on the roots.",
+      "hymenium": "A single layer of tubes, typically 0.5–2 cm long (some guides 2–3 cm), rusty brown. Pores very small, 3–6 per mm, round or slightly angular, greyish buff to pale grey-brown, darkening with age or when bruised; fresh pores may show a silvery sheen at an angle. Amber droplets may also appear on the pore surface near the margin.",
+      "stipe": "There is no stem. The fruit body is attached directly to the wood at the base of the trunk or on the roots.",
+      "flesh": "Rusty to dark yellow-brown, fibrous and zoned; soft and juicy when young, becoming tough and corky. A harder granular brown core may be present near the attachment. Fresh flesh may blacken with KOH. Smell often unpleasant in old fruit bodies; taste bitter or slightly sour.",
+      "sporePrint": "Whitish to cream in most European accounts; some guides record a light-brown print. Spores broadly ellipsoid to almost spherical, thick-walled, smooth, about 6–8.5 × 5–7 µm.",
+      "habitat": "A saproparasite, usually at the base of living oaks or on the roots, also on dead oak trunks and stumps, and occasionally on beech. It causes a white rot of the roots and the lower trunk; a tree that bears it can become unstable and is a safety concern if it stands near paths or buildings. In Central Europe it fruits from July to October; in Britain and Ireland it is also reported later, into early winter, and old dried fruit bodies may persist until the following season. It is occasional to uncommon, mainly in Europe, and is also recorded in parts of North America and Asia.",
+      "uses": "Inedible: the flesh is tough and bitter, and old fruit bodies often smell unpleasant. It is not treated as a food mushroom.",
+      "confusion": "Giant polypore (Meripilus giganteus) forms rosettes of thinner, fan-shaped caps whose pores bruise black. Shaggy bracket (Inonotus hispidus) is rust-red and densely bristly, and usually grows higher on the trunk of oak, ash or apple. Beefsteak fungus (Fistulina hepatica) is tongue-shaped, blood-red and flesh-like, and weeps a red juice. Artist's bracket (Ganoderma applanatum) and other Ganoderma species have a hard, often varnished or crusty brown cap, a white margin and brown spore dust. Chicken of the woods (Laetiporus sulphureus) is bright sulphur-yellow and grows in shelving tiers. Oak-loving bracket (Inonotus dryophilus) is smaller, usually higher on the oak trunk, and lacks hymenial setae.",
+      "notes": "Fresh amber droplets on a thick, felted ochre to rusty bracket at an oak base are the most reliable field character; older fruit bodies lose the droplets and darken. Because it decays the roots and the lower trunk, fruit bodies at the base of a standing tree are a warning that the tree may be unstable.",
+      "names": [
+        "weeping polypore",
+        "warted oak polypore",
+        "weeping conk"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=474675",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=474675",
+        "https://api.gbif.org/v1/species/match?name=Pseudoinonotus%20dryadeus",
+        "https://www.gbif.org/species/2520036",
+        "https://www.wikidata.org/wiki/Q10708127",
+        "https://www.inaturalist.org/taxa/787944",
+        "https://species.wikimedia.org/wiki/Pseudoinonotus_dryadeus",
+        "https://www.first-nature.com/fungi/pseudoinonotus-dryadeus.php",
+        "https://www.myko.cz/myko-atlas/Pseudoinonotus-dryadeus/",
+        "https://botany.cz/cs/pseudoinonotus-dryadeus/",
+        "https://123pilzsuche.de/daten/details/TropfenderSchillerporling.htm"
+      ],
+      "label": "oak bracket"
+    },
+    "es": {
+      "description": "Una gran seta anual en ménsula, sin pie, de la base y las raíces de los robles. Se reconoce por un cuerpo fructífero grueso, acoacinado o en forma de pezuña, ocre o pardo herrumbroso, que de joven suele exudar gotas ámbar, por poros muy finos grisáceos ante y por una carne fibrosa pardo herrumbrosa.",
+      "cap": "Por lo general 10–40 cm de ancho y 5–20 cm de grosor; algunas guías indican un máximo de 40 cm y tipifican el grosor en 10–15 cm, otras una anchura habitual de 8–20 cm, 10–35 cm, o extremos de 5–65 cm. Los cuerpos jóvenes son tuberosos, de ocre pálido a ocre y finamente afelpados; más tarde herrumbrosos a pardo oscuro, a veces agrietados, con un margen ancho, más pálido y redondeado. No hay pie: la ménsula está unida directamente a la base del tronco o a las raíces.",
+      "hymenium": "Una sola capa de tubos, por lo general de 0,5–2 cm de largo (algunas guías indican 2–3 cm), pardo herrumbrosa. Poros muy pequeños, 3–6 por mm, redondos o ligeramente angulosos, grisáceos ante a pardo grisáceo pálido, que oscurecen con la edad o al roce; los poros frescos pueden mostrar, en cierto ángulo, un brillo plateado. También pueden aparecer gotas ámbar en la superficie porosa cerca del margen.",
+      "stipe": "No hay pie. El cuerpo fructífero está unido directamente a la madera en la base del tronco o en las raíces.",
+      "flesh": "Pardo herrumbrosa a amarillo-pardo oscura, fibrosa y zonada; blanda y jugosa de joven, luego dura y suberosa. Cerca de la inserción puede haber un núcleo pardo, más duro y granulado. La carne fresca puede ennegrecer con KOH. El olor de los cuerpos viejos suele ser desagradable; el sabor amargo o ligeramente ácido.",
+      "sporePrint": "Blanquecina a crema en la mayoría de las fuentes europeas; algunas guías indican una esporada pardo clara. Esporas ampliamente elipsoides a casi esféricas, de pared gruesa, lisas, de unos 6–8,5 × 5–7 µm.",
+      "habitat": "Saproparásito, habitualmente en la base de robles vivos o en sus raíces, también en troncos y tocones de roble muertos y, a veces, en haya. Provoca una pudrición blanca de las raíces y de la parte inferior del tronco; un árbol que lo porta puede volverse inestable y supone un riesgo junto a caminos o edificios. En Europa central fructifica de julio a octubre; en Gran Bretaña e Irlanda también se cita más tarde, hasta el comienzo del invierno, y los cuerpos secos viejos pueden persistir hasta la temporada siguiente. Es ocasional a poco frecuente, sobre todo en Europa, y también se registra en partes de Norteamérica y Asia.",
+      "uses": "No comestible: la carne es dura y amarga, y los cuerpos viejos suelen oler mal. No se considera una seta comestible.",
+      "confusion": "El políporo gigante (Meripilus giganteus) forma rosetas de sombreros más delgados, en abanico, cuyos poros ennegrecen al roce. Inonotus hispidus es rojo herrumbre, densamente erizado, y crece por lo general más alto en el tronco de roble, fresno o manzano. Fistulina hepatica es linguiforme, de un rojo sanguíneo y carnosa, y exuda un jugo rojo. El yesquero aplanado (Ganoderma applanatum) y otros Ganoderma tienen un sombrero duro, a menudo barnizado o costroso, pardo, un margen blanco y esporada parda. Laetiporus sulphureus es de un amarillo azufre vivo y crece en ménsulas escalonadas. Inonotus dryophilus es más pequeño, suele situarse más alto en el tronco del roble y carece de setas himeniales.",
+      "notes": "Las gotas ámbar frescas sobre una ménsula gruesa, afelpada, ocre a herrumbrosa, en la base de un roble son el carácter de campo más fiable; los cuerpos viejos pierden las gotas y se oscurecen. Como el hongo pudre las raíces y la parte inferior del tronco, los cuerpos en la base de un árbol en pie avisan de que el árbol puede ser inestable.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Suur, jalata, üheaastane konsooljas seen tamme tüvejalal ja juurtel. Teda tuntakse paksu, padjase kuni kabjakujulise, ooker- või roostepunakaspruuni viljakeha järgi, mis noorena tihti eritab merevaiguvärvi tilku, väga peente hallikasbeežide pooride ja roostepunakaspruuni, kiulise liha järgi.",
+      "cap": "Tavaliselt 10–40 cm lai ja 5–20 cm paks; mõned juhendid annavad maksimumiks 40 cm ja tüüpiliseks paksuseks 10–15 cm, teised tavaliseks laiuseks 8–20 cm, 10–35 cm või äärmusteks 5–65 cm. Noored viljakehad on muguljad, kahvatookerjad kuni ookerjad ja peenelt viltjad; hiljem rooste- kuni tumepunakaspruunid, vahel lõhenenud, laia heledama ümarjalt äärega. Jalga ei ole: konsool on kinnitunud otse tüvejalale või juurtele.",
+      "hymenium": "Üks torukeste kiht, tavaliselt 0,5–2 cm pikk (mõnedel andmetel 2–3 cm), roostepunakaspruun. Poorid väga peened, 3–6 mm kohta, ümarad või nõrgalt nurgelised, hallikasbeežid kuni heledad hallikaspruunid, vananedes või vigastusel tumenevad; värsked poorid võivad teatud nurga all hõbedaselt läigata. Merevaiguvärvi tilgad võivad ilmuda ka pooripinnale ääre lähedal.",
+      "stipe": "Jalga ei ole. Viljakeha on kinnitunud otse puidule tüvejalal või juurtel.",
+      "flesh": "Rooste- kuni tume kollakaspruun, kiuline ja vööline; noorena pehme ja mahlane, hiljem sitke ja korgiline. Kinnituskohal võib olla kõvem, teraline pruun tuum. Värske liha võib KOH-iga mustuda. Vanemate viljakehade lõhn on sageli ebameeldiv; maitse mõru või kergelt hapukas.",
+      "sporePrint": "Enamikus Euroopa andmetes valkjas kuni kreemjas; mõned juhendid mainivad helepruuni eospulbrit. Eosed laialt ellipsoidsed kuni peaaegu kerajad, paksuseinalised, siledad, umbes 6–8,5 × 5–7 µm.",
+      "habitat": "Saproparasiit, tavaliselt elusate tammede tüvejalal või nende juurtel, ka surnud tammetüvedel ja -kändudel, juhuti pöögil. Ta põhjustab juurte ja tüve alumise osa valgemädanikku; puu, millel ta kasvab, võib olla ebapüsiv ja on radade või hoonete lähedal ohutusrisk. Kesk-Euroopas viljub juulist oktoobrini; Suurbritannias ja Iirimaal märgitakse teda ka hiljem, varatalveni, ja vanad kuivanud viljakehad võivad püsida järgmise hooajani. Ta on hajus kuni haruldane, peamiselt Euroopas, ning on kirjas ka Põhja-Ameerika ja Aasia osades.",
+      "uses": "Mittesöödav: liha on sitke ja mõru ning vanad viljakehad lõhnavad sageli ebameeldivalt. Teda ei peeta söögiseeneks.",
+      "confusion": "Hiidtorik (Meripilus giganteus) moodustab õhemate, lehvikjate kübarate rosette, mille poorid vigastusel mustuvad. Inonotus hispidus on roostepunane ja tihedalt harjasjas ning kasvab tavaliselt kõrgemal tamme, saare või õunapuu tüvel. Maksak (Fistulina hepatica) on keelekujuline, veripunane ja lihakas ning eritab punast mahla. Jänesvaabik (Ganoderma applanatum) ja teised Ganoderma liigid on kõva, sageli lakitud või koorikja pruuni kübara, valge ääre ja pruuni eospulbriga. Vääveltorik (Laetiporus sulphureus) on kirkalt väävelkollane ja kasvab riiuljate kihtidena. Inonotus dryophilus on väiksem, istub tavaliselt kõrgemal tammetüvel ega oma hümeeni harjaseid.",
+      "notes": "Värsked merevaiguvärvi tilgad paksul, viltjal, ooker- kuni roostevärvilisel konsoolil tamme tüvejalal on kõige usaldusväärsem välimustunnus; vanemad viljakehad kaotavad tilgad ja tumenevad. Kuna seen lagundab juuri ja tüve alumist osa, hoiatavad viljakehad seisva puu tüvejalal, et puu võib olla ebapüsiv.",
+      "names": [],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Juurepässik",
+        "https://www.wikidata.org/wiki/Q10708127"
+      ],
+      "label": "juurepässik"
+    },
+    "fa": {
+      "description": "قارچ رف‌مانند یک‌ساله و بزرگ، بدون پایه، در بن و ریشه بلوط. با پیکره میوه‌ای ضخیم، بالشتکی تا سمی‌شکل، نخودی یا قهوه‌ای زنگی‌رنگ شناخته می‌شود که در جوانی اغلب قطره‌های کهربایی می‌تراود، با منافذ بسیار ریز خاکستری-بژ، و با گوشت رشته‌ای قهوه‌ای زنگی.",
+      "cap": "معمولاً ۱۰–۴۰ سانتی‌متر پهنا و ۵–۲۰ سانتی‌متر ضخامت؛ برخی راهنماها بیشینه ۴۰ سانتی‌متر و ضخامت نوعی ۱۰–۱۵ سانتی‌متر را می‌دهند، برخی پهنای رایج ۸–۲۰ یا ۱۰–۳۵ سانتی‌متر یا کرانه‌های ۵–۶۵ سانتی‌متر. پیکره‌های جوان غده‌مانند، نخودی کم‌رنگ تا نخودی و نمدی ظریف‌اند؛ سپس زنگی تا قهوه‌ای تیره می‌شوند، گاه ترک می‌خورند، با حاشیه پهن روشن‌تر و گرد. پایه نیست: رف مستقیماً به بن تنه یا به ریشه‌ها می‌چسبد.",
+      "hymenium": "یک لایه لوله، معمولاً به درازای ۰٫۵–۲ سانتی‌متر (برخی راهنماها ۲–۳ سانتی‌متر)، قهوه‌ای زنگی. منافذ بسیار ریز، ۳–۶ در میلی‌متر، گرد یا کمی گوشه‌دار، خاکستری-بژ تا خاکستری-قهوه‌ای کم‌رنگ، با سن یا آسیب تیره‌تر می‌شوند؛ منافذ تازه در زاویه‌ای ممکن است درخشش نقره‌ای نشان دهند. قطره‌های کهربایی ممکن است روی سطح منافذ نزدیک حاشیه نیز پدید آیند.",
+      "stipe": "پایه نیست. پیکره میوه‌ای مستقیماً به چوب در بن تنه یا روی ریشه‌ها چسبیده است.",
+      "flesh": "زنگی تا زرد-قهوه‌ای تیره، رشته‌ای و نواری؛ در جوانی نرم و آبدار، سپس سخت و چوب‌پنبه‌ای. نزدیک محل اتصال ممکن است مغز قهوه‌ای سخت‌تر و دانه‌دار باشد. گوشت تازه ممکن است با KOH سیاه شود. بوی پیکره‌های کهنه اغلب ناخوشایند است؛ طعم تلخ یا کمی ترش.",
+      "sporePrint": "در بیشتر منابع اروپایی سفیدک تا کرم؛ برخی راهنماها گرده هاگ قهوه‌ای روشن را ذکر می‌کنند. هاگ‌ها پهن-بیضوی تا تقریباً کروی، با دیواره ضخیم، صاف، حدود ۶–۸٫۵ × ۵–۷ میکرومتر.",
+      "habitat": "ساپروانگل، معمولاً در بن بلوط زنده یا روی ریشه‌های آن، همچنین روی تنه و کنده بلوط مرده، و گاه روی راش. پوسیدگی سفید ریشه و بخش زیرین تنه را پدید می‌آورد؛ درختی که آن را دارد ممکن است ناپایدار شود و کنار مسیرها یا ساختمان‌ها خطرناک باشد. در اروپای مرکزی از ژوئیه تا اکتبر میوه می‌دهد؛ در بریتانیا و ایرلند دیرتر، تا آغاز زمستان نیز گزارش شده و پیکره‌های خشک کهنه ممکن است تا فصل بعد بمانند. پراکنده تا کمیاب است، بیشتر در اروپا، و در بخش‌هایی از آمریکای شمالی و آسیا نیز ثبت شده است.",
+      "uses": "خوراکی نیست: گوشت سخت و تلخ است و پیکره‌های کهنه اغلب بوی ناخوشایند دارند. قارچ خوراکی شمرده نمی‌شود.",
+      "confusion": "Meripilus giganteus روزت‌هایی از کلاه‌های نازک‌تر بادبزنی می‌سازد که منافذشان با آسیب سیاه می‌شود. Inonotus hispidus سرخ زنگی و پرپُرز است و معمولاً بالاتر روی تنه بلوط، زبان‌گنجشک یا سیب می‌روید. Fistulina hepatica زبان‌مانند، سرخ خونی و گوشتی است و شیره سرخ می‌تراود. گونه‌های Ganoderma (Ganoderma applanatum) کلاهی سخت دارند، اغلب جلایافته یا پوسته‌ای، قهوه‌ای، با حاشیه سفید و گرده هاگ قهوه‌ای. Laetiporus sulphureus زرد گوگردی روشن است و در رف‌های طبقه‌طبقه می‌روید. Inonotus dryophilus کوچک‌تر است، معمولاً بالاتر روی تنه بلوط، و موهای هیمنیومی ندارد.",
+      "notes": "قطره‌های کهربایی تازه روی رف ضخیم نمدی نخودی تا زنگی در بن بلوط مطمئن‌ترین نشانه صحرایی است؛ پیکره‌های کهنه‌تر قطره‌ها را از دست می‌دهند و تیره می‌شوند. چون قارچ ریشه‌ها و بخش زیرین تنه را تجزیه می‌کند، پیکره‌ها در بن درخت ایستاده هشدار می‌دهند که درخت ممکن است ناپایدار باشد.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Suuri, jalaton, yksivuotinen konzolamainen kääpä tammen tyvellä ja juurilla. Sen tunnistaa paksusta, tyynymäisestä tai kavionmuotoisesta, okran- tai ruosteenruskeasta itiöemästä, joka nuorena usein tihkuu meripihkanvärisiä pisaroita, hyvin pienistä harmaanbeigeistä pillien suista ja ruosteenruskeasta, säikeisestä mallosta.",
+      "cap": "Tyypillisesti 10–40 cm leveä ja 5–20 cm paksu; jotkin oppaat antavat enimmäiskooksi 40 cm ja tyypilliseksi paksuudeksi 10–15 cm, toiset tavalliseksi leveydeksi 8–20 cm, 10–35 cm tai ääripäiksi 5–65 cm. Nuoret itiöemät ovat mukulamaisia, vaaleanokran- tai okranvärisiä ja hienon huopapeitteisiä; myöhemmin ruosteen- tai tummanruskeita, joskus halkeilleita, leveällä vaaleammalla pyöristyneellä reunalla. Jalkaa ei ole: konzola on kiinnittynyt suoraan rungon tyveen tai juuriin.",
+      "hymenium": "Yksi pillikerros, tyypillisesti 0,5–2 cm pitkä (joissakin tiedoissa 2–3 cm), ruosteenruskea. Pillien suut hyvin pieniä, 3–6 millimetrillä, pyöreitä tai heikosti kulmikkaita, harmaanbeigejä tai vaalean harmaanruskeita, tummuvia iän tai vioittumisen myötä; tuoreet suut voivat tietyissä kulmassa hohtaa hopeisina. Meripihkanvärisiä pisaroita voi esiintyä myös pillipinnan reunalla.",
+      "stipe": "Jalkaa ei ole. Itiöemä on kiinnittynyt suoraan puuhun rungon tyvellä tai juurilla.",
+      "flesh": "Ruosteen- tai tumman keltaruskea, säikeinen ja vyöhykkeinen; nuorena pehmeä ja mehevä, myöhemmin sitkeä ja korkkimainen. Kiinnityskohdassa voi olla kovempi, rakeinen ruskea ydin. Tuore malto voi mustua KOH:n vaikutuksesta. Vanhempien itiöemien haju on usein epämiellyttävä; maku karvas tai hieman hapan.",
+      "sporePrint": "Useimmissa eurooppalaisissa tiedoissa valkeahko tai kermanvärinen; jotkin oppaat mainitsevat vaaleanruskean itiöpölyn. Itiöt leveän ellipsoidisia tai lähes pallomaisia, paksuseinäisiä, sileitä, noin 6–8,5 × 5–7 µm.",
+      "habitat": "Saproparasiitti, yleensä elävien tammien tyvellä tai niiden juurilla, myös kuolleissa tammenrungoissa ja -kannoissa, satunnaisesti pyökillä. Se aiheuttaa juurten ja rungon alaosan valkolahoa; puu, jossa se kasvaa, voi olla epävakaa ja on polkujen tai rakennusten lähellä turvallisuusriski. Keski-Euroopassa itiöemiä syntyy heinäkuusta lokakuuhun; Britanniassa ja Irlannissa sitä ilmoitetaan myös myöhemmin, alkutalveen saakka, ja vanhat kuivuneet itiöemät voivat säilyä seuraavaan kauteen. Laji on hajanainen tai harvinahko, etenkin Euroopassa, ja sitä on ilmoitettu myös osista Pohjois-Amerikkaa ja Aasiaa.",
+      "uses": "Syötäväksi kelpaamaton: malto on sitkeää ja karvasta, ja vanhat itiöemät haisevat usein epämiellyttävästi. Sitä ei pidetä ruokasienenä.",
+      "confusion": "Meripilus giganteus muodostaa ohuempien, viuhkamaisten lakkien ruusukkeita, joiden pillit mustuvat vioittuessaan. Inonotus hispidus on ruosteenpunainen ja tiheän sukkainen ja kasvaa yleensä ylempänä tammen, saarnen tai omenan rungolla. Häränkieli (Fistulina hepatica) on kielenmuotoinen, veripunainen ja lihaisa ja tihkuu punaista nestettä. Lattakääpä (Ganoderma applanatum) ja muut Ganoderma-lajit ovat kova-, usein lakan- tai kuoripintaisia ruskeita, valkoreunaisia ja ruskea-itiöpölyisiä. Rikkikääpä (Laetiporus sulphureus) on kirkkaan rikkikeltainen ja kasvaa kerroksittaisina hyllyinä. Inonotus dryophilus on pienempi, kasvaa yleensä ylempänä tammen rungolla eikä sillä ole hymenion sukasia.",
+      "notes": "Tuoreet meripihkanväriset pisarat paksussa, huopapeitteisessä, okran- tai ruosteenruskeassa konzolassa tammen tyvellä ovat luotettavin maastotuntomerkki; vanhemmat itiöemät menettävät pisarat ja tummuvat. Koska sieni lahotttaa juuret ja rungon alaosan, itiöemät seisovan puun tyvellä varoittavat, että puu voi olla epävakaa.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fr": {
+      "description": "Une grande console annuelle, sans pied, des bases et des racines de chêne. On la reconnaît à un carpophore épais, en coussin ou en sabot, ocre ou brun rouille, qui exsude souvent, à l’état jeune, des gouttes ambrées, à des pores très fins, gris-beige, et à une chair fibreuse brun rouille.",
+      "cap": "Typiquement 10–40 cm de large et 5–20 cm d’épaisseur ; certains guides indiquent un maximum de 40 cm et typifient l’épaisseur à 10–15 cm, d’autres une largeur courante de 8–20 cm, 10–35 cm, ou des extrêmes de 5–65 cm. Les jeunes carpophores sont tubéreux, d’un ocre pâle à ocre et finement feutrés ; plus tard rouille à brun foncé, parfois fissurés, avec une large marge plus claire, arrondie. Il n’y a pas de pied : la console est attachée directement à la base du tronc ou aux racines.",
+      "hymenium": "Une seule couche de tubes, typiquement longue de 0,5–2 cm (certains guides indiquent 2–3 cm), brun rouille. Pores très petits, 3–6 par mm, ronds ou légèrement anguleux, gris-beige à gris-brun pâle, s’assombrissant avec l’âge ou au toucher ; les pores frais peuvent prendre, sous un certain angle, un éclat argenté. Des gouttes ambrées peuvent aussi apparaître sur la surface porée près de la marge.",
+      "stipe": "Il n’y a pas de pied. Le carpophore est attaché directement au bois à la base du tronc ou sur les racines.",
+      "flesh": "Brun rouille à jaune-brun foncé, fibreuse et zonée ; molle et juteuse chez les jeunes, puis ferme et subéreuse. Un noyau brun, plus dur et granuleux, peut être présent près de l’attache. La chair fraîche peut noircir au KOH. L’odeur des vieux carpophores est souvent désagréable ; la saveur amère ou légèrement acide.",
+      "sporePrint": "Blanchâtre à crème dans la plupart des sources européennes ; certains guides indiquent une sporée brun clair. Spores largement ellipsoïdes à presque sphériques, à paroi épaisse, lisses, d’environ 6–8,5 × 5–7 µm.",
+      "habitat": "Saproparasite, habituellement à la base de chênes vivants ou sur leurs racines, aussi sur des troncs et des souches de chêne morts, parfois sur le hêtre. Il provoque une pourriture blanche des racines et du bas du tronc ; un arbre qui le porte peut devenir instable et constitue un risque près des chemins ou des bâtiments. En Europe centrale, il fructifie de juillet à octobre ; en Grande-Bretagne et en Irlande, on le signale aussi plus tard, jusqu’au début de l’hiver, et de vieux carpophores desséchés peuvent persister jusqu’à la saison suivante. Il est çà et là à assez rare, surtout en Europe, et est aussi indiqué dans certaines régions d’Amérique du Nord et d’Asie.",
+      "uses": "Non comestible : la chair est coriace et amère, et les vieux carpophores sentent souvent mauvais. Il n’est pas considéré comme un champignon comestible.",
+      "confusion": "Le polypore géant (Meripilus giganteus) forme des rosettes de chapeaux plus minces, en éventail, dont les pores noircissent au froissement. Inonotus hispidus est rouge rouille, densément hérissé, et pousse généralement plus haut sur le tronc du chêne, du frêne ou du pommier. La fistuline hépatique (Fistulina hepatica) est en forme de langue, rouge sang et charnue, et exsude un suc rouge. Le polypore aplani (Ganoderma applanatum) et d’autres Ganoderma ont un chapeau dur, souvent vernissé ou crustacé, brun, une marge blanche et une sporée brune. Le polypore soufré (Laetiporus sulphureus) est d’un jaune soufre vif et pousse en consoles étagées. Inonotus dryophilus est plus petit, généralement plus haut sur le tronc du chêne, et est dépourvu de sétules hyméniales.",
+      "notes": "Des gouttes ambrées fraîches sur une console épaisse, feutrée, ocre à rouille, à la base d’un chêne, sont le caractère de terrain le plus fiable ; les vieux carpophores perdent les gouttes et s’assombrissent. Comme le champignon décompose les racines et le bas du tronc, des carpophores au pied d’un arbre sur pied signalent que l’arbre peut être instable.",
+      "names": [
+        "Inonotus des chênes"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944",
+        "https://www.gbif.org/species/2520036"
+      ],
+      "label": "Polypore larmoyant"
+    },
+    "he": {
+      "description": "פטריית מדף חד-שנתית גדולה, חסרת רגל, של בסיסי אלונים ושורשיהם. מזהים אותה לפי גוף פרי עבה, דמוי כרית או פרסה, אוכרי או חום-חלודה, שבגיל צעיר מפריש לעיתים קרובות טיפות ענבר, לפי נקבים דקים מאוד אפורים-בז' ולפי בשר סיבי בצבע חום-חלודה.",
+      "cap": "בדרך כלל 10–40 ס\"מ ברוחב ו-5–20 ס\"מ בעובי; מדריכים אחדים מציינים מרב של 40 ס\"מ ועובי טיפוסי של 10–15 ס\"מ, ואחרים רוחב רגיל של 8–20 ס\"מ, 10–35 ס\"מ או קיצוניים של 5–65 ס\"מ. גופי הפרי הצעירים פקעתיים, אוכרה חיוור עד אוכרה ומלבדים דק; אחר כך חלודה עד חום כהה, לעיתים סדוקים, עם שוליים רחבים בהירים ומעוגלים. אין רגל: המדף מחובר ישירות לבסיס הגזע או לשורשים.",
+      "hymenium": "שכבת צינוריות אחת, בדרך כלל באורך 0,5–2 ס\"מ (מדריכים אחדים מציינים 2–3 ס\"מ), חום-חלודה. הנקבים קטנים מאוד, 3–6 למ\"מ, עגולים או מעט זוויתיים, אפור-בז' עד אפור-חום חיוור, מתכהים עם הגיל או בפציעה; נקבים טריים עשויים להבריק בכסף בזווית מסוימת. טיפות ענבר עשויות להופיע גם על משטח הנקבים ליד השוליים.",
+      "stipe": "אין רגל. גוף הפרי מחובר ישירות לעץ בבסיס הגזע או על השורשים.",
+      "flesh": "חלודה עד צהוב-חום כהה, סיבי ומחולק לאזורים; רך ועסיסי בצעירותו, אחר כך קשה ודמוי שעם. ליד החיבור יכול להיות גרעין חום קשה יותר ומגורען. בשר טרי עשוי להשחיר ב-KOH. ריח גופי הפרי הזקנים לעיתים קרובות לא נעים; הטעם מר או מעט חמצמץ.",
+      "sporePrint": "בלבן עד קרם ברוב המקורות האירופיים; מדריכים אחדים מציינים אבקת נבגים חומה בהירה. הנבגים רחבים-אליפסואידיים עד כמעט כדוריים, בעלי דופן עבה, חלקים, כ-6–8,5 × 5–7 µm.",
+      "habitat": "ספרו-טפיל, בדרך כלל בבסיס אלונים חיים או על שורשיהם, גם על גזעים וגדמים מתים של אלון, ולעיתים על אשור. הוא גורם לריקבון לבן של השורשים ושל החלק התחתון של הגזע; עץ הנושא אותו עלול להיות בלתי יציב ומסכן ליד שבילים או בניינים. במרכז אירופה הוא מניב מיולי עד אוקטובר; בבריטניה ובאירלנד מדווחים עליו גם מאוחר יותר, עד ראשית החורף, וגופי פרי יבשים ישנים עשויים להישאר עד העונה הבאה. הוא מזדמן עד נדיר, בעיקר באירופה, ומתועד גם בחלקים של צפון אמריקה ואסיה.",
+      "uses": "אינו ראוי למאכל: הבשר קשה ומר, וגופי פרי זקנים מריחים לעיתים קרובות ריח לא נעים. אין רואים בו פטריית מאכל.",
+      "confusion": "Meripilus giganteus יוצר שושנות של כובעים דקים יותר, דמויי מניפה, שנקביהם משחירים בפציעה. Inonotus hispidus אדום-חלודה, שעיר בצפיפות, ובדרך כלל גדל גבוה יותר על גזע אלון, מילה או תפוח. Fistulina hepatica דמוית לשון, אדומה כדם ובשרנית, ומפרישה מיץ אדום. בהוקית שטוחה (Ganoderma applanatum) ומינים אחרים של Ganoderma הם בעלי כובע קשה, לעיתים לכה או קרומי, חום, שוליים לבנים ואבקת נבגים חומה. Laetiporus sulphureus צהוב-גופרית עז וגדל במדפים מדורגים. Inonotus dryophilus קטן יותר, בדרך כלל גבוה יותר על גזע האלון, וחסר זיפים הימניאליים.",
+      "notes": "טיפות ענבר טריות על מדף עבה, מלבד, אוכרה עד חלודה, בבסיס אלון הן הסימן השדה האמין ביותר; גופי פרי זקנים מאבדים את הטיפות וכהים. משום שהפטרייה מפרקת את השורשים ואת החלק התחתון של הגזע, גופי פרי בבסיס עץ עומד מזהירים שהעץ עלול להיות בלתי יציב.",
+      "names": [
+        "קישוטית עצית"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944",
+        "https://www.gbif.org/species/2520036"
+      ],
+      "label": "קישוטית נוטפת"
+    },
+    "hi": {
+      "description": "बड़े, डंठलहीन, एकवर्षीय ब्रैकेट कवक जो ओक के आधार और जड़ों पर उगते हैं। इन्हें मोटे, गद्दे या खुर जैसे, गेरुआ या ज़ंग-भूरे फलनकाय से पहचाना जाता है, जो युवा अवस्था में अक्सर अम्बर बूँदें टपकाते हैं, बहुत महीन धूसर-बेज छिद्रों से, और ज़ंग-भूरे रेशेदार गूदे से।",
+      "cap": "आमतौर पर 10–40 सेमी चौड़े और 5–20 सेमी मोटे; कुछ निर्देशिकाएँ अधिकतम 40 सेमी और विशिष्ट मोटाई 10–15 सेमी बताती हैं, अन्य सामान्य चौड़ाई 8–20 सेमी, 10–35 सेमी या सीमा 5–65 सेमी। युवा फलनकाय कंद जैसे, हल्के गेरुआ से गेरुआ और बारीक महसूसी होते हैं; बाद में ज़ंग से गहरे भूरे, कभी-कभी फटे हुए, चौड़े हल्के गोल किनारे के साथ। डंठल नहीं होता: ब्रैकेट सीधे तने के आधार या जड़ों से जुड़ा होता है।",
+      "hymenium": "नलिकाओं की एक परत, आमतौर पर 0.5–2 सेमी लंबी (कुछ निर्देशिकाएँ 2–3 सेमी बताती हैं), ज़ंग-भूरी। छिद्र बहुत छोटे, प्रति मिमी 3–6, गोल या थोड़े कोणीय, धूसर-बेज से हल्के धूसर-भूरे, उम्र या चोट से गहरे होते हैं; ताज़े छिद्र किसी कोण पर चाँदी जैसी चमक दिखा सकते हैं। अम्बर बूँदें किनारे के पास छिद्र सतह पर भी दिखाई दे सकती हैं।",
+      "stipe": "डंठल नहीं होता। फलनकाय तने के आधार या जड़ों पर सीधे लकड़ी से जुड़ा होता है।",
+      "flesh": "ज़ंग से गहरा पीला-भूरा, रेशेदार और पट्टीदार; युवा अवस्था में नरम और रसदार, बाद में सख्त और कॉर्क जैसा। जुड़ाव के पास कठोर, कणिल भूरा केंद्र हो सकता है। ताज़ा गूदा KOH से काला हो सकता है। पुराने फलनकायों की गंध अक्सर अप्रिय होती है; स्वाद कड़वा या हल्का खट्टा।",
+      "sporePrint": "अधिकतर यूरोपीय स्रोतों में सफ़ेद-सा से क्रीम; कुछ निर्देशिकाएँ हल्के भूरे बीजाणु-छाप का उल्लेख करती हैं। बीजाणु चौड़े दीर्घवृत्ताकार से लगभग गोलाकार, मोटी दीवार वाले, चिकने, लगभग 6–8.5 × 5–7 µm।",
+      "habitat": "सैप्रोपरजीवी, आमतौर पर जीवित ओक के आधार या उनकी जड़ों पर, मृत ओक तनों और ठूँठों पर भी, कभी-कभी बीच पर। यह जड़ों और तने के निचले भाग का श्वेत सड़न करता है; जिस वृक्ष पर यह होता है वह अस्थिर हो सकता है और पथों या भवनों के पास ख़तरा है। मध्य यूरोप में जुलाई से अक्टूबर तक फलता है; ब्रिटेन और आयरलैंड में बाद में, शीत के आरंभ तक भी बताया जाता है, और पुराने सूखे फलनकाय अगले मौसम तक रह सकते हैं। यह यदा-कदा से दुर्लभ है, मुख्यतः यूरोप में, और उत्तर अमेरिका तथा एशिया के कुछ भागों में भी दर्ज है।",
+      "uses": "अखाद्य: गूदा सख्त और कड़वा है, और पुराने फलनकायों से अक्सर अप्रिय गंध आती है। इसे खाद्य मशरूम नहीं माना जाता।",
+      "confusion": "Meripilus giganteus पतले, पंखे जैसे टोपों की गुच्छियाँ बनाता है जिनके छिद्र चोट से काले हो जाते हैं। Inonotus hispidus ज़ंग-लाल, घने काँटेदार होता है और आमतौर पर ओक, राख या सेब के तने पर ऊँचा उगता है। Fistulina hepatica जीभ जैसा, रक्त-लाल और मांस जैसा है और लाल रस टपकाता है। Ganoderma प्रजातियों (Ganoderma applanatum) का टोपी कठोर होता है, अक्सर वार्निश या परतदार भूरा, सफ़ेद किनारा और भूरा बीजाणु-चूर्ण। Laetiporus sulphureus चमकीला गंधक-पीला है और परतदार ब्रैकेटों में उगता है। Inonotus dryophilus छोटा है, आमतौर पर ओक तने पर ऊँचा, और उसमें हाइमेनियम शूक नहीं होते।",
+      "notes": "ओक के आधार पर मोटे, महसूसी, गेरुआ से ज़ंग रंग के ब्रैकेट पर ताज़ी अम्बर बूँदें सबसे विश्वसनीय क्षेत्र चिह्न हैं; पुराने फलनकाय बूँदें खो देते हैं और गहरे हो जाते हैं। क्योंकि कवक जड़ों और तने के निचले भाग को सड़ाता है, खड़े वृक्ष के आधार पर फलनकाय चेतावनी हैं कि वृक्ष अस्थिर हो सकता है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Velika, bez stručka, jednogodišnja konzolasta gljiva baza i korijenja hrastova. Prepoznaje se po debelom, jastukastom do kopitastom, oker ili rđastomeđem plodištu koje u mladosti često luči jantarne kapljice, po vrlo sitnim sivkastooker porama i po rđastomeđem, vlaknastom mesu.",
+      "cap": "Obično 10–40 cm u promjeru i 5–20 cm debelo; neki vodiči navode najviše 40 cm i tipičnu debljinu 10–15 cm, drugi uobičajenu širinu 8–20 cm, 10–35 cm ili krajnosti 5–65 cm. Mlada plodišta su gomoljasta, blijedo oker do oker i fino filcasta; kasnije rđasta do tamnosmeđa, ponekad ispucala, sa širokim svjetlijim zaobljenim rubom. Stručka nema: konzola je prirasla izravno na bazi debla ili na korijenju.",
+      "hymenium": "Jedan sloj cjevčica, obično dugih 0,5–2 cm (neki vodiči navode 2–3 cm), rđastosmeđi. Pore vrlo sitne, 3–6 na mm, okrugle ili slabo uglate, sivkastooker do svijetlosivosmeđe, sa starošću ili nakon oštećenja tamne; svježe pore pod određenim kutom mogu srebrnasto blistati. Jantarne kapljice mogu se pojaviti i na površini pora uz rub.",
+      "stipe": "Stručka nema. Plodište je priraslo izravno na drvo na bazi debla ili na korijenju.",
+      "flesh": "Rđasto do tamno žutosmeđe, vlaknasto i zonirano; u mladosti meko i sočno, kasnije tvrdo i pluto. Pri pripoju može biti tvrđa zrnata smeđa jezgra. Svježe meso s KOH može pocrnjeti. Miris starijih plodišta često je neugodan; okus gorak ili blago kiseo.",
+      "sporePrint": "U većini europskih navoda bjelkast do krem; neki vodiči bilježe svijetlosmeđi otisak spora. Spore široko elipsoidne do gotovo kuglaste, debelostijene, glatke, oko 6–8,5 × 5–7 µm.",
+      "habitat": "Saproparazit, obično na bazi živih hrastova ili na njihovu korijenju, također na mrtvim deblima i panjevima hrastova, ponekad na bukvi. Uzrokuje bijelu trulež korijenja i donjeg dijela debla; stablo na kojem raste može biti nestabilno i uz staze ili zgrade predstavlja sigurnosni rizik. U srednjoj Europi plodi od srpnja do listopada; u Britaniji i Irskoj navodi se i kasnije, do početka zime, a stara osušena plodišta mogu ostati do sljedeće sezone. Pojavljuje se neredovito do rijetko, uglavnom u Europi, a zabilježena je i u dijelovima Sjeverne Amerike i Azije.",
+      "uses": "Nejestiva: meso je tvrdo i gorko, a stara plodišta često neugodno mirišu. Ne smatra se jestivom gljivom.",
+      "confusion": "Meripilus giganteus tvori rozete tanjih, lepezastih klobuka čije pore pri oštećenju pocrne. Inonotus hispidus je rđastocrven, gusto čekinjast i raste obično više na deblu hrasta, jasena ili jabuke. Vukovo meso (Fistulina hepatica) je jezikast, krvavocrveno i mesnato te luči crveni sok. Plosnata sjajnica (Ganoderma applanatum) i druge vrste roda Ganoderma imaju tvrd, često lakiran ili korast smeđi klobuk, bijeli rub i smeđi otisak spora. Žuti kruh (Laetiporus sulphureus) je jarko sumpornožut i raste u nadslojenim policama. Inonotus dryophilus je manji, obično više na hrastovu deblu, i nema himenijskih čekinja.",
+      "notes": "Svježe jantarne kapljice na debeloj, filcastoj, oker do rđastoj konzoli na bazi hrasta najpouzdanije su terensko obilježje; starija plodišta gube kapljice i tamne. Budući da gljiva razgrađuje korijenje i donji dio debla, plodišta na bazi stojećeg stabla upozoravaju da stablo može biti nestabilno.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Nagy, tönk nélküli, egyéves konzolos gomba tölgyek tövén és gyökerén. A vastag, párna vagy pata alakú, okker vagy rozsdabarna termőtestről ismerhető fel, amely fiatalon gyakran borostyánszínű cseppeket izzad, a nagyon apró szürkésbézs pórusokról és a rozsdabarna, rostos húsról.",
+      "cap": "Rendszerint 10–40 cm széles és 5–20 cm vastag; egyes határozók 40 cm-es maximumot és 10–15 cm tipikus vastagságot adnak, mások 8–20 cm, 10–35 cm szokásos szélességet vagy 5–65 cm-es szélsőségeket. A fiatal termőtestek gumósak, halvány okkertől okkerig és finoman nemezesek; később rozsdásak vagy sötétbarnák, néha berepedezettek, széles, világosabb, lekerekített széllel. Tönk nincs: a konzol közvetlenül a törzs tövéhez vagy a gyökerekhez nő.",
+      "hymenium": "Egyetlen csőréteg, rendszerint 0,5–2 cm hosszú (egyes források 2–3 cm-t adnak), rozsdabarna. A pórusok nagyon aprók, 3–6 mm-enként, kerekek vagy enyhén szögletesek, szürkésbézstől halvány szürkésbarnáig, korral vagy sérülésre sötétedők; a friss pórusok bizonyos szögben ezüstösen csilloghatnak. Borostyánszínű cseppek a pórusfelületen a szél közelében is megjelenhetnek.",
+      "stipe": "Tönk nincs. A termőtest közvetlenül a fához nő a törzs tövén vagy a gyökereken.",
+      "flesh": "Rozsdástól sötét sárgásbarnáig, rostos és zónázott; fiatalon puha és nedvdús, később szívós és parafaszerű. A tapadásnál keményebb, szemcsés barna mag lehet. A friss hús KOH-val megfeketedhet. Az idősebb termőtestek szaga gyakran kellemetlen; íze keserű vagy enyhén savanyú.",
+      "sporePrint": "A legtöbb európai forrásban fehéres vagy krémszínű; egyes határozók világosbarna spóraport említenek. A spórák szélesen ellipszoidok vagy csaknem gömbölyűek, vastag falúak, simák, körülbelül 6–8,5 × 5–7 µm.",
+      "habitat": "Saproparazita, általában élő tölgyek tövén vagy gyökerén, holt tölgytörzseken és tuskókon is, ritkábban bükkön. A gyökerek és a törzs alsó részének fehérkorhadását okozza; a fa, amelyen nő, instabillá válhat, és utak vagy épületek mellett veszélyt jelent. Közép-Európában júliustól októberig terem; Nagy-Britanniában és Írországban később, a kora tél elejéig is jelzik, a régi, kiszáradt termőtestek pedig a következő szezonig megmaradhatnak. Szórványos vagy ritka, főként Európában, Észak-Amerika és Ázsia egyes részein is előfordul.",
+      "uses": "Ehetetlen: a hús szívós és keserű, a régi termőtestek gyakran kellemetlenül szaglanak. Étkezési gombának nem tekintik.",
+      "confusion": "Az óriás bokrosgomba (Meripilus giganteus) vékonyabb, legyezős kalapok rozettáit alkotja, amelyek pórusai sérülésre megfeketednek. Az Inonotus hispidus rozsdavörös, sűrűn sörtés, és általában magasabban nő tölgy, kőris vagy alma törzsén. A májgomba (Fistulina hepatica) nyelv alakú, vérvörös és húsos, vörös nedvet izzad. A deres tapló (Ganoderma applanatum) és más Ganoderma-fajok kemény, gyakran lakkozott vagy kérges barna kalapúak, fehér szélűek, barna spóraporúak. A sárga gévagomba (Laetiporus sulphureus) élénk kénsárga, és emeletes konzolokban nő. Az Inonotus dryophilus kisebb, általában magasabban ül a tölgytörzsön, és nincs himénium-sörtéje.",
+      "notes": "A friss borostyánszínű cseppek vastag, nemezes, okker-rozsdás konzolon a tölgy tövén a legmegbízhatóbb terepi bélyeg; az idősebb termőtestek elveszítik a cseppeket és elsötétednek. Mivel a gomba a gyökereket és a törzs alsó részét bontja, a lábon álló fa tövén lévő termőtestek arra figyelmeztetnek, hogy a fa instabil lehet.",
+      "names": [
+        "kérges rozsdástapló",
+        "könnyező kérgestapló",
+        "könnyező likacsosgomba"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944",
+        "https://www.gbif.org/species/2520036",
+        "https://hu.wikipedia.org/wiki/Könnyező_rozsdástapló",
+        "https://www.wikidata.org/wiki/Q10708127"
+      ],
+      "label": "Könnyező rozsdástapló"
+    },
+    "id": {
+      "description": "Jamur kurung tahunan yang besar, tanpa batang, pada pangkal dan akar pohon oak. Dikenali dari tubuh buah yang tebal, berbentuk bantal hingga seperti kuku kuda, oker atau cokelat karat, yang ketika muda sering meneteskan tetesan ambar, dari pori yang sangat halus abu-abu-krem, dan dari daging berserat cokelat karat.",
+      "cap": "Biasanya 10–40 cm lebar dan 5–20 cm tebal; beberapa panduan menyebut maksimum 40 cm dan ketebalan tipikal 10–15 cm, yang lain lebar umum 8–20 cm, 10–35 cm, atau ekstrem 5–65 cm. Tubuh buah muda berbenjol, oker pucat hingga oker dan berbulu halus seperti felt; kemudian karat hingga cokelat tua, kadang retak, dengan tepi lebar yang lebih pucat dan membulat. Tidak ada batang: kurung melekat langsung pada pangkal batang atau pada akar.",
+      "hymenium": "Satu lapisan tabung, biasanya panjang 0,5–2 cm (beberapa panduan menyebut 2–3 cm), cokelat karat. Pori sangat kecil, 3–6 per mm, bundar atau sedikit bersudut, abu-abu-krem hingga cokelat keabu-abuan pucat, menggelap dengan usia atau jika terluka; pori segar dapat berkilau keperakan pada sudut tertentu. Tetesan ambar juga dapat muncul pada permukaan pori dekat tepi.",
+      "stipe": "Tidak ada batang. Tubuh buah melekat langsung pada kayu di pangkal batang atau pada akar.",
+      "flesh": "Karat hingga kuning-cokelat tua, berserat dan berzona; lunak dan berair ketika muda, kemudian keras dan seperti gabus. Dekat pelekatan dapat ada inti cokelat yang lebih keras dan berbutir. Daging segar dapat menghitam dengan KOH. Bau tubuh buah tua sering tidak sedap; rasa pahit atau sedikit asam.",
+      "sporePrint": "Keputihan hingga krem dalam kebanyakan sumber Eropa; beberapa panduan mencatat cetakan spora cokelat muda. Spora elipsoid lebar hingga hampir bulat, berdinding tebal, halus, sekitar 6–8,5 × 5–7 µm.",
+      "habitat": "Saproparasit, biasanya pada pangkal oak hidup atau pada akarnya, juga pada batang dan tunggul oak mati, kadang pada beech. Menyebabkan pelapukan putih pada akar dan bagian bawah batang; pohon yang menanggungnya dapat menjadi tidak stabil dan berbahaya di dekat jalur atau bangunan. Di Eropa Tengah berbuah dari Juli hingga Oktober; di Britania dan Irlandia juga dilaporkan kemudian, hingga awal musim dingin, dan tubuh buah kering yang tua dapat bertahan hingga musim berikutnya. Tersebar hingga jarang, terutama di Eropa, dan juga tercatat di bagian Amerika Utara dan Asia.",
+      "uses": "Tidak dapat dimakan: dagingnya keras dan pahit, dan tubuh buah tua sering berbau tidak sedap. Tidak dianggap jamur pangan.",
+      "confusion": "Meripilus giganteus membentuk roset tudung yang lebih tipis, berbentuk kipas, yang porinya menghitam jika terluka. Inonotus hispidus berwarna merah karat, berbulu lebat, dan biasanya tumbuh lebih tinggi pada batang oak, abu, atau apel. Fistulina hepatica berbentuk lidah, merah darah dan berdaging, serta meneteskan getah merah. Ganoderma applanatum dan Ganoderma lain memiliki tudung keras, sering berlapis pernis atau berkerak, cokelat, dengan tepi putih dan serbuk spora cokelat. Laetiporus sulphureus kuning belerang cerah dan tumbuh dalam kurung berlapis. Inonotus dryophilus lebih kecil, biasanya lebih tinggi pada batang oak, dan tidak memiliki seta himenium.",
+      "notes": "Tetesan ambar segar pada kurung tebal berbulu felt, oker hingga karat, di pangkal oak adalah ciri lapangan yang paling andal; tubuh buah yang lebih tua kehilangan tetesan dan menggelap. Karena jamur merombak akar dan bagian bawah batang, tubuh buah di pangkal pohon yang masih berdiri memperingatkan bahwa pohon itu dapat tidak stabil.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un grande fungo annuale a mensola, privo di gambo, della base e delle radici delle querce. Si riconosce da un corpo fruttifero spesso, a cuscino o a zoccolo, ocraceo o bruno ruggine, che da giovane spesso trasuda gocce ambrate, da pori molto fini grigio-beige e da una carne fibrosa bruno ruggine.",
+      "cap": "Di solito 10–40 cm di larghezza e 5–20 cm di spessore; alcune guide indicano un massimo di 40 cm e tipizzano lo spessore in 10–15 cm, altre una larghezza abituale di 8–20 cm, 10–35 cm, o estremi di 5–65 cm. I corpi giovani sono tubercolosi, da ocraceo pallido a ocraceo e finemente feltrati; più tardi ruggine fino a bruno scuro, a volte fessurati, con un margine largo, più chiaro e arrotondato. Non c’è gambo: la mensola è attaccata direttamente alla base del tronco o alle radici.",
+      "hymenium": "Un solo strato di tubuli, di solito lunghi 0,5–2 cm (alcune guide indicano 2–3 cm), bruno ruggine. Pori molto piccoli, 3–6 per mm, rotondi o lievemente angolosi, grigio-beige fino a bruno-grigiastro pallido, che scuriscono con l’età o al tocco; i pori freschi possono mostrare, sotto un certo angolo, un riflesso argenteo. Gocce ambrate possono comparire anche sulla superficie poroide vicino al margine.",
+      "stipe": "Non c’è gambo. Il corpo fruttifero è attaccato direttamente al legno alla base del tronco o sulle radici.",
+      "flesh": "Bruno ruggine fino a giallo-bruno scuro, fibrosa e zonata; molle e succosa da giovane, poi dura e suberosa. Presso l’inserzione può esserci un nucleo bruno, più duro e granuloso. La carne fresca può annerire con KOH. L’odore dei corpi vecchi è spesso sgradevole; il sapore amaro o leggermente acido.",
+      "sporePrint": "Biancastra o crema nella maggior parte delle fonti europee; alcune guide indicano una sporata bruno chiaro. Spore ampiamente ellissoidi fino a quasi sferiche, a parete spessa, lisce, di circa 6–8,5 × 5–7 µm.",
+      "habitat": "Saproparassita, di solito alla base di querce vive o sulle loro radici, anche su tronchi e ceppi di quercia morti e, talvolta, sul faggio. Causa un marciume bianco delle radici e della parte inferiore del tronco; un albero che lo ospita può diventare instabile ed è un rischio vicino a sentieri o edifici. Nell’Europa centrale fruttifica da luglio a ottobre; in Gran Bretagna e Irlanda è segnalato anche più tardi, fino all’inizio dell’inverno, e i vecchi corpi disseccati possono persistere fino alla stagione successiva. È occasionale o poco frequente, soprattutto in Europa, ed è segnalato anche in parti del Nord America e dell’Asia.",
+      "uses": "Non commestibile: la carne è dura e amara, e i corpi vecchi odorano spesso sgradevolmente. Non è considerato un fungo commestibile.",
+      "confusion": "Meripilus giganteus forma rosette di cappelli più sottili, a ventaglio, i cui pori anneriscono al tocco. Inonotus hispidus è rosso ruggine, densamente irto, e cresce di solito più in alto sul tronco di quercia, frassino o melo. La lingua di bue (Fistulina hepatica) è linguiforme, rosso sangue e carnosa, e trasuda un succo rosso. Ganoderma applanatum e altri Ganoderma hanno un cappello duro, spesso laccato o crostoso, bruno, un margine bianco e sporata bruna. Il poliporo solfureo (Laetiporus sulphureus) è giallo zolfo vivo e cresce in mensole sovrapposte. Inonotus dryophilus è più piccolo, di solito più in alto sul tronco della quercia, e manca di sete imeniali.",
+      "notes": "Gocce ambrate fresche su una mensola spessa, feltrata, ocracea o ruggine, alla base di una quercia sono il carattere di campo più affidabile; i corpi vecchi perdono le gocce e scuriscono. Poiché il fungo decompone le radici e la parte inferiore del tronco, i corpi alla base di un albero in piedi avvisano che l’albero può essere instabile.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "ナラの根元や根に生じる、柄のない大型の一年生の棚状菌。厚いクッション形から蹄形、黄土色またはさび褐色の子実体で、若いときはしばしば琥珀の水滴をにじませ、ごく細かい灰ベージュの管孔と、さび褐色の繊維質の肉をもつことで識別される。",
+      "cap": "通常、幅10–40 cm、厚さ5–20 cm。ある図鑑は最大40 cm、典型的な厚さを10–15 cmとし、別のものは通常の幅を8–20 cm、10–35 cm、あるいは極端値5–65 cmとする。若い子実体は塊状で、淡い黄土色から黄土色、細かいフェルト状。のちにさび色から暗褐色になり、ときにひび割れ、広くやや淡い丸い縁をもつ。柄はなく、棚は幹の基部または根に直接つく。",
+      "hymenium": "管孔層は一層で、通常長さ0.5–2 cm（一部の図鑑では2–3 cm）、さび褐色。管孔はごく小さく、1 mmあたり3–6個、円形またはやや角形、灰ベージュから淡い灰褐色で、老成や傷で暗くなる。新鮮な管孔は角度によって銀白色に見えることがある。縁近くの管孔面にも琥珀の滴が出ることがある。",
+      "stipe": "柄はない。子実体は幹の基部または根で、材に直接つく。",
+      "flesh": "さび色から暗い黄褐色、繊維質で帯状。若いうちは柔らかく汁気があり、のちに堅くコルク質になる。付着部近くに、より硬い粒状の褐色核があることがある。新鮮な肉はKOHで黒変することがある。古い子実体のにおいはしばしば不快で、味は苦いかやや酸味がある。",
+      "sporePrint": "ヨーロッパの多くの記載では白っぽいからクリーム色。一部の図鑑は淡褐色の胞子紋を記す。胞子は広楕円形からほぼ球形、厚壁、平滑、約6–8.5 × 5–7 µm。",
+      "habitat": "腐生寄生菌で、通常は生きたナラの根元や根に、枯れたナラの幹や切り株にも生じ、ときにブナにも出る。根と幹の下部に白色腐朽を起こし、着いた木は不安定になり、道や建物の近くでは危険になり得る。中欧では7月から10月に発生し、英国・アイルランドでは初冬まで遅れて記録され、乾いた古い子実体は翌シーズンまで残ることがある。主にヨーロッパで散発的からまれで、北米やアジアの一部でも記録される。",
+      "uses": "食用にならない。肉は堅く苦く、古い子実体はしばしば不快なにおいがする。食用きのことはみなされない。",
+      "confusion": "トンビマイタケ（Meripilus giganteus）は、より薄い扇形の傘がロゼットになり、管孔は傷つくと黒変する。Inonotus hispidusはさび赤色で密に剛毛を持ち、通常はナラ・トネリコ・リンゴの幹のより高い位置に出る。牛舌菌（Fistulina hepatica）は舌形で血赤色、肉質で赤い汁をにじませる。コフキサルノコシカケ (Ganoderma applanatum)や他のガノデルマ属は、硬くしばしば漆塗り状または痂状の褐色の傘、白い縁、褐色の胞子紋をもつ。硫色絢孔菌（Laetiporus sulphureus）は鮮やかな硫黄色で、段になった棚になる。Inonotus dryophilusは小さく、通常はナラの幹のより高い位置に出て、子実層の剛毛を欠く。",
+      "notes": "ナラの根元にある厚いフェルト状の、黄土色からさび色の棚に新鮮な琥珀の滴があることが、最も確実な野外の特徴である。古い子実体は滴を失い、暗くなる。菌が根と幹の下部を分解するため、立木の根元の子実体は、その木が不安定になり得るという警告である。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944",
+        "https://www.gbif.org/species/2520036",
+        "https://www.wikidata.org/wiki/Q10708127"
+      ],
+      "label": "マクラタケ"
+    },
+    "ko": {
+      "description": "참나무 밑동과 뿌리에 생기는, 대가 없는 크고 한해살이인 선반형 버섯. 두껍고 방석형 내지 발굽형이며 황토색 또는 녹슨 갈색인 자실체, 어릴 때 자주 호박색 물방울을 흘리는 점, 매우 가는 회베이지색 관공, 녹슨 갈색의 섬유질 살로 알아본다.",
+      "cap": "보통 너비 10–40 cm, 두께 5–20 cm이다. 어떤 도감은 최대 40 cm, 전형적인 두께를 10–15 cm로 잡고, 다른 것은 흔한 너비를 8–20 cm, 10–35 cm 또는 극단값 5–65 cm로 적는다. 어린 자실체는 혹 모양이고 옅은 황토색에서 황토색이며 가는 펠트상이다. 나중에 녹슨색에서 암갈색이 되고 때로 갈라지며, 넓고 더 옅은 둥근 가장자리가 있다. 대는 없다. 선반은 줄기 밑동이나 뿌리에 바로 붙는다.",
+      "hymenium": "관공층은 한 겹이며, 보통 길이 0.5–2 cm(어떤 도감은 2–3 cm)이고 녹슨 갈색이다. 관공은 매우 작아 밀리미터당 3–6개, 원형 또는 약간 각형이며 회베이지색에서 옅은 회갈색으로, 나이 들거나 상처 나면 어두워진다. 신선한 관공은 각도에 따라 은빛으로 빛날 수 있다. 가장자리 근처 관공 면에도 호박색 물방울이 날 수 있다.",
+      "stipe": "대가 없다. 자실체는 줄기 밑동이나 뿌리에서 나무에 바로 붙는다.",
+      "flesh": "녹슨색에서 어두운 황갈색까지, 섬유질이고 띠가 있다. 어릴 때는 부드럽고 즙이 많으며, 나중에는 질기고 코르크질이 된다. 붙는 자리 근처에 더 단단하고 알갱이 있는 갈색 핵이 있을 수 있다. 신선한 살은 KOH에 검게 변할 수 있다. 오래된 자실체의 냄새는 종종 불쾌하고, 맛은 쓰거나 약간 시다.",
+      "sporePrint": "대부분의 유럽 기록에서는 희끄무레하거나 크림색이다. 어떤 도감은 연한 갈색 포자무늬를 적는다. 포자는 넓은 타원형에서 거의 구형, 두꺼운 벽, 평활, 약 6–8.5 × 5–7 µm이다.",
+      "habitat": "부생기생균으로, 보통 살아 있는 참나무 밑동이나 뿌리에, 죽은 참나무 줄기와 그루터기에도, 가끔 너도밤나무에도 난다. 뿌리와 줄기 아랫부분의 백색 부후를 일으키며, 붙은 나무는 불안정해져 길이나 건물 근처에서 위험이 될 수 있다. 중부 유럽에서는 7월부터 10월까지 나고, 영국과 아일랜드에서는 초겨울까지 더 늦게 기록되며, 마른 오래된 자실체는 다음 계절까지 남을 수 있다. 주로 유럽에서 드물거나 드물게 나며, 북아메리카와 아시아 일부에서도 기록된다.",
+      "uses": "식용할 수 없다. 살은 질기고 쓰며, 오래된 자실체는 종종 불쾌한 냄새가 난다. 식용버섯으로 보지 않는다.",
+      "confusion": "왕잎새버섯(Meripilus giganteus)은 더 얇고 부채꼴인 갓이 로제트처럼 모이며, 관공은 상처 나면 검게 변한다. Inonotus hispidus는 녹슨 빨강이고 빽빽한 강모가 있으며, 보통 참나무·물푸레나무·사과나무 줄기 더 높은 곳에 난다. Fistulina hepatica는 혀 모양이고 핏빛이며 살처럼 두껍고 붉은 즙을 흘린다. 잔나비불로초 (Ganoderma applanatum)와 다른 영지속은 단단하고 흔히 옻칠하거나 딱지가 있는 갈색 갓, 흰 가장자리, 갈색 포자무늬를 가진다. Laetiporus sulphureus는 밝은 유황황색이며 층층 선반으로 난다. Inonotus dryophilus는 더 작고, 보통 참나무 줄기 더 높은 곳에 나며 자실층 강모가 없다.",
+      "notes": "참나무 밑동의 두껍고 펠트상이며 황토색에서 녹슨색인 선반 위의 신선한 호박색 물방울이 가장 믿을 만한 야외 특징이다. 오래된 자실체는 물방울을 잃고 어두워진다. 균이 뿌리와 줄기 아랫부분을 분해하므로, 서 있는 나무 밑동의 자실체는 그 나무가 불안정할 수 있다는 경고이다.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944",
+        "https://www.gbif.org/species/2520036"
+      ],
+      "label": "너도시루뻔버섯"
+    },
+    "lt": {
+      "description": "Didelis, bekojis, vienametis konsolinis grybas ąžuolo kamieno pamate ir šaknyse. Atpažįstamas pagal storą, pagalvėlės ar kanopos pavidalo, ochrinį ar rūdijančiai rudą vaisiakūnį, kuris jaunas dažnai išskiria gintaro spalvos lašelius, pagal labai smulkias pilkšvai gelsvas pores ir pagal rūdijančiai rudą, pluoštinį minkštimą.",
+      "cap": "Paprastai 10–40 cm pločio ir 5–20 cm storio; kai kurie vadovai nurodo didžiausią dydį 40 cm ir tipinį storį 10–15 cm, kiti įprastą plotį 8–20 cm, 10–35 cm arba kraštutinumus 5–65 cm. Jauni vaisiakūniai gumburiuoti, blyškiai ochriniai iki ochrinių ir smulkiai veltininiai; vėliau rūdijantys iki tamsiai rudų, kartais suskilinėję, su plačiu šviesesniu apvaliu kraštu. Kojuotės nėra: konsolė prisitvirtinusi tiesiai prie kamieno pamato arba šaknų.",
+      "hymenium": "Vienas vamzdelių sluoksnis, paprastai 0,5–2 cm ilgio (kai kurie vadovai nurodo 2–3 cm), rūdijančiai rudas. Poros labai smulkios, 3–6 milimetre, apvalios ar silpnai kampuotos, pilkšvai gelsvos iki šviesiai pilkšvai rudų, su amžiumi ar pažeidus tamsėja; šviežios poros tam tikru kampu gali sidabriškai blizgėti. Gintaro spalvos lašeliai gali pasirodyti ir ant porų paviršiaus prie krašto.",
+      "stipe": "Kojuotės nėra. Vaisiakūnis prisitvirtinęs tiesiai prie medienos kamieno pamate arba ant šaknų.",
+      "flesh": "Rūdijančiai ruda iki tamsiai gelsvai rudos, pluoštinė ir juostuota; jauna minkšta ir sultinga, vėliau kieta ir kamštiška. Prie prisitvirtinimo vietos gali būti kietesnis, grūdėtas rudas branduolys. Šviežias minkštimas su KOH gali pajuosti. Senesnių vaisiakūnių kvapas dažnai nemalonus; skonis kartus ar silpnai rūgštus.",
+      "sporePrint": "Daugelyje Europos šaltinių balsvas iki kreminio; kai kurie vadovai nurodo šviesiai rudą sporų miltelių atspalvį. Sporos plačiai elipsoidinės iki beveik rutuliškų, storasienės, lygios, apie 6–8,5 × 5–7 µm.",
+      "habitat": "Saproparazitas, paprastai gyvų ąžuolų kamieno pamate arba ant jų šaknų, taip pat ant negyvų ąžuolo kamienų ir kelmų, kartais ant buko. Sukelia šaknų ir apatinės kamieno dalies baltąjį puvinį; medis, ant kurio jis auga, gali tapti nestabilus ir prie takų ar pastatų kelia pavojų. Vidurio Europoje dera nuo liepos iki spalio; Britanijoje ir Airijoje nurodomas ir vėliau, iki ankstyvos žiemos, o seni išdžiūvę vaisiakūniai gali išlikti iki kito sezono. Pasitaiko nedažnai ar retai, daugiausia Europoje, ir užregistruotas ir Šiaurės Amerikos bei Azijos dalyse.",
+      "uses": "Nevalgomas: minkštimas kietas ir kartus, o seni vaisiakūniai dažnai nemaloniai kvepia. Nelaikomas valgoma grybų rūšimi.",
+      "confusion": "Meripilus giganteus sudaro plonesnių, vėduoklinių kepurėlių rozetes, kurių poros pažeistos pajuosta. Inonotus hispidus yra rūdijančiai raudonas, tankiai šeriuotas ir paprastai auga aukščiau ant ąžuolo, uosio ar obels kamieno. Ąžuolinė kepena (Fistulina hepatica) yra liežuvio pavidalo, kraujo raudonumo ir mėsinga bei išskiria raudonas sultis. Plokščiasis blizgutis (Ganoderma applanatum) ir kitos Ganoderma rūšys turi kietą, dažnai lakuotą ar plutelėtą rudą kepurėlę, baltą kraštą ir rudus sporų miltelius. Valgomoji geltonpintė (Laetiporus sulphureus) yra ryškiai sieros geltona ir auga lentynomis. Inonotus dryophilus yra mažesnis, paprastai aukščiau ant ąžuolo kamieno, ir neturi himenio šerelių.",
+      "notes": "Švieži gintaro spalvos lašeliai ant storos, veltininės, ochrinės iki rūdijančios konsolės ąžuolo pamate yra patikimiausias lauko požymis; senesni vaisiakūniai lašelius praranda ir tamsėja. Kadangi grybas skaido šaknis ir apatinę kamieno dalį, vaisiakūniai stovinčio medžio pamate įspėja, kad medis gali būti nestabilus.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944",
+        "https://www.gbif.org/species/2520036",
+        "https://www.wikidata.org/wiki/Q10708127",
+        "https://lt.wikipedia.org/wiki/Kamštinis_skylenis"
+      ],
+      "label": "Kamštinis skylenis"
+    },
+    "lv": {
+      "description": "Liela, bezkāta, viengadīga konsoles sēne ozola stumbra pamatnē un saknēs. To atpazīst pēc bieza, spilvenveida līdz pakavveida, okera vai rūsganbrūna augļķermeņa, kas jaunībā bieži izdala dzintara krāsas pilienus, pēc ļoti sīkām pelēcīgi bēšām porām un pēc rūsganbrūnas, šķiedrainas mīkstuma.",
+      "cap": "Parasti 10–40 cm plats un 5–20 cm biezs; daži ceļveži norāda maksimumu 40 cm un tipisku biezumu 10–15 cm, citi parastu platumu 8–20 cm, 10–35 cm vai galējības 5–65 cm. Jauni augļķermeņi ir bumbuļveida, bāli okeri līdz okeriem un smalki filcaini; vēlāk rūsgani līdz tumši brūniem, reizēm plaisājuši, ar platu gaišāku noapaļotu malu. Kāta nav: konsole ir piestiprināta tieši pie stumbra pamatnes vai saknēm.",
+      "hymenium": "Viens caurulīšu slānis, parasti 0,5–2 cm garš (daži ceļveži norāda 2–3 cm), rūsganbrūns. Poras ļoti sīkas, 3–6 uz mm, apaļas vai vāji stūrainas, pelēcīgi bēšas līdz gaiši pelēkbrūnām, ar vecumu vai pieskaroties tumšākas; svaigas poras noteiktā leņķī var sudrabaini spīdēt. Dzintara krāsas pilieni var parādīties arī uz poru virsmas pie malas.",
+      "stipe": "Kāta nav. Augļķermenis ir piestiprināts tieši pie koksnes stumbra pamatnē vai uz saknēm.",
+      "flesh": "Rūsganbrūna līdz tumši dzeltenbrūnai, šķiedraina un joslaina; jaunībā mīksta un sulīga, vēlāk cieta un korķaina. Piestiprinājuma vietā var būt cietāks, graudains brūns kodols. Svaiga mīkstums ar KOH var kļūt tumšs. Vecāku augļķermeņu smarža bieži ir nepatīkama; garša rūgta vai viegli skābena.",
+      "sporePrint": "Vairumā Eiropas avotu bālgans līdz krēmkrāsas; daži ceļveži norāda gaiši brūnu sporu pulveri. Spores plaši elipsoidālas līdz gandrīz lodveida, biezsienu, gludas, apmēram 6–8,5 × 5–7 µm.",
+      "habitat": "Saproparazīts, parasti pie dzīvu ozolu stumbra pamatnes vai uz to saknēm, arī uz atmirušiem ozolu stumbriem un celmiem, reizēm uz dižskābarža. Izraisa sakņu un stumbra apakšdaļas balto trupi; koks, uz kura tas aug, var kļūt nestabils un pie takām vai ēkām ir drošības risks. Viduseiropā augļķermeņi parādās no jūlija līdz oktobrim; Lielbritānijā un Īrijā to norāda arī vēlāk, līdz agrā ziemai, un veci izžuvuši augļķermeņi var saglabāties līdz nākamajai sezonai. Sastopams retāk līdz reti, galvenokārt Eiropā, un ir reģistrēts arī Ziemeļamerikas un Āzijas daļās.",
+      "uses": "Neēdama: mīkstums ir ciets un rūgts, un veci augļķermeņi bieži nepatīkami smaržo. Par ēdamu sēni to neuzskata.",
+      "confusion": "Meripilus giganteus veido plānāku, vēdekļveida cepurīšu rozetes, kuru poras pieskaroties kļūst melnas. Inonotus hispidus ir rūsgani sarkans, blīvi sprotains un parasti aug augstāk uz ozola, oša vai ābeles stumbra. Parastā aknene (Fistulina hepatica) ir mēles veida, asins sarkana un gaļīga un izdala sarkanu sulu. Parastā plakanpiepe (Ganoderma applanatum) un citas Ganoderma sugas ir ar cietu, bieži lakotu vai garozainu brūnu cepurīti, baltu malu un brūnu sporu pulveri. Parastā sērpiepe (Laetiporus sulphureus) ir spilgti sēra dzeltena un aug slāņainās konsolēs. Inonotus dryophilus ir mazāks, parasti augstāk uz ozola stumbra, un tam nav himēnija sariņu.",
+      "notes": "Svaigi dzintara krāsas pilieni uz biezas, filcainas, okera līdz rūsganas konsoles ozola pamatnē ir visuzticamākā lauka pazīme; vecāki augļķermeņi zaudē pilienus un kļūst tumšāki. Tā kā sēne noārda saknes un stumbra apakšdaļu, augļķermeņi pie stojoša koka pamatnes brīdina, ka koks var būt nestabils.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944",
+        "https://www.gbif.org/species/2520036"
+      ],
+      "label": "Driādu spulgpiepe"
+    },
+    "nl": {
+      "description": "Een grote, steelloze, eenjarige consolesoort van eikenvoeten en -wortels. Te herkennen aan een dik, kussenvormig tot hoefvormig, oker- of roestbruin vruchtlichaam dat jong vaak barnsteentintige druppels afscheidt, aan zeer fijne grijzigbeige poriën en aan roestbruin, vezelig vlees.",
+      "cap": "Doorgaans 10–40 cm breed en 5–20 cm dik; sommige gidsen geven een maximum van 40 cm en typiseren de dikte als 10–15 cm, andere een gewone breedte van 8–20 cm, 10–35 cm of uitersten van 5–65 cm. Jonge vruchtlichamen zijn knobbelig, bleek oker tot oker en fijn viltig; later roest- tot donkerbruin, soms gescheurd, met een brede, lichtere, afgeronde rand. Er is geen steel: de console is direct aangehecht aan de stamvoet of aan de wortels.",
+      "hymenium": "Een enkele buizenlaag, doorgaans 0,5–2 cm lang (sommige gidsen 2–3 cm), roestbruin. Poriën zeer klein, 3–6 per mm, rond of iets hoekig, grijzigbeige tot licht grijsbruin, donkerder wordend met de leeftijd of bij kneuzing; verse poriën kunnen onder een bepaalde hoek zilverachtig glanzen. Barnsteentintige druppels kunnen ook op het poriënoppervlak bij de rand verschijnen.",
+      "stipe": "Er is geen steel. Het vruchtlichaam is direct aan het hout gehecht aan de stamvoet of aan de wortels.",
+      "flesh": "Roest- tot donkergeelbruin, vezelig en gezoned; jong zacht en sappig, later taai en kurkachtig. Bij de aanhechting kan een hardere, korrelige bruine kern aanwezig zijn. Vers vlees kan met KOH zwart worden. De geur van oudere vruchtlichamen is vaak onaangenaam; de smaak bitter of licht zurig.",
+      "sporePrint": "In de meeste Europese opgaven witachtig tot roomkleurig; sommige gidsen vermelden een lichtbruine sporenafdruk. Sporen breed ellipsoïd tot bijna bolvormig, dikwandig, glad, ongeveer 6–8,5 × 5–7 µm.",
+      "habitat": "Een saproparasiet, meestal aan de voet van levende eiken of op hun wortels, ook op dode eikenstammen en -stronken, soms op beuk. Veroorzaakt witrot van de wortels en de onderste stam; een boom die hem draagt kan instabiel worden en is langs paden of bij gebouwen een veiligheidsrisico. In Midden-Europa vrucht hij van juli tot oktober; in Groot-Brittannië en Ierland wordt hij ook later, tot in de vroege winter, opgegeven, en oude verdroogde vruchtlichamen kunnen tot het volgende seizoen blijven staan. Hij is verspreid tot zeldzaam, vooral in Europa, en wordt ook in delen van Noord-Amerika en Azië vermeld.",
+      "uses": "Oneetbaar: het vlees is taai en bitter, en oude vruchtlichamen ruiken vaak onaangenaam. Hij wordt niet als eetbare paddenstoel beschouwd.",
+      "confusion": "De reuzenzwam (Meripilus giganteus) vormt rozetten van dunnere, waaiervormige hoeden waarvan de poriën bij kneuzing zwart worden. De ruige weerschijnzwam (Inonotus hispidus) is roestrood en dicht borstelig en groeit meestal hoger op de stam van eik, es of appel. Fistulina hepatica is tongvormig, bloedrood en vleesachtig en scheidt rood sap af. De platte tonderzwam (Ganoderma applanatum) en andere Ganoderma-soorten hebben een harde, vaak gelakte of korstige bruine hoed, een witte rand en bruin sporenpoeder. Laetiporus sulphureus is helder zwavelgeel en groeit in dakpansgewijze lagen. Inonotus dryophilus is kleiner, zit meestal hoger op de eikenstam en heeft geen hymeniale setae.",
+      "notes": "Verse barnsteentintige druppels op een dikke, viltige, oker- tot roestkleurige console aan een eikenvoet zijn het meest betrouwbare veldkenmerk; oudere vruchtlichamen verliezen de druppels en worden donkerder. Omdat de schimmel de wortels en de onderste stam afbreekt, zijn vruchtlichamen aan de voet van een staande boom een waarschuwing dat de boom instabiel kan zijn.",
+      "names": [
+        "Eikeweerschijnzwam"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944",
+        "https://www.gbif.org/species/2520036",
+        "https://nl.wikipedia.org/wiki/Eikenweerschijnzwam"
+      ],
+      "label": "Eikenweerschijnzwam"
+    },
+    "no": {
+      "description": "En stor, stilkløs, ettårig konsolsopp ved foten og røttene av eik. Den kjennes på et tykt, pute- til hovformet, oker- eller rustbrunt fruktlegeme som ungt ofte avsondrer ravfargede dråper, på svært fine gråbeige porer og på rustbrunt, trådet kjøtt.",
+      "cap": "Typisk 10–40 cm bred og 5–20 cm tykk; noen bøker oppgir et maksimum på 40 cm og typifiserer tykkelsen som 10–15 cm, andre en vanlig bredde på 8–20 cm, 10–35 cm eller ytterpunkter på 5–65 cm. Unge fruktlegemer er knollformede, blekt oker til oker og fint filtet; senere rust- til mørkebrune, av og til oppsprukne, med en bred, lysere avrundet rand. Det er ingen stilk: konsollen sitter direkte ved stammens fot eller på røttene.",
+      "hymenium": "Ett enkelt rørlag, typisk 0,5–2 cm langt (noen oppgaver 2–3 cm), rustbrunt. Porer svært små, 3–6 per mm, runde eller svakt kantete, gråbeige til lyst gråbrune, mørknende med alderen eller ved skade; ferske porer kan i en viss vinkel glinse sølvaktig. Ravfargede dråper kan også vise seg på poreflaten nær randen.",
+      "stipe": "Det er ingen stilk. Fruktlegemet er festet direkte til veden ved stammens fot eller på røttene.",
+      "flesh": "Rust- til mørkt gulbrunt, trådet og sonet; ungt mykt og saftig, senere seigt og korkaktig. Ved festet kan det være en hardere, kornet brun kjerne. Ferskt kjøtt kan sverte med KOH. Lukten av eldre fruktlegemer er ofte ubehagelig; smaken bitter eller lett syrlig.",
+      "sporePrint": "I de fleste europeiske oppgaver hvitaktig til kremfarget; noen bøker nevner et lysebrunt sporepulver. Sporer bredt ellipsoide til nesten kuleformede, tykkveggede, glatte, omkring 6–8,5 × 5–7 µm.",
+      "habitat": "En saproparasitt, vanligvis ved foten av levende eik eller på røttene, også på døde eikestammer og -stubber, av og til på bøk. Den forårsaker hvitråte i røttene og den nedre stammen; et tre som bærer den, kan bli ustabilt og er ved stier eller bygninger en sikkerhetsrisiko. I Mellom-Europa frukter den fra juli til oktober; i Storbritannia og Irland oppgis den også senere, inn i tidlig vinter, og gamle uttørkede fruktlegemer kan stå til neste sesong. Den er spredt til uvanlig, hovedsakelig i Europa, og er også registrert i deler av Nord-Amerika og Asia.",
+      "uses": "Uspiselig: kjøttet er seigt og bittert, og gamle fruktlegemer lukter ofte ubehagelig. Den regnes ikke som matsopp.",
+      "confusion": "Storkjuke (Meripilus giganteus) danner rosetter av tynnere, vifteformede hatter hvis porer sverter ved skade. Inonotus hispidus er rustrød og tett børstet og vokser vanligvis høyere på stammen av eik, ask eller eple. Fistulina hepatica er tungeformet, blodrød og kjøttfull og avsondrer rød saft. Flatkjuke (Ganoderma applanatum) og andre Ganoderma-arter har en hard, ofte lakkert eller skorpete brun hatt, en hvit rand og brunt sporepulver. Laetiporus sulphureus er klart svovelgul og vokser i taklagte konsoller. Inonotus dryophilus er mindre, sitter vanligvis høyere på eikestammen og mangler hymeniale setae.",
+      "notes": "Ferske ravfargede dråper på en tykk, filtet, oker- til rustfarget konsoll ved en eikefot er det mest pålitelige feltkjennetegnet; eldre fruktlegemer mister dråpene og mørkner. Fordi soppen bryter ned røttene og den nedre stammen, er fruktlegemer ved foten av et stående tre en advarsel om at treet kan være ustabilt.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944",
+        "https://www.gbif.org/species/2520036",
+        "https://nn.wikipedia.org/wiki/Tårekjuke"
+      ],
+      "label": "tårekjuke"
+    },
+    "pl": {
+      "description": "Duży, beztrzonowy, jednoroczny żagiew nasad i korzeni dębów. Poznaje się go po grubym, poduszkowatym do kopytowatego, ochrowym lub rdzawobrązowym owocniku, który za młodu często wydziela bursztynowe krople, po bardzo drobnych szarawoochrowych porach i po rdzawobrązowym, włóknistym mięsie.",
+      "cap": "Zwykle 10–40 cm średnicy i 5–20 cm grubości; niektóre opracowania podają maksimum 40 cm i typową grubość 10–15 cm, inne typową szerokość 8–20 cm, 10–35 cm albo skrajności 5–65 cm. Młode owocniki są bulwiaste, bladoochrowe do ochrowych i delikatnie filcowate; później rdzawe do ciemnobrązowych, czasem spękane, z szerokim jaśniejszym, zaokrąglonym brzegiem. Trzonu brak: konsola przyrasta bezpośrednio u nasady pnia lub na korzeniach.",
+      "hymenium": "Jedna warstwa rurek, zwykle długości 0,5–2 cm (niektóre opracowania podają 2–3 cm), rdzawobrązowa. Pory bardzo drobne, 3–6 na mm, okrągłe lub słabo kanciaste, szarawoochrowe do jasnoszarobrązowych, z wiekiem lub po uszkodzeniu ciemnieją; świeże pory mogą pod pewnym kątem srebrzyście połyskiwać. Bursztynowe krople mogą pojawiać się także na powierzchni porów przy brzegu.",
+      "stipe": "Trzonu brak. Owocnik przyrasta bezpośrednio do drewna u nasady pnia lub na korzeniach.",
+      "flesh": "Rdzawa do ciemnożółtobrązowej, włóknista i strefowana; za młodu miękka i soczysta, później twarda i korkowata. Przy miejscu przyrośnięcia może być twardszy, ziarnisty brązowy rdzeń. Świeże mięso może czernieć pod wpływem KOH. Zapach starszych owocników jest często nieprzyjemny; smak gorzki lub lekko kwaśny.",
+      "sporePrint": "W większości europejskich ujęć białawy do kremowego; niektóre opracowania podają jasnobrązowy wysyp. Zarodniki szeroko elipsoidalne do niemal kulistych, grubościenne, gładkie, około 6–8,5 × 5–7 µm.",
+      "habitat": "Sapropasożyt, zwykle u nasady żywych dębów lub na ich korzeniach, także na martwych pniach i pniakach dębów, okazjonalnie na buku. Powoduje białą zgniliznę korzeni i dolnej części pnia; drzewo, na którym rośnie, może być niestabilne i przy ścieżkach lub budynkach stanowi zagrożenie. W Europie Środkowej owocniki pojawiają się od lipca do października; w Wielkiej Brytanii i Irlandii podawany jest także później, aż do początku zimy, a stare, wyschnięte owocniki mogą przetrwać do następnego sezonu. Występuje niezbyt często do rzadka, głównie w Europie, notowany także w częściach Ameryki Północnej i Azji.",
+      "uses": "Niejadalny: mięso jest twarde i gorzkie, a stare owocniki często nieprzyjemnie pachną. Nie jest uważany za grzyb jadalny.",
+      "confusion": "Wachlarzowiec olbrzymi (Meripilus giganteus) tworzy rozety cieńszych, wachlarzowatych kapeluszy, których pory po uszkodzeniu czernieją. Inonotus hispidus jest rdzawoczerwony, gęsto szczeciniasty i rośnie zwykle wyżej na pniu dębu, jesionu lub jabłoni. Ozorek dębowy (Fistulina hepatica) jest językowaty, krwistoczerwony i mięsisty oraz wydziela czerwony sok. Lakownica spłaszczona (Ganoderma applanatum) i inne gatunki z rodzaju Ganoderma mają twardy, często lakierowany lub skorupiasty brązowy kapelusz, biały brzeg i brązowy wysyp zarodników. Żółciak siarkowy (Laetiporus sulphureus) jest jaskrawo siarkowożółty i rośnie w półkowatych warstwach. Inonotus dryophilus jest mniejszy, zwykle wyżej na pniu dębu, i nie ma szczecinek hymenialnych.",
+      "notes": "Świeże bursztynowe krople na grubym, filcowatym, ochrowym do rdzawego owocniku u nasady dębu są najbardziej wiarygodną cechą terenową; starsze owocniki tracą krople i ciemnieją. Ponieważ grzyb rozkłada korzenie i dolną część pnia, owocniki u nasady stojącego drzewa ostrzegają, że drzewo może być niestabilne.",
+      "names": [
+        "Bladoporek płaczący"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944",
+        "https://www.gbif.org/species/2520036",
+        "https://pl.wikipedia.org/wiki/Bladoporek_płaczący",
+        "https://www.wikidata.org/wiki/Q10708127"
+      ],
+      "label": "Błyskoporek płaczący"
+    },
+    "pt": {
+      "description": "Um grande fungo anual em consola, sem pé, da base e das raízes dos carvalhos. Reconhece-se por um corpo frutífero espesso, em almofada ou em casco, ocre ou pardo-ferrugem, que quando jovem muitas vezes exsuda gotas âmbar, por poros muito finos, acinzentado-bege, e por uma carne fibrosa pardo-ferrugem.",
+      "cap": "Em geral 10–40 cm de largura e 5–20 cm de espessura; alguns guias indicam um máximo de 40 cm e tipificam a espessura em 10–15 cm, outros uma largura habitual de 8–20 cm, 10–35 cm, ou extremos de 5–65 cm. Os corpos jovens são tuberculosos, de ocre pálido a ocre e finamente feltrados; mais tarde ferrugíneos a pardo-escuros, por vezes fendidos, com uma margem larga, mais pálida e arredondada. Não há pé: a consola está ligada diretamente à base do tronco ou às raízes.",
+      "hymenium": "Uma só camada de tubos, em geral com 0,5–2 cm de comprimento (alguns guias indicam 2–3 cm), pardo-ferrugem. Poros muito pequenos, 3–6 por mm, redondos ou ligeiramente angulosos, acinzentado-bege a pardo-acinzentado pálido, escurecendo com a idade ou ao toque; os poros frescos podem mostrar, sob certo ângulo, um brilho prateado. Gotas âmbar podem também aparecer na superfície porosa perto da margem.",
+      "stipe": "Não há pé. O corpo frutífero está ligado diretamente à madeira na base do tronco ou nas raízes.",
+      "flesh": "Pardo-ferrugem a amarelo-pardo escura, fibrosa e zonada; macia e suculenta quando jovem, depois dura e suberosa. Perto da inserção pode haver um núcleo pardo, mais duro e granulado. A carne fresca pode enehecer com KOH. O cheiro dos corpos velhos é muitas vezes desagradável; o sabor amargo ou ligeiramente ácido.",
+      "sporePrint": "Esbranquiçada a cor de creme na maioria das fontes europeias; alguns guias indicam uma esporada pardo-clara. Esporos largamente elipsoides a quase esféricos, de parede espessa, lisos, com cerca de 6–8,5 × 5–7 µm.",
+      "habitat": "Saproparasita, habitualmente na base de carvalhos vivos ou nas suas raízes, também em troncos e cepos de carvalho mortos e, por vezes, em faia. Provoca uma podridão branca das raízes e da parte inferior do tronco; uma árvore que o suporte pode tornar-se instável e constitui um risco junto de caminhos ou edifícios. Na Europa Central frutifica de julho a outubro; na Grã-Bretanha e na Irlanda também é referido mais tarde, até ao início do inverno, e os corpos secos velhos podem persistir até à época seguinte. É ocasional a pouco frequente, sobretudo na Europa, e também é registado em partes da América do Norte e da Ásia.",
+      "uses": "Não comestível: a carne é dura e amarga, e os corpos velhos cheiram muitas vezes mal. Não é considerado um cogumelo comestível.",
+      "confusion": "Meripilus giganteus forma rosetas de chapéus mais finos, em leque, cujos poros escurecem a negro ao toque. Inonotus hispidus é vermelho-ferrugem, densamente eriçado, e cresce em geral mais alto no tronco de carvalho, freixo ou macieira. Fistulina hepatica é linguiforme, vermelho-sangue e carnuda, e exsuda um suco vermelho. Ganoderma applanatum e outros Ganoderma têm um chapéu duro, muitas vezes envernizado ou crustoso, pardo, uma margem branca e esporada parda. Laetiporus sulphureus é amarelo-enxofre vivo e cresce em consolas sobrepostas. Inonotus dryophilus é mais pequeno, situa-se em geral mais alto no tronco do carvalho e não tem setas himeniais.",
+      "notes": "Gotas âmbar frescas numa consola espessa, feltrada, ocre a ferrugem, na base de um carvalho são o carácter de campo mais fiável; os corpos velhos perdem as gotas e escurecem. Como o fungo decompõe as raízes e a parte inferior do tronco, os corpos na base de uma árvore em pé avisam que a árvore pode estar instável.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă anuală mare, fără picior, în consolă, de la baza și rădăcinile stejarului. Se recunoaște după un corp fructifer gros, în pernă sau în copită, ocru sau brun-ruginii, care la tinerețe exsudă adesea picături chihlimbarii, după pori foarte fini, cenușiu-bej, și după o carne fibroasă brun-ruginie.",
+      "cap": "De obicei 10–40 cm lățime și 5–20 cm grosime; unele ghiduri dau un maximum de 40 cm și tipifică grosimea la 10–15 cm, altele o lățime obișnuită de 8–20 cm, 10–35 cm sau extreme de 5–65 cm. Corpurile tinere sunt tuberculoase, ocru pal până la ocru și fin pâslite; mai târziu ruginii până la brun-închis, uneori crăpate, cu o margine lată, mai deschisă, rotunjită. Nu există picior: consola este prinsă direct la baza trunchiului sau pe rădăcini.",
+      "hymenium": "Un singur strat de tuburi, de obicei lung de 0,5–2 cm (unele ghiduri indică 2–3 cm), brun-ruginiu. Pori foarte mici, 3–6 pe mm, rotunzi sau ușor unghiulari, cenușiu-bej până la brun-cenușiu pal, care se închid la culoare cu vârsta sau la atingere; porii proaspeți pot arăta, sub un anumit unghi, un luciu argintiu. Picături chihlimbarii pot apărea și pe suprafața porilor lângă margine.",
+      "stipe": "Nu există picior. Corpul fructifer este prins direct de lemn la baza trunchiului sau pe rădăcini.",
+      "flesh": "Brun-ruginie până la galben-brun închis, fibroasă și zonată; moale și zemoasă la tinerețe, apoi tare și suberoasă. Lângă inserție poate exista un nucleu brun, mai dur și granulos. Carnea proaspătă poate înnegri cu KOH. Mirosul corpurilor bătrâne este adesea neplăcut; gustul amar sau ușor acrișor.",
+      "sporePrint": "Albicioasă până la crem în majoritatea surselor europene; unele ghiduri indică o sporată brun-deschisă. Spori larg elipsoidal până aproape sferici, cu perete gros, netezi, de circa 6–8,5 × 5–7 µm.",
+      "habitat": "Saproparazit, de obicei la baza stejarilor vii sau pe rădăcinile lor, și pe trunchiuri și cioate moarte de stejar, uneori pe fag. Produce o putrezire albă a rădăcinilor și a părții inferioare a trunchiului; un arbore care îl poartă poate deveni instabil și reprezintă un risc lângă poteci sau clădiri. În Europa Centrală fructifică din iulie până în octombrie; în Marea Britanie și Irlanda este semnalat și mai târziu, până la începutul iernii, iar corpurile uscate vechi pot persista până în sezonul următor. Este ocazional până la rară, mai ales în Europa, și este consemnat și în părți din America de Nord și Asia.",
+      "uses": "Necomestibilă: carnea este tare și amară, iar corpurile bătrâne miros adesea neplăcut. Nu este considerată o ciupercă comestibilă.",
+      "confusion": "Meripilus giganteus formează rozete de pălării mai subțiri, în evantai, ale căror pori se înnegresc la atingere. Inonotus hispidus este roșu-ruginiu, dens țepos, și crește de obicei mai sus pe trunchiul stejarului, frasinului sau mărului. Fistulina hepatica este în formă de limbă, roșu-sânge și cărnoasă și exsudă un suc roșu. Băcălia de fag (Ganoderma applanatum) și alte specii de Ganoderma au o pălărie tare, adesea lăcuită sau crustată, brună, o margine albă și sporată brună. Laetiporus sulphureus este galben-sulf viu și crește în console etajate. Inonotus dryophilus este mai mic, de obicei mai sus pe trunchiul stejarului, și nu are sete himeniale.",
+      "notes": "Picăturile chihlimbarii proaspete pe o consolă groasă, pâslită, ocru până la ruginie, la baza unui stejar sunt cel mai de încredere caracter de teren; corpurile bătrâne pierd picăturile și se închid la culoare. Pentru că ciuperca descompune rădăcinile și partea inferioară a trunchiului, corpurile de la baza unui arbore în picioare semnalează că arborele poate fi instabil.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Крупный однолетний, лишённый ножки консольный гриб оснований и корней дуба. Его узнают по толстому, подушковидному или копытовидному, охряному или ржаво-коричневому плодовому телу, которое в молодости часто выделяет янтарные капли, по очень мелким серовато-бежевым порам и по ржаво-коричневой волокнистой мякоти.",
+      "cap": "Обычно 10–40 см в поперечнике и 5–20 см толщиной; некоторые руководства указывают максимум 40 см и типичную толщину 10–15 см, другие обычную ширину 8–20 см, 10–35 см или крайние значения 5–65 см. Молодые плодовые тела клубневидные, бледно-охряные до охряных и тонко войлочные; позднее ржавые до тёмно-коричневых, иногда растрескавшиеся, с широким более светлым закруглённым краем. Ножки нет: консоль прикреплена непосредственно у основания ствола или на корнях.",
+      "hymenium": "Один слой трубочек, обычно длиной 0,5–2 см (в некоторых руководствах 2–3 см), ржаво-коричневый. Поры очень мелкие, 3–6 на мм, округлые или слабо угловатые, серовато-бежевые до бледно-серо-коричневых, с возрастом или при повреждении темнеющие; свежие поры под определённым углом могут серебристо отливать. Янтарные капли могут появляться и на поверхности пор у края.",
+      "stipe": "Ножки нет. Плодовое тело прикреплено непосредственно к древесине у основания ствола или на корнях.",
+      "flesh": "Ржавая до тёмно-жёлто-коричневой, волокнистая и зональная; в молодости мягкая и сочная, позднее жёсткая и пробковая. У места прикрепления может быть более твёрдое зернистое коричневое ядро. Свежая мякоть может чернеть от KOH. Запах старых плодовых тел часто неприятный; вкус горький или слегка кислый.",
+      "sporePrint": "В большинстве европейских источников беловатый до кремового; некоторые руководства указывают светло-коричневый споровый порошок. Споры широкоэллипсоидные до почти шаровидных, толстостенные, гладкие, около 6–8,5 × 5–7 мкм.",
+      "habitat": "Сапропаразит, обычно у основания живых дубов или на их корнях, также на мёртвых стволах и пнях дуба, иногда на буке. Вызывает белую гниль корней и нижней части ствола; дерево, на котором он растёт, может стать неустойчивым и представляет опасность у дорожек или строений. В Центральной Европе плодоносит с июля по октябрь; в Великобритании и Ирландии его указывают и позднее, до начала зимы, а старые высохшие плодовые тела могут сохраняться до следующего сезона. Встречается изредка до редко, главным образом в Европе, отмечен также в частях Северной Америки и Азии.",
+      "uses": "Несъедобен: мякоть жёсткая и горькая, а старые плодовые тела часто неприятно пахнут. Пищевым грибом не считается.",
+      "confusion": "Мерипилус гигантский (Meripilus giganteus) образует розетки более тонких вееровидных шляпок, поры которых при повреждении чернеют. Inonotus hispidus ржаво-красный, густо щетинистый и обычно растёт выше на стволе дуба, ясеня или яблони. Печёночница обыкновенная (Fistulina hepatica) языковидная, кроваво-красная и мясистая и выделяет красный сок. Трутовик плоский (Ganoderma applanatum) и другие виды Ganoderma имеют твёрдую, часто лакированную или корковую коричневую шляпку, белый край и коричневый споровый порошок. Трутовик серно-жёлтый (Laetiporus sulphureus) ярко серно-жёлтый и растёт ярусными консолями. Inonotus dryophilus мельче, обычно выше на стволе дуба и лишён гимениальных щетинок.",
+      "notes": "Свежие янтарные капли на толстой, войлочной, охряной до ржавой консоли у основания дуба — самый надёжный полевой признак; старые плодовые тела теряют капли и темнеют. Поскольку гриб разрушает корни и нижнюю часть ствола, плодовые тела у основания стоящего дерева предупреждают, что дерево может быть неустойчивым.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944",
+        "https://www.gbif.org/species/2520036"
+      ],
+      "label": "Инонотус древесный"
+    },
+    "sk": {
+      "description": "Veľká, bezhlúbiková, jednoročná konzolovitá huba báz a koreňov dubov. Spozná sa podľa hrubej, vankúšovitej až kopytovitej, okrovej alebo hrdzavohnedej plodnice, ktorá v mladosti často roní jantárové kvapky, podľa veľmi jemných sivastokrémových pórov a podľa hrdzavohnedej vláknitej dužiny.",
+      "cap": "Zvyčajne 10–40 cm v priemere a 5–20 cm hrubá; niektoré príručky uvádzajú maximum 40 cm a typickú hrúbku 10–15 cm, iné bežnú šírku 8–20 cm, 10–35 cm alebo extrémy 5–65 cm. Mladé plodnice sú hľuzovité, bledookrové až okrové a jemne plstnaté; neskôr hrdzavé až tmavohnedé, niekedy popraskané, so širokým svetlejším zaobleným okrajom. Hlúbik chýba: konzola je prirastená priamo na báze kmeňa alebo na koreňoch.",
+      "hymenium": "Jedna vrstva rúrok, zvyčajne 0,5–2 cm dlhých (niektoré príručky uvádzajú 2–3 cm), hrdzavohnedá. Póry veľmi drobné, 3–6 na mm, okrúhle alebo slabo hranaté, sivastokrémové až svetlosivohnedé, s vekom alebo po poškodení tmavnú; čerstvé póry môžu pri určitom uhle pohľadu striebristo lesknúť. Jantárové kvapky sa môžu objaviť aj na povrchu pórov pri okraji.",
+      "stipe": "Hlúbik chýba. Plodnica je prirastená priamo k drevu na báze kmeňa alebo na koreňoch.",
+      "flesh": "Hrdzavá až tmavo žltohnedá, vláknitá a pásikavá; v mladosti mäkká a šťavnatá, neskôr tuhá a korkovitá. Pri úpone môže byť tvrdšie zrnité hnedé jadro. Čerstvá dužina môže s KOH černieť. Vôňa starších plodníc je často nepríjemná; chuť horká alebo slabo kyslá.",
+      "sporePrint": "Vo väčšine európskych údajov belavý až krémový; niektoré príručky uvádzajú svetlohnedý výtrusný prach. Výtrusy široko elipsoidné až takmer guľovité, hrubostenné, hladké, približne 6–8,5 × 5–7 µm.",
+      "habitat": "Saproparazit, zvyčajne na báze živých dubov alebo na ich koreňoch, aj na odumretých kmeňoch a pňoch dubov, príležitostne na buku. Spôsobuje bielu hnilobu koreňov a spodnej časti kmeňa; strom, na ktorom rastie, môže byť nestabilný a pri chodníkoch alebo budovách predstavuje bezpečnostné riziko. V strednej Európe plodí od júla do októbra; v Británii a Írsku sa uvádza aj neskôr, až do začiatku zimy, a staré vyschnuté plodnice môžu pretrvať do nasledujúcej sezóny. Vyskytuje sa nehojne až vzácne, predovšetkým v Európe, a je zaznamenaný aj v častiach Severnej Ameriky a Ázie.",
+      "uses": "Nejedlá: dužina je tuhá a horká a staré plodnice často nepríjemne páchnu. Ako jedlá huba sa nezaraduje.",
+      "confusion": "Vejárovec obrovský (Meripilus giganteus) tvorí ružice tenších, vejárovito usporiadaných klobúkov, ktorých póry pri poškodení černejú. Ryšavec srstnatý (Inonotus hispidus) je hrdzavočervený, husto štetinatý a rastie zvyčajne vyššie na kmeni duba, jaseňa alebo jablone. Pečeňovec dubový (Fistulina hepatica) je jazykovitý, krvavočervený a mäsitý a roní červenú šťavu. Lesklokôrovka plochá (Ganoderma applanatum) a iné druhy rodu Ganoderma majú tvrdý, často lakovaný alebo kôrovitý hnedý klobúk, biely okraj a hnedý výtrusný prach. Sírovec obyčajný (Laetiporus sulphureus) je jasne sírovožltý a rastie v terasovitých poschodiach. Inonotus dryophilus je menší, zvyčajne vyššie na kmeni duba a nemá hymeniálne štétiny.",
+      "notes": "Čerstvé jantárové kvapky na hrubej, plstnatej okrovej až hrdzavej konzole na báze duba sú najspoľahlivejším terénnym znakom; staršie plodnice kvapky strácajú a tmavnú. Pretože huba rozkladá korene a spodnú časť kmeňa, plodnice na báze stojaceho stromu upozorňujú, že strom môže byť nestabilný.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944",
+        "https://botany.cz/cs/pseudoinonotus-dryadeus/",
+        "https://www.gbif.org/species/2520036"
+      ],
+      "label": "ryšavec slziaci"
+    },
+    "sl": {
+      "description": "Velika, brezbeta, enoletna konsolasta goba podlag in korenin hrastov. Prepoznamo jo po debeli, blazinasti do kopitasti, okrasti ali rjasto rjavi trosnjaki, ki v mladosti pogosto izloča jantarne kapljice, po zelo drobnih sivkasto okrastih porah in po rjasto rjavem, vlaknatem mesu.",
+      "cap": "Običajno 10–40 cm v premeru in 5–20 cm debela; nekateri vodniki navajajo največ 40 cm in tipično debelino 10–15 cm, drugi običajno širino 8–20 cm, 10–35 cm ali skrajnosti 5–65 cm. Mlade trosnjake so gomoljaste, bledo okraste do okraste in fino filcaste; pozneje rjasto do temno rjave, včasih razpokane, s širokim svetlejšim zaobljenim robom. Beta ni: konzola je pritrjena neposredno na bazi debla ali na koreninah.",
+      "hymenium": "Ena plast cevk, običajno dolgih 0,5–2 cm (nekateri vodniki navajajo 2–3 cm), rjasto rjava. Pore zelo drobne, 3–6 na mm, okrogle ali rahlo oglate, sivkasto okraste do svetlo sivorjave, s starostjo ali ob poškodbi potemnijo; sveže pore lahko pod določenim kotom srebrno lesketajo. Jantarne kapljice se lahko pojavijo tudi na površini por ob robu.",
+      "stipe": "Beta ni. Trosnjak je pritrjen neposredno na les na bazi debla ali na koreninah.",
+      "flesh": "Rjasto do temno rumenorjavo, vlaknato in pasasto; v mladosti mehko in sočno, pozneje trdo in pluto podobno. Pri pripoju je lahko trše zrnato rjavo jedro. Sveže meso lahko s KOH počrni. Vonj starejših trosnjakov je pogosto neprijeten; okus grenak ali rahlo kisel.",
+      "sporePrint": "V večini evropskih navedb belkast do kremast; nekateri vodniki navajajo svetlo rjav trosni prah. Trosi široko elipsoidni do skoraj kroglasti, debelostenski, gladki, približno 6–8,5 × 5–7 µm.",
+      "habitat": "Saproparazit, običajno na bazi živih hrastov ali na njihovih koreninah, tudi na odmrlih deblih in štorih hrastov, občasno na bukvi. Povzroča belo trohnobo korenin in spodnjega dela debla; drevo, na katerem raste, je lahko nestabilno in ob poteh ali stavbah pomeni varnostno tveganje. V srednji Evropi trosnjaki rastejo od julija do oktobra; v Britaniji in na Irskem jo navajajo tudi pozneje, do začetka zime, stare posušene trosnjake pa lahko vztrajajo do naslednje sezone. Pojavlja se redkeje do redko, predvsem v Evropi, zabeležena pa je tudi v delih Severne Amerike in Azije.",
+      "uses": "Neužitna: meso je trdo in grenko, stare trosnjake pa pogosto neprijetno dišijo. Za užitno gobo se ne šteje.",
+      "confusion": "Črneča velezraščenka (Meripilus giganteus) tvori rozete tanjših, pahljačastih klobukov, katerih pore ob poškodbi počrnijo. Inonotus hispidus je rjasto rdeč, gosto ščetinast in raste običajno višje na deblu hrasta, jesena ali jablane. Fistulina hepatica je jezikasta, krvavo rdeča in mesnata ter izloča rdeč sok. Sploščena pološčenka (Ganoderma applanatum) in druge vrste rodu Ganoderma imajo trd, pogosto lakiran ali skorjast rjav klobuk, bel rob in rjav trosni prah. Laetiporus sulphureus je svetlo žvepleno rumen in raste v etažah. Inonotus dryophilus je manjši, običajno višje na hrastovem deblu, in nima himenijevih ščetin.",
+      "notes": "Sveže jantarne kapljice na debeli, filcasti, okrasti do rjasti konzoli na bazi hrasta so najzanesljivejši terenski znak; starejši trosnjaki kapljice izgubijo in potemnijo. Ker goba razkraja korenine in spodnji del debla, trosnjaki na bazi stoječega drevesa opozarjajo, da je drevo lahko nestabilno.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944",
+        "https://www.gbif.org/species/2520036"
+      ],
+      "label": "roseči luknjevec"
+    },
+    "sr": {
+      "description": "Велика, без дршке, једногодишња конзоласта гљива основа и корена храстова. Препознаје се по дебелом, јастучастом до копитастом, океру или рђастосмеђем плодном телу које у младости често лучи јантарне капљице, по врло ситним сивкастоокер порама и по рђастосмеђем, влакнастом месу.",
+      "cap": "Обично 10–40 cm у пречнику и 5–20 cm дебело; неки водичи наводе највише 40 cm и типичну дебљину 10–15 cm, други уобичајену ширину 8–20 cm, 10–35 cm или крајности 5–65 cm. Млада плодна тела су кртоласта, бледоокер до окер и фино филцаста; касније рђаста до тамносмеђа, понекад испуцала, са широким светлијим заобљеним рубом. Дршке нема: конзола је прирасла директно на основи стабла или на корену.",
+      "hymenium": "Један слој цевчица, обично дугих 0,5–2 cm (неки водичи наводе 2–3 cm), рђастосмеђ. Поре врло ситне, 3–6 на mm, округле или слабо угласте, сивкастоокер до светлосивосмеђе, старошћу или након оштећења тамне; свеже поре под одређеним углом могу сребрнасто блистати. Јантарне капљице могу се појавити и на површини пора уз руб.",
+      "stipe": "Дршке нема. Плодно тело је прирасло директно за дрво на основи стабла или на корену.",
+      "flesh": "Рђасто до тамно жутосмеђе, влакнасто и зонирано; у младости меко и сочно, касније тврдо и плутасто. При припоју може бити тврђе зрнасто смеђе језгро. Свеже месо са KOH може поцрнети. Мирис старијих плодних тела често је непријатан; укус горак или благо кисео.",
+      "sporePrint": "У већини европских навода беличаст до крем; неки водичи бележе светлосмеђ отисак спора. Споре широко елипсоидне до скоро лоптасте, дебелозидне, глатке, око 6–8,5 × 5–7 µm.",
+      "habitat": "Сапропаразит, обично на основи живих храстова или на њиховом корену, такође на мртвим стаблима и пањевима храстова, понекад на букви. Узрокује белу трулеж корена и доњег дела стабла; дрво на којем расте може бити нестабилно и поред стаза или зграда представља безбедносни ризик. У средњој Европи плодоноси од јула до октобра; у Британији и Ирској наводи се и касније, до почетка зиме, а стара осушена плодна тела могу остати до следеће сезоне. Појављује се нередовно до ретко, углавном у Европи, а забележена је и у деловима Северне Америке и Азије.",
+      "uses": "Нејестива: месо је тврдо и горко, а стара плодна тела често непријатно миришу. Не сматра се јестивом гљивом.",
+      "confusion": "Оријашки жбунац (Meripilus giganteus) гради розете тањих, лепезастих шешира чије поре при оштећењу поцрне. Inonotus hispidus је рђастоцрвен, густо чекињаст и расте обично више на стаблу храста, јасена или јабуке. Fistulina hepatica је језичаста, крвавоцрвена и месната те лучи црвени сок. Пљосната сјајница (Ganoderma applanatum) и друге врсте рода Ganoderma имају тврд, често лакиран или кораст смеђи шешир, бели руб и смеђ отисак спора. Laetiporus sulphureus је јарко сумпорножут и расте у наслојеним полицама. Inonotus dryophilus је мањи, обично више на храстовом стаблу, и нема хименијских чекиња.",
+      "notes": "Свеже јантарне капљице на дебелој, филцастој, окер до рђастој конзоли на основи храста најпоузданије су теренско обележје; старија плодна тела губе капљице и тамне. Пошто гљива разграђује корен и доњи део стабла, плодна тела на основи стојећег дрвета упозоравају да дрво може бити нестабилно.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En stor, fotlös, ettårig konsolsvamp vid basen och rötterna av ek. Den känns igen på en tjock, kudd- till hovformad, ockra eller rostbrun fruktkropp som ungt ofta avsöndrar bärnstensfärgade droppar, på mycket fina gråbeige porer och på rostbrunt, trådigt kött.",
+      "cap": "Typiskt 10–40 cm bred och 5–20 cm tjock; vissa verk anger ett maximum på 40 cm och typifierar tjockleken som 10–15 cm, andra en vanlig bredd på 8–20 cm, 10–35 cm eller ytterligheter på 5–65 cm. Unga fruktkroppar är knölformade, blekt ockra till ockra och fint filthåriga; senare rost- till mörkbruna, ibland spruckna, med en bred, ljusare avrundad kant. Det finns ingen fot: konsolen sitter direkt vid stammens bas eller på rötterna.",
+      "hymenium": "Ett enda rörlager, typiskt 0,5–2 cm långt (vissa uppgifter 2–3 cm), rostbrunt. Porer mycket små, 3–6 per mm, runda eller svagt kantiga, gråbeige till ljust gråbruna, mörknande med åldern eller vid skada; färska porer kan i viss vinkel glänsa silveraktigt. Bärnstensfärgade droppar kan också uppträda på porytan nära kanten.",
+      "stipe": "Det finns ingen fot. Fruktkroppen är fäst direkt vid veden vid stammens bas eller på rötterna.",
+      "flesh": "Rost- till mörkt gulbrunt, trådigt och zonerat; ungt mjukt och saftigt, senare segt och korkartat. Vid fästet kan det finnas en hårdare, kornig brun kärna. Färskt kött kan svartna med KOH. Lukten av äldre fruktkroppar är ofta obehaglig; smaken bitter eller lätt syrlig.",
+      "sporePrint": "I de flesta europeiska uppgifter vitaktigt till cremefärgat; vissa verk nämner ett ljusbrunt sporpulver. Sporer brett ellipsoida till nästan klotformade, tjockväggiga, släta, omkring 6–8,5 × 5–7 µm.",
+      "habitat": "En saproparasit, vanligen vid basen av levande ekar eller på deras rötter, också på döda ekstammar och -stubbar, ibland på bok. Den orsakar vitröta i rötterna och den nedre stammen; ett träd som bär den kan bli instabilt och är vid stigar eller byggnader en säkerhetsrisk. I Centraleuropa fruktifierar den från juli till oktober; i Storbritannien och Irland anges den också senare, in i tidig vinter, och gamla uttorkade fruktkroppar kan stå kvar till nästa säsong. Den är spridd till mindre allmän, främst i Europa, och är också uppgiven från delar av Nordamerika och Asien.",
+      "uses": "Oätlig: köttet är segt och bittert, och gamla fruktkroppar luktar ofta obehagligt. Den räknas inte som matsvamp.",
+      "confusion": "Jätteticka (Meripilus giganteus) bildar rosetter av tunnare, solfjäderformade hattar vars porer svartnar vid skada. Inonotus hispidus är roströd och tätt borstig och växer vanligen högre på stammen av ek, ask eller äpple. Fistulina hepatica är tungformad, blodröd och köttig och avsöndrar röd saft. Platticka (Ganoderma applanatum) och andra Ganoderma-arter har en hård, ofta lackerad eller skorpartad brun hatt, en vit kant och brunt sporpulver. Laetiporus sulphureus är klart svavelgul och växer i taklagda konsoler. Inonotus dryophilus är mindre, sitter vanligen högre på ekstammen och saknar hymeniala setae.",
+      "notes": "Färska bärnstensfärgade droppar på en tjock, filthårig, ockra- till rostfärgad konsol vid en ekbas är det mest tillförlitliga fältkännetecknet; äldre fruktkroppar förlorar dropparna och mörknar. Eftersom svampen bryter ned rötterna och den nedre stammen är fruktkroppar vid foten av ett stående träd en varning om att trädet kan vara instabilt.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944",
+        "https://www.gbif.org/species/2520036",
+        "https://sv.wikipedia.org/wiki/Tårticka"
+      ],
+      "label": "tårticka"
+    },
+    "tr": {
+      "description": "Meşe tabanlarında ve köklerinde büyüyen, sapı olmayan, büyük, tek yıllık bir konsol mantarı. Kalın, yastık ya da toynak biçimli, okr ya da pas kahverengisi bir meyve gövdesiyle tanınır; gençken çoğu zaman kehribar damlalar sızdırır, gözenekleri çok ince ve gri-bejdir, eti pas kahverengisi ve liflidir.",
+      "cap": "Genellikle 10–40 cm genişliğinde ve 5–20 cm kalınlığındadır; bazı kılavuzlar en çok 40 cm ve tipik kalınlığı 10–15 cm verir, bazıları alışılmış genişliği 8–20 cm, 10–35 cm ya da uç değerleri 5–65 cm olarak belirtir. Genç meyve gövdeleri yumru biçimli, soluk okr ile okr arası ve ince keçe örtülüdür; sonra pas renginden koyu kahverengiye döner, bazen çatlar ve geniş, daha açık, yuvarlak bir kenar taşır. Sap yoktur: konsol doğrudan gövde tabanına ya da köklere tutunur.",
+      "hymenium": "Tek bir tüp katmanı, genellikle 0,5–2 cm uzunluğunda (bazı kılavuzlar 2–3 cm verir), pas kahverengisidir. Gözenekler çok küçüktür, milimetrede 3–6, yuvarlak ya da hafif köşeli, gri-bejden soluk gri-kahverengiye; yaşlanınca ya da zedelenince koyulaşır; taze gözenekler belli bir açıyla gümüşsü parlayabilir. Kehribar damlalar kenara yakın gözenek yüzeyinde de görülebilir.",
+      "stipe": "Sap yoktur. Meyve gövdesi, gövde tabanında ya da köklerde doğrudan oduna tutunur.",
+      "flesh": "Pas renginden koyu sarı-kahverengiye, lifli ve kuşaklıdır; gençken yumuşak ve sulu, sonra sert ve mantarımsıdır. Tutunma yerinde daha sert, taneli kahverengi bir öz olabilir. Taze et KOH ile kararabilir. Eski meyve gövdelerinin kokusu çoğu zaman hoş değildir; tadı acı ya da hafif ekşidir.",
+      "sporePrint": "Çoğu Avrupa kaynağında beyazımsı ile krem arasıdır; bazı kılavuzlar açık kahverengi spor izi bildirir. Sporlar genişçe elipsoitten neredeyse küreseldir, kalın çeperli, pürüzsüz, yaklaşık 6–8,5 × 5–7 µm.",
+      "habitat": "Saproparazittir, genellikle yaşayan meşelerin tabanında ya da köklerinde, ayrıca ölü meşe gövde ve kütüklerinde, bazen kayında bulunur. Köklerin ve gövdenin alt kısmının beyaz çürüklüğüne yol açar; üzerinde bulunduğu ağaç dengesizleşebilir ve yollar ya da yapılar yanında tehlike oluşturur. Orta Avrupa’da temmuzdan ekime kadar meyve verir; Britanya ve İrlanda’da daha geç, kışın başına kadar da kaydedilir ve eski kurumuş meyve gövdeleri sonraki mevsime kadar kalabilir. Başta Avrupa’da olmak üzere seyrek ya da az bulunur; Kuzey Amerika ve Asya’nın bazı bölgelerinde de kaydedilmiştir.",
+      "uses": "Yenmez: eti sert ve acıdır, eski meyve gövdeleri çoğu zaman hoş kokmaz. Yenilebilir bir mantar sayılmaz.",
+      "confusion": "Meripilus giganteus, zedelenince kararan gözenekleri olan daha ince, yelpaze biçimli şapkaların rozetlerini oluşturur. Inonotus hispidus pas kırmızısı, sık kıllı olup genellikle meşe, dişbudak ya da elma gövdesinde daha yukarıda büyür. Biftek mantarı (Fistulina hepatica) dil biçimli, kan kırmızısı ve etlidir, kırmızı özsu sızdırır. Yassı reişi mantarı (Ganoderma applanatum) ve diğer Ganoderma türlerinin sert, çoğu zaman lake ya da kabuklu kahverengi şapkası, beyaz kenarı ve kahverengi spor tozu vardır. Kükürt mantarı (Laetiporus sulphureus) parlak kükürt sarısıdır ve katmanlı konsollar halinde büyür. Inonotus dryophilus daha küçüktür, genellikle meşe gövdesinde daha yukarıdadır ve himenyum setaları yoktur.",
+      "notes": "Meşe tabanındaki kalın, keçe örtülü, okr-pas rengindeki bir konsol üzerindeki taze kehribar damlalar en güvenilir arazi özelliğidir; daha eski meyve gövdeleri damlaları yitirir ve koyulaşır. Mantar kökleri ve gövdenin alt kısmını çürüttüğü için, ayakta duran bir ağacın tabanındaki meyve gövdeleri ağacın dengesiz olabileceğini gösterir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Великий однорічний, без ніжки консольний гриб біля основи і на коренях дуба. Його впізнають за товстим, подушкоподібним або копитоподібним, вохристим чи іржаво-коричневим плодовим тілом, яке в молодості часто виділяє бурштинові краплі, за дуже дрібними сірувато-бежевими порами та за іржаво-коричневою волокнистою м’якоттю.",
+      "cap": "Зазвичай 10–40 см у поперечнику і 5–20 см завтовшки; деякі довідники вказують максимум 40 см і типову товщину 10–15 см, інші звичайну ширину 8–20 см, 10–35 см або крайні значення 5–65 см. Молоді плодові тіла бульбоподібні, блідо-вохристі до вохристих і тонко повстисті; пізніше іржаві до темно-коричневих, іноді розтріскані, з широким світлішим заокругленим краєм. Ніжки немає: консоль приростає безпосередньо біля основи стовбура або на коренях.",
+      "hymenium": "Один шар трубочок, зазвичай завдовжки 0,5–2 см (у деяких довідниках 2–3 см), іржаво-коричневий. Пори дуже дрібні, 3–6 на мм, округлі або слабо гранчасті, сірувато-бежеві до блідо-сіро-коричневих, з віком або при пошкодженні темнішають; свіжі пори під певним кутом можуть сріблясто полискувати. Бурштинові краплі можуть з’являтися й на поверхні пор біля краю.",
+      "stipe": "Ніжки немає. Плодове тіло приростає безпосередньо до деревини біля основи стовбура або на коренях.",
+      "flesh": "Іржава до темно-жовто-коричневої, волокниста і зональна; в молодості м’яка і соковита, пізніше тверда і коркова. Біля місця приростання може бути твердіше зернисте коричневе ядро. Свіжа м’якоть може чорніти від KOH. Запах старих плодових тіл часто неприємний; смак гіркий або злегка кислий.",
+      "sporePrint": "У більшості європейських джерел білуватий до кремового; деякі довідники вказують світло-коричневий споровий порошок. Спори широко еліпсоїдні до майже кулястих, товстостінні, гладкі, близько 6–8,5 × 5–7 мкм.",
+      "habitat": "Сапропаразит, зазвичай біля основи живих дубів або на їхніх коренях, також на мертвих стовбурах і пнях дуба, іноді на буку. Спричиняє білу гниль коренів і нижньої частини стовбура; дерево, на якому він росте, може стати нестійким і становить небезпеку біля стежок або будівель. У Центральній Європі плодоносить із липня до жовтня; у Великій Британії та Ірландії його вказують і пізніше, до початку зими, а старі висохлі плодові тіла можуть зберігатися до наступного сезону. Трапляється зрідка до рідко, переважно в Європі, зазначений також у частинах Північної Америки та Азії.",
+      "uses": "Неїстівний: м’якоть тверда і гірка, а старі плодові тіла часто неприємно пахнуть. Їстівним грибом не вважається.",
+      "confusion": "Трутовик велетенський (Meripilus giganteus) утворює розетки тонших віялоподібних шапок, пори яких при пошкодженні чорніють. Inonotus hispidus іржаво-червоний, густо щетинистий і зазвичай росте вище на стовбурі дуба, ясена чи яблуні. Печіночниця звичайна (Fistulina hepatica) язикоподібна, криваво-червона і м’ясиста та виділяє червоний сік. Трутовик плоский (Ganoderma applanatum) та інші види Ganoderma мають тверду, часто лаковану або кіркову коричневу шапку, білий край і коричневий споровий порошок. Трутовик сірчано-жовтий (Laetiporus sulphureus) яскраво сірчано-жовтий і росте ярусними консолями. Inonotus dryophilus менший, зазвичай вище на стовбурі дуба і не має гіменіальних щетинок.",
+      "notes": "Свіжі бурштинові краплі на товстій, повстистій, вохристій до іржавої консолі біля основи дуба — найнадійніша польова ознака; старі плодові тіла втрачають краплі й темнішають. Оскільки гриб руйнує корені й нижню частину стовбура, плодові тіла біля основи стоячого дерева попереджають, що дерево може бути нестійким.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "生于橡树基部与根系的大型一年生无柄架菌。以肥厚、垫状至蹄状、赭色或锈褐色的子实体识别，幼时常见琥珀色液滴，孔口极细、灰米色，菌肉锈褐色、纤维质。",
+      "cap": "通常宽10–40 cm、厚5–20 cm；有的图鉴给出最大40 cm、典型厚度10–15 cm，也有记常见宽度8–20 cm、10–35 cm，或极端5–65 cm。幼小子实体块茎状，淡赭至赭色，被细绒毛；其后锈色至深褐色，有时开裂，具宽而较淡的圆钝边缘。无菌柄：菌架直接着生于树干基部或根上。",
+      "hymenium": "管层单层，通常长0.5–2 cm（有的图鉴作2–3 cm），锈褐色。管口极小，每毫米3–6个，圆形或稍多角形，灰米色至浅灰褐色，随年龄或受伤而变深；新鲜管口在某角度可呈银色光泽。琥珀色液滴也可出现在近边缘的孔面上。",
+      "stipe": "无菌柄。子实体在树干基部或根上直接着生于木材。",
+      "flesh": "锈色至暗黄褐色，纤维质并有环带；幼时柔软多汁，其后坚韧呈软木质。着生处附近可有较硬的颗粒状褐色核心。新鲜菌肉遇KOH可变黑。老熟子实体气味常不佳；味苦或微酸。",
+      "sporePrint": "多数欧洲记载为近白至奶油色；有的图鉴记录浅褐色孢子印。孢子宽椭圆形至近球形，壁厚，平滑，约6–8.5 × 5–7 µm。",
+      "habitat": "腐生兼寄生，通常在活橡树基部或其根上，也生于枯死橡树树干与树桩，偶尔生于山毛榉。引起根部和树干下部的白色腐朽；带菌的树木可能不稳，靠近道路或建筑物时有安全风险。在中欧于7月至10月出菇；在不列颠与爱尔兰也有更晚、直至初冬的记录，干枯的老熟子实体可残存到下一季。零星至少见，主要分布于欧洲，北美和亚洲部分地区也有记录。",
+      "uses": "不可食用：菌肉坚韧味苦，老熟子实体常有难闻气味。不作为食用菌对待。",
+      "confusion": "巨盖孔菌（Meripilus giganteus）形成较薄的扇形菌盖莲座，管口受伤变黑。Inonotus hispidus锈红色、密被刚毛，通常长在橡树、白蜡或苹果树树干较高处。牛舌菌（Fistulina hepatica）舌状、血红色、肉质，并渗出红汁。樹舌靈芝 (Ganoderma applanatum)及其他灵芝属种类具坚硬、常具漆光或结壳的褐色菌盖、白色边缘和褐色孢子粉。硫色絢孔菌（Laetiporus sulphureus）鲜硫黄色，呈层叠架状生长。Inonotus dryophilus较小，通常在橡树树干较高处，且无不孕刚毛。",
+      "notes": "橡树基部肥厚、被绒、赭色至锈色的菌架上新鲜琥珀色液滴，是最可靠的野外特征；较老的子实体失去液滴并变深。因为本菌分解根部和树干下部，立木基部的子实体警示该树可能不稳。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/787944"
+      ],
+      "label": "厚盖拟纤孔菌"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Boletus dryadeus",
+      "author": "Pers.",
+      "year": 1800,
+      "rank": "species",
+      "type": "basionym",
+      "if": 214251
+    },
+    {
+      "name": "Polyporus dryadeus",
+      "author": "(Pers.) Fr.",
+      "year": 1821,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 217666
+    },
+    {
+      "name": "Ischnoderma dryadeum",
+      "author": "(Pers.) P. Karst.",
+      "year": 1879,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 100869
+    },
+    {
+      "name": "Placodes dryadeus",
+      "author": "(Pers.) Quél.",
+      "year": 1886,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 472354
+    },
+    {
+      "name": "Fomes dryadeus",
+      "author": "(Pers.) Gillot & Lucand",
+      "year": 1890,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 469207
+    },
+    {
+      "name": "Phellinus dryadeus",
+      "author": "(Pers.) Pat.",
+      "year": 1900,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 453201
+    },
+    {
+      "name": "Inonotus dryadeus",
+      "author": "(Pers.) Murrill",
+      "year": 1908,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 298987
+    },
+    {
+      "name": "Ungularia dryadea",
+      "author": "(Pers.) Lázaro Ibiza",
+      "year": 1916,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 472031
+    },
+    {
+      "name": "Fomitiporia dryadea",
+      "author": "(Pers.) Y.C. Dai",
+      "year": 1999,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 474071
+    }
+  ],
+  "reserved": false,
+  "id": 249,
+  "citation": "Mycol. Res. 105(7): 781 (2001)"
 }
 ];

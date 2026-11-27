@@ -1250,5 +1250,28 @@ export const TAXA = {
     sk: "pňovka",
     cs: "pařezník",
     de: "Zwergknäuelinge"
+  },
+  Gloeophyllales: {
+    rank: "order"
+  },
+  Gloeophyllaceae: {
+    rank: "family",
+    de: "Blättlingsverwandte",
+    pl: "niszczycowate"
+  },
+  Gloeophyllum: {
+    rank: "genus",
+    sk: "trámovka",
+    cs: "trámovka",
+    sl: "tramovka"
+  },
+  Hymenochaetales: {
+    rank: "order"
+  },
+  Hymenochaetaceae: {
+    rank: "family"
+  },
+  Pseudoinonotus: {
+    rank: "genus"
   }
 };
