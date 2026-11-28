@@ -253122,5 +253122,2045 @@ export const CATALOG = [
   "reserved": false,
   "id": 251,
   "citation": "Comm. Soc. crittog. Ital. 1(fasc. 4): 197 (1863)"
+},
+{
+  "name": "Hypoxylon fragiforme",
+  "author": "(Pers.) J. Kickx f.",
+  "family": "Hypoxylaceae",
+  "genus": "Hypoxylon",
+  "order": "Xylariales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Ascomycota",
+    "Pezizomycotina",
+    "Sordariomycetes",
+    "Xylariomycetidae",
+    "Xylariales",
+    "Hypoxylaceae",
+    "Hypoxylon"
+  ],
+  "summary": [
+    "Xylariales",
+    "Hypoxylaceae",
+    "Hypoxylon"
+  ],
+  "edibility": "inedible",
+  "hymenium": "smooth",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "red",
+    "brown",
+    "dark"
+  ],
+  "capFrom": 0.2,
+  "capTo": 0.9,
+  "fruitingFrom": 1,
+  "fruitingTo": 12,
+  "label": {
+    "cs": "dřevomor červený",
+    "da": "Kuljordbær",
+    "de": "Rötliche Kohlenbeere",
+    "en": "Beech Woodwart",
+    "fi": "punasyylä",
+    "fr": "Hypoxylon en forme de fraise",
+    "hu": "vöröses ripacsgomba",
+    "ja": "アカコブタケ",
+    "lt": "Rausvasis anglinukas",
+    "nl": "Roestbruine kogelzwam",
+    "no": "bøkekullsopp",
+    "pl": "drewniak szkarłatny",
+    "sk": "drevovček bukový",
+    "sl": "jagodasti skorjeder",
+    "sv": "bokdyna",
+    "zh": "脆形炭团菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "Rausvasis šiurpis"
+    ],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "莓型炭團菌",
+      "红垫炭团菌"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=444018",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=444018",
+      "https://api.gbif.org/v1/species/match?name=Hypoxylon%20fragiforme",
+      "https://www.gbif.org/species/5254672",
+      "https://www.wikidata.org/wiki/Q242011",
+      "https://www.inaturalist.org/taxa/351126",
+      "https://species.wikimedia.org/wiki/Hypoxylon_fragiforme",
+      "https://www.first-nature.com/fungi/hypoxylon-fragiforme.php",
+      "https://www.myko.cz/myko-atlas/Hypoxylon-fragiforme/",
+      "https://www.nahuby.sk/atlas-hub/Hypoxylon-fragiforme/drevovcek-bukovy/drevomor-cerveny/ID65"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://www.inaturalist.org/taxa/351126",
+      "https://www.wikidata.org/wiki/Q242011",
+      "https://www.myko.cz/myko-atlas/Hypoxylon-fragiforme/",
+      "https://www.nahuby.sk/atlas-hub/Hypoxylon-fragiforme/drevovcek-bukovy/drevomor-cerveny/ID65"
+    ],
+    "da": [
+      "https://www.inaturalist.org/taxa/351126"
+    ],
+    "de": [
+      "https://www.inaturalist.org/taxa/351126",
+      "https://www.wikidata.org/wiki/Q242011"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [
+      "https://www.inaturalist.org/taxa/351126",
+      "https://www.wikidata.org/wiki/Q242011"
+    ],
+    "fr": [
+      "https://www.inaturalist.org/taxa/351126",
+      "https://www.wikidata.org/wiki/Q242011"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://www.inaturalist.org/taxa/351126",
+      "https://www.wikidata.org/wiki/Q242011"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.inaturalist.org/taxa/351126"
+    ],
+    "ko": [],
+    "lt": [
+      "https://www.inaturalist.org/taxa/351126",
+      "https://www.wikidata.org/wiki/Q242011"
+    ],
+    "lv": [],
+    "nl": [
+      "https://www.inaturalist.org/taxa/351126",
+      "https://www.wikidata.org/wiki/Q242011"
+    ],
+    "no": [
+      "https://www.inaturalist.org/taxa/351126"
+    ],
+    "pl": [
+      "https://www.inaturalist.org/taxa/351126",
+      "https://www.wikidata.org/wiki/Q242011"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [
+      "https://www.inaturalist.org/taxa/351126",
+      "https://www.nahuby.sk/atlas-hub/Hypoxylon-fragiforme/drevovcek-bukovy/drevomor-cerveny/ID65"
+    ],
+    "sl": [
+      "https://www.inaturalist.org/taxa/351126"
+    ],
+    "sr": [],
+    "sv": [
+      "https://www.inaturalist.org/taxa/351126",
+      "https://www.wikidata.org/wiki/Q242011"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "https://www.inaturalist.org/taxa/351126",
+      "https://www.wikidata.org/wiki/Q242011"
+    ]
+  },
+  "added": "2026-11-27",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Hypoxylon_fragiforme/Hypoxylon_fragiforme@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Hypoxylon_fragiforme/Hypoxylon_fragiforme@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Hypoxylon_fragiforme/Hypoxylon_fragiforme@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Hypoxylon_fragiforme/Hypoxylon_fragiforme_1.webp",
+      "author": "Joss Carr",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/333830967"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Hypoxylon_fragiforme/Hypoxylon_fragiforme_2.webp",
+      "author": "yellowplant",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/303767077"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Hypoxylon_fragiforme/Hypoxylon_fragiforme_3.webp",
+      "author": "ikelman",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/231879849"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Hypoxylon_fragiforme/Hypoxylon_fragiforme_4.webp",
+      "author": "Michel Langeveld",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/321056951"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Hypoxylon_fragiforme/Hypoxylon_fragiforme_5.webp",
+      "author": "Marek Hrušovský",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/416303585"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Xylariales/Hypoxylaceae/Hypoxylon_fragiforme/Hypoxylon_fragiforme@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Hypoxylon_fragiforme/Hypoxylon_fragiforme@1600.webp",
+      "basedOn": [],
+      "existingMark": "The 896×1200 source (JPEG/JFIF bytes in a .png filename, SHA-256 c39231b76b48894274cc5279e2b412e798821147496916ab6ef1154be8da6513, Exif Orientation 1, software Picasa, no alpha) was given a centred 48 px side trim (800×1200, exact 2:3) and enlarged uniformly 2× (Lanczos) to 1600×2400. In the source the cursive Gemini signature has a 59 px right margin, so a centred 48 px trim leaves an 11 px right clearance (22 px at @1600) and does not clip it. Official background.webp (SHA-256 d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c) was applied by the canonical colour-weighted multiply tool (tools/plate_blend/multiply_on_background.py, default trim=48, mode weighted). @1600 SHA-256 c4b536ac254ba9211213932115a752f3486cc80e9502025a612b8801fcc633d8; @400 SHA-256 c3933fffc4b8479f773962572bcbbca64a49645812d338cfc3ceae2e15143cd6."
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Xylariales/Hypoxylaceae/Hypoxylon_fragiforme/Hypoxylon_fragiforme_1.webp",
+      "author": "Joss Carr",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/333830967"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Xylariales/Hypoxylaceae/Hypoxylon_fragiforme/Hypoxylon_fragiforme_2.webp",
+      "author": "yellowplant",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/303767077"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Xylariales/Hypoxylaceae/Hypoxylon_fragiforme/Hypoxylon_fragiforme_3.webp",
+      "author": "ikelman",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/231879849"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Xylariales/Hypoxylaceae/Hypoxylon_fragiforme/Hypoxylon_fragiforme_4.webp",
+      "author": "Michel Langeveld",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/321056951"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Xylariales/Hypoxylaceae/Hypoxylon_fragiforme/Hypoxylon_fragiforme_5.webp",
+      "author": "Marek Hrušovský",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/416303585"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "أجسام ثمرية دقيقة وصلبة، نصف كروية إلى شبه كروية (ستروما)، تبرز عبر لحاء الخشب الميت ولا تملك ساقًا. يبلغ قطرها عادةً 0,2–0,9 cm وارتفاعها نحو 0,2–0,7 cm (تذكر بعض الأدلة في وسط أوروبا 0,4–1,0 × 0,2–0,8 cm). تظهر غالبًا في مجموعات كثيفة متفرقة وقد تلتحم أحيانًا. الصغيرة منها رمادية بيضاء إلى وردية سلمونية وأكثر ملاسة. الناضجة قرمزية آجرية إلى بنية صدئة، بسطح وعر دقيق يشبه الفراولة فيه فتحات دقيقة. القديمة تسودّ.",
+      "cap": "عادةً 0,2–0,9 cm قطرًا ونحو 0,2–0,7 cm ارتفاعًا (تذكر بعض الأدلة في وسط أوروبا 0,4–1,0 × 0,2–0,8 cm). نصف كروي إلى شبه كروي، بلا قبعة منفصلة وبلا ساق، يبرز عبر اللحاء. السطح في البداية رمادي أبيض إلى وردي سلموني وأكثر ملاسة، ثم قرمزي آجري إلى بني صدئ ووعر دقيق بفتحات الحجرات الدقيقة تحت القشرة؛ الأجسام الثمرية القديمة تسودّ.",
+      "hymenium": "السطح الخصيب ليس خياشيم ولا مسامًا ولا أسنانًا. مباشرة تحت القشرة الصدئة الرقيقة طبقة واحدة من حجرات صغيرة داكنة كالقناني، تفتح كل منها بمسام دقيق على السطح. يُظهر مقطع عمودي هذه الحجرات صفًا تحت القشرة، مغروسة في نسيج أسود صلب.",
+      "stipe": "لا توجد ساق. يلتصق كل جسم ثمري مباشرة بالخشب ويبرز عبر اللحاء.",
+      "flesh": "صلب وأسود من الداخل تحت قشرة خارجية صدئة. الرائحة والطعم غير مميزين؛ والأجسام الثمرية أصغر وأصلب من أن تؤكل.",
+      "sporePrint": "طبعة الأبواغ بنية داكنة جدًا. الأبواغ الزقية إهليلجية مستطيلة أو قليلاً بشكل الفاصولياء، عادةً نحو 10–15 × 4,8–6,8 µm.",
+      "habitat": "رمي على الأغصان المتساقطة والجذوع المتعفنة للأشجار عريضة الأوراق، ولا سيما الزان (Fagus)، وبشكل أقل على أخشاب صلبة أخرى لا يزال لها لحاء. يمكن رؤية الأجسام الثمرية في أي شهر؛ وتُطلق الأبواغ الزقية أساسًا في الخريف وأوائل الشتاء.",
+      "uses": "غير صالح للأكل. الأجسام الثمرية دقيقة وصلبة، ولا يُعد فطرًا غذائيًا.",
+      "confusion": "تكوّن Daldinia concentrica وسائد سوداء صلبة أكبر بكثير، يبلغ قطرها عادةً عدة سنتيمترات، ذات نطاقات متحدة المركز رمادية فضية وسوداء في المقطع. تبدو Hypoxylon howeanum شبه متطابقة وتُفصل عادةً بأبواغ أصغر؛ وتوجد غالبًا على عوائل غير الزان. القشور الصدئة المسطحة المنتشرة على الخشب تنتمي إلى أنواع أخرى وليست وسادية الشكل.",
+      "notes": "قطرة من هيدروكسيد البوتاسيوم على السطح تتحول غالبًا إلى البرتقالي. السجلات على عوائل غير الزان قد تنتمي إلى أنواع مشابهة؛ ويساعد مقطع، وقياس الأبواغ عند الحاجة، على تأكيد التعريف.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Дребни, твърди, полусферични до почти кълбовидни плодни тела (строми), които пробиват кората на мъртвата дървесина и нямат пънче. Обикновено са 0,2–0,9 cm в диаметър и около 0,2–0,7 cm високи (някои централноевропейски определители дават 0,4–1,0 × 0,2–0,8 cm). Често се появяват в гъсти, разпръснати групи и понякога се сливат. Младите са сивобели до сьомговорозови и по-гладки. Зрелите са тухленочервени до ръждивокафяви, с фино неравна, ягодовидна повърхност от дребни отвори. Старите почерняват.",
+      "cap": "Обикновено 0,2–0,9 cm в диаметър и около 0,2–0,7 cm висок (някои централноевропейски определители дават 0,4–1,0 × 0,2–0,8 cm). Полусферично до почти кълбовидно образувание без отделна гугла и без пънче, пробиващо кората. Повърхността отначало е сивобяла до сьомговорозова и по-гладка, после тухленочервена до ръждивокафява и фино неравна, с дребните отвори на камерите под кората; старите плодни тела почерняват.",
+      "hymenium": "Спороносната повърхност не е пластинки, тръбички или бодли. Непосредствено под тънката ръждива кора има един слой малки, тъмни, бутилковидни камери, всяка от които се отваря с дребна пора на повърхността. Вертикален разрез ги показва като ред под кората, в твърда черна тъкан.",
+      "stipe": "Пънче няма. Всяко плодно тяло е прикрепено направо към дървесината и пробива кората.",
+      "flesh": "Отвътре твърда и черна, под ръждива външна кора. Мирисът и вкусът не са отличителни; плодните тела са твърде дребни и твърди, за да се ядат.",
+      "sporePrint": "Споровият прах е много тъмнокафяв. Аскоспорите са удължено елипсовидни или леко бобовидни, обикновено около 10–15 × 4,8–6,8 µm.",
+      "habitat": "Сапротроф върху паднали клони и гниещи пънове на широколистни дървета, главно бук (Fagus), по-рядко върху други широколистни, които още имат кора. Плодните тела могат да се видят през всеки месец; аскоспорите се освобождават главно през есента и ранната зима.",
+      "uses": "Неядлива. Плодните тела са дребни и твърди и не се смята за хранителна гъба.",
+      "confusion": "Daldinia concentrica образува много по-големи твърди черни възглавнички, обикновено няколко сантиметра в диаметър, с концентрични сребристосиви и черни зони в разреза. Hypoxylon howeanum изглежда почти същото и обикновено се отделя по по-дребни спори; често се среща на други гостоприемници, а не на бук. Плоските, разстлани ръждиви кори върху дървесината принадлежат на други видове и не са възглавничковидни.",
+      "notes": "Капка калиев хидроксид върху повърхността често става оранжева. Находки на други гостоприемници освен бук могат да принадлежат на сходни видове; разрез и при нужда измерване на спорите помагат да се потвърди определянето.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Drobné, tvrdé, polokulovité až téměř kulovité plodnice (stromata), které prorážejí kůru odumřelého dřeva a nemají třeň. Obvykle měří 0,2–0,9 cm v průměru a jsou vysoké přibližně 0,2–0,7 cm (některé středoevropské příručky uvádějí 0,4–1,0 × 0,2–0,8 cm). Často rostou v hustých, roztroušených skupinách a někdy splývají. Mladé jsou šedobílé až lososově růžové a hladší. Zralé jsou cihlově červené až rezavě hnědé, s jemně hrbolatým, jahodovitým povrchem s drobnými otvory. Staré tmavnou do černa.",
+      "cap": "Obvykle 0,2–0,9 cm v průměru a vysoký přibližně 0,2–0,7 cm (některé středoevropské příručky uvádějí 0,4–1,0 × 0,2–0,8 cm). Polokulovitý až téměř kulovitý útvar bez samostatného klobouku a bez třeně, prorážející kůru. Povrch je nejprve šedobílý až lososově růžový a hladší, později cihlově červený až rezavě hnědý a jemně hrbolatý s drobnými otvory komůrek pod kůrou; staré plodnice tmavnou do černa.",
+      "hymenium": "Výtrusorodá vrstva nejsou lupeny, rourky ani ostny. Těsně pod tenkou rezavou kůrou je jedna vrstva drobných, tmavých, baňkovitých komůrek, z nichž každá se otvírá maličkým otvorem na povrchu. Svislý řez je ukazuje jako řadu pod kůrou, uloženou v tvrdém černém pletivu.",
+      "stipe": "Třeň chybí. Každá plodnice je přirostlá přímo ke dřevu a proráží kůru.",
+      "flesh": "Uvnitř tvrdá a černá, pod rezavou vnější kůrou. Vůně ani chuť nejsou výrazné; plodnice jsou k jídlu příliš drobné a tvrdé.",
+      "sporePrint": "Výtrusný prach je velmi tmavohnědý. Askospory jsou protáhle elipsoidní nebo slabě fazolovité, obvykle přibližně 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprobní houba na padlých větvích a tlejících pařezech listnatých stromů, především na buku (Fagus), řidčeji na jiných tvrdých dřevinách, které ještě mají kůru. Plodnice lze nalézt v kterémkoli měsíci; askospory se uvolňují především na podzim a začátkem zimy.",
+      "uses": "Nejedlá. Plodnice jsou drobné a tvrdé a za jedlou houbu se nepovažuje.",
+      "confusion": "Daldinia concentrica tvoří mnohem větší, tvrdé černé polštářky, obvykle několik centimetrů v průměru, se soustřednými stříbřitě šedými a černými pásy v řezu. Hypoxylon howeanum vypadá téměř stejně a obvykle se odděluje menšími výtrusy; často roste na jiných hostitelích než buk. Plochá, rozprostřená rezavá kůra na dřevě patří jiným druhům a není polštářovitá.",
+      "notes": "Kapka hydroxidu draselného na povrchu často zoranžoví. Nálezy na jiných hostitelích než buk mohou patřit podobným druhům; řez a v případě potřeby měření výtrusů pomáhají potvrdit určení.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351126",
+        "https://www.wikidata.org/wiki/Q242011",
+        "https://www.myko.cz/myko-atlas/Hypoxylon-fragiforme/",
+        "https://www.nahuby.sk/atlas-hub/Hypoxylon-fragiforme/drevovcek-bukovy/drevomor-cerveny/ID65"
+      ],
+      "label": "dřevomor červený"
+    },
+    "da": {
+      "description": "Små, hårde, halvkugleformede til næsten kugleformede frugtlegemer (stromata), der bryder frem gennem barken på dødt ved og ikke har stok. De er typisk 0,2–0,9 cm i diameter og omkring 0,2–0,7 cm høje (nogle mellemeuropæiske håndbøger angiver 0,4–1,0 × 0,2–0,8 cm). De optræder ofte i tætte, spredte grupper og kan smelte sammen. Unge er gråhvide til lakserosa og glattere. Modne er murstensrøde til rustbrune med en fint knudret, jordbærlignende overflade af små åbninger. Gamle bliver sortlige.",
+      "cap": "Typisk 0,2–0,9 cm i diameter og omkring 0,2–0,7 cm høj (nogle mellemeuropæiske håndbøger angiver 0,4–1,0 × 0,2–0,8 cm). Halvkugleformet til næsten kugleformet, uden særskilt hat og uden stok, gennembryder barken. Overfladen er først gråhvid til lakserosa og glattere, senere murstensrød til rustbrun og fint knudret med de små åbninger fra kamrene nedenunder; gamle frugtlegemer bliver sortlige.",
+      "hymenium": "Den fertile overflade består ikke af lameller, rør eller pigge. Lige under den tynde rustne skorpe ligger et enkelt lag små, mørke, flaskeformede kamre, som hver åbner sig med en lille pore på overfladen. Et lodret snit viser dem som en række under skorpen, indlejret i hårdt sort væv.",
+      "stipe": "Der er ingen stok. Hvert frugtlegeme sidder direkte på veden og bryder gennem barken.",
+      "flesh": "Indvendig hård og sort under en rusten ydre skorpe. Lugt og smag er ikke iøjnefaldende; frugtlegemerne er alt for små og hårde at spise.",
+      "sporePrint": "Sporeaftrykket er meget mørkebrunt. Askosporerne er aflangt ellipsoidiske eller let bønneformede, typisk omkring 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprotrof på faldne grene og rådne stubbe af løvtræer, især bøg (Fagus), sjældnere på andet løvtræ, der stadig har bark. Frugtlegemerne kan ses i enhver måned; askosporer frigives især om efteråret og tidligt om vinteren.",
+      "uses": "Uspiselig. Frugtlegemerne er små og hårde, og den betragtes ikke som en spisesvamp.",
+      "confusion": "Daldinia concentrica danner langt større, hårde sorte puder, typisk flere centimeter i diameter, med koncentriske sølvgrå og sorte zoner i snit. Hypoxylon howeanum ser næsten ens ud og adskilles som regel ved mindre sporer; den findes ofte på andre værter end bøg. Flade, udbredte rustne skorper på ved tilhører andre arter og er ikke pudeformede.",
+      "notes": "En dråbe kaliumhydroxid på overfladen bliver ofte orange. Fund på andre værter end bøg kan tilhøre lignende arter; et snit og om nødvendigt en sporemåling hjælper med at bekræfte bestemmelsen.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351126"
+      ],
+      "label": "Kuljordbær"
+    },
+    "de": {
+      "description": "Winzige, harte, halbkugelige bis nahezu kugelige Fruchtkörper (Stromata), die durch die Rinde toten Holzes brechen und keinen Stiel haben. Sie sind typischerweise 0,2–0,9 cm breit und etwa 0,2–0,7 cm hoch (einige mitteleuropäische Bestimmungsbücher geben 0,4–1,0 × 0,2–0,8 cm an). Sie erscheinen oft in dichten, zerstreuten Gruppen und können zusammenwachsen. Junge Exemplare sind graulich weiß bis lachsrosa und glatter. Reife sind ziegelrot bis rostbraun, mit fein höckeriger, erdbeerartiger Oberfläche aus winzigen Öffnungen. Alte werden schwärzlich.",
+      "cap": "Typischerweise 0,2–0,9 cm breit und etwa 0,2–0,7 cm hoch (einige mitteleuropäische Bestimmungsbücher geben 0,4–1,0 × 0,2–0,8 cm an). Halbkugelig bis nahezu kugelig, ohne eigenen Hut und ohne Stiel, durch die Rinde brechend. Die Oberfläche ist zuerst graulich weiß bis lachsrosa und glatter, später ziegelrot bis rostbraun und fein höckerig mit den winzigen Öffnungen der Kammern darunter; alte Fruchtkörper werden schwärzlich.",
+      "hymenium": "Die fruchtbare Fläche besteht nicht aus Lamellen, Röhren oder Stacheln. Unmittelbar unter der dünnen rostigen Kruste liegt eine einzige Schicht kleiner, dunkler, flaschenförmiger Kammern, die sich jeweils durch eine winzige Pore an der Oberfläche öffnen. Ein senkrechter Schnitt zeigt sie als Reihe unter der Kruste, eingebettet in hartes schwarzes Gewebe.",
+      "stipe": "Es gibt keinen Stiel. Jeder Fruchtkörper sitzt unmittelbar am Holz und durchbricht die Rinde.",
+      "flesh": "Innen hart und schwarz, unter einer rostigen Außenkruste. Geruch und Geschmack sind nicht auffällig; die Fruchtkörper sind viel zu klein und hart zum Essen.",
+      "sporePrint": "Das Sporenpulver ist sehr dunkelbraun. Die Ascosporen sind länglich-ellipsoid oder leicht bohnenförmig, typischerweise etwa 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprobiont auf abgefallenen Ästen und verrottenden Stümpfen von Laubbäumen, vor allem an Buche (Fagus), seltener an anderen noch berindeten Laubhölzern. Die Fruchtkörper sind in jedem Monat zu finden; Ascosporen werden vor allem im Herbst und im frühen Winter freigesetzt.",
+      "uses": "Ungenießbar. Die Fruchtkörper sind winzig und hart und gelten nicht als Speisepilz.",
+      "confusion": "Daldinia concentrica bildet deutlich größere, harte schwarze Polster, typischerweise mehrere Zentimeter breit, mit konzentrischen silbergrauen und schwarzen Zonen im Schnitt. Hypoxylon howeanum sieht nahezu gleich aus und wird gewöhnlich durch kleinere Sporen getrennt; sie wächst oft auf anderen Wirten als Buche. Flache, ausgebreitete rostige Krusten auf Holz gehören zu anderen Arten und sind nicht polsterförmig.",
+      "notes": "Ein Tropfen Kaliumhydroxid auf der Oberfläche färbt sich oft orange. Funde auf anderen Wirten als Buche können zu ähnlichen Arten gehören; ein Schnitt und nötigenfalls eine Sporenmessung helfen, die Bestimmung zu bestätigen.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351126",
+        "https://www.wikidata.org/wiki/Q242011"
+      ],
+      "label": "Rötliche Kohlenbeere"
+    },
+    "en": {
+      "description": "Tiny, hard, hemispherical to nearly globose fruit bodies (stromata) that break out through the bark of dead wood, with no stem. They are typically 0.2–0.9 cm across and about 0.2–0.7 cm high (some Central European guides give 0.4–1.0 × 0.2–0.8 cm). They often appear in dense, scattered groups and sometimes merge. Young ones are greyish white to salmon pink and smoother. Mature ones are brick-red to rusty brown, with a finely bumpy, strawberry-like surface of tiny openings. Old ones become blackish.",
+      "cap": "Typically 0.2–0.9 cm across and about 0.2–0.7 cm high (some Central European guides give 0.4–1.0 × 0.2–0.8 cm). Hemispherical to nearly globose, with no separate cap and no stem, breaking out through the bark. The surface starts greyish white to salmon pink and smoother, then becomes brick-red to rusty brown and finely bumpy with the tiny openings of the chambers beneath; old fruit bodies turn blackish.",
+      "hymenium": "The fertile surface is not gills, pores or teeth. Just beneath the thin rusty crust is a single layer of small, dark, flask-shaped chambers, each opening by a minute pore on the surface. A vertical section shows these as a row under the crust, set in hard black tissue.",
+      "stipe": "There is no stem. Each fruit body is attached directly to the wood, bursting through the bark.",
+      "flesh": "Hard and black inside, sitting under a rusty outer crust. Smell and taste are not distinctive; the fruit bodies are far too small and hard to eat.",
+      "sporePrint": "The spore deposit is very dark brown. The ascospores are elongated-ellipsoidal or slightly bean-shaped, typically about 10–15 × 4.8–6.8 µm.",
+      "habitat": "Saprobic on fallen branches and rotting stumps of broadleaf trees, mainly beech (Fagus), less often on other hardwoods that still have their bark. The fruit bodies can be seen in any month; ascospores are released mainly in autumn and early winter.",
+      "uses": "Inedible. The fruit bodies are tiny and hard, and it is not considered a food fungus.",
+      "confusion": "Daldinia concentrica forms much larger, hard black cushions, typically several centimetres across, with concentric silvery-grey and black zones in section. Hypoxylon howeanum looks almost the same and is usually separated by smaller spores; it is often found on hosts other than beech. Flat, spreading rusty crusts on wood belong to other species and are not cushion-shaped.",
+      "notes": "A drop of potassium hydroxide on the surface often turns orange. Records on hosts other than beech may belong to look-alike species; a section and, where needed, a spore measurement help to confirm the identity.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=444018",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=444018",
+        "https://api.gbif.org/v1/species/match?name=Hypoxylon%20fragiforme",
+        "https://www.gbif.org/species/5254672",
+        "https://www.wikidata.org/wiki/Q242011",
+        "https://www.inaturalist.org/taxa/351126",
+        "https://species.wikimedia.org/wiki/Hypoxylon_fragiforme",
+        "https://www.first-nature.com/fungi/hypoxylon-fragiforme.php",
+        "https://www.myko.cz/myko-atlas/Hypoxylon-fragiforme/",
+        "https://www.nahuby.sk/atlas-hub/Hypoxylon-fragiforme/drevovcek-bukovy/drevomor-cerveny/ID65"
+      ],
+      "label": "Beech Woodwart"
+    },
+    "es": {
+      "description": "Fructificaciones diminutas, duras, hemisféricas a casi globosas (estromas), que irrumpen a través de la corteza de la madera muerta y no tienen pie. Miden de modo típico 0,2–0,9 cm de diámetro y unos 0,2–0,7 cm de alto (algunas guías de Europa Central indican 0,4–1,0 × 0,2–0,8 cm). Suelen aparecer en grupos densos y dispersos y a veces se fusionan. Las jóvenes son blanco grisáceas a rosa salmón y más lisas. Las maduras son de rojo ladrillo a pardo herrumbroso, con una superficie finamente abollonada, semejante a una fresa, de diminutas aberturas. Las viejas se vuelven negruzcas.",
+      "cap": "De modo típico 0,2–0,9 cm de diámetro y unos 0,2–0,7 cm de alto (algunas guías de Europa Central indican 0,4–1,0 × 0,2–0,8 cm). Hemisférica a casi globosa, sin sombrero aparte ni pie, irrumpiendo a través de la corteza. La superficie es al principio blanco grisácea a rosa salmón y más lisa, luego de rojo ladrillo a pardo herrumbroso y finamente abollonada, con las diminutas aberturas de las cámaras subyacentes; las fructificaciones viejas se vuelven negruzcas.",
+      "hymenium": "La superficie fértil no es de láminas, poros ni aguijones. Justo bajo la delgada costra herrumbrosa hay una sola capa de pequeñas cámaras oscuras en forma de frasco, cada una abriéndose por un poro minúsculo en la superficie. Un corte vertical las muestra como una hilera bajo la costra, incrustadas en un tejido negro duro.",
+      "stipe": "No hay pie. Cada fructificación se fija directamente a la madera y atraviesa la corteza.",
+      "flesh": "Dura y negra en el interior, bajo una costra externa herrumbrosa. El olor y el sabor no son distintivos; las fructificaciones son demasiado pequeñas y duras para comerse.",
+      "sporePrint": "La esporada es de un pardo muy oscuro. Las ascosporas son elipsoidales alargadas o ligeramente en forma de judía, de modo típico unos 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprófito sobre ramas caídas y tocones en descomposición de árboles de hoja ancha, principalmente haya (Fagus), con menos frecuencia sobre otras maderas duras que aún conservan la corteza. Las fructificaciones se pueden ver en cualquier mes; las ascosporas se liberan sobre todo en otoño y a principios del invierno.",
+      "uses": "No comestible. Las fructificaciones son diminutas y duras, y no se considera un hongo comestible.",
+      "confusion": "Daldinia concentrica forma cojines negros duros mucho mayores, de varios centímetros de diámetro por lo general, con zonas concéntricas gris plateado y negras en el corte. Hypoxylon howeanum tiene casi el mismo aspecto y suele separarse por esporas más pequeñas; a menudo se encuentra en huéspedes distintos del haya. Las costras herrumbrosas planas y extendidas sobre la madera pertenecen a otras especies y no tienen forma de cojín.",
+      "notes": "Una gota de hidróxido de potasio en la superficie suele volverse naranja. Los hallazgos en huéspedes distintos del haya pueden pertenecer a especies semejantes; un corte y, si hace falta, una medición de esporas ayudan a confirmar la identificación.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Tillukesed, kõvad, poolkerajad kuni peaaegu kerajad viljakehad (stromad), mis murravad välja surnud puidu koore alt ja millel ei ole vart. Need on tavaliselt 0,2–0,9 cm läbimõõdus ja umbes 0,2–0,7 cm kõrged (mõned Kesk-Euroopa määrajad annavad 0,4–1,0 × 0,2–0,8 cm). Nad kasvavad sageli tihedates, hajusates rühmades ja võivad kokku kasvada. Noored on hallikasvalged kuni lõheroosad ja siledamad. Küpsed on telliskivipunased kuni roostetpruunid, peenelt mügarliku, maasikataolise pinnaga, millel on tillukesed avad. Vanad mustuvad.",
+      "cap": "Tavaliselt 0,2–0,9 cm läbimõõdus ja umbes 0,2–0,7 cm kõrge (mõned Kesk-Euroopa määrajad annavad 0,4–1,0 × 0,2–0,8 cm). Poolkerajas kuni peaaegu kerajas moodustis ilma eraldi kübarata ja ilma varreta, mis murrab koorest läbi. Pind on algul hallikasvalge kuni lõheroosa ja siledam, hiljem telliskivipunane kuni roostetpruun ja peenelt mügarlik all asuvate kambrite tillukeste avade tõttu; vanad viljakehad mustuvad.",
+      "hymenium": "Eosleheke ei koosne eoslehtedest, torukestest ega ogadest. Õhukese roostet kooriku all on üks kiht väikesi, tumedaid, pudelikujulisi kambreid, millest igaüks avaneb pinnal tillukese poorina. Püstlõige näitab neid reana kooriku all, kinnitatuna kõvasse musta koesse.",
+      "stipe": "Vart ei ole. Iga viljakeha kinnitub otse puidule ja murrab koorest läbi.",
+      "flesh": "Seest kõva ja must, roostet väliskooriku all. Lõhn ja maitse ei ole iseloomulikud; viljakehad on söömiseks liiga väikesed ja kõvad.",
+      "sporePrint": "Eospulber on väga tumedat pruuni. Askospoorid on piklik-ellipsoidsed või kergelt oakujulised, tavaliselt umbes 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprotroof langenud okstel ja lagunevatel kändudel lehtpuudel, peamiselt pöögil (Fagus), harvem teistel lehtpuudel, millel on veel koor. Viljakehi võib leida igal kuul; askospoorid vabanevad peamiselt sügisel ja varatalvel.",
+      "uses": "Mittesöödav. Viljakehad on tillukesed ja kõvad ning seda ei peeta toiduseenteks.",
+      "confusion": "Daldinia concentrica moodustab palju suuremaid, kõvasid musti patju, tavaliselt mitme sentimeetri läbimõõdus, kontsentriliste hõbehallide ja mustade vöönditega lõikes. Hypoxylon howeanum näeb peaaegu sama välja ja eristatakse tavaliselt väiksemate eoste järgi; teda leitakse sageli teistel peremeestel kui pöök. Lamedad, laialivalguvad roostet koorikud puidul kuuluvad teistele liikidele ega ole padjakujulised.",
+      "notes": "Kaaliumhüdroksiidi tilk pinnal muutub sageli oranžiks. Leiud teistel peremeestel kui pöök võivad kuuluda sarnastele liikidele; lõige ja vajaduse korral eoste mõõtmine aitavad määrangut kinnitada.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fa": {
+      "description": "اندام‌های میوه‌ای ریز و سخت، نیم‌کره‌ای تا تقریباً کروی (استروما) که از پوست چوب مرده بیرون می‌زنند و ساقه ندارند. معمولاً 0,2–0,9 cm قطر و حدود 0,2–0,7 cm ارتفاع دارند (برخی راهنماهای اروپای مرکزی 0,4–1,0 × 0,2–0,8 cm را ذکر می‌کنند). اغلب در گروه‌های متراکم و پراکنده ظاهر می‌شوند و گاهی به هم می‌پیوندند. نمونه‌های جوان خاکستری‌سفید تا صورتی سالمونی و صاف‌ترند. نمونه‌های بالغ آجری‌رنگ تا قهوه‌ای زنگاری‌اند، با سطحی ریزبرجسته شبیه توت‌فرنگی و روزنه‌های ریز. نمونه‌های کهنه سیاه‌فام می‌شوند.",
+      "cap": "معمولاً 0,2–0,9 cm قطر و حدود 0,2–0,7 cm ارتفاع (برخی راهنماهای اروپای مرکزی 0,4–1,0 × 0,2–0,8 cm را ذکر می‌کنند). نیم‌کره‌ای تا تقریباً کروی، بدون کلاهک جدا و بدون ساقه، که از پوست بیرون می‌زند. سطح ابتدا خاکستری‌سفید تا صورتی سالمونی و صاف‌تر است، سپس آجری‌رنگ تا قهوه‌ای زنگاری و ریزبرجسته می‌شود، با روزنه‌های ریز حجره‌های زیر پوسته؛ اندام‌های میوه‌ای کهنه سیاه‌فام می‌شوند.",
+      "hymenium": "سطح بارور تیغه، منفذ یا دندانه نیست. درست زیر پوسته نازک زنگاری یک لایه از حجره‌های کوچک تیره بطری‌شکل قرار دارد که هر یک با منفذی ریز در سطح باز می‌شود. مقطع عمودی آنها را به صورت ردیفی زیر پوسته، جای‌گرفته در بافت سیاه سخت، نشان می‌دهد.",
+      "stipe": "ساقه‌ای وجود ندارد. هر اندام میوه‌ای مستقیماً به چوب چسبیده و از پوست بیرون می‌زند.",
+      "flesh": "در درون سخت و سیاه است، زیر پوسته‌ای زنگاری. بو و طعم مشخص نیست؛ اندام‌های میوه‌ای برای خوردن بسیار ریز و سخت‌اند.",
+      "sporePrint": "گردهٔ هاگ قهوه‌ای بسیار تیره است. آسکوسپورها بیضوی کشیده یا کمی لوبیایی‌شکل‌اند، معمولاً حدود 10–15 × 4,8–6,8 µm.",
+      "habitat": "ساپروتروف روی شاخه‌های افتاده و کنده‌های پوسیده درختان پهن‌برگ، عمدتاً راش (Fagus)، و کمتر روی دیگر چوب‌های سخت که هنوز پوست دارند. اندام‌های میوه‌ای را در هر ماه می‌توان دید؛ آسکوسپورها عمدتاً در پاییز و اوایل زمستان آزاد می‌شوند.",
+      "uses": "خوراکی نیست. اندام‌های میوه‌ای ریز و سخت‌اند و قارچ خوراکی به‌شمار نمی‌رود.",
+      "confusion": "Daldinia concentrica بالش‌های سیاه سخت بسیار بزرگ‌تری می‌سازد، معمولاً چند سانتی‌متر قطر، با نوارهای هم‌مرکز خاکستری نقره‌ای و سیاه در مقطع. Hypoxylon howeanum تقریباً همان شکل را دارد و معمولاً با هاگ‌های کوچک‌تر جدا می‌شود؛ اغلب روی میزبان‌هایی جز راش یافت می‌شود. پوسته‌های زنگاری تخت و گسترده روی چوب به گونه‌های دیگر تعلق دارند و بالشی‌شکل نیستند.",
+      "notes": "قطره‌ای از هیدروکسید پتاسیم روی سطح اغلب نارنجی می‌شود. یافته‌ها روی میزبان‌هایی جز راش ممکن است به گونه‌های مشابه تعلق داشته باشند؛ یک مقطع و در صورت نیاز اندازه‌گیری هاگ به تأیید شناسایی کمک می‌کند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Pieniä, kovia, puolipallomaisia tai lähes pallomaisia itiöemiä (stroomia), jotka puhkeavat kuolleen puun kaarnan läpi eikä niillä ole jalkaa. Ne ovat tyypillisesti 0,2–0,9 cm levyisiä ja noin 0,2–0,7 cm korkeita (jotkut keskieurooppalaiset oppaat antavat 0,4–1,0 × 0,2–0,8 cm). Ne kasvavat usein tiheinä, hajanaisina ryhminä ja voivat yhtyä. Nuoret ovat harmaanvalkoisia tai lohenpunaisia ja sileämpiä. Kypsät ovat tiilenpunaisia tai ruosteenruskeita, hienosti nystermäisen, mansikkamaisen pinnan pienine aukkoineen. Vanhat mustuvat.",
+      "cap": "Tyypillisesti 0,2–0,9 cm levyinen ja noin 0,2–0,7 cm korkea (jotkut keskieurooppalaiset oppaat antavat 0,4–1,0 × 0,2–0,8 cm). Puolipallomainen tai lähes pallomainen, ilman erillistä lakkia ja ilman jalkaa, puhkeaa kaarnan läpi. Pinta on aluksi harmaanvalkoinen tai lohenpunainen ja sileämpi, myöhemmin tiilenpunainen tai ruosteenruskea ja hienosti nystermäinen alla olevien kammioiden pienten aukkojen vuoksi; vanhat itiöemät mustuvat.",
+      "hymenium": "Itiölava ei ole helttainen, pillinen eikä piikkinen. Ohut ruosteinen kuori kätkee yhden kerroksen pieniä, tummia, pullomaisia kammioita, joista kukin avautuu pinnalle pienen huokosen kautta. Pystyleikkaus näyttää ne rivinä kuoren alla, upotettuina kovaan mustaan kudokseen.",
+      "stipe": "Jalkaa ei ole. Kukin itiöemä kiinnittyy suoraan puuhun ja puhkeaa kaarnan läpi.",
+      "flesh": "Sisältä kova ja musta ruosteisen ulkokuoren alla. Haju ja maku eivät ole erikoisia; itiöemät ovat liian pieniä ja kovia syötäväksi.",
+      "sporePrint": "Itiöpöly on hyvin tummanruskeaa. Askosporit ovat pitkänomaisen ellipsoideja tai hieman pavunmuotoisia, tyypillisesti noin 10–15 × 4,8–6,8 µm.",
+      "habitat": "Lahottaja kaatuneilla oksilla ja lahoavilla kannoilla lehtipuissa, erityisesti pyökillä (Fagus), harvemmin muilla vielä kaarnaa omaavilla lehtipuilla. Itiöemiä voi tavata minä tahansa kuukautena; askosporit vapautuvat lähinnä syksyllä ja alkutalvella.",
+      "uses": "Syötäväksi kelpaamaton. Itiöemät ovat pieniä ja kovia, eikä sitä pidetä ruokasienenä.",
+      "confusion": "Daldinia concentrica muodostaa paljon suurempia, kovia mustia tyynyjä, tyypillisesti useiden senttimetrien levyisiä, joissa on samankeskisiä hopeanharmaita ja mustia vyöhykkeitä leikkauksessa. Hypoxylon howeanum näyttää miltei samalta ja erotetaan yleensä pienemmistä itiöistä; se kasvaa usein muilla isännillä kuin pyökillä. Litteät, leviävät ruosteiset kuoret puulla kuuluvat muihin lajeihin eivätkä ole tyynymäisiä.",
+      "notes": "Kaliumhydroksidipisara pinnalla värjäytyy usein oranssiksi. Löydöt muilta isänniltä kuin pyökiltä voivat kuulua samannäköisille lajeille; leikkaus ja tarvittaessa itiömittaus auttavat varmistamaan määrityksen.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351126",
+        "https://www.wikidata.org/wiki/Q242011"
+      ],
+      "label": "punasyylä"
+    },
+    "fr": {
+      "description": "Minuscules fructifications dures, hémisphériques à presque globuleuses (stromas), qui percent l’écorce du bois mort et n’ont pas de pied. Elles mesurent typiquement 0,2–0,9 cm de diamètre et environ 0,2–0,7 cm de haut (certains guides d’Europe centrale indiquent 0,4–1,0 × 0,2–0,8 cm). Elles apparaissent souvent en groupes denses et dispersés et peuvent confluer. Les jeunes sont gris blanchâtre à rose saumon et plus lisses. Les adultes sont rouge brique à brun rouille, à surface finement bosselée, évoquant une fraise, parsemée de minuscules ouvertures. Les anciennes noircissent.",
+      "cap": "Typiquement 0,2–0,9 cm de diamètre et environ 0,2–0,7 cm de haut (certains guides d’Europe centrale indiquent 0,4–1,0 × 0,2–0,8 cm). Hémisphérique à presque globuleuse, sans chapeau distinct ni pied, perçant l’écorce. La surface est d’abord gris blanchâtre à rose saumon et plus lisse, puis rouge brique à brun rouille et finement bosselée, avec les minuscules ouvertures des logettes sous-jacentes ; les anciennes fructifications noircissent.",
+      "hymenium": "La surface fertile n’est ni des lames, ni des pores, ni des aiguillons. Juste sous la mince croûte rouille se trouve une seule couche de petites logettes sombres en forme de flacon, chacune s’ouvrant par un pore minuscule à la surface. Une coupe verticale les montre en une rangée sous la croûte, enchâssées dans un tissu noir dur.",
+      "stipe": "Il n’y a pas de pied. Chaque fructification est attachée directement au bois et perce l’écorce.",
+      "flesh": "Dure et noire à l’intérieur, sous une croûte externe rouille. L’odeur et la saveur ne sont pas caractéristiques ; les fructifications sont beaucoup trop petites et dures pour être mangées.",
+      "sporePrint": "La sporée est brun très foncé. Les ascospores sont ellipsoïdes allongées ou légèrement en forme de haricot, typiquement d’environ 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprotrophe sur branches tombées et souches pourrissantes de feuillus, principalement le hêtre (Fagus), plus rarement sur d’autres feuillus encore pourvus d’écorce. Les fructifications se voient en tout mois ; les ascospores sont libérées surtout en automne et au début de l’hiver.",
+      "uses": "Non comestible. Les fructifications sont minuscules et dures, et ce n’est pas considéré comme un champignon alimentaire.",
+      "confusion": "Daldinia concentrica forme des coussinets noirs durs beaucoup plus grands, typiquement de plusieurs centimètres de diamètre, avec des zones concentriques gris argenté et noires en coupe. Hypoxylon howeanum a presque le même aspect et se sépare habituellement par des spores plus petites ; il se trouve souvent sur d’autres hôtes que le hêtre. Les croûtes rouilles planes et étalées sur le bois appartiennent à d’autres espèces et ne sont pas en coussinet.",
+      "notes": "Une goutte d’hydroxyde de potassium à la surface vire souvent à l’orange. Les récoltes sur d’autres hôtes que le hêtre peuvent appartenir à des espèces voisines ; une coupe et, au besoin, une mesure des spores aident à confirmer l’identification.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351126",
+        "https://www.wikidata.org/wiki/Q242011"
+      ],
+      "label": "Hypoxylon en forme de fraise"
+    },
+    "he": {
+      "description": "גופי פרי זעירים וקשים, חצי-כדוריים עד כמעט כדוריים (סטרומות), הפורצים דרך קליפת עץ מת ואין להם רגל. קוטרם בדרך כלל 0,2–0,9 cm וגובהם כ-0,2–0,7 cm (מדריכים מרכז-אירופיים אחדים מציינים 0,4–1,0 × 0,2–0,8 cm). הם מופיעים לעיתים קרובות בקבוצות צפופות ומפוזרות ולעיתים מתמזגים. הצעירים אפרפר-לבנים עד ורוד-סלמון וחלקים יותר. הבשלים אדום-לבנים עד חום-חלודה, עם פני שטח מחוספסים דק, דמויי תות, ונקבים זעירים. הזקנים משחירים.",
+      "cap": "בדרך כלל 0,2–0,9 cm בקוטר וכ-0,2–0,7 cm בגובה (מדריכים מרכז-אירופיים אחדים מציינים 0,4–1,0 × 0,2–0,8 cm). חצי-כדורי עד כמעט כדורי, בלי כובע נפרד ובלי רגל, פורץ דרך הקליפה. פני השטח תחילה אפרפר-לבנים עד ורוד-סלמון וחלקים יותר, אחר כך אדום-לבנים עד חום-חלודה ומחוספסים דק, עם הנקבים הזעירים של התאים שמתחת לקרום; גופי פרי זקנים משחירים.",
+      "hymenium": "פני השטח הפוריים אינם זים, נקבים או שיניים. ממש מתחת לקרום החלודה הדק יש שכבה אחת של תאים קטנים, כהים, דמויי בקבוק, שכל אחד מהם נפתח בנקב זעיר על פני השטח. חתך אנכי מציג אותם כשורה מתחת לקרום, משובצים ברקמה שחורה קשה.",
+      "stipe": "אין רגל. כל גוף פרי מחובר ישירות לעץ ופורץ דרך הקליפה.",
+      "flesh": "קשה ושחור בפנים, מתחת לקרום חיצוני בצבע חלודה. הריח והטעם אינם ייחודיים; גופי הפרי קטנים וקשים מדי לאכילה.",
+      "sporePrint": "אבקת הנבגים חומה כהה מאוד. האסקוספורות אליפסואידיות מוארכות או מעט דמויות שעועית, בדרך כלל כ-10–15 × 4,8–6,8 µm.",
+      "habitat": "ספרוטרוף על ענפים שנשרו וגזעים נרקבים של עצים רחבי-עלים, בעיקר אשור (Fagus), ולעיתים רחוקות יותר על עצים קשיחים אחרים שעדיין יש להם קליפה. אפשר לראות את גופי הפרי בכל חודש; האסקוספורות משתחררות בעיקר בסתיו ובראשית החורף.",
+      "uses": "אינו מאכל. גופי הפרי זעירים וקשים, ואינו נחשב לפטריית מאכל.",
+      "confusion": "Daldinia concentrica יוצר כריות שחורות קשות גדולות בהרבה, בדרך כלל בקוטר של כמה סנטימטרים, עם אזורים קונצנטריים אפור-כסוף ושחור בחתך. Hypoxylon howeanum נראה כמעט אותו דבר ומבדילים אותו בדרך כלל בנבגים קטנים יותר; הוא נמצא לעיתים קרובות על פונדקאים אחרים מאשר אשור. קרומים שטוחים ומתפשטים בצבע חלודה על העץ שייכים למינים אחרים ואינם בצורת כרית.",
+      "notes": "טיפת הידרוקסיד אשלגן על פני השטח הופכת לעיתים קרובות לכתום. ממצאים על פונדקאים אחרים מאשר אשור עשויים להיות שייכים למינים דומים; חתך, ובמידת הצורך מדידת נבגים, מסייעים לאשר את הזיהוי.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "सूक्ष्म, कठोर, अर्धगोलाकार से लगभग गोलाकार फलन-पिंड (स्ट्रोमा) जो मृत काष्ठ की छाल से बाहर निकलते हैं और जिनका डंठल नहीं होता। इनका व्यास आमतौर पर 0,2–0,9 cm और ऊँचाई लगभग 0,2–0,7 cm होती है (कुछ मध्य-यूरोपीय निर्देशिकाएँ 0,4–1,0 × 0,2–0,8 cm बताती हैं)। ये अक्सर घने, बिखरे समूहों में दिखाई देते हैं और कभी-कभी जुड़ जाते हैं। युवा पिंड धूसर-श्वेत से साल्मन-गुलाबी और अधिक चिकने होते हैं। परिपक्व पिंड ईंट-लाल से जंग जैसा भूरा रंग लिए होते हैं, जिनकी सतह बारीक ऊबड़-खाबड़, स्ट्रॉबेरी जैसी और छोटे छिद्रों वाली होती है। पुराने पिंड काले पड़ जाते हैं।",
+      "cap": "आमतौर पर 0,2–0,9 cm व्यास और लगभग 0,2–0,7 cm ऊँचाई (कुछ मध्य-यूरोपीय निर्देशिकाएँ 0,4–1,0 × 0,2–0,8 cm बताती हैं)। अर्धगोलाकार से लगभग गोलाकार रचना, बिना अलग टोपी और बिना डंठल के, छाल से निकलती है। सतह पहले धूसर-श्वेत से साल्मन-गुलाबी और अधिक चिकनी होती है, फिर ईंट-लाल से जंग जैसा भूरा और बारीक ऊबड़-खाबड़ हो जाती है, नीचे की कक्षिकाओं के छोटे छिद्रों के साथ; पुराने फलन-पिंड काले पड़ जाते हैं।",
+      "hymenium": "उर्वर सतह गिल, छिद्र या दाँत नहीं है। पतली जंग-रंगी पपड़ी के ठीक नीचे छोटी, गहरी, फ्लास्क-आकृति की कक्षिकाओं की एक परत होती है, जिनमें से प्रत्येक सतह पर एक सूक्ष्म छिद्र से खुलती है। ऊर्ध्व काट उन्हें पपड़ी के नीचे एक पंक्ति के रूप में दिखाता है, कठोर काले ऊतक में जमी हुई।",
+      "stipe": "डंठल नहीं होता। प्रत्येक फलन-पिंड सीधे काष्ठ से जुड़ा होता है और छाल को फाड़कर निकलता है।",
+      "flesh": "भीतर से कठोर और काला, जंग-रंगी बाहरी पपड़ी के नीचे। गंध और स्वाद विशेष नहीं हैं; फलन-पिंड खाने के लिए बहुत छोटे और कठोर हैं।",
+      "sporePrint": "बीजाणु-चूर्ण बहुत गहरा भूरा होता है। ऐस्कोस्पोर लम्बे-दीर्घवृत्ताकार या थोड़े सेम-आकृति के होते हैं, आमतौर पर लगभग 10–15 × 4,8–6,8 µm।",
+      "habitat": "गिरी हुई शाखाओं और सड़ते ठूँठों पर चौड़ी-पत्ती वाले वृक्षों का मृतोपजीवी, मुख्यतः बीच (Fagus) पर, कम अक्सर अन्य कठोर काष्ठों पर जिन पर अभी छाल बची हो। फलन-पिंड किसी भी महीने दिख सकते हैं; ऐस्कोस्पोर मुख्यतः शरद और शीत के आरंभ में मुक्त होते हैं।",
+      "uses": "अखाद्य। फलन-पिंड सूक्ष्म और कठोर हैं, और इसे खाद्य कवक नहीं माना जाता।",
+      "confusion": "Daldinia concentrica कहीं बड़े, कठोर काले गद्दे बनाती है, आमतौर पर कई सेंटीमीटर व्यास के, जिनके काट में संकेंद्री चाँदी-धूसर और काले वलय होते हैं। Hypoxylon howeanum लगभग वैसा ही दिखता है और आमतौर पर छोटे बीजाणुओं से अलग किया जाता है; यह अक्सर बीच के अलावा अन्य आश्रयियों पर पाया जाता है। काष्ठ पर चपटी, फैली जंग-रंगी पपड़ियाँ अन्य जातियों की होती हैं और गद्दे जैसी नहीं होतीं।",
+      "notes": "सतह पर पोटैशियम हाइड्रॉक्साइड की एक बूँद अक्सर नारंगी हो जाती है। बीच के अलावा अन्य आश्रयियों पर मिले नमूने मिलती-जुलती जातियों के हो सकते हैं; एक काट और आवश्यकता पड़ने पर बीजाणु-माप पहचान की पुष्टि में सहायक होते हैं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Sitna, tvrda, polukuglasta do gotovo kuglasta plodišta (stromata) koja probijaju koru mrtvog drva i nemaju stručak. Obično imaju 0,2–0,9 cm u promjeru i visoka su oko 0,2–0,7 cm (neki srednjoeuropski vodiči navode 0,4–1,0 × 0,2–0,8 cm). Često se pojavljuju u gustim, razbacanim skupinama i ponekad se spajaju. Mlada su sivobijela do lososovo ružičasta i glađa. Zrela su ciglasto crvena do hrđavo smeđa, s fino kvržastom, jagodastom površinom sitnih otvora. Stara potamne do crnoga.",
+      "cap": "Obično 0,2–0,9 cm u promjeru i visok oko 0,2–0,7 cm (neki srednjoeuropski vodiči navode 0,4–1,0 × 0,2–0,8 cm). Polukuglast do gotovo kuglast tvor, bez odvojenog klobuka i bez stručka, koji probija koru. Površina je najprije sivobijela do lososovo ružičasta i glađa, zatim ciglasto crvena do hrđavo smeđa i fino kvržasta sa sitnim otvorima komorica ispod kore; stara plodišta potamne do crnoga.",
+      "hymenium": "Rasplodni sloj nisu listići, cjevčice ni bodlje. Neposredno ispod tanke hrđave kore nalazi se jedan sloj sitnih, tamnih, bočicastih komorica, od kojih se svaka otvara sitnom porom na površini. Okomiti presjek pokazuje ih kao red ispod kore, smješten u tvrdome crnom tkivu.",
+      "stipe": "Stručak nedostaje. Svako plodište priraslo je izravno na drvo i probija koru.",
+      "flesh": "Iznutra tvrdo i crno, pod hrđavom vanjskom korom. Miris i okus nisu osobiti; plodišta su presitna i pretvrda za jelo.",
+      "sporePrint": "Otisak spora vrlo je tamnosmeđ. Askospore su izduženo elipsoidne ili blago grahaste, obično oko 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprobna gljiva na palim granama i trulim panjevima listača, uglavnom na bukvi (Fagus), rjeđe na drugim tvrdim drvećem koje još ima koru. Plodišta se mogu naći u bilo kojjem mjesecu; askospore se oslobađaju uglavnom u jesen i ranoj zimi.",
+      "uses": "Nejestiva. Plodišta su sitna i tvrda i ne smatra se jestivom gljivom.",
+      "confusion": "Daldinia concentrica tvori znatno veće, tvrde crne jastučiće, obično nekoliko centimetara u promjeru, s koncentričnim srebrnosivim i crnim zonama u presjeku. Hypoxylon howeanum izgleda gotovo jednako i obično se odvaja manjim sporama; često raste na drugim domaćinima, a ne na bukvi. Plošnate, razlile hrđave kore na drvu pripadaju drugim vrstama i nisu jastučaste.",
+      "notes": "Kapljica kalijeva hidroksida na površini često postane narančasta. Nalazi na drugim domaćinima osim bukve mogu pripadati sličnim vrstama; presjek i po potrebi mjerenje spora pomažu potvrditi odredbu.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Apró, kemény, félgömbölyű vagy csaknem gömbölyű termőtestek (stromák), amelyek az elhalt fa kérgén törnek ki, és nincs tönkjük. Jellemzően 0,2–0,9 cm átmérőjűek és körülbelül 0,2–0,7 cm magasak (egyes közép-európai határozók 0,4–1,0 × 0,2–0,8 cm-t adnak meg). Gyakran sűrű, szórt csoportokban jelennek meg, és néha összeolvadnak. A fiatalok szürkésfehérek vagy lazacszínűek és simábbak. Az érettek téglavörösek vagy rozsdabarnák, finoman dudoros, eperhez hasonló felülettel, apró nyílásokkal. Az öregek feketednek.",
+      "cap": "Jellemzően 0,2–0,9 cm átmérőjű és körülbelül 0,2–0,7 cm magas (egyes közép-európai határozók 0,4–1,0 × 0,2–0,8 cm-t adnak meg). Félgömbölyű vagy csaknem gömbölyű képződmény, külön kalap és tönk nélkül, a kérgen áttörve. A felszín eleinte szürkésfehér vagy lazacszínű és simább, később téglavörös vagy rozsdabarna és finoman dudoros, az alatta lévő kamrák apró nyílásaival; az öreg termőtestek feketednek.",
+      "hymenium": "A termőréteg nem lemezes, nem csöves és nem tüskés. A vékony rozsdás kéreg alatt egyetlen rétegben kis, sötét, palack alakú kamrák ülnek, amelyek mindegyike apró pórussal nyílik a felszínen. A függőleges metszet sorban mutatja őket a kéreg alatt, kemény fekete szövetbe ágyazva.",
+      "stipe": "Nincs tönk. Minden termőtest közvetlenül a fához kapcsolódik, és áttöri a kérget.",
+      "flesh": "Belül kemény és fekete, rozsdás külső kéreg alatt. Illata és íze nem jellegzetes; a termőtestek túl kicsik és kemények ahhoz, hogy enni lehessen őket.",
+      "sporePrint": "A spórapor nagyon sötétbarna. Az aszkospórák megnyúlt ellipszoidok vagy enyhén babszerűek, jellemzően körülbelül 10–15 × 4,8–6,8 µm.",
+      "habitat": "Lebontó lehullott ágakon és korhadó tuskókon, lombos fákon, elsősorban bükkön (Fagus), ritkábban más, még kérges keményfákon. A termőtestek bármely hónapban megtalálhatók; az aszkospórák főleg ősszel és kora télen szabadulnak fel.",
+      "uses": "Ehetetlen. A termőtestek aprók és kemények, és nem tekinthető étkezési gombának.",
+      "confusion": "A Daldinia concentrica jóval nagyobb, kemény fekete párnákat képez, jellemzően több centiméter átmérőjűeket, koncentrikus ezüstszürke és fekete sávokkal a metszetben. A Hypoxylon howeanum csaknem ugyanúgy néz ki, és rendszerint kisebb spóráival különíthető el; gyakran más gazdán fordul elő, nem bükkön. A fán lévő lapos, kiterülő rozsdás kérgek más fajokhoz tartoznak, és nem párna alakúak.",
+      "notes": "A felszínre cseppentett kálium-hidroxid gyakran narancssárgára színeződik. A bükktől eltérő gazdákon talált példányok hasonlófajokhoz tartozhatnak; a metszet és szükség esetén a spóramérés segít megerősíteni a határozást.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351126",
+        "https://www.wikidata.org/wiki/Q242011"
+      ],
+      "label": "vöröses ripacsgomba"
+    },
+    "id": {
+      "description": "Tubuh buah kecil, keras, berbentuk setengah bola hingga hampir bulat (stroma) yang menembus kulit kayu mati dan tidak memiliki batang. Biasanya berdiameter 0,2–0,9 cm dan tinggi sekitar 0,2–0,7 cm (beberapa panduan Eropa Tengah menyebut 0,4–1,0 × 0,2–0,8 cm). Sering muncul dalam kelompok rapat yang tersebar dan kadang menyatu. Yang muda keabu-abuan putih hingga merah jambu salmon dan lebih licin. Yang dewasa merah bata hingga cokelat berkarat, dengan permukaan berbintil halus menyerupai stroberi dan lubang-lubang kecil. Yang tua menjadi kehitaman.",
+      "cap": "Biasanya 0,2–0,9 cm diameter dan sekitar 0,2–0,7 cm tinggi (beberapa panduan Eropa Tengah menyebut 0,4–1,0 × 0,2–0,8 cm). Setengah bola hingga hampir bulat, tanpa tudung terpisah dan tanpa batang, menembus kulit kayu. Permukaan mula-mula keabu-abuan putih hingga merah jambu salmon dan lebih licin, kemudian merah bata hingga cokelat berkarat dan berbintil halus dengan lubang-lubang kecil bilik di bawahnya; tubuh buah tua menjadi kehitaman.",
+      "hymenium": "Permukaan fertil bukan insang, pori, atau gigi. Tepat di bawah kerak berkarat yang tipis terdapat satu lapis bilik kecil, gelap, berbentuk labu, masing-masing membuka dengan pori sangat kecil di permukaan. Potongan tegak menunjukkannya sebagai deretan di bawah kerak, tertanam dalam jaringan hitam yang keras.",
+      "stipe": "Tidak ada batang. Setiap tubuh buah melekat langsung pada kayu dan menembus kulit kayu.",
+      "flesh": "Di dalam keras dan hitam, di bawah kerak luar berkarat. Bau dan rasa tidak khas; tubuh buah terlalu kecil dan terlalu keras untuk dimakan.",
+      "sporePrint": "Cetakan spora cokelat sangat tua. Askospora berbentuk elipsoid memanjang atau sedikit seperti kacang, biasanya sekitar 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprofit pada cabang rebah dan tunggul membusuk pohon berdaun lebar, terutama beech (Fagus), lebih jarang pada kayu keras lain yang masih berkulit. Tubuh buah dapat dilihat pada bulan apa pun; askospora dilepaskan terutama pada musim gugur dan awal musim dingin.",
+      "uses": "Tidak dapat dimakan. Tubuh buah kecil dan keras, dan tidak dianggap jamur pangan.",
+      "confusion": "Daldinia concentrica membentuk bantal hitam keras yang jauh lebih besar, biasanya beberapa sentimeter diameter, dengan zona konsentris abu-abu keperakan dan hitam pada potongan. Hypoxylon howeanum tampak hampir sama dan biasanya dipisahkan oleh spora yang lebih kecil; sering ditemukan pada inang selain beech. Kerak berkarat pipih yang merambat pada kayu termasuk spesies lain dan tidak berbentuk bantal.",
+      "notes": "Setetes kalium hidroksida pada permukaan sering berubah oranye. Temuan pada inang selain beech mungkin termasuk spesies serupa; potongan dan, bila perlu, pengukuran spora membantu menegaskan identifikasi.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Minuscoli corpi fruttiferi duri, emisferici o quasi globosi (stromi), che irrompono attraverso la corteccia del legno morto e non hanno gambo. Misurano tipicamente 0,2–0,9 cm di diametro e circa 0,2–0,7 cm di altezza (alcune guide dell’Europa centrale indicano 0,4–1,0 × 0,2–0,8 cm). Compaiono spesso in gruppi densi e sparsi e talvolta confluiscono. I giovani sono biancastri-grigi o rosa salmone e più lisci. I maturi sono rosso mattone o bruno ruggine, con una superficie finemente bitorzoluta, simile a una fragola, di minuscole aperture. I vecchi diventano nerastre.",
+      "cap": "Tipicamente 0,2–0,9 cm di diametro e circa 0,2–0,7 cm di altezza (alcune guide dell’Europa centrale indicano 0,4–1,0 × 0,2–0,8 cm). Emisferico o quasi globoso, senza cappello distinto né gambo, irrompe attraverso la corteccia. La superficie è dapprima biancastra-grigia o rosa salmone e più liscia, poi rosso mattone o bruno ruggine e finemente bitorzoluta, con le minuscole aperture delle camere sottostanti; i corpi fruttiferi vecchi diventano nerastre.",
+      "hymenium": "La superficie fertile non è costituita da lamelle, pori o aculei. Subito sotto la sottile crosta rugginosa si trova un solo strato di piccole camere scure a fiasco, ciascuna aprentesi con un poro minuscolo in superficie. Una sezione verticale le mostra come una fila sotto la crosta, immerse in un tessuto nero duro.",
+      "stipe": "Non c’è gambo. Ogni corpo fruttifero è attaccato direttamente al legno e rompe la corteccia.",
+      "flesh": "Dura e nera all’interno, sotto una crosta esterna rugginosa. Odore e sapore non sono distintivi; i corpi fruttiferi sono troppo piccoli e duri da mangiare.",
+      "sporePrint": "La sporata è bruno molto scuro. Le ascospore sono ellissoidali allungate o leggermente a forma di fagiolo, tipicamente circa 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprotrofo su rami caduti e ceppaie in decomposizione di latifoglie, soprattutto faggio (Fagus), più di rado su altre latifoglie che conservano ancora la corteccia. I corpi fruttiferi si possono vedere in qualsiasi mese; le ascospore vengono rilasciate soprattutto in autunno e all’inizio dell’inverno.",
+      "uses": "Non commestibile. I corpi fruttiferi sono minuscoli e duri, e non è considerato un fungo commestibile.",
+      "confusion": "Daldinia concentrica forma cuscini neri duri molto più grandi, tipicamente di diversi centimetri di diametro, con zone concentriche grigio-argentee e nere in sezione. Hypoxylon howeanum ha quasi lo stesso aspetto e di solito si distingue per spore più piccole; si trova spesso su ospiti diversi dal faggio. Le croste rugginose piatte e distese sul legno appartengono ad altre specie e non sono a forma di cuscino.",
+      "notes": "Una goccia di idrossido di potassio sulla superficie diventa spesso arancione. I ritrovamenti su ospiti diversi dal faggio possono appartenere a specie simili; una sezione e, se necessario, una misurazione delle spore aiutano a confermare l’identificazione.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "小さく硬い、半球形からほぼ球形の子実体（子座）で、枯死した材の樹皮を破って現れ、柄はない。径はふつう 0.2–0.9 cm、高さはおよそ 0.2–0.7 cm（中欧の図鑑の一部は 0.4–1.0 × 0.2–0.8 cm とする）。しばしば密で散在した群れになり、ときに癒合する。若いものは灰白色からサーモンピンクでより平滑。成熟すると煉瓦色から錆褐色になり、細かい凹凸のあるイチゴ状の表面に微小な開口がある。古いものは黒ずむ。",
+      "cap": "ふつう径 0.2–0.9 cm、高さおよそ 0.2–0.7 cm（中欧の図鑑の一部は 0.4–1.0 × 0.2–0.8 cm とする）。半球形からほぼ球形で、独立した傘も柄もなく、樹皮を破って出る。表面は初め灰白色からサーモンピンクでより平滑、のちに煉瓦色から錆褐色となり、下の子嚢殻の微小な開口で細かく凹凸する。古い子実体は黒ずむ。",
+      "hymenium": "生殖面はひだ、管孔、針のいずれでもない。薄い錆色の外皮のすぐ下に、小さく暗いフラスコ形の子嚢殻が1層あり、それぞれ表面の微小な孔で開く。縦断面では外皮の下に1列に並び、硬い黒色組織に埋まる。",
+      "stipe": "柄はない。各子実体は材に直接つき、樹皮を破って出る。",
+      "flesh": "内部は硬く黒く、錆色の外皮の下にある。香りと味は特になく、子実体は食用には小さすぎ、硬すぎる。",
+      "sporePrint": "胞子紋はごく暗い褐色。子嚢胞子は細長い楕円形またはやや豆形で、ふつうおよそ 10–15 × 4.8–6.8 µm。",
+      "habitat": "落ち枝や腐りかけた切り株など広葉樹の材上の腐生菌で、主にブナ（Fagus）、まれに樹皮の残る他の広葉樹にも出る。子実体はどの月でも見られ、子嚢胞子は主に秋と初冬に放出される。",
+      "uses": "食用にならない。子実体は小さく硬く、食用きのことはみなされない。",
+      "confusion": "Daldinia concentrica ははるかに大きく硬い黒いクッション状の子実体を作り、径はふつう数センチメートル、断面に銀灰色と黒の同心円帯がある。Hypoxylon howeanum はほとんど同じに見え、通常はより小さな胞子で区別され、ブナ以外の宿主にもしばしば出る。材上の平たく広がる錆色の痂皮は別種で、クッション形ではない。",
+      "notes": "表面に滴した水酸化カリウムはしばしば橙変する。ブナ以外の宿主での記録は類似種である可能性があり、断面と、必要なら胞子の計測が同定の確認に役立つ。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351126"
+      ],
+      "label": "アカコブタケ"
+    },
+    "ko": {
+      "description": "작고 단단한 반구형 내지 거의 구형의 자실체(자좌)로, 죽은 나무의 껍질을 뚫고 나오며 자루가 없다. 지름은 보통 0.2–0.9 cm, 높이는 약 0.2–0.7 cm이다(일부 중부 유럽 도감은 0.4–1.0 × 0.2–0.8 cm를 적는다). 자주 빽빽하고 흩어진 무리로 나타나며 때로 합쳐진다. 어린 것은 회백색에서 연어분홍색으로 더 매끈하다. 성숙한 것은 벽돌색에서 녹슨 갈색이며, 잔돌기가 있는 딸기 같은 표면에 아주 작은 구멍이 있다. 오래된 것은 검게 변한다.",
+      "cap": "보통 지름 0.2–0.9 cm, 높이 약 0.2–0.7 cm(일부 중부 유럽 도감은 0.4–1.0 × 0.2–0.8 cm를 적는다). 반구형 내지 거의 구형이며 따로 된 갓과 자루가 없고 껍질을 뚫고 나온다. 표면은 처음 회백색에서 연어분홍색으로 더 매끈하다가, 나중에 벽돌색에서 녹슨 갈색이 되고 아래 방들의 아주 작은 구멍으로 잔돌기가 생긴다. 오래된 자실체는 검게 변한다.",
+      "hymenium": "생식면은 주름살도 관도 침도 아니다. 얇은 녹슨 껍질 바로 아래에 작고 어두운 플라스크 모양의 방 한 층이 있으며, 각각 표면의 아주 작은 구멍으로 열린다. 세로 단면은 그것들을 껍질 아래 한 줄로, 단단한 검은 조직에 묻혀 보여 준다.",
+      "stipe": "자루가 없다. 각 자실체는 나무에 바로 붙어서 껍질을 뚫고 나온다.",
+      "flesh": "속은 단단하고 검으며 녹슨 겉껍질 아래에 있다. 냄새와 맛은 특징적이지 않다. 자실체는 먹기에는 너무 작고 단단하다.",
+      "sporePrint": "포자무늬는 매우 어두운 갈색이다. 자낭포자는 가늘고 긴 타원형 또는 약간 콩 모양이며, 보통 약 10–15 × 4.8–6.8 µm이다.",
+      "habitat": "떨어진 가지와 썩는 그루터기의 활엽수, 주로 너도밤나무(Fagus)에서 부생하며, 껍질이 남은 다른 활엽수에도 드물게 난다. 자실체는 어느 달에도 볼 수 있고, 자낭포자는 주로 가을과 초겨울에 방출된다.",
+      "uses": "식용 불가. 자실체가 작고 단단하여 식용 버섯으로 보지 않는다.",
+      "confusion": "Daldinia concentrica는 훨씬 크고 단단한 검은 방석 모양 자실체를 만들며, 지름은 보통 수 센티미터이고 단면에 은회색과 검은색의 동심원 띠가 있다. Hypoxylon howeanum은 거의 똑같이 보이며 보통 더 작은 포자로 구별되고, 너도밤나무가 아닌 다른 기주에서도 자주 난다. 나무 위의 납작하고 퍼진 녹슨 껍질은 다른 종의 것이며 방석 모양이 아니다.",
+      "notes": "표면에 떨어뜨린 수산화칼륨은 종종 주황색으로 변한다. 너도밤나무가 아닌 기주에서의 기록은 닮은 종일 수 있으며, 단면과 필요하면 포자 측정이 동정을 확인하는 데 도움이 된다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Maži, kieti, pusrutuliški iki beveik rutuliškų vaisiakūniai (stromos), pramušantys negyvos medienos žievę ir neturintys koto. Jie paprastai yra 0,2–0,9 cm skersmens ir apie 0,2–0,7 cm aukščio (kai kurie Vidurio Europos vadovai nurodo 0,4–1,0 × 0,2–0,8 cm). Dažnai auga tankiomis, išsibarsčiusiomis grupėmis ir kartais susilieja. Jauni būna pilkšvai balti iki lašišos rožinės ir lygesni. Subrendę – plytų raudonumo iki rūdžių rudos, su smulkiai nelygiu, braškių pavidalo paviršiumi ir mažytėmis angomis. Seni tamsta iki juosvumo.",
+      "cap": "Paprastai 0,2–0,9 cm skersmens ir apie 0,2–0,7 cm aukščio (kai kurie Vidurio Europos vadovai nurodo 0,4–1,0 × 0,2–0,8 cm). Pusrutulio iki beveik rutulio pavidalo darinys be atskiros kepurėlės ir be koto, pramušantis žievę. Paviršius pirma pilkšvai baltas iki lašišos rožinės ir lygesnis, vėliau plytų raudonumo iki rūdžių rudos ir smulkiai nelygus, su po pluta esančių kamerų mažytėmis angomis; seni vaisiakūniai tamsta iki juosvumo.",
+      "hymenium": "Derlingasis paviršius nėra lakšteliai, vamzdeliai ar dygliai. Tiesiai po plona rūdžių pluta yra vienas sluoksnis mažų, tamsių, buteliuko pavidalo kamerų, kurių kiekviena atsiveria paviršiuje mažyte pora. Vertikalus pjūvis rodo jas kaip eilę po pluta, įsodintas kietame juodame audinyje.",
+      "stipe": "Koto nėra. Kiekvienas vaisiakūnis prisitvirtinęs tiesiai prie medienos ir pramuša žievę.",
+      "flesh": "Viduje kieta ir juoda, po rūdžių išorine pluta. Kvapas ir skonis nėra išskirtiniai; vaisiakūniai per maži ir per kieti valgyti.",
+      "sporePrint": "Sporų milteliai labai tamsiai rudi. Askosporos pailgai elipsoidinės arba šiek tiek pupelės pavidalo, paprastai apie 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprotrofas ant nuvirtusių šakų ir pūvančių kelmų lapuočių, daugiausia bukų (Fagus), rečiau ant kitų kietųjų lapuočių, kurie dar turi žievę. Vaisiakūnius galima rasti bet kurį mėnesį; askosporos išsiskiria daugiausia rudenį ir žiemos pradžioje.",
+      "uses": "Nevalgomas. Vaisiakūniai maži ir kieti, ir jis nelaikomas valgoma kempine.",
+      "confusion": "Daldinia concentrica sudaro gerokai didesnes, kietas juodas pagalvėles, paprastai kelių centimetrų skersmens, su koncentrinėmis sidabriškai pilkomis ir juodomis juostomis pjūvyje. Hypoxylon howeanum atrodo beveik taip pat ir paprastai atskiriamas mažesnėmis sporomis; dažnai auga ant kitų šeimininkų, ne bukų. Plokščios, išplitusios rūdžių plutos ant medienos priklauso kitoms rūšims ir nėra pagalvėlės pavidalo.",
+      "notes": "Kalio hidroksido lašas ant paviršiaus dažnai oranžėja. Radiniai ant kitų šeimininkų nei bukas gali priklausyti panašioms rūšims; pjūvis ir prireikus sporų matavimas padeda patvirtinti nustatymą.",
+      "names": [
+        "Rausvasis šiurpis"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351126",
+        "https://www.wikidata.org/wiki/Q242011"
+      ],
+      "label": "Rausvasis anglinukas"
+    },
+    "lv": {
+      "description": "Sīki, cieti, puslodes līdz gandrīz lodveida augļķermeņi (stromas), kas izlaužas cauri atmira koka mizai un kuriem nav kātiņa. Tie parasti ir 0,2–0,9 cm diametrā un apmēram 0,2–0,7 cm augsti (daži Centrāleiropas ceļveži norāda 0,4–1,0 × 0,2–0,8 cm). Tie bieži parādās blīvās, izklaidus grupās un reizēm saplūst. Jaunie ir pelēkbalts līdz laša sārti un gludāki. Nobriedušie ir ķieģeļsarkani līdz rūsas brūni, ar sīki paugurainu, zemeņu līdzīgu virsmu un sīkām atverēm. Vecie kļūst melnīgi.",
+      "cap": "Parasti 0,2–0,9 cm diametrā un apmēram 0,2–0,7 cm augsts (daži Centrāleiropas ceļveži norāda 0,4–1,0 × 0,2–0,8 cm). Puslodes līdz gandrīz lodveida veidojums bez atsevišķas cepurītes un bez kātiņa, izlaužas cauri mizai. Virsma vispirms pelēkbalts līdz laša sārta un gludāka, vēlāk ķieģeļsarkana līdz rūsas brūna un sīki pauguraina ar zem garozas esošo kameru sīkajām atverēm; vecie augļķermeņi kļūst melnīgi.",
+      "hymenium": "Auglīgā virsma nav lapiņas, stobriņi vai adatas. Tieši zem plānās rūsas garozas ir viens slānis mazu, tumšu, pudeļu veida kameru, no kurām katra atveras ar sīku poru uz virsmas. Vertikāls griezums tās parāda kā rindu zem garozas, ieguldot cietā melnā audumā.",
+      "stipe": "Kātiņa nav. Katrs augļķermenis ir piestiprināts tieši pie koksnes un izlaužas cauri mizai.",
+      "flesh": "Iekšpusē ciets un melns zem rūsas ārējās garozas. Smarža un garša nav raksturīgas; augļķermeņi ir pārāk mazi un cieti, lai tos ēstu.",
+      "sporePrint": "Sporu pulveris ir ļoti tumši brūns. Askosporas ir iegareni elipsoidālas vai nedaudz pupiņveida, parasti apmēram 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprotofs uz nokritušiem zariem un trūdošiem celmiem lapu kokiem, galvenokārt dižskābardim (Fagus), retāk uz citiem cietajiem lapu kokiem, kuriem vēl ir miza. Augļķermeņus var atrast jebkurā mēnesī; askosporas izdalās galvenokārt rudenī un agrā ziemā.",
+      "uses": "Neēdams. Augļķermeņi ir sīki un cieti, un tas netiek uzskatīts par ēdamu sēni.",
+      "confusion": "Daldinia concentrica veido daudz lielākus, cietus melnus spilvenīšus, parasti vairāku centimetru diametrā, ar koncentriskām sudrabpelēkām un melnām joslām griezumā. Hypoxylon howeanum izskatās gandrīz tāpat un parasti atšķiras ar mazākām sporām; bieži sastopams uz citiem saimniekiem, nevis dižskābardi. Plakanas, izplūdušas rūsas garozas uz koksnes pieder citām sugām un nav spilvena formā.",
+      "notes": "Kālija hidroksīda piliens uz virsmas bieži kļūst oranžs. Atradumi uz citiem saimniekiem, nevis dižskābardi, var piederēt līdzīgām sugām; griezums un vajadzības gadījumā sporu mērīšana palīdz apstiprināt noteikšanu.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Kleine, harde, halfbolvormige tot bijna bolvormige vruchtlichamen (stromata) die door de schors van dood hout breken en geen steel hebben. Ze zijn typisch 0,2–0,9 cm breed en ongeveer 0,2–0,7 cm hoog (sommige Midden-Europese gidsen geven 0,4–1,0 × 0,2–0,8 cm). Ze verschijnen vaak in dichte, verspreide groepjes en groeien soms samen. Jonge exemplaren zijn grijswit tot zalmroze en gladder. Rijpe zijn baksteenrood tot roestbruin, met een fijn knobbelig, aardbei-achtig oppervlak van minuscule openingen. Oude worden zwartachtig.",
+      "cap": "Typisch 0,2–0,9 cm breed en ongeveer 0,2–0,7 cm hoog (sommige Midden-Europese gidsen geven 0,4–1,0 × 0,2–0,8 cm). Halfbolvormig tot bijna bolvormig, zonder aparte hoed en zonder steel, door de schors brekend. Het oppervlak is eerst grijswit tot zalmroze en gladder, later baksteenrood tot roestbruin en fijn knobbelig met de minuscule openingen van de kamers eronder; oude vruchtlichamen worden zwartachtig.",
+      "hymenium": "Het vruchtbare oppervlak bestaat niet uit lamellen, buisjes of stekels. Direct onder de dunne roestige korst ligt één laag kleine, donkere, flesvormige kamers, die elk met een minuscule porie aan het oppervlak openen. Een verticale doorsnede toont ze als een rij onder de korst, ingebed in hard zwart weefsel.",
+      "stipe": "Er is geen steel. Elk vruchtlichaam zit rechtstreeks op het hout en breekt door de schors.",
+      "flesh": "Binnenin hard en zwart, onder een roestige buitenkorst. Geur en smaak zijn niet kenmerkend; de vruchtlichamen zijn veel te klein en te hard om te eten.",
+      "sporePrint": "De sporenafdruk is zeer donkerbruin. De ascosporen zijn langwerpig-ellipsoïd of iets boonvormig, typisch ongeveer 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprotroof op afgevallen takken en rottende stronken van loofbomen, vooral beuk (Fagus), minder vaak op ander loofhout dat nog schors heeft. De vruchtlichamen zijn in elke maand te vinden; ascosporen komen vooral in de herfst en vroege winter vrij.",
+      "uses": "Oneetbaar. De vruchtlichamen zijn klein en hard, en het wordt niet als eetbare paddenstoel beschouwd.",
+      "confusion": "Daldinia concentrica vormt veel grotere, harde zwarte kussens, typisch enkele centimeters breed, met concentrische zilvergrijze en zwarte zones in doorsnede. Hypoxylon howeanum ziet er bijna hetzelfde uit en wordt gewoonlijk gescheiden door kleinere sporen; hij groeit vaak op andere waardplanten dan beuk. Platte, uitgespreide roestige korsten op hout horen bij andere soorten en zijn niet kussenvormig.",
+      "notes": "Een druppel kaliumhydroxide op het oppervlak kleurt vaak oranje. Vondsten op andere waardplanten dan beuk kunnen tot gelijkende soorten behoren; een doorsnede en zo nodig een sporenmeting helpen de determinatie te bevestigen.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351126",
+        "https://www.wikidata.org/wiki/Q242011"
+      ],
+      "label": "Roestbruine kogelzwam"
+    },
+    "no": {
+      "description": "Små, harde, halvkuleformede til nesten kuleformede fruktlegemer (stromata) som bryter fram gjennom barken på død ved og ikke har stilk. De er typisk 0,2–0,9 cm i diameter og omtrent 0,2–0,7 cm høye (noen sentraleuropeiske håndbøker oppgir 0,4–1,0 × 0,2–0,8 cm). De opptrer ofte i tette, spredte grupper og kan vokse sammen. Unge er gråhvite til lakserosa og jevnere. Modne er teglsteinsrøde til rustbrune, med en fint knudrete, jordbærlignende overflate av små åpninger. Gamle blir svartaktige.",
+      "cap": "Typisk 0,2–0,9 cm i diameter og omtrent 0,2–0,7 cm høy (noen sentraleuropeiske håndbøker oppgir 0,4–1,0 × 0,2–0,8 cm). Halvkuleformet til nesten kuleformet, uten egen hatt og uten stilk, bryter gjennom barken. Overflaten er først gråhvit til lakserosa og jevnere, senere teglsteinsrød til rustbrun og fint knudrete med de små åpningene fra kamrene under; gamle fruktlegemer blir svartaktige.",
+      "hymenium": "Den fertile overflaten består ikke av skiver, rør eller pigger. Like under den tynne rustne skorpen ligger ett lag av små, mørke, flaskeformede kamre, som hver åpner seg med en liten pore på overflaten. Et loddrett snitt viser dem som en rekke under skorpen, innleiret i hardt svart vev.",
+      "stipe": "Det finnes ingen stilk. Hvert fruktlegeme sitter direkte på veden og bryter gjennom barken.",
+      "flesh": "Inni hard og svart, under en rusten ytre skorpe. Lukt og smak er ikke særpregete; fruktlegemene er altfor små og harde å spise.",
+      "sporePrint": "Sporeavtrykket er svært mørkebrunt. Askosporene er avlangt ellipsoide eller noe bønneformede, typisk omkring 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprotrof på falne greiner og råtnende stubber av løvtrær, hovedsakelig bøk (Fagus), sjeldnere på annet løvtre som fortsatt har bark. Fruktlegemene kan sees i hvilken som helst måned; askosporer frigjøres særlig om høsten og tidlig vinter.",
+      "uses": "Usiselig. Fruktlegemene er små og harde, og den regnes ikke som en matsopp.",
+      "confusion": "Daldinia concentrica danner langt større, harde svarte puter, typisk flere centimeter i diameter, med konsentriske sølvgrå og svarte soner i snitt. Hypoxylon howeanum ser nesten lik ut og skilles vanligvis ved mindre sporer; den finnes ofte på andre verter enn bøk. Flate, utbredte rustne skorper på ved tilhører andre arter og er ikke puteformede.",
+      "notes": "En dråpe kaliumhydroksid på overflaten blir ofte oransje. Funn på andre verter enn bøk kan tilhøre lignende arter; et snitt og om nødvendig en sporemåling hjelper til å bekrefte bestemmelsen.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351126"
+      ],
+      "label": "bøkekullsopp"
+    },
+    "pl": {
+      "description": "Drobne, twarde, półkuliste do niemal kulistych owocniki (stromata), które przebijają korę martwego drewna i nie mają trzonu. Zwykle mają 0,2–0,9 cm średnicy i około 0,2–0,7 cm wysokości (niektóre środkowoeuropejskie przewodniki podają 0,4–1,0 × 0,2–0,8 cm). Często pojawiają się w gęstych, rozproszonych grupach i niekiedy zlewają się. Młode są szarawobiałe do łososioworóżowych i gładsze. Dojrzałe są ceglastoczerwone do rdzawobrązowych, z drobno pagórkowatą, truskawkowatą powierzchnią usianą drobnymi otworkami. Stare czernieją.",
+      "cap": "Zwykle 0,2–0,9 cm średnicy i około 0,2–0,7 cm wysokości (niektóre środkowoeuropejskie przewodniki podają 0,4–1,0 × 0,2–0,8 cm). Półkulisty do niemal kulistego twór bez oddzielnego kapelusza i bez trzonu, przebijający korę. Powierzchnia jest najpierw szarawobiała do łososioworóżowej i gładsza, później ceglastoczerwona do rdzawobrązowej i drobno pagórkowata, z drobnymi otworkami komór pod korą; stare owocniki czernieją.",
+      "hymenium": "Warstwa zarodnikonośna to nie blaszki, rurki ani kolce. Tuż pod cienką rdzawą skorupą znajduje się pojedyncza warstwa drobnych, ciemnych, butelkowatych komór, z których każda otwiera się drobnym porami na powierzchni. Przekrój pionowy pokazuje je jako rząd pod skorupą, osadzony w twardym czarnym miąższu.",
+      "stipe": "Trzonu brak. Każdy owocnik przyrasta bezpośrednio do drewna i przebija korę.",
+      "flesh": "Wewnątrz twarda i czarna, pod rdzawą zewnętrzną skorupą. Zapach i smak nie są charakterystyczne; owocniki są zbyt drobne i twarde, by je jeść.",
+      "sporePrint": "Wysyp zarodników jest bardzo ciemnobrązowy. Askospory są wydłużono-elipsoidalne lub lekko nerkowate, zwykle około 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprotrof na opadłych gałęziach i gnijących pniakach drzew liściastych, głównie buka (Fagus), rzadziej na innych twardych drzewach, które jeszcze mają korę. Owocniki można znaleźć w każdym miesiącu; askospory uwalniają się głównie jesienią i wczesną zimą.",
+      "uses": "Niejadalny. Owocniki są drobne i twarde i nie jest uważany za grzyb jadalny.",
+      "confusion": "Daldinia concentrica tworzy znacznie większe, twarde czarne poduszki, zwykle kilku centymetrów średnicy, z koncentrycznymi srebrzystoszarymi i czarnymi strefami w przekroju. Hypoxylon howeanum wygląda niemal tak samo i zwykle oddziela się mniejszymi zarodnikami; często występuje na innych żywicielach niż buk. Płaskie, rozpostarte rdzawe skorupy na drewnie należą do innych gatunków i nie są poduszkowate.",
+      "notes": "Kropla wodorotlenku potasu na powierzchni często barwi się na pomarańczowo. Stanowiska na innych żywicielach niż buk mogą należeć do podobnych gatunków; przekrój i w razie potrzeby pomiar zarodników pomagają potwierdzić oznaczenie.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351126",
+        "https://www.wikidata.org/wiki/Q242011"
+      ],
+      "label": "drewniak szkarłatny"
+    },
+    "pt": {
+      "description": "Frutificações minúsculas, duras, hemisféricas a quase globosas (stromas), que rompem a casca da madeira morta e não têm pé. Medem tipicamente 0,2–0,9 cm de diâmetro e cerca de 0,2–0,7 cm de altura (alguns guias da Europa Central indicam 0,4–1,0 × 0,2–0,8 cm). Surgem frequentemente em grupos densos e dispersos e por vezes fundem-se. As jovens são branco-acinzentadas a rosa-salmão e mais lisas. As maduras são vermelho-tijolo a castanho-ferrugem, com uma superfície finamente irregular, semelhante a um morango, de minúsculas aberturas. As velhas tornam-se negrentas.",
+      "cap": "Tipicamente 0,2–0,9 cm de diâmetro e cerca de 0,2–0,7 cm de altura (alguns guias da Europa Central indicam 0,4–1,0 × 0,2–0,8 cm). Hemisférica a quase globosa, sem chapéu distinto nem pé, rompendo a casca. A superfície começa branco-acinzentada a rosa-salmão e mais lisa, tornando-se depois vermelho-tijolo a castanho-ferrugem e finamente irregular, com as minúsculas aberturas das câmaras por baixo; as frutificações velhas tornam-se negrentas.",
+      "hymenium": "A superfície fértil não é constituída por lâminas, poros nem agulhões. Logo sob a fina crosta ferrugenta há uma única camada de pequenas câmaras escuras em forma de frasco, cada uma abrindo-se por um poro minúsculo à superfície. Um corte vertical mostra-as numa fila sob a crosta, incrustadas em tecido negro duro.",
+      "stipe": "Não há pé. Cada frutificação está presa diretamente à madeira e rompe a casca.",
+      "flesh": "Dura e negra no interior, sob uma crosta externa ferrugenta. O cheiro e o sabor não são distintivos; as frutificações são demasiado pequenas e duras para se comerem.",
+      "sporePrint": "A esporada é castanho muito escuro. Os ascosporos são elipsoidais alongados ou ligeiramente em forma de feijão, tipicamente cerca de 10–15 × 4,8–6,8 µm.",
+      "habitat": "Sapróbia em ramos caídos e cepos em decomposição de árvores de folha larga, principalmente faia (Fagus), menos vezes noutras madeiras duras que ainda têm casca. As frutificações podem ver-se em qualquer mês; os ascosporos libertam-se sobretudo no outono e no início do inverno.",
+      "uses": "Não comestível. As frutificações são minúsculas e duras, e não é considerado um cogumelo comestível.",
+      "confusion": "Daldinia concentrica forma coxins negros duros muito maiores, tipicamente com vários centímetros de diâmetro, com zonas concêntricas cinzento-prateadas e negras em corte. Hypoxylon howeanum tem quase o mesmo aspeto e costuma separar-se por esporos mais pequenos; encontra-se frequentemente noutros hospedeiros que não a faia. Crosta ferrugenta plana e alastrada na madeira pertence a outras espécies e não tem forma de coxim.",
+      "notes": "Uma gota de hidróxido de potássio à superfície torna-se frequentemente laranja. Registos noutros hospedeiros que não a faia podem pertencer a espécies semelhantes; um corte e, se necessário, uma medição de esporos ajudam a confirmar a identificação.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Fructificații minuscule, dure, emisferice până aproape globuloase (stroma), care străpung scoarța lemnului mort și nu au picior. Au de obicei 0,2–0,9 cm în diametru și circa 0,2–0,7 cm înălțime (unele ghiduri din Europa Centrală dau 0,4–1,0 × 0,2–0,8 cm). Apar adesea în grupuri dese și risipite și uneori se unesc. Cele tinere sunt alb-cenușii până la roz-somon și mai netede. Cele mature sunt roșu-cărămiziu până la brun-ruginos, cu o suprafață fin denivelată, ca o căpșună, cu deschideri minuscule. Cele bătrâne devin negricioase.",
+      "cap": "De obicei 0,2–0,9 cm în diametru și circa 0,2–0,7 cm înălțime (unele ghiduri din Europa Centrală dau 0,4–1,0 × 0,2–0,8 cm). Emisferică până aproape globuloasă, fără pălărie distinctă și fără picior, străpungând scoarța. Suprafața este la început alb-cenușie până la roz-somon și mai netedă, apoi roșu-cărămiziu până la brun-ruginos și fin denivelată, cu deschiderile minuscule ale camerelor de dedesubt; fructificațiile bătrâne devin negricioase.",
+      "hymenium": "Suprafața fertilă nu este formată din lamele, tuburi sau țepi. Chiar sub crusta ruginie subțire se află un singur strat de camere mici, întunecate, în formă de flacon, fiecare deschizându-se printr-un por minuscul la suprafață. O secțiune verticală le arată ca un șir sub crustă, înfipte în țesut negru dur.",
+      "stipe": "Nu există picior. Fiecare fructificație este prinsă direct de lemn și străpunge scoarța.",
+      "flesh": "Dură și neagră în interior, sub o crustă exterioară ruginie. Mirosul și gustul nu sunt distinctive; fructificațiile sunt prea mici și prea dure pentru a fi mâncate.",
+      "sporePrint": "Impronta sporilor este brun foarte închis. Ascosporii sunt elipsoidali alungiți sau ușor în formă de bob, de obicei circa 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprofită pe ramuri căzute și cioate în putrefacție de foioase, mai ales fag (Fagus), mai rar pe alte foioase care își păstrează încă scoarța. Fructificațiile pot fi văzute în orice lună; ascosporii se eliberează mai ales toamna și la începutul iernii.",
+      "uses": "Necomestibilă. Fructificațiile sunt minuscule și dure, și nu este considerată o ciupercă comestibilă.",
+      "confusion": "Daldinia concentrica formează pernițe negre dure mult mai mari, de obicei de câțiva centimetri în diametru, cu zone concentrice gri-argintii și negre în secțiune. Hypoxylon howeanum arată aproape la fel și se desparte de obicei prin spori mai mici; se găsește adesea pe alți gazde decât fagul. Crustele ruginii plate și întinse pe lemn aparțin altor specii și nu au formă de perniță.",
+      "notes": "O picătură de hidroxid de potasiu pe suprafață devine adesea portocalie. Găsirile pe alți gazde decât fagul pot aparține unor specii asemănătoare; o secțiune și, la nevoie, o măsurare a sporilor ajută la confirmarea identificării.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Крошечные твёрдые полушаровидные до почти шаровидных плодовые тела (стромы), прорывающиеся сквозь кору мёртвой древесины и не имеющие ножки. Обычно они 0,2–0,9 cm в поперечнике и около 0,2–0,7 cm высотой (некоторые центральноевропейские определители указывают 0,4–1,0 × 0,2–0,8 cm). Часто появляются густыми разрозненными группами и иногда сливаются. Молодые серовато-белые до лососёво-розовых и более гладкие. Зрелые кирпично-красные до ржаво-коричневых, с мелкобугорчатой, похожей на землянику поверхностью из крошечных отверстий. Старые чернеют.",
+      "cap": "Обычно 0,2–0,9 cm в поперечнике и около 0,2–0,7 cm высотой (некоторые центральноевропейские определители указывают 0,4–1,0 × 0,2–0,8 cm). Полушаровидное до почти шаровидного образование без отдельной шляпки и без ножки, прорывающееся сквозь кору. Поверхность сначала серовато-белая до лососёво-розовой и более гладкая, затем кирпично-красная до ржаво-коричневой и мелкобугорчатая, с крошечными отверстиями камер под коркой; старые плодовые тела чернеют.",
+      "hymenium": "Спороносная поверхность — не пластинки, не трубочки и не шипы. Сразу под тонкой ржавой коркой лежит один слой мелких тёмных колбовидных камер, каждая из которых открывается крошечной порой на поверхности. Вертикальный разрез показывает их рядом под коркой, в твёрдой чёрной ткани.",
+      "stipe": "Ножки нет. Каждое плодовое тело прикреплено прямо к древесине и прорывается сквозь кору.",
+      "flesh": "Внутри твёрдая и чёрная, под ржавой внешней коркой. Запах и вкус не характерны; плодовые тела слишком малы и тверды, чтобы их есть.",
+      "sporePrint": "Споровый порошок очень тёмно-коричневый. Аскоспоры удлинённо-эллипсоидальные или слегка бобовидные, обычно около 10–15 × 4,8–6,8 µm.",
+      "habitat": "Сапротроф на опавших ветвях и гниющих пнях лиственных деревьев, главным образом на буке (Fagus), реже на других лиственных породах, ещё сохранивших кору. Плодовые тела можно встретить в любом месяце; аскоспоры высвобождаются преимущественно осенью и в начале зимы.",
+      "uses": "Несъедобен. Плодовые тела крошечные и твёрдые, и этот вид не считается пищевым грибом.",
+      "confusion": "Daldinia concentrica образует гораздо более крупные твёрдые чёрные подушки, обычно в несколько сантиметров в поперечнике, с концентрическими серебристо-серыми и чёрными зонами на разрезе. Hypoxylon howeanum выглядит почти так же и обычно отличается более мелкими спорами; его часто находят на других хозяевах, не на буке. Плоские, распластанные ржавые корки на древесине относятся к другим видам и не имеют подушковидной формы.",
+      "notes": "Капля гидроксида калия на поверхности часто становится оранжевой. Находки на других хозяевах, кроме бука, могут относиться к сходным видам; разрез и при необходимости измерение спор помогают подтвердить определение.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sk": {
+      "description": "Drobné, tvrdé, pologuľovité až takmer guľovité plodnice (stromatá), ktoré prerážajú kôru odumretého dreva a nemajú hlúbik. Zvyčajne merajú 0,2–0,9 cm v priemere a sú vysoké približne 0,2–0,7 cm (niektoré stredoeurópske príručky uvádzajú 0,4–1,0 × 0,2–0,8 cm). Často rastú v hustých, roztrúsených skupinách a niekedy splývajú. Mladé sú sivobiele až lososovoružové a hladšie. Zrelé sú tehlovočervené až hrdzavohnedé, s jemne hrboľatým, jahodovitým povrchom s drobnými otvormi. Staré tmavnú do čierna.",
+      "cap": "Zvyčajne 0,2–0,9 cm v priemere a vysoký približne 0,2–0,7 cm (niektoré stredoeurópske príručky uvádzajú 0,4–1,0 × 0,2–0,8 cm). Pologuľovitý až takmer guľovitý útvar bez samostatného klobúka a bez hlúbika, prerážajúci kôru. Povrch je najprv sivobiely až lososovoružový a hladší, neskôr tehlovočervený až hrdzavohnedý a jemne hrboľatý s drobnými otvormi komôrok pod kôrou; staré plodnice tmavnú do čierna.",
+      "hymenium": "Výtrusorodá vrstva nie sú lupene, rúrky ani ostne. Tesne pod tenkou hrdzavou kôrou je jedna vrstva drobných, tmavých, bankovitých komôrok, z ktorých každá sa otvára maličkým otvorom na povrchu. Zvislý rez ich ukazuje ako rad pod kôrou, uložený v tvrdom čiernom pletive.",
+      "stipe": "Hlúbik chýba. Každá plodnica je prirastená priamo k drevu a preráža kôru.",
+      "flesh": "Vnútri tvrdá a čierna, pod hrdzavou vonkajšou kôrou. Vôňa ani chuť nie sú výrazné; plodnice sú na jedenie príliš drobné a tvrdé.",
+      "sporePrint": "Výtrusný prach je veľmi tmavohnedý. Askospóry sú predĺžene elipsoidné alebo slabo fazuľovité, zvyčajne približne 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprobná huba na padnutých konároch a trouchnivých pňoch listnatých stromov, predovšetkým na buku (Fagus), zriedkavejšie na iných tvrdých drevinách, ktoré ešte majú kôru. Plodnice možno nájsť v ktoromkoľvek mesiaci; askospóry sa uvoľňujú predovšetkým na jeseň a začiatkom zimy.",
+      "uses": "Nejedlá. Plodnice sú drobné a tvrdé a za jedlú hubu sa nepovažuje.",
+      "confusion": "Daldinia concentrica tvorí omnoho väčšie, tvrdé čierne vankúšiky, zvyčajne niekoľko centimetrov v priemere, so sústrednými striebornošedými a čiernymi pásmi v reze. Hypoxylon howeanum vyzerá takmer rovnako a zvyčajne sa oddeľuje menšími výtrusmi; často rastie na iných hostiteľoch ako buk. Ploché, rozprestreté hrdzavé kôry na dreve patria iným druhom a nie sú vankúšovité.",
+      "notes": "Kvapka hydroxidu draselného na povrchu často sčervenie do oranžova. Nálezy na iných hostiteľoch ako buk môžu patriť podobným druhom; rez a v prípade potreby meranie výtrusov pomáhajú potvrdiť určenie.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351126",
+        "https://www.nahuby.sk/atlas-hub/Hypoxylon-fragiforme/drevovcek-bukovy/drevomor-cerveny/ID65"
+      ],
+      "label": "drevovček bukový"
+    },
+    "sl": {
+      "description": "Drobna, trda, polkroglasta do skoraj kroglasta trosišča (stromata), ki prerastejo skozi skorjo odmrlega lesa in nimajo beta. Običajno merijo 0,2–0,9 cm v premeru in so visoka približno 0,2–0,7 cm (nekateri srednjeevropski vodniki navajajo 0,4–1,0 × 0,2–0,8 cm). Pogosto rastejo v gostih, raztresenih skupinah in se včasih združijo. Mlada so sivobela do lososovo rožnata in bolj gladka. Zrela so opečnato rdeča do rjasto rjava, z drobno grbinasto, jagodasto površino z drobnimi odprtinami. Stara potemnijo v črno.",
+      "cap": "Običajno 0,2–0,9 cm v premeru in visok približno 0,2–0,7 cm (nekateri srednjeevropski vodniki navajajo 0,4–1,0 × 0,2–0,8 cm). Polkroglast do skoraj kroglast tvor, brez ločenega klobuka in brez beta, ki preraste skozi skorjo. Površina je najprej sivobela do lososovo rožnata in bolj gladka, pozneje opečnato rdeča do rjasto rjava in drobno grbinasta z drobnimi odprtinami komoric pod skorjo; stara trosišča potemnijo v črno.",
+      "hymenium": "Trosovna plast niso lističi, cevke ali bodice. Tik pod tanko rjasto skorjo je ena plast drobnih, temnih, stekleničastih komoric, od katerih se vsaka odpira z drobno poro na površini. Navpični prerez jih pokaže kot vrsto pod skorjo, vgrajeno v trdo črno tkivo.",
+      "stipe": "Beta ni. Vsako trosišče je priraslo neposredno na les in preraste skozi skorjo.",
+      "flesh": "Znotraj trdo in črno, pod rjasto zunanjo skorjo. Vonj in okus nista značilna; trosišča so za uživanje premajhna in pretrda.",
+      "sporePrint": "Trosni prah je zelo temno rjav. Askospore so podolgovato elipsoidne ali rahlo fižolaste, običajno približno 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprobna gliva na odpadlih vejah in trohnečih panjih listavcev, predvsem na bukvi (Fagus), redkeje na drugih trdih listavcih, ki imajo še skorjo. Trosišča je mogoče najti v katerem koli mesecu; askospore se sproščajo predvsem jeseni in zgodaj pozimi.",
+      "uses": "Neužitna. Trosišča so drobna in trda in se ne šteje za užitno gobo.",
+      "confusion": "Daldinia concentrica tvori precej večje, trde črne blazinice, običajno več centimetrov v premeru, s koncentričnimi srebrno sivimi in črnimi pasovi v prerezu. Hypoxylon howeanum je videti skoraj enako in se običajno loči po manjših trosih; pogosto raste na drugih gostiteljih kot bukev. Ploščate, razprostrte rjaste skorje na lesu spadajo k drugim vrstam in niso blazinaste.",
+      "notes": "Kapljica kalijevega hidroksida na površini se pogosto obarva oranžno. Najdbe na drugih gostiteljih kot bukev lahko spadajo k podobnim vrstam; prerez in po potrebi merjenje trosov pomagata potrditi določitev.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351126"
+      ],
+      "label": "jagodasti skorjeder"
+    },
+    "sr": {
+      "description": "Ситна, тврда, полулоптаста до готово лоптаста плодишта (стромата) која пробијају кору мртвог дрвета и немају стручак. Обично имају 0,2–0,9 cm у пречнику и висока су око 0,2–0,7 cm (неки средњоевропски водичи наводе 0,4–1,0 × 0,2–0,8 cm). Често се јављају у густим, расутим групама и понекад се стапају. Млада су сивобела до лосос-ружичаста и глађа. Зрела су цигластоцрвена до рђастосмеђа, са фино квржичавом, јагодастом површином ситних отвора. Стара потамне до црног.",
+      "cap": "Обично 0,2–0,9 cm у пречнику и висок око 0,2–0,7 cm (неки средњоевропски водичи наводе 0,4–1,0 × 0,2–0,8 cm). Полулоптаст до готово лоптаст твор, без одвојеног клобука и без стручка, који пробија кору. Површина је најпре сивобела до лосос-ружичаста и глађа, затим цигластоцрвена до рђастосмеђа и фино квржичава са ситним отворима коморица испод коре; стара плодишта потамне до црног.",
+      "hymenium": "Распладни слој нису листићи, цевчице ни бодље. Непосредно испод танке рђаве коре налази се један слој ситних, тамних, бочичастих коморица, од којих се свака отвара ситном пором на површини. Усправни пресек их показује као ред испод коре, смештен у тврдом црном ткиву.",
+      "stipe": "Стручак недостаје. Свако плодиште прирасло је непосредно за дрво и пробија кору.",
+      "flesh": "Изнутра тврдо и црно, под рђавом спољашњом кором. Мирис и укус нису посебни; плодишта су преситна и претврда за јело.",
+      "sporePrint": "Отисак спора веома је тамносмеђ. Аскоспоре су издужено елипсоидне или благо пасуљасте, обично око 10–15 × 4,8–6,8 µm.",
+      "habitat": "Сапробна гљива на палим гранама и трулим пањевима лишћара, углавном на букви (Fagus), ређе на другом тврдом дрвећу које још има кору. Плодишта се могу наћи у било ком месецу; аскоспоре се ослобађају углавном у јесен и раној зими.",
+      "uses": "Нејестива. Плодишта су ситна и тврда и не сматра се јестивом гљивом.",
+      "confusion": "Daldinia concentrica образује знатно веће, тврде црне јастучиће, обично неколико центиметара у пречнику, са концентричним сребрнастосивим и црним зонама у пресеку. Hypoxylon howeanum изгледа готово исто и обично се одваја мањим спорама; често расте на другим домаћинима, а не на букви. Пљоснате, разливене рђаве коре на дрвету припадају другим врстама и нису јастучасте.",
+      "notes": "Капљица калијум-хидроксида на површини често постане наранџаста. Налази на другим домаћинима осим букве могу припадати сличним врстама; пресек и по потреби мерење спора помажу да се потврди одредба.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "Små, hårda, halvklotformade till nästan klotformade fruktkroppar (stromata) som bryter fram genom barken på död ved och saknar fot. De är typiskt 0,2–0,9 cm i diameter och omkring 0,2–0,7 cm höga (vissa centraleuropeiska handböcker anger 0,4–1,0 × 0,2–0,8 cm). De uppträder ofta i täta, spridda grupper och kan växa samman. Unga är gråvita till laxfärgade och slätare. Mogna är tegelröda till rostbruna, med en fint knölig, jordgubbslik yta av små öppningar. Gamla blir svartaktiga.",
+      "cap": "Typiskt 0,2–0,9 cm i diameter och omkring 0,2–0,7 cm hög (vissa centraleuropeiska handböcker anger 0,4–1,0 × 0,2–0,8 cm). Halvklotformad till nästan klotformad, utan separat hatt och utan fot, bryter genom barken. Ytan är först gråvit till laxfärgad och slätare, senare tegelröd till rostbrun och fint knölig med de små öppningarna från kamrarna under; gamla fruktkroppar blir svartaktiga.",
+      "hymenium": "Den fertila ytan består inte av skivor, rör eller taggar. Strax under den tunna rostiga skorpan finns ett enda skikt av små, mörka, flaskformade kammare, som var och en öppnar sig med en liten por på ytan. Ett vertikalt snitt visar dem som en rad under skorpan, inbäddade i hård svart vävnad.",
+      "stipe": "Det finns ingen fot. Varje fruktkropp sitter direkt på veden och bryter genom barken.",
+      "flesh": "Inuti hård och svart, under en rostig yttre skorpa. Lukt och smak är inte särpräglade; fruktkropparna är alltför små och hårda att äta.",
+      "sporePrint": "Sporavtrycket är mycket mörkbrunt. Askosporerna är långsträckt ellipsoida eller något bönformade, typiskt omkring 10–15 × 4,8–6,8 µm.",
+      "habitat": "Saprofyt på fallna grenar och ruttnande stubbar av lövträd, främst bok (Fagus), mer sällan på andra lövträd som fortfarande har bark. Fruktkropparna kan ses under vilken månad som helst; askosporer frigörs främst på hösten och tidig vinter.",
+      "uses": "Oätlig. Fruktkropparna är små och hårda, och den räknas inte som matsvamp.",
+      "confusion": "Daldinia concentrica bildar mycket större, hårda svarta kuddar, typiskt flera centimeter i diameter, med koncentriska silvergrå och svarta zoner i snitt. Hypoxylon howeanum ser nästan likadan ut och skiljs vanligen genom mindre sporer; den hittas ofta på andra värdar än bok. Flat, utbredd rostig skorpa på ved tillhör andra arter och är inte kuddlika.",
+      "notes": "En droppe kaliumhydroxid på ytan blir ofta orange. Fynd på andra värdar än bok kan tillhöra liknande arter; ett snitt och vid behov en spormätning hjälper till att bekräfta bestämningen.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351126",
+        "https://www.wikidata.org/wiki/Q242011"
+      ],
+      "label": "bokdyna"
+    },
+    "tr": {
+      "description": "Ölü odunun kabuğunu yardan çıkan, sapı olmayan küçük, sert, yarım küre ile neredeyse küre biçimli meyve gövdeleri (stromalar). Tipik olarak 0,2–0,9 cm çapında ve yaklaşık 0,2–0,7 cm yüksekliğindedirler (bazı Orta Avrupa kılavuzları 0,4–1,0 × 0,2–0,8 cm verir). Sıklıkla sık, dağınık kümeler halinde görünürler ve bazen birleşirler. Gençler grimsi beyaz ile somon pembesi arasındadır ve daha pürüzsüzdür. Olgunlar tuğla kırmızısı ile pas kahverengisi arasındadır; yüzeyi ince engebeli, çileği andırır ve minik açıklıklarla kaplıdır. Eskiler kararır.",
+      "cap": "Tipik olarak 0,2–0,9 cm çapında ve yaklaşık 0,2–0,7 cm yüksekliğinde (bazı Orta Avrupa kılavuzları 0,4–1,0 × 0,2–0,8 cm verir). Ayrı bir şapkası ve sapı olmayan, kabuğu yardan yarım küre ile neredeyse küre biçimli bir yapı. Yüzey önce grimsi beyaz ile somon pembesi ve daha pürüzsüzdür, sonra tuğla kırmızısı ile pas kahverengisi olur ve altındaki odacıkların minik açıklıklarıyla ince engebeli hale gelir; eski meyve gövdeleri kararır.",
+      "hymenium": "Verimli yüzey lamel, gözenek ya da diken değildir. İnce pas rengi kabuğun hemen altında, her biri yüzeyde minik bir gözenekle açılan küçük, koyu, şişe biçimli odacıklardan oluşan tek bir katman vardır. Dikey kesit bunları kabuğun altında, sert siyah dokuya gömülü bir sıra olarak gösterir.",
+      "stipe": "Sap yoktur. Her meyve gövdesi doğrudan oduna bağlıdır ve kabuğu yarar.",
+      "flesh": "İçi sert ve siyahtır, pas rengi dış kabuğun altındadır. Koku ve tat ayırt edici değildir; meyve gövdeleri yenmek için çok küçük ve çok serttir.",
+      "sporePrint": "Spor izi çok koyu kahverengidir. Askosporlar uzunca elipsoit veya hafifçe fasulye biçimlidir, tipik olarak yaklaşık 10–15 × 4,8–6,8 µm.",
+      "habitat": "Dökülmüş dallarda ve çürüyen kütüklerde, geniş yapraklı ağaçlarda, başta kayın (Fagus) olmak üzere saprofiktir; daha seyrek olarak kabuğu hâlâ duran diğer sert odunlularda görülür. Meyve gövdeleri her ay görülebilir; askosporlar başlıca sonbahar ve kış başında salınır.",
+      "uses": "Yenmez. Meyve gövdeleri küçük ve serttir ve yenilebilir bir mantar sayılmaz.",
+      "confusion": "Daldinia concentrica kesitte eşmerkezli gümüşi gri ve siyah kuşakları olan, tipik olarak birkaç santimetre çapında, çok daha büyük sert siyah yastıklar oluşturur. Hypoxylon howeanum neredeyse aynı görünür ve genellikle daha küçük sporlarıyla ayrılır; sıklıkla kayından başka konukçularda bulunur. Odundaki yassı, yayılmış pas rengi kabuklar başka türlere aittir ve yastık biçiminde değildir.",
+      "notes": "Yüzeye bir damla potasyum hidroksit sıklıkla turuncuya döner. Kayından başka konukçulardaki kayıtlar benzer türlere ait olabilir; bir kesit ve gerektiğinde spor ölçümü kimliği doğrulamaya yardımcı olur.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Крихітні тверді півкулясті до майже кулястих плодові тіла (строми), що прориваються крізь кору мертвої деревини і не мають ніжки. Зазвичай вони 0,2–0,9 cm у поперечнику і близько 0,2–0,7 cm заввишки (деякі центральноєвропейські визначники вказують 0,4–1,0 × 0,2–0,8 cm). Часто з’являються густими розсіяними групами і іноді зливаються. Молоді сірувато-білі до лососево-рожевих і гладші. Зрілі цегляно-червоні до іржаво-коричневих, із дрібногорбчастою, схожою на полуницю поверхнею з крихітних отворів. Старі чорніють.",
+      "cap": "Зазвичай 0,2–0,9 cm у поперечнику і близько 0,2–0,7 cm заввишки (деякі центральноєвропейські визначники вказують 0,4–1,0 × 0,2–0,8 cm). Півкулясте до майже кулястого утворення без окремої шапинки і без ніжки, що проривається крізь кору. Поверхня спочатку сірувато-біла до лососево-рожевої і гладша, потім цегляно-червона до іржаво-коричневої і дрібногорбчаста, з крихітними отворами камер під кіркою; старі плодові тіла чорніють.",
+      "hymenium": "Спороносна поверхня — не пластинки, не трубочки і не шипи. Одразу під тонкою іржавою кіркою лежить один шар дрібних темних колбоподібних камер, кожна з яких відкривається крихітною порою на поверхні. Вертикальний розріз показує їх рядом під кіркою, у твердій чорній тканині.",
+      "stipe": "Ніжки немає. Кожне плодове тіло прикріплене прямо до деревини і проривається крізь кору.",
+      "flesh": "Всередині тверда і чорна, під іржавою зовнішньою кіркою. Запах і смак не характерні; плодові тіла надто малі й тверді, щоб їх їсти.",
+      "sporePrint": "Споровий порошок дуже темно-коричневий. Аскоспори видовжено-еліпсоїдні або злегка бобоподібні, зазвичай близько 10–15 × 4,8–6,8 µm.",
+      "habitat": "Сапротроф на опалому гіллі та гниючих пнях листяних дерев, головним чином на буку (Fagus), рідше на інших листяних породах, що ще зберігають кору. Плодові тіла можна побачити в будь-якому місяці; аскоспори вивільняються переважно восени та на початку зими.",
+      "uses": "Неїстівний. Плодові тіла крихітні й тверді, і цей вид не вважається харчовим грибом.",
+      "confusion": "Daldinia concentrica утворює значно більші тверді чорні подушки, зазвичай кілька сантиметрів у поперечнику, з концентричними сріблясто-сірими й чорними зонами на розрізі. Hypoxylon howeanum виглядає майже так само і зазвичай відрізняється дрібнішими спорами; його часто знаходять на інших живителях, не на буку. Плоскі розпластані іржаві кірки на деревині належать іншим видам і не мають подушкоподібної форми.",
+      "notes": "Крапля гідроксиду калію на поверхні часто стає помаранчевою. Знахідки на інших живителях, крім бука, можуть належати подібним видам; розріз і за потреби вимірювання спор допомагають підтвердити визначення.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "细小坚硬、半球形至近球形的子实体（子座），从枯死木材的树皮中破出，没有菌柄。直径通常为 0.2–0.9 cm，高约 0.2–0.7 cm（部分中欧图鉴记为 0.4–1.0 × 0.2–0.8 cm）。常成密而散生的群，有时愈合。幼时灰白至鲑粉色，较平滑。成熟后砖红色至锈褐色，表面细颗粒状、似草莓，有微小开口。老熟后变黑。",
+      "cap": "通常直径 0.2–0.9 cm，高约 0.2–0.7 cm（部分中欧图鉴记为 0.4–1.0 × 0.2–0.8 cm）。半球形至近球形，无独立菌盖，也无菌柄，从树皮中破出。表面先为灰白至鲑粉色、较平滑，后呈砖红色至锈褐色，并因皮下腔室的微小开口而呈细颗粒状；老熟子实体变黑。",
+      "hymenium": "产孢面既非菌褶、也非管孔或刺。薄锈色外壳下仅有一层细小、深色、瓶状的腔室，各以表面的微小孔口开孔。纵切面可见它们在外壳下排成一行，埋于坚硬的黑色组织中。",
+      "stipe": "没有菌柄。每个子实体直接着生于木材上，并穿破树皮。",
+      "flesh": "内部坚硬而呈黑色，位于锈色外皮下。气味与味道并不显著；子实体过小过硬，不宜食用。",
+      "sporePrint": "孢子印为极深的褐色。子囊孢子长椭圆形或略呈豆形，通常约 10–15 × 4.8–6.8 µm。",
+      "habitat": "腐生于阔叶树的落枝和腐烂树桩上，主要在山毛榉（Fagus）上，较少见于其他仍带树皮的阔叶硬木。子实体一年中任何月份都可见；子囊孢子主要在秋季和初冬释放。",
+      "uses": "不可食用。子实体细小坚硬，不被视为食用菌。",
+      "confusion": "Daldinia concentrica 形成大得多的坚硬黑色垫状子实体，直径通常达数厘米，切面有银灰色与黑色的同心环带。Hypoxylon howeanum 外观几乎相同，通常以较小的孢子区分，并常生于山毛榉以外的寄主上。木材上扁平扩展的锈色壳层属于其他种类，并非垫状。",
+      "notes": "表面滴氢氧化钾常呈橙色。生于山毛榉以外寄主上的记录可能属于近似种；切片并在需要时测量孢子有助于确认鉴定。",
+      "names": [
+        "莓型炭團菌",
+        "红垫炭团菌"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351126",
+        "https://www.wikidata.org/wiki/Q242011"
+      ],
+      "label": "脆形炭团菌"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Sphaeria fragiformis",
+      "author": "Pers.",
+      "year": 1794,
+      "rank": "species",
+      "type": "basionym",
+      "if": 235752
+    },
+    {
+      "name": "Peripherostoma fragiforme",
+      "author": "(Pers.) Gray",
+      "year": 1821,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 444447
+    },
+    {
+      "name": "Stromatosphaeria fragiformis",
+      "author": "(Pers.) Grev.",
+      "year": 1824,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 444448
+    },
+    {
+      "name": "Lycoperdon variolosum",
+      "author": "Huds.",
+      "year": 1768,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 169176
+    },
+    {
+      "name": "Valsa fragiformis",
+      "author": "Scop.",
+      "year": 1772,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 443844
+    },
+    {
+      "name": "Sphaeria fragiformis",
+      "author": "(Scop.) Dicks.",
+      "year": 1785,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 493315
+    },
+    {
+      "name": "Peripherostoma fragiformis",
+      "author": "(Scop.) Gray",
+      "year": 1821,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 652491
+    },
+    {
+      "name": "Gamosphaera fragiforme",
+      "author": "(Scop.) Dumort.",
+      "year": 1822,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 652492
+    },
+    {
+      "name": "Sphaeria rubra",
+      "author": "Willd.",
+      "year": 1787,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 183988
+    },
+    {
+      "name": "Hypoxylon coccineum",
+      "author": "Bull.",
+      "year": 1791,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 212322
+    },
+    {
+      "name": "Sphaeria radians",
+      "author": "Tode",
+      "year": 1791,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 443898
+    },
+    {
+      "name": "Discosphaera radians",
+      "author": "(Tode) Dumort.",
+      "year": 1822,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 431604
+    },
+    {
+      "name": "Sphaeria tuberculosa",
+      "author": "Sowerby",
+      "year": 1802,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 160336
+    },
+    {
+      "name": "Sphaeria radiata",
+      "author": "Schumach.",
+      "year": 1803,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 444010
+    },
+    {
+      "name": "Sphaeria bicolor",
+      "author": "DC.",
+      "year": 1805,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 444459
+    },
+    {
+      "name": "Sphaeria argillacea",
+      "author": "Fr.",
+      "year": 1815,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 241270
+    },
+    {
+      "name": "Hypoxylon argillaceum",
+      "author": "(Fr.) J. Kickx f.",
+      "year": 1835,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 438075
+    },
+    {
+      "name": "Sphaeria lateritia",
+      "author": "DC.",
+      "year": 1815,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 444003
+    },
+    {
+      "name": "Sphaeria enteromela",
+      "author": "Schwein.",
+      "year": 1825,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 181412
+    },
+    {
+      "name": "Hypoxylon enteromelum",
+      "author": "(Schwein.) Berk.",
+      "year": 1875,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 211266
+    },
+    {
+      "name": "Hypoxylon cupreum",
+      "author": "Fr.",
+      "year": 1849,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 213067
+    },
+    {
+      "name": "Nodulisporium ochraceum",
+      "author": "Preuss",
+      "year": 1849,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 249234,
+      "note": "Published as 'ocheraceum'."
+    },
+    {
+      "name": "Botrytis ochracea",
+      "author": "(Preuss) Sacc.",
+      "year": 1886,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 187871
+    },
+    {
+      "name": "Hypoxylon majusculum",
+      "author": "Cooke",
+      "year": 1879,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 162114
+    }
+  ],
+  "reserved": false,
+  "id": 252,
+  "citation": "Fl. crypt. Louvain (Bruxelles): 116 (1835)"
+},
+{
+  "name": "Apioperdon pyriforme",
+  "author": "(Schaeff.) Vizzini",
+  "family": "Lycoperdaceae",
+  "genus": "Apioperdon",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Lycoperdaceae",
+    "Apioperdon"
+  ],
+  "summary": [
+    "Agaricales",
+    "Lycoperdaceae",
+    "Apioperdon"
+  ],
+  "edibility": "edible",
+  "hymenium": "gleba",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "white",
+    "yellow",
+    "brown"
+  ],
+  "capFrom": 1.5,
+  "capTo": 4.0,
+  "fruitingFrom": 7,
+  "fruitingTo": 12,
+  "label": {
+    "bg": "Крушовидна пърхутка",
+    "cs": "pýchavka hruškovitá",
+    "da": "Pære-støvbold",
+    "de": "Birnen-Stäubling",
+    "en": "Pear-shaped Puffball",
+    "es": "hongo pera",
+    "et": "Pirn-murumuna",
+    "fi": "ryhmätuhkelo",
+    "fr": "Vesse de loup en forme de poire",
+    "hu": "Körtepöfeteg",
+    "ja": "タヌキノチャブクロ",
+    "ko": "좀말불버섯",
+    "lt": "Kriaušinis pumpotaukšlis",
+    "lv": "Bumbieru pūpēdis",
+    "nl": "Peervormige stuifzwam",
+    "no": "pærerøyksopp",
+    "pl": "Lignopurchawka gruszkowata",
+    "ro": "Para cerbului",
+    "ru": "Дождевик грушевидный",
+    "sk": "prášnica hruškovitá",
+    "sl": "hruškasta prašničarka",
+    "sr": "Крушкаста пухара",
+    "sv": "gyttrad röksvamp",
+    "tr": "Ağaç Toz Mantarı",
+    "uk": "Дощовик грушоподібний",
+    "zh": "梨形马勃"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Birnenstäubling",
+      "Birnenbovist",
+      "Birnen-Bovist"
+    ],
+    "en": [
+      "Stump Puffball"
+    ],
+    "es": [
+      "hongo del muñón"
+    ],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "Körtealakú pöfeteg"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "Purchawka gruszkowata"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [
+      "hruškasta prašnica"
+    ],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "梨形馬勃"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=819914",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=819914",
+      "https://api.gbif.org/v1/species/match?name=Apioperdon%20pyriforme",
+      "https://www.gbif.org/species/10852503",
+      "https://www.wikidata.org/wiki/Q79337417",
+      "https://www.inaturalist.org/taxa/972793",
+      "https://species.wikimedia.org/wiki/Lycoperdon_pyriforme",
+      "https://www.first-nature.com/fungi/lycoperdon-pyriforme.php",
+      "https://www.myko.cz/myko-atlas/Apioperdon-pyriforme/",
+      "https://botany.cz/cs/lycoperdon-pyriforme/",
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme"
+    ],
+    "ar": [],
+    "bg": [
+      "https://www.wikidata.org/wiki/Q865798"
+    ],
+    "cs": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+      "https://botany.cz/cs/lycoperdon-pyriforme/",
+      "https://www.myko.cz/myko-atlas/Apioperdon-pyriforme/",
+      "https://www.wikidata.org/wiki/Q865798"
+    ],
+    "da": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+      "https://www.wikidata.org/wiki/Q79337417"
+    ],
+    "de": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+      "https://de.wikipedia.org/wiki/Birnen-Stäubling",
+      "https://www.wikidata.org/wiki/Q865798"
+    ],
+    "es": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+      "https://www.wikidata.org/wiki/Q865798"
+    ],
+    "et": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+      "https://et.wikipedia.org/wiki/Pirn-murumuna",
+      "https://www.wikidata.org/wiki/Q79337417"
+    ],
+    "fa": [],
+    "fi": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+      "https://fi.wikipedia.org/wiki/Ryhmätuhkelo",
+      "https://www.wikidata.org/wiki/Q865798"
+    ],
+    "fr": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+      "https://fr.wikipedia.org/wiki/Lycoperdon_pyriforme"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Körtepöfeteg",
+      "https://www.wikidata.org/wiki/Q79337417",
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme"
+    ],
+    "ko": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme"
+    ],
+    "lt": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+      "https://lt.wikipedia.org/wiki/Kriaušinis_pumpotaukšlis",
+      "https://www.wikidata.org/wiki/Q79337417"
+    ],
+    "lv": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme"
+    ],
+    "nl": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+      "https://nl.wikipedia.org/wiki/Peervormige_stuifzwam",
+      "https://www.wikidata.org/wiki/Q865798"
+    ],
+    "no": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Lignopurchawka_gruszkowata",
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme"
+    ],
+    "pt": [],
+    "ro": [
+      "https://www.wikidata.org/wiki/Q865798"
+    ],
+    "ru": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+      "https://ru.wikipedia.org/wiki/Дождевик_грушевидный"
+    ],
+    "sk": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+      "https://botany.cz/cs/lycoperdon-pyriforme/"
+    ],
+    "sl": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+      "https://sl.wikipedia.org/wiki/Hruškasta_prašničarka",
+      "https://www.wikidata.org/wiki/Q79337417"
+    ],
+    "sr": [
+      "https://www.wikidata.org/wiki/Q79337417",
+      "https://sr.wikipedia.org/wiki/Крушкаста_пухара"
+    ],
+    "sv": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+      "https://sv.wikipedia.org/wiki/Gyttrad_röksvamp",
+      "https://www.wikidata.org/wiki/Q79337417"
+    ],
+    "tr": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme"
+    ],
+    "uk": [
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+      "https://uk.wikipedia.org/wiki/Дощовик_грушоподібний"
+    ],
+    "zh": [
+      "https://www.wikidata.org/wiki/Q79337417",
+      "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+      "https://zh.wikipedia.org/wiki/梨形馬勃"
+    ]
+  },
+  "added": "2026-11-27",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Apioperdon_pyriforme/Apioperdon_pyriforme@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Apioperdon_pyriforme/Apioperdon_pyriforme@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Apioperdon_pyriforme/Apioperdon_pyriforme@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Apioperdon_pyriforme/Apioperdon_pyriforme_1.webp",
+      "author": "Sigrid Jakob",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/97332373"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Apioperdon_pyriforme/Apioperdon_pyriforme_2.webp",
+      "author": "Sigitas Juzėnas",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/131630732"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Apioperdon_pyriforme/Apioperdon_pyriforme_3.webp",
+      "author": "Alessandra Aleotti",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/147489277"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Apioperdon_pyriforme/Apioperdon_pyriforme_4.webp",
+      "author": "Karol Filo III",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/247282752"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Apioperdon_pyriforme/Apioperdon_pyriforme_5.webp",
+      "author": "Nina Filippova",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/55621261"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Lycoperdaceae/Apioperdon_pyriforme/Apioperdon_pyriforme@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Apioperdon_pyriforme/Apioperdon_pyriforme@1600.webp",
+      "basedOn": [],
+      "existingMark": "The 896×1200 source (JPEG/JFIF bytes in a .png filename, SHA-256 5716989d304e36f39ada83275766e17bbc6411fe3059e11064dee01d6a40aea0, Exif Orientation 1, software Picasa, no alpha) was given an asymmetric 96 px left / 0 px right crop (800×1200, exact 2:3) and enlarged uniformly 2× (Lanczos) to 1600×2400, because a centred 48 px side trim would clip the cursive Gemini signature (28 px right margin in the source; 28 px after the left-only trim, 57 px at @1600 measured at luminance <150). Official background.webp (SHA-256 d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c) was applied by colour-weighted multiply with a 48 px inset paper-field fit (job script plate/multiply_asymmetric_insetfit.py, same formula as tools/plate_blend/multiply_on_background.py; the canonical tool was not modified). @1600 SHA-256 0724ba4a62bd499bb9e224c73597640e15285c1f3bfc84af710e8286de9d3882; @400 SHA-256 d53abcb35403ac73bb31ccd5497510a63b49881a0af41d0184ec4451599b1835. Credit: Adrian Benko (Gemini)."
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Lycoperdaceae/Apioperdon_pyriforme/Apioperdon_pyriforme_1.webp",
+      "author": "Sigrid Jakob",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/97332373"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Lycoperdaceae/Apioperdon_pyriforme/Apioperdon_pyriforme_2.webp",
+      "author": "Sigitas Juzėnas",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/131630732"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Lycoperdaceae/Apioperdon_pyriforme/Apioperdon_pyriforme_3.webp",
+      "author": "Alessandra Aleotti",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/147489277"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Lycoperdaceae/Apioperdon_pyriforme/Apioperdon_pyriforme_4.webp",
+      "author": "Karol Filo III",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/247282752"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Lycoperdaceae/Apioperdon_pyriforme/Apioperdon_pyriforme_5.webp",
+      "author": "Nina Filippova",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/55621261"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "مجموعات كثيفة من أجسام ثمرية كمثرية إلى هراوية الشكل تنمو مباشرة على الخشب المتعفن، وعادة ما يكون عرضها 1.5–4 cm وارتفاعها نحو 3–4 cm (بعض أدلة وسط أوروبا تعطي نحو 2–7 cm عرضا و2–6 أو 2–7 cm ارتفاعا). لكل منها رأس خصب مستدير يضيق إلى قاعدة عقيمة قصيرة إسفنجية، وتتثبت بحبال ميسليوم بيضاء واضحة. الأجسام الثمرية الفتية بيضاء إلى كريمية ومغطاة بثآليل قصيرة دقيقة. الناضجة تصير أوكر باهتة إلى بنية مصفرة؛ تتآكل الثآليل، وتبقى قشرة ورقية بعض الشيء، وينفتح في القمة ثقب دائري صغير.",
+      "cap": "عادة 1.5–4 cm عرضا ونحو 3–4 cm ارتفاعا (بعض الأدلة تذكر نحو 2–7 cm عرضا و2–6 أو 2–7 cm ارتفاعا). كمثرية إلى هراوية الشكل، برأس مستدير وقاعدة عقيمة قصيرة تضيق قليلا. السطح في البدء أبيض إلى كريمي بثآليل هرمية دقيقة، ثم أوكر باهت إلى بني مصفر وأكثر ملاسة. يظهر في القمة موضع أغمق مرتفع قليلا، وينفتح عند النضج ثقب صغير واحد.",
+      "hymenium": "النسيج الخصب غلبة تملأ الرأس. وهي فتية تكون بيضاء نقية وصلبة. ومع النضج تلين وتصير مسحوقية، بنية زيتونية ثم بنية داكنة في النهاية. تبقى القاعدة العقيمة بيضاء، ثم كريمية لاحقا، وتتمايز بوضوح عن الغلبة.",
+      "stipe": "لا يوجد ساق حقيقي. قاعدة عقيمة قصيرة إسفنجية، عادة شبه متوازية أو تضيق قليلا، تثبّت الجسم الثمري في الخشب وتبقى بيضاء حتى حين تظلم الغلبة. تمتد من القاعدة إلى الخشب المتعفن حبال ميسليوم بيضاء.",
+      "flesh": "في الفتية يكون الداخل كله أبيض نقيا وصلبا. لاحقا تصير غلبة الرأس بنية زيتونية ومسحوقية، بينما تبقى القاعدة العقيمة أفتح. توصف الرائحة أحيانا بأنها كريهة أو شبيهة بالغاز؛ وطعم الأجسام الفتية غير مميز، لكنه يصير مرا حين تتلون الغلبة.",
+      "sporePrint": "بني زيتوني، ويصير بني داكن عند تمام النضج. الأبواغ مستديرة أو شبه مستديرة، ملساء، وعادة 3.5–4.5 µm في القطر (بعض الأدلة تذكر 3.5–5 µm).",
+      "habitat": "رمام، عادة في مجموعات كثيفة متزاحمة على جذوع متعفنة وأغصان مدفونة وجذور أشجار عريضة الأوراق، وأحيانا على المخروطيات أيضا. قد يبدو ناميا على التربة إذا كان الخشب مختبئا مباشرة تحت السطح. في بريطانيا وأيرلندا يثمر من يوليو إلى أوائل ديسمبر؛ وكثيرا ما تذكر أدلة وسط أوروبا يونيو إلى نوفمبر، وقد تبقى الأجسام الجافة القديمة حتى الشتاء.",
+      "uses": "يؤكل فقط وهو فتي وفقط ما دام الداخل كله ما يزال أبيض نقيا. متى بدأت الغلبة تصفر أو تزيتن أو تسمر يُترك. تُنزع القشرة الخارجية القاسية قبل الطبخ. يُعد الطعم عموما متوسطا. يجب دائما شق الأجسام الثمرية طولا لتأكيد داخل أبيض نقي واستبعاد كرات الأرض السامة وأزرار Amanita الفتية.",
+      "confusion": "Lycoperdon perlatum عادة أكبر قليلا، وينمو على التربة لا على الخشب، وهو مغطى بثآليل مخروطية لؤلؤية أكبر كثيرا تترك رسما شبكيا حين تسقط. Scleroderma citrinum صلب، بقشرة سميكة قاسية حرشفية بنية مصفرة وداخل أرجواني أسود إلى رمادي داكن، بلا ثقب قمي؛ وهذه سامة. قد تشبه أزرار Amanita الفتية أجساما ثمرية بيضاء كروية حتى يُظهر مقطع عمودي حدود قبعة وساق، وفي بعض الأنواع فولفا أيضا.",
+      "notes": "حبال الميسليوم البيضاء عند القاعدة والنمو على الخشب المتعفن أوثق العلامات في الحقل. ينبغي فحص جسم ثمري يبدو قائما على تربة عارية بحثا عن خشب مدفون. قبل أي استعمال لا بد من مقطع عمودي لتأكيد داخل أبيض نقي واستبعاد كرات الأرض والفطريات الصفائحية الفتية.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Гъсти струпвания от крушовидни до бухалковидни плодни тела върху гниеща дървесина, обикновено 1.5–4 cm в ширина и около 3–4 cm високи (някои средноевропейски ръководства дават около 2–7 cm в ширина и 2–6 или 2–7 cm във височина). Всяко има заоблена плодородна глава, която се стеснява в къса гъбеста стерилна основа и е закрепено с отчетливи бели въженца ризоморфи. Младите плодни тела са бели до кремави, с къси дребни брадавички. Зрелите са бледоохра до жълтеникавокафяви; брадавичките се изтриват, остава леко хартиена кожица и на върха се отваря малък кръгъл отвор.",
+      "cap": "Обикновено 1.5–4 cm в ширина и около 3–4 cm високо (някои ръководства: около 2–7 cm в ширина и 2–6 или 2–7 cm във височина). Крушовидно до бухалковидно, със заоблена глава и къса, леко стеснена стерилна основа. Повърхността е първоначално бяла до кремава, с дребни пирамидални брадавички, по-късно бледоохра до жълтеникавокафява и по-гладка. На върха се появява по-тъмно, леко издигнато място и в зрялост се отваря един малък отвор.",
+      "hymenium": "Плодородната тъкан е глеба, която изпълва главата. В младост е чисто бяла и твърда. При узряване омеква и става праховидна, маслиненокафява и накрая тъмнокафява. Стерилната основа остава бяла, по-късно кремава, и е ясно отделена от глебата.",
+      "stipe": "Няма истинска пънче. Къса гъбеста стерилна основа, обикновено повече или по-малко успоредна или леко стеснена, закрепва плодното тяло в дървесината и остава бяла дори когато глебата потъмнее. От основата в гнилата дървесина тръгват бели мицелни въженца.",
+      "flesh": "При младите вътрешността е изцяло чисто бяла и твърда. По-късно глебата в главата става маслиненокафява и праховидна, а стерилната основа остава по-светла. Миризмата понякога се описва като неприятна или газообразна; вкусът на младите плодни тела не е характерен, но става горчив, когато глебата се оцвети.",
+      "sporePrint": "Маслиненокафяв, в пълна зрялост тъмнокафяв. Спорите са кръгли или почти кръгли, гладки, обикновено 3.5–4.5 µm в диаметър (някои ръководства посочват 3.5–5 µm).",
+      "habitat": "Сапротроф, обикновено в гъсти сгъстени групи върху гниещи пънове, заровени клони и корени на широколистни дървета, понякога и върху иглолистни. Може да изглежда, че расте на почва, ако дървесината е скрита точно под повърхността. Във Великобритания и Ирландия плододава от юли до началото на декември; средноевропейските ръководства често посочват юни–ноември, а стари сухи плодни тела могат да се запазят до зимата.",
+      "uses": "Ядливо само младо и само докато вътрешността е още изцяло чисто бяла. Щом глебата започне да жълтее, да става маслинена или кафява, се оставя. Преди готвене се сваля твърдата външна кожица. Вкусът обикновено се смята за посредствен. Плодните тела винаги трябва да се разрязват надлъжно, за да се потвърди чисто бяла вътрешност и да се изключат отровните земни топки и младите копчета на мухоморки.",
+      "confusion": "Lycoperdon perlatum обикновено е малко по-едър, расте на почва, а не на дървесина, и е покрит със значително по-големи конусовидни седефени брадавички, които при опадане оставят мрежест рисунък. Scleroderma citrinum е твърд, с дебела твърда люспеста жълтеникавокафява кора и тъмна пурпурночерна до тъмносива вътрешност, без връхен отвор; тези гъби са отровни. Младите копчета от род Amanita могат да приличат на бели кълбовидни плодни тела, докато надлъжен разрез не покаже очертанията на шапка, пънче и при някои видове волва.",
+      "notes": "Белите мицелни въженца в основата и растежът върху гниеща дървесина са най-надеждните теренни белези. Плодно тяло, което изглежда растящо на гола почва, трябва да се провери за скрита дървесина. Преди всяка употреба е необходим надлъжен разрез, за да се потвърди чисто бяла вътрешност и да се изключат отровните земни топки и младите пластинкати гъби.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q865798"
+      ],
+      "label": "Крушовидна пърхутка"
+    },
+    "cs": {
+      "description": "Husté trsy hruškovitých až kyjovitých plodnic rostoucí přímo na tlejícím dřevě, typicky 1.5–4 cm široké a asi 3–4 cm vysoké (některé středoevropské příručky uvádějí širší rozmezí, asi 2–7 cm na šířku a 2–6 nebo 2–7 cm na výšku). Každá má zaoblenou plodnou hlavu, která se zužuje do krátké, houbovité sterilní báze a je přichycena nápadnými bílými, provazcovitými rhizomorfami. Mladé plodnice jsou bílé až krémové a pokryté krátkými, jemnými bradavkami. Zralé jsou bledě okrové až žlutohnědé; bradavky opadávají, zůstává poněkud papírovitá pokožka a na vrcholu se otevírá malý kruhový otvor.",
+      "cap": "Typicky 1.5–4 cm široká a asi 3–4 cm vysoká (některé středoevropské příručky uvádějí asi 2–7 cm na šířku a 2–6 nebo 2–7 cm na výšku). Hruškovitá až kyjovitá, se zaoblenou hlavou a krátkou, mírně zúženou sterilní bází. Povrch je zprvu bílý až krémový s jemnými pyramidálními bradavkami, později bledě okrový až žlutohnědý a hladší, jak bradavky opadávají. Na vrcholu se tvoří tmavší, mírně vystouplé místo a v zralosti se otevírá jeden malý otvor.",
+      "hymenium": "Plodné pletivo je gleba vyplňující hlavu. V mládí je čistě bílá a pevná. Při dozrávání měkkne a stává se prašnou, olivově hnědou a nakonec tmavě hnědou. Sterilní báze zůstává bílá, později krémová, a je od gleby zřetelně oddělená.",
+      "stipe": "Pravý třeň chybí. Krátká, houbovitá sterilní báze, obvykle víceméně rovnoběžná nebo mírně zúžená, přichycuje plodnici ke dřevu a zůstává bílá i tehdy, když gleba ztmavne. Z báze do trouchnivějícího dřeva vybíhají bílé provazce podhoubí.",
+      "flesh": "V mládí je vnitřek celý čistě bílý a pevný. Později se gleba v hlavě stává olivově hnědou a prašnou, zatímco sterilní báze zůstává světlejší. Vůně se někdy popisuje jako nepříjemná nebo připomínající plyn; chuť mladých plodnic není výrazná, ale po zabarvení gleby hořkne.",
+      "sporePrint": "Olivově hnědý, v plné zralosti tmavě hnědý. Výtrusy jsou kulaté nebo téměř kulaté, hladké, typicky 3.5–4.5 µm v průměru (některé příručky uvádějí 3.5–5 µm).",
+      "habitat": "Saprotrofní, obvykle v hustých, nahloučených skupinách na tlejících pařezech, zahrabaných větvích a kořenech listnatých stromů, občas i na jehličnanech. Může působit dojmem, že roste na půdě, je-li dřevo skryté těsně pod povrchem. V Británii a Irsku plodí od července do začátku prosince; středoevropské příručky často uvádějí červen až listopad a staré suché plodnice mohou přetrvat do zimy.",
+      "uses": "Jedlá jen v mládí, dokud je vnitřek ještě čistě bílý. Jakmile gleba začne žloutnout, olivovět nebo hnědnout, nechává se. Před přípravou se stáhne tuhá vnější pokožka. Chuť se obvykle považuje za průměrnou. Plodnice je vždy třeba rozříznout podélně, aby se potvrdilo čistě bílé nitro a vyloučily se pestřece a mladé knoflíkovité muchomůrky.",
+      "confusion": "Lycoperdon perlatum bývá o něco větší, roste na půdě, nikoli na dřevě, a je pokrytá mnohem většími kuželovitými, perleťovými ostny, které po opadnutí zanechávají síťovitou kresbu. Scleroderma citrinum je pevný, s tlustou, tvrdou, šupinatou žlutohnědou kůrou a tmavým purpurově černým až tmavě šedým nitrem a nemá vrcholový otvor; pestřece jsou jedovaté. Mladé knoflíky rodu Amanita mohou připomínat bílé kulovité plodnice, dokud podélný řez neukáže obrys klobouku, třeně a u některých druhů i pochvy.",
+      "notes": "Bílé provazce podhoubí na bázi a růst na tlejícím dřevě jsou nejspolehlivější terénní znaky. Plodnici, která se zdá růst na holé půdě, je třeba ověřit, zda pod ní není skryté dřevo. Před jakýmkoli použitím je nutný podélný řez, aby se potvrdilo čistě bílé nitro a vyloučily se pestřece i mladé lupenité houby.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+        "https://botany.cz/cs/lycoperdon-pyriforme/",
+        "https://www.myko.cz/myko-atlas/Apioperdon-pyriforme/",
+        "https://www.wikidata.org/wiki/Q865798"
+      ],
+      "label": "pýchavka hruškovitá"
+    },
+    "da": {
+      "description": "Tætte klynger af pæreformede til kølleformede frugtlegemer, der vokser direkte på rådne træ, typisk 1.5–4 cm brede og omkring 3–4 cm høje (nogle centraleuropæiske håndbøger angiver et bredere interval, omkring 2–7 cm i bredden og 2–6 eller 2–7 cm i højden). Hvert har et afrundet fertilt hoved, der indsnævres til en kort, svampet steril base og er fæstnet med iøjnefaldende hvide, snorlignende rhizomorfer. Unge frugtlegemer er hvide til cremefarvede og dækket af korte, fine vorter. Modne bliver bleg okker til gulbrune; vorterne slides af, der efterlades en lidt papiragtig hud, og i spidsen åbnes en lille rund pore.",
+      "cap": "Typisk 1.5–4 cm bred og omkring 3–4 cm høj (nogle centraleuropæiske håndbøger angiver omkring 2–7 cm i bredden og 2–6 eller 2–7 cm i højden). Pæreformet til kølleformet, med et afrundet hoved og en kort, let indsnævret steril base. Overfladen er først hvid til cremefarvet med fine pyramideformede vorter, senere bleg okker til gulbrun og glattere, når vorterne falder af. I spidsen udvikles et mørkere, let ophøjet parti, og ved modenhed åbnes en enkelt lille pore.",
+      "hymenium": "Det fertile væv er en gleba, der fylder hovedet. Unge er den rent hvid og fast. Under modningen bliver den blød og pulveragtig, olivenbrun og til sidst mørkebrun. Den sterile base forbliver hvid, senere cremefarvet, og er tydeligt adskilt fra glebaen.",
+      "stipe": "Der er ingen ægte stok. En kort, svampet steril base, sædvanligvis mere eller mindre parallelt eller let indsnævret, forankrer frugtlegemet i træet og forbliver hvid, også når glebaen mørkner. Fra basen løber hvide myceliestrenge ind i det rådne træ.",
+      "flesh": "Hos unge er det indre helt rent hvidt og fast. Senere bliver glebaen i hovedet olivenbrun og pulveragtig, mens den sterile base forbliver lysere. Lugten beskrives undertiden som ubehagelig eller gasagtig; smagen af unge frugtlegemer er ikke karakteristisk, men bliver bitter, når glebaen farves.",
+      "sporePrint": "Olivenbrun, ved fuld modenhed mørkebrun. Sporerne er runde eller næsten runde, glatte, typisk 3.5–4.5 µm i diameter (nogle håndbøger angiver 3.5–5 µm).",
+      "habitat": "Saprotrof, sædvanligvis i tætte, tætpakkede grupper på rådne stubbe, nedgravede grene og rødder af løvtræer, lejlighedsvis også på nåletræer. Den kan se ud til at gro på jord, når træet er skjult lige under overfladen. I Storbritannien og Irland fruktificerer den fra juli til begyndelsen af december; centraleuropæiske håndbøger angiver ofte juni til november, og gamle tørre frugtlegemer kan blive stående ind i vinteren.",
+      "uses": "Spiselig kun som ung og kun mens det indre stadig er helt rent hvidt. Når glebaen begynder at blive gul, oliven eller brun, lades den stå. Den seje ydre hud fjernes før tilberedning. Smagen betragtes almindeligvis som middelmådig. Skær altid frugtlegemerne på langs for at bekræfte et rent hvidt indre og udelukke jordstjernernes slægtninge, kartoffelboviste, samt unge knapper af Amanita.",
+      "confusion": "Lycoperdon perlatum er sædvanligvis lidt større, groer på jord frem for på træ og er dækket af langt større kegleformede, perlede vorter, som efterlader et netagtigt mønster, når de falder af. Scleroderma citrinum er fast, med en tyk, hård, skællet gulbrun skorpe og et mørkt purpursort til mørkegråt indre, uden pore i spidsen; kartoffelboviste er giftige. Unge Amanita-knapper kan ligne hvide kugleformede frugtlegemer, indtil et længdesnit viser omridset af hat, stok og hos nogle arter en skede.",
+      "notes": "Hvide myceliestrenge ved basen og vækst på rådne træ er de mest pålidelige feltkendetegn. Et frugtlegeme, der synes at stå på bar jord, bør tjekkes for skjult træ. Før enhver brug er et længdesnit nødvendigt for at bekræfte et rent hvidt indre og udelukke kartoffelboviste samt unge lamelsvampe.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+        "https://www.wikidata.org/wiki/Q79337417"
+      ],
+      "label": "Pære-støvbold"
+    },
+    "de": {
+      "description": "Dichte Büschel birnen- bis keulenförmiger Fruchtkörper, die unmittelbar auf morschem Holz wachsen, typischerweise 1.5–4 cm breit und etwa 3–4 cm hoch (einige mitteleuropäische Führer geben einen weiteren Bereich an, etwa 2–7 cm Breite und 2–6 oder 2–7 cm Höhe). Jeder hat einen gerundeten fertilen Kopf, der sich in eine kurze, schwammige sterile Basis verjüngt und mit auffälligen weißen, schnurartigen Rhizomorphen am Holz sitzt. Junge Fruchtkörper sind weiß bis cremefarben und mit kurzen, feinen warzigen Schüppchen bedeckt. Reife werden blass ocker bis gelbbraun; die Warzen reiben sich ab, es bleibt eine etwas papierartige Haut, und an der Spitze öffnet sich eine kleine runde Mündung.",
+      "cap": "Typischerweise 1.5–4 cm breit und etwa 3–4 cm hoch (einige mitteleuropäische Führer nennen etwa 2–7 cm Breite und 2–6 oder 2–7 cm Höhe). Birnen- bis keulenförmig, mit gerundetem Kopf und kurzer, leicht verjüngter steriler Basis. Die Oberfläche ist zuerst weiß bis cremefarben mit feinen pyramidalen Warzen, später blass ocker bis gelbbraun und glatter, wenn die Warzen abfallen. An der Spitze entsteht eine dunklere, leicht erhabene Stelle, und im Reifezustand öffnet sich eine einzige kleine Mündung.",
+      "hymenium": "Das fertile Gewebe ist eine Gleba, die den Kopf füllt. Jung ist sie reinweiß und fest. Beim Reifen wird sie weich und staubig, olivbraun und schließlich dunkelbraun. Die sterile Basis bleibt weiß, später cremefarben, und ist deutlich von der Gleba abgesetzt.",
+      "stipe": "Einen echten Stiel gibt es nicht. Eine kurze, schwammige sterile Basis, meist mehr oder weniger parallel oder leicht verjüngt, verankert den Fruchtkörper im Holz und bleibt weiß, auch wenn die Gleba nachdunkelt. Von der Basis ziehen weiße Myzelstränge ins faule Holz.",
+      "flesh": "Jung ist das Innere durchweg reinweiß und fest. Später wird die Gleba im Kopf olivbraun und staubig, während die sterile Basis heller bleibt. Der Geruch wird manchmal als unangenehm oder gasartig beschrieben; der Geschmack junger Fruchtkörper ist unauffällig, wird aber bitter, sobald die Gleba Farbe annimmt.",
+      "sporePrint": "Olivbraun, bei voller Reife dunkelbraun. Die Sporen sind rund oder nahezu rund, glatt, typischerweise 3.5–4.5 µm im Durchmesser (einige Führer nennen 3.5–5 µm).",
+      "habitat": "Saprob, gewöhnlich in dichten, gedrängten Gruppen auf morschen Stümpfen, vergrabenen Ästen und Wurzeln von Laubbäumen, gelegentlich auch an Nadelhölzern. Es kann so wirken, als wüchse er auf dem Boden, wenn das Holz knapp unter der Oberfläche verborgen ist. In Großbritannien und Irland fruktifiziert er von Juli bis Anfang Dezember; mitteleuropäische Führer nennen oft Juni bis November, und alte trockene Fruchtkörper können bis in den Winter stehen bleiben.",
+      "uses": "Essbar nur jung und nur, solange das Innere noch durchweg reinweiß ist. Sobald die Gleba gelb, oliv oder braun zu werden beginnt, lässt man ihn stehen. Vor dem Kochen wird die zähe Außenhaut entfernt. Der Geschmack gilt im Allgemeinen als mittelmäßig. Fruchtkörper immer der Länge nach aufschneiden, um ein reinweißes Inneres zu bestätigen und Kartoffelboviste sowie junge Knollenblätterpilz-Knöpfchen auszuschließen.",
+      "confusion": "Lycoperdon perlatum ist gewöhnlich etwas größer, wächst auf dem Boden statt auf Holz und ist mit viel größeren kegeligen, perligen Warzen bedeckt, die beim Abfallen ein netzartiges Muster hinterlassen. Scleroderma citrinum ist fest, mit dicker, harter, schuppiger gelbbrauner Rinde und einem dunkel purpurschwarzen bis dunkelgrauen Inneren, ohne Mündung an der Spitze; Kartoffelboviste sind giftig. Junge Amanita-Knöpfchen können weißen kugeligen Fruchtkörpern ähneln, bis ein Längsschnitt die Umrisse von Hut, Stiel und bei manchen Arten einer Volva zeigt.",
+      "notes": "Weiße Myzelstränge an der Basis und das Wachstum auf morschem Holz sind die zuverlässigsten Merkmale im Gelände. Ein Fruchtkörper, der auf kahlem Boden zu stehen scheint, sollte auf vergrabenes Holz geprüft werden. Vor jeder Verwendung ist ein Längsschnitt unerlässlich, um ein reinweißes Inneres zu bestätigen und Kartoffelboviste sowie junge Lamellenpilze auszuschließen.",
+      "names": [
+        "Birnenstäubling",
+        "Birnenbovist",
+        "Birnen-Bovist"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+        "https://de.wikipedia.org/wiki/Birnen-Stäubling",
+        "https://www.wikidata.org/wiki/Q865798"
+      ],
+      "label": "Birnen-Stäubling"
+    },
+    "en": {
+      "description": "Dense clusters of pear-shaped to pestle-shaped fruit bodies growing directly on rotting wood, typically 1.5–4 cm across and about 3–4 cm tall (some Central European guides give a wider range, about 2–7 cm across and 2–6 or 2–7 cm tall). Each has a rounded fertile head that narrows into a short, spongy sterile base, attached by conspicuous white, cord-like mycelial strands. Young fruit bodies are white to cream and covered in short, fine scurfy warts. Mature ones turn pale buff to yellowish brown; the warts wear away, leaving a slightly papery skin, and a small round pore opens at the apex.",
+      "cap": "Typically 1.5–4 cm across and about 3–4 cm tall (some Central European guides give about 2–7 cm across and 2–6 or 2–7 cm tall). Pear-shaped to pestle-shaped, with a rounded head and a short, slightly tapering sterile base. The surface is at first white to cream with fine pyramidal warts, then pale buff to yellowish brown and smoother as the warts wear away. A darker, slightly raised apex develops, and a single small apical pore opens when mature.",
+      "hymenium": "The fertile tissue is a gleba filling the head. When young it is pure white and firm. As it matures it becomes soft and powdery, turning olive-brown and eventually dark brown. The sterile base stays white, or later cream, and is clearly set off from the gleba.",
+      "stipe": "There is no true stem. A short, spongy sterile base, usually more or less parallel or slightly tapering, anchors the fruit body to the wood and remains white even when the gleba has darkened. White mycelial cords run from the base into the rotten wood.",
+      "flesh": "When young the interior is pure white and firm throughout. Later the gleba in the head becomes olive-brown and powdery, while the sterile base stays paler. The odour is sometimes described as unpleasant or gas-like; the taste is not distinctive when young, but becomes bitter once the gleba colours.",
+      "sporePrint": "Olive-brown, becoming dark brown when fully mature. The spores are round or nearly so, smooth, typically 3.5–4.5 µm across (some guides give 3.5–5 µm).",
+      "habitat": "Saprobic, usually in dense, crowded groups on decaying stumps, buried branches and roots of broadleaf trees, occasionally also on conifers. It may appear to grow on soil when the wood is buried just beneath the surface. In Britain and Ireland it fruits from July to early December; Central European guides often give June to November, and old dry fruit bodies can persist into winter.",
+      "uses": "Edible only when young and the interior is still pure white throughout. Once the gleba has begun to turn yellow, olive or brown, it is left. The tough outer skin is removed before cooking. The flavour is generally regarded as mediocre. Always cut fruit bodies lengthwise to confirm a pure white interior and to rule out earthballs and young button mushrooms.",
+      "confusion": "Lycoperdon perlatum is usually a little larger, grows on soil rather than on wood, and is covered in much larger conical pearly warts that leave a net-like pattern when they fall. Scleroderma citrinum is firm, with a thick, hard, scaly yellowish-brown rind and a dark purplish-black to dark grey interior, and it has no apical pore; earthballs are poisonous. Young Amanita buttons can look like white puffballs until a vertical section shows the outline of a cap, stem and, in some species, a volva.",
+      "notes": "White mycelial cords at the base and growth on rotting wood are the most reliable field clues. A fruit body that seems to be on bare soil should be checked for buried wood. A vertical cut is essential before any use, both to confirm a pure white interior and to exclude earthballs and young gilled mushrooms.",
+      "names": [
+        "Stump Puffball"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=819914",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=819914",
+        "https://api.gbif.org/v1/species/match?name=Apioperdon%20pyriforme",
+        "https://www.gbif.org/species/10852503",
+        "https://www.wikidata.org/wiki/Q79337417",
+        "https://www.inaturalist.org/taxa/972793",
+        "https://species.wikimedia.org/wiki/Lycoperdon_pyriforme",
+        "https://www.first-nature.com/fungi/lycoperdon-pyriforme.php",
+        "https://www.myko.cz/myko-atlas/Apioperdon-pyriforme/",
+        "https://botany.cz/cs/lycoperdon-pyriforme/",
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme"
+      ],
+      "label": "Pear-shaped Puffball"
+    },
+    "es": {
+      "description": "Grupos densos de cuerpos fructíferos en forma de pera o de maza, que crecen directamente sobre madera podrida, típicamente de 1.5–4 cm de ancho y unos 3–4 cm de alto (algunas guías de Europa central dan un intervalo más amplio, unos 2–7 cm de ancho y 2–6 o 2–7 cm de alto). Cada uno tiene una cabeza fértil redondeada que se estrecha en una base estéril corta y esponjosa, sujeta por evidentes cordones miceliares blancos. Los cuerpos jóvenes son blancos a crema y cubiertos de verruguitas cortas y finas. Los maduros se vuelven ante pálido a pardo amarillento; las verrugas se desgastan, queda una piel algo papirácea y en el ápice se abre un pequeño poro redondo.",
+      "cap": "Típicamente 1.5–4 cm de ancho y unos 3–4 cm de alto (algunas guías de Europa central indican unos 2–7 cm de ancho y 2–6 o 2–7 cm de alto). En forma de pera o de maza, con cabeza redondeada y una base estéril corta, ligeramente atenuada. La superficie es al principio blanca a crema, con verrugas piramidales finas, luego ante pálido a pardo amarillento y más lisa cuando caen las verrugas. En el ápice aparece una zona más oscura, ligeramente elevada, y al madurar se abre un solo poro pequeño.",
+      "hymenium": "El tejido fértil es una gleba que llena la cabeza. En joven es de un blanco puro y firme. Al madurar se vuelve blanda y polvorienta, pardo oliva y al final pardo oscuro. La base estéril permanece blanca, luego crema, y queda claramente separada de la gleba.",
+      "stipe": "No hay un pie verdadero. Una base estéril corta y esponjosa, por lo general más o menos paralela o ligeramente atenuada, ancla el cuerpo fructífero a la madera y permanece blanca incluso cuando la gleba se oscurece. Desde la base entran en la madera podrida cordones miceliares blancos.",
+      "flesh": "En los jóvenes el interior es enteramente de un blanco puro y firme. Más tarde la gleba de la cabeza se vuelve pardo oliva y polvorienta, mientras que la base estéril permanece más pálida. El olor se describe a veces como desagradable o gaseoso; el sabor de los jóvenes no es distintivo, pero se vuelve amargo cuando la gleba se colorea.",
+      "sporePrint": "Pardo oliva, que llega a pardo oscuro en plena madurez. Las esporas son redondas o casi redondas, lisas, típicamente de 3.5–4.5 µm de diámetro (algunas guías indican 3.5–5 µm).",
+      "habitat": "Saprófito, habitualmente en grupos densos y apretados sobre tocones en descomposición, ramas enterradas y raíces de frondosas, a veces también en coníferas. Puede parecer que crece en el suelo cuando la madera está justo bajo la superficie. En Gran Bretaña e Irlanda fructifica de julio a principios de diciembre; las guías de Europa central suelen indicar de junio a noviembre, y los cuerpos secos viejos pueden persistir hasta el invierno.",
+      "uses": "Comestible solo cuando es joven y el interior sigue siendo enteramente de un blanco puro. En cuanto la gleba empieza a ponerse amarilla, oliva o parda, se deja. Antes de cocinar se retira la piel exterior coriácea. El sabor se considera en general mediocre. Cortar siempre los cuerpos a lo largo para confirmar un interior de blanco puro y descartar las estrellas de tierra duras y los botones jóvenes de Amanita.",
+      "confusion": "Lycoperdon perlatum suele ser un poco más grande, crece en el suelo y no sobre la madera, y está cubierto de verrugas cónicas perladas mucho mayores, que al caer dejan un dibujo reticulado. Scleroderma citrinum es firme, con una corteza gruesa, dura y escamosa de color pardo amarillento y un interior púrpura negruzco a gris oscuro, sin poro apical; esos cuerpos son venenosos. Los botones jóvenes de Amanita pueden parecer cuerpos blancos y globosos hasta que un corte vertical muestra el contorno de un sombrero, un pie y, en algunas especies, una volva.",
+      "notes": "Los cordones miceliares blancos en la base y el crecimiento sobre madera podrida son las pistas de campo más fiables. Un cuerpo que parece estar en suelo desnudo debe comprobarse por si hay madera enterrada. Antes de cualquier uso es imprescindible un corte vertical para confirmar un interior de blanco puro y excluir esos dobles tóxicos y las setas lameladas jóvenes.",
+      "names": [
+        "hongo del muñón"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+        "https://www.wikidata.org/wiki/Q865798"
+      ],
+      "label": "hongo pera"
+    },
+    "et": {
+      "description": "Tihedad kogumikud pirnikujulisi kuni nuijakujulisi viljakehi, mis kasvavad otse kõduneval puidul, tüüpiliselt 1.5–4 cm laiad ja umbes 3–4 cm kõrged (mõned Kesk-Euroopa juhendid annavad laiema vahemiku, umbes 2–7 cm laiust ning 2–6 või 2–7 cm kõrgust). Igal on ümar viljakas pea, mis aheneb lühikeseks, käsnjaks steriilseks aluseks, ja see kinnitub silmatorkavate valgete, nööritaoliste risomorfidega. Noored viljakehad on valged kuni kreemjad ja kaetud lühikeste, peente näsadeega. Küpsed muutuvad kahvatult okreks kuni kollakaspruuniks; näsad kuluvad maha, järele jääb veidi paberjas nahk ja tipus avaneb väike ümmargune ava.",
+      "cap": "Tüüpiliselt 1.5–4 cm lai ja umbes 3–4 cm kõrge (mõned Kesk-Euroopa juhendid nimetavad umbes 2–7 cm laiust ning 2–6 või 2–7 cm kõrgust). Pirnikujuline kuni nuijakujuline, ümmarguse pea ja lühikese, veidi aheneva steriilse alusega. Pind on algul valge kuni kreemjas peente püramiidjate näsadega, hiljem kahvatult okre kuni kollakaspruun ja siledam, kui näsad varisevad. Tipus tekib tumedam, veidi kõrgem koht ja küpsena avaneb üks väike ava.",
+      "hymenium": "Viljakas kude on gleba, mis täidab pead. Noorena on see puhtalt valge ja kindel. Valmides muutub ta pehmeks ja tolmuseks, oliivpruuniks ning lõpuks tumepruuniks. Steriilne alus jääb valgeks, hiljem kreemjaks, ja on glebast selgelt eraldatud.",
+      "stipe": "Tõelist jalga ei ole. Lühike, käsnjas steriilne alus, tavaliselt enam-vähem paralleelne või veidi ahenev, kinnitab viljakeha puidu külge ja jääb valgeks ka siis, kui gleba tumeneb. Alusest lähevad valged seeneniidistikunöörid mädanenud puitu.",
+      "flesh": "Noorena on sisemus täiesti puhtalt valge ja kindel. Hiljem muutub pea gleba oliivpruuniks ja tolmuseks, samal ajal kui steriilne alus jääb heledamaks. Lõhna kirjeldatakse vahel kui ebameeldivat või gaasilaadset; noorte viljakehade maitse ei ole iseloomulik, kuid muutub mõruks, kui gleba värvub.",
+      "sporePrint": "Oliivpruun, täisküpsena tumepruun. Eosed on ümarad või peaaegu ümarad, siledad, tüüpiliselt 3.5–4.5 µm läbimõõduga (mõned juhendid nimetavad 3.5–5 µm).",
+      "habitat": "Saprotroofne, tavaliselt tihedates, kokkusurutud rühmades kõdunevatel kändudel, maetud okstel ja lehtpuude juurtel, vahel ka okaspuudel. Võib paista kasvavat mullal, kui puit on peidus vahetult pinna all. Suurbritannias ja Iirimaal viljub juulist detsembri alguseni; Kesk-Euroopa juhendid nimetavad sageli juunist novembrini ning vanad kuivad viljakehad võivad püsida talveni.",
+      "uses": "Söödav ainult noorelt ja ainult seni, kuni sisemus on veel täiesti puhtalt valge. Kui gleba hakkab kollaseks, oliivjaks või pruuniks minema, jäetakse ta. Enne valmistamist eemaldatakse sitke välimine nahk. Maitset peetakse üldiselt keskpäraseks. Viljakehad tuleb alati pikuti läbi lõigata, et kinnitada puhtalt valge sisemus ja välistada maamunad ning noored Amanita nupud.",
+      "confusion": "Lycoperdon perlatum on tavaliselt veidi suurem, kasvab mullal, mitte puidul, ja on kaetud palju suuremate koonusjate, pärlitaoliste näsadega, mis maha langedes jätavad võrkja mustri. Scleroderma citrinum on kindel, paksu, kõva, soomuselise kollakaspruuni koore ja tumeda purpurmusta kuni tumehalli sisemusega, ilma tipmise avata; maamunad on mürgised. Noored Amanita nupud võivad meenutada valgeid ümmargusi viljakehi, kuni pikitilõige näitab kübarat, jalga ja mõnel liigil ka tupe piirjooni.",
+      "notes": "Valged seeneniidistikunöörid alusel ja kasv kõduneval puidul on usaldusväärseimad tunnused looduses. Viljakeha, mis paistab kasvavat paljal mullal, tuleks kontrollida peidetud puidu suhtes. Enne igasugust kasutamist on vajalik pikitilõige, et kinnitada puhtalt valge sisemus ja välistada maamunad ning noored eoslehega seened.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+        "https://et.wikipedia.org/wiki/Pirn-murumuna",
+        "https://www.wikidata.org/wiki/Q79337417"
+      ],
+      "label": "Pirn-murumuna"
+    },
+    "fa": {
+      "description": "دسته‌های انبوه جسم‌های میوه‌ای گلابی‌شکل تا گرزی که مستقیماً روی چوب پوسیده می‌رویند، معمولاً 1.5–4 cm پهنا و حدود 3–4 cm بلندا دارند (برخی راهنماهای اروپای مرکزی دامنهٔ وسیع‌تری می‌دهند، حدود 2–7 cm پهنا و 2–6 یا 2–7 cm بلندا). هر یک سر بارور گردی دارد که به پایهٔ سترون کوتاه و اسفنجی باریک می‌شود و با رشته‌های میسلیوم سفید و بندمانند آشکار به چوب بسته است. جسم‌های جوان سفید تا کرم و پوشیده از زگیل‌های کوتاه و ریزند. بالغ‌ها نخودی کم‌رنگ تا قهوه‌ای مایل به زرد می‌شوند؛ زگیل‌ها ساییده می‌شوند، پوستی کمی کاغذی می‌ماند و در رأس سوراخ گرد کوچکی باز می‌شود.",
+      "cap": "معمولاً 1.5–4 cm پهنا و حدود 3–4 cm بلندا (برخی راهنماها حدود 2–7 cm پهنا و 2–6 یا 2–7 cm بلندا). گلابی‌شکل تا گرزی، با سر گرد و پایهٔ سترون کوتاه که کمی باریک می‌شود. سطح ابتدا سفید تا کرم با زگیل‌های هرمی ریز است، سپس نخودی کم‌رنگ تا قهوه‌ای مایل به زرد و صاف‌تر می‌شود. در رأس نقطه‌ای تیره‌تر و کمی برآمده پدید می‌آید و در بلوغ یک سوراخ کوچک باز می‌شود.",
+      "hymenium": "بافت بارور گلبایی است که سر را پر می‌کند. در جوانی سفید خالص و سفت است. با رسیدن نرم و پودری، زیتونی‌قهوه‌ای و سرانجام قهوه‌ای تیره می‌شود. پایهٔ سترون سفید، بعداً کرم، می‌ماند و به‌روشنی از گلبای جداست.",
+      "stipe": "ساقهٔ واقعی ندارد. پایهٔ سترون کوتاه و اسفنجی، معمولاً کم‌وبیش موازی یا کمی باریک‌شونده، جسم میوه‌ای را در چوب مهار می‌کند و حتی وقتی گلبای تیره شود سفید می‌ماند. از پایه رشته‌های میسلیوم سفید به درون چوب پوسیده می‌روند.",
+      "flesh": "در جوان‌ها درون یکسره سفید خالص و سفت است. بعداً گلبای سر زیتونی‌قهوه‌ای و پودری می‌شود، در حالی که پایهٔ سترون روشن‌تر می‌ماند. بو گاهی ناخوشایند یا گازمانند توصیف می‌شود؛ طعم جسم‌های جوان مشخص نیست، اما وقتی گلبای رنگ بگیرد تلخ می‌شود.",
+      "sporePrint": "زیتونی‌قهوه‌ای، در بلوغ کامل قهوه‌ای تیره. هاگ‌ها گرد یا تقریباً گرد، صاف، معمولاً 3.5–4.5 µm قطر دارند (برخی راهنماها 3.5–5 µm می‌دهند).",
+      "habitat": "گندروی، معمولاً در گروه‌های انبوه و فشرده روی کندهٔ پوسیده، شاخه‌های دفن‌شده و ریشه‌های درختان پهن‌برگ، گاه نیز روی مخروطیان. اگر چوب درست زیر سطح پنهان باشد ممکن است روی خاک به نظر برسد. در بریتانیا و ایرلند از ژوئیه تا اوایل دسامبر میوه می‌دهد؛ راهنماهای اروپای مرکزی اغلب ژوئن تا نوامبر را می‌گویند و جسم‌های خشک کهنه ممکن است تا زمستان بمانند.",
+      "uses": "فقط در جوانی و فقط تا وقتی درون هنوز یکسره سفید خالص است خوراکی است. به‌محض آن‌که گلبای زرد، زیتونی یا قهوه‌ای شود رها می‌شود. پیش از پخت پوست سخت بیرونی کنده می‌شود. طعم معمولاً معمولی دانسته می‌شود. جسم‌ها را همیشه باید در درازا برید تا درون سفید خالص تأیید شود و گوی‌های خاکی سمی و دکمه‌های جوان Amanita کنار گذاشته شوند.",
+      "confusion": "Lycoperdon perlatum معمولاً کمی بزرگ‌تر است، روی خاک می‌روید نه روی چوب، و با زگیل‌های مخروطی مرواریدی بسیار بزرگ‌تری پوشیده است که با ریختن نقش توری به جا می‌گذارند. Scleroderma citrinum سفت است، با پوسته‌ای ستبر، سخت و پولکی به رنگ قهوه‌ای مایل به زرد و درونی ارغوانی‌سیاه تا خاکستری تیره، بدون سوراخ رأسی؛ این‌ها سمی‌اند. دکمه‌های جوان Amanita ممکن است به جسم‌های سفید کروی شبیه باشند تا آن‌که برش عمودی طرح کلاهک، ساقه و در برخی گونه‌ها ولو را نشان دهد.",
+      "notes": "رشته‌های میسلیوم سفید در پایه و رویش روی چوب پوسیده مطمئن‌ترین نشانه‌های صحرایی‌اند. جسمی که روی خاک برهنه به نظر می‌رسد باید از نظر چوب دفن‌شده بررسی شود. پیش از هر استفاده برش عمودی لازم است تا درون سفید خالص تأیید شود و گوی‌های خاکی و قارچ‌های تیغه‌دار جوان کنار گذاشته شوند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Tiheitä ryhmiä päärynänmuotoisia tai nuijamaisia itiöemiä, jotka kasvavat suoraan lahoavalla puulla, tyypillisesti 1.5–4 cm leveitä ja noin 3–4 cm korkeita (jotkin keskieurooppalaiset oppaat antavat laajemman vaihtelun, noin 2–7 cm leveyttä ja 2–6 tai 2–7 cm korkeutta). Jokaisella on pyöristynyt itiölavallinen pää, joka kapenee lyhyeksi, sienimäiseksi steriiliksi tyveksi, ja se kiinnittyy näkyvillä valkeilla, nuoramaisilla risomorfeilla. Nuoret itiöemät ovat valkoisia tai kermanvärisiä ja peittyneet lyhyisiin, hienoihin nystyröihin. Kypsät muuttuvat vaalean okran- tai kellanruskeiksi; nystyrät kuluvat pois, jäljelle jää hieman paperimainen pinta, ja kärkeen avautuu pieni pyöreä reikä.",
+      "cap": "Tyypillisesti 1.5–4 cm leveä ja noin 3–4 cm korkea (jotkin keskieurooppalaiset oppaat mainitsevat noin 2–7 cm leveyttä ja 2–6 tai 2–7 cm korkeutta). Päärynänmuotoinen tai nuijamainen, pyöristynein päin ja lyhyin, hieman kapenevin steriilein tyvin. Pinta on aluksi valkoinen tai kermanvärinen, hienoilla pyramidimaisilla nystyröillä, myöhemmin vaalean okran- tai kellanruskea ja sileämpi nystyröiden pudottua. Kärkeen kehittyy tummempi, hieman kohollaan oleva kohta, ja kypsänä avautuu yksi pieni reikä.",
+      "hymenium": "Itiölava on gleba, joka täyttää pään. Nuorena se on puhtaan valkoinen ja kiinteä. Kypsyessään se pehmenee ja muuttuu jauheiseksi, oliivinruskeaksi ja lopulta tummanruskeaksi. Steriili tyvi pysyy valkoisena, myöhemmin kermanvärisenä, ja erottuu selvästi glebasta.",
+      "stipe": "Varsinaista jalkaa ei ole. Lyhyt, sienimäinen steriili tyvi, tavallisesti jokseenkin yhdensuuntainen tai hieman kapeneva, kiinnittää itiöemän puuhun ja pysyy valkoisena silloinkin, kun gleba tummenee. Tyvestä lahopuuhun kulkee valkoisia rihmastojuosteita.",
+      "flesh": "Nuorena sisus on kauttaaltaan puhtaan valkoinen ja kiinteä. Myöhemmin pään gleba muuttuu oliivinruskeaksi ja jauheiseksi, kun taas steriili tyvi jää vaaleammaksi. Tuoksua kuvataan joskus epämiellyttäväksi tai kaasumaiseksi; nuorten itiöemien maku ei ole erikoinen, mutta katkeroituu gleban värjäydyttyä.",
+      "sporePrint": "Oliivinruskea, täysin kypsänä tummanruskea. Itiöt ovat pyöreitä tai lähes pyöreitä, sileitä, tyypillisesti 3.5–4.5 µm halkaisijaltaan (jotkin oppaat mainitsevat 3.5–5 µm).",
+      "habitat": "Lahottaja, tavallisesti tiheissä, ahtaissa ryhmissä lahoavilla kannoilla, maahan hautautuneilla oksilla ja lehtipuiden juurilla, toisinaan myös havupuilla. Se voi näyttää kasvavan maassa, jos puu on kätkössä aivan pinnan alla. Britanniassa ja Irlannissa itiöemiä esiintyy heinäkuusta joulukuun alkuun; keskieurooppalaiset oppaat mainitsevat usein kesä–marraskuun, ja vanhat kuivat itiöemät voivat säilyä talveen.",
+      "uses": "Syötävä vain nuorena ja vain niin kauan kuin sisus on vielä kauttaaltaan puhtaan valkoinen. Kun gleba alkaa kellastua, oliivinvoitua tai ruskettua, se jätetään. Kova ulkokuori poistetaan ennen valmistusta. Makua pidetään yleensä keskinkertaisena. Itiöemät on aina leikattava pituussuunnassa, jotta puhtaan valkoinen sisus varmistuu ja mukulamadot sekä Amanita-nappulat voidaan sulkea pois.",
+      "confusion": "Lycoperdon perlatum on tavallisesti hieman kookkaampi, kasvaa maassa eikä puulla ja on peittynyt paljon suurempiin kartiomaisiin, helmimäisiin nystyröihin, jotka jättävät verkkomaisen kuvion pudotessaan. Scleroderma citrinum on kiinteä, paksun, kovan, suomuisen kellanruskean kuoren ja tumman purppuranmustan tai tummanharmaan sisuksen omaava, ilman kärkeä avautuvaa reikää; mukulamadot ovat myrkyllisiä. Nuoret Amanita-nappulat voivat muistuttaa valkoisia pallomaisia itiöemiä, kunnes pituusleikkaus paljastaa lakin, jalan ja joillakin lajeilla tupen ääriviivat.",
+      "notes": "Valkoiset rihmastojuosteet tyvessä ja kasvu lahopuulla ovat luotettavimmat maastotuntomerkit. Itiöemä, joka näyttää kasvavan paljaalla maalla, kannattaa tarkistaa kätketyn puun varalta. Ennen käyttöä on tehtävä pituusleikkaus, jotta puhtaan valkoinen sisus varmistuu ja mukulamadot sekä nuoret helttasienet voidaan sulkea pois.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+        "https://fi.wikipedia.org/wiki/Ryhmätuhkelo",
+        "https://www.wikidata.org/wiki/Q865798"
+      ],
+      "label": "ryhmätuhkelo"
+    },
+    "fr": {
+      "description": "Touffes denses de sporophores en forme de poire ou de pilon, poussant directement sur le bois pourri, typiquement de 1.5–4 cm de large et d’environ 3–4 cm de haut (certains guides d’Europe centrale indiquent une fourchette plus large, environ 2–7 cm de large et 2–6 ou 2–7 cm de haut). Chacun a une tête fertile arrondie qui se rétrécit en une base stérile courte et spongieuse, fixée par des cordons mycéliens blancs, bien visibles. Les jeunes sporophores sont blancs à crème et couverts de petites verrues courtes et fines. À maturité, ils deviennent chamois pâle à brun jaunâtre; les verrues s’usent, il reste une peau un peu papyracée, et un petit pore rond s’ouvre au sommet.",
+      "cap": "Typiquement 1.5–4 cm de large et environ 3–4 cm de haut (certains guides d’Europe centrale indiquent environ 2–7 cm de large et 2–6 ou 2–7 cm de haut). En forme de poire ou de pilon, avec une tête arrondie et une base stérile courte, légèrement atténuée. La surface est d’abord blanche à crème, à verrues pyramidales fines, puis chamois pâle à brun jaunâtre et plus lisse lorsque les verrues tombent. Un sommet plus foncé, légèrement surélevé, apparaît, et un seul petit pore s’ouvre à maturité.",
+      "hymenium": "Le tissu fertile est une gléba qui remplit la tête. Jeune, elle est d’un blanc pur et ferme. En mûrissant, elle devient molle et poudreuse, brun olive puis brun foncé. La base stérile reste blanche, plus tard crème, et se distingue clairement de la gléba.",
+      "stipe": "Il n’y a pas de vrai pied. Une base stérile courte et spongieuse, généralement plus ou moins parallèle ou légèrement atténuée, ancre le sporophore dans le bois et reste blanche même lorsque la gléba s’assombrit. Des cordons mycéliens blancs partent de la base dans le bois pourri.",
+      "flesh": "Chez les jeunes, l’intérieur est entièrement d’un blanc pur et ferme. Plus tard, la gléba de la tête devient brun olive et poudreuse, tandis que la base stérile reste plus pâle. L’odeur est parfois décrite comme désagréable ou gazeuse; la saveur des jeunes sporophores n’est pas caractéristique, mais devient amère dès que la gléba se colore.",
+      "sporePrint": "Brun olive, devenant brun foncé à pleine maturité. Les spores sont rondes ou presque, lisses, typiquement 3.5–4.5 µm de diamètre (certains guides indiquent 3.5–5 µm).",
+      "habitat": "Saprotrophe, habituellement en groupes denses et serrés sur souches en décomposition, branches enterrées et racines de feuillus, parfois aussi sur des conifères. Il peut sembler pousser sur le sol lorsque le bois est juste sous la surface. En Grande-Bretagne et en Irlande, il fructifie de juillet au début de décembre; les guides d’Europe centrale indiquent souvent juin à novembre, et les vieux sporophores secs peuvent persister jusqu’à l’hiver.",
+      "uses": "Comestible seulement jeune et seulement tant que l’intérieur est encore entièrement d’un blanc pur. Dès que la gléba commence à jaunir, à devenir olive ou brune, on le laisse. La peau extérieure coriace est ôtée avant la cuisson. La saveur est généralement jugée médiocre. Toujours couper les sporophores dans le sens de la longueur pour confirmer un intérieur d’un blanc pur et écarter les sclérodermes et les jeunes boutons d’Amanita.",
+      "confusion": "Lycoperdon perlatum est habituellement un peu plus grand, pousse sur le sol plutôt que sur le bois, et est couvert de verrues coniques nacrées beaucoup plus grandes, qui laissent un réseau lorsqu’elles tombent. Scleroderma citrinum est ferme, avec une écorce épaisse, dure, écailleuse, jaune-brun, et un intérieur pourpre-noir à gris foncé, sans pore apical; les sclérodermes sont toxiques. Les jeunes boutons d’Amanita peuvent ressembler à des sporophores blancs et globuleux jusqu’à ce qu’une coupe verticale montre le contour d’un chapeau, d’un pied et, chez certaines espèces, d’une volve.",
+      "notes": "Les cordons mycéliens blancs à la base et la pousse sur le bois pourri sont les indices de terrain les plus sûrs. Un sporophore qui semble sur le sol nu doit être vérifié pour du bois enterré. Avant tout usage, une coupe verticale est indispensable pour confirmer un intérieur d’un blanc pur et écarter les sclérodermes ainsi que les jeunes champignons à lames.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+        "https://fr.wikipedia.org/wiki/Lycoperdon_pyriforme"
+      ],
+      "label": "Vesse de loup en forme de poire"
+    },
+    "he": {
+      "description": "אשכולות צפופים של גופי רבייה בצורת אגס או אלה, הגדלים ישירות על עץ רקוב, בדרך כלל ברוחב 1.5–4 cm ובגובה של כ־3–4 cm (מדריכים אחדים ממרכז אירופה מציינים כ־2–7 cm ברוחב ו־2–6 או 2–7 cm בגובה). לכל אחד ראש פורה מעוגל המצטמצם לבסיס עקר קצר וספוגי, והוא מחובר ברצועות תפטיר לבנות בולטות. גופי רבייה צעירים לבנים עד קרם ומכוסים ביבלות קצרות ועדינות. הבשלים הופכים אוקר חיוור עד חום־צהבהב; היבלות נשחקות, נשארת קליפה מעט ניירית, ובקודקוד נפתח נקבים עגול קטן.",
+      "cap": "בדרך כלל ברוחב 1.5–4 cm ובגובה של כ־3–4 cm (מדריכים אחדים מציינים כ־2–7 cm ברוחב ו־2–6 או 2–7 cm בגובה). בצורת אגס או אלה, עם ראש מעוגל ובסיס עקר קצר המתחדד מעט. פני השטח תחילה לבנים עד קרם, עם יבלות פירמידליות עדינות, ואחר כך אוקר חיוור עד חום־צהבהב וחלקים יותר. בקודקוד מופיע אזור כהה יותר, מעט מורם, ובהבשלה נפתח נקבים אחד קטן.",
+      "hymenium": "הרקמה הפורייה היא גלבה הממלאת את הראש. בצעירותה היא לבנה טהורה ומוצקה. בהבשלה היא מתרככת ונעשית אבקית, חומה־זיתית ולבסוף חומה כהה. הבסיס העקר נשאר לבן, מאוחר יותר קרם, ומובדל בבירור מן הגלבה.",
+      "stipe": "אין רגל אמיתית. בסיס עקר קצר וספוגי, בדרך כלל כמעט מקביל או מתחדד מעט, מעגן את גוף הרבייה בעץ ונשאר לבן גם כאשר הגלבה כהה. מן הבסיס נמשכות לתוך העץ הרקוב רצועות תפטיר לבנות.",
+      "flesh": "בצעירים הפנים כולו לבן טהור ומוצק. אחר כך הגלבה שבראש נעשית חומה־זיתית ואבקית, בעוד הבסיס העקר נשאר בהיר יותר. הריח מתואר לעיתים כלא נעים או כריח גז; טעמם של גופי רבייה צעירים אינו אופייני, אך נעשה מר כאשר הגלבה נצבעת.",
+      "sporePrint": "חום־זיתי, ובבשלות מלאה חום כהה. הנבגים עגולים או כמעט עגולים, חלקים, בדרך כלל בקוטר 3.5–4.5 µm (מדריכים אחדים מציינים 3.5–5 µm).",
+      "habitat": "ספרוטרופי, בדרך כלל בקבוצות צפופות ודחוסות על גדמים נרקבים, ענפים קבורים ושורשי עצים רחבי עלים, לעיתים גם על מחטניים. הוא עלול להיראות כגדל על הקרקע כאשר העץ חבוי ממש מתחת לפני השטח. בבריטניה ובאירלנד הוא מניב מיולי עד ראשית דצמבר; מדריכים ממרכז אירופה מציינים לעיתים קרובות יוני עד נובמבר, וגופי רבייה יבשים ישנים עשויים להישאר עד החורף.",
+      "uses": "אכיל רק כשהוא צעיר ורק כל עוד הפנים עדיין כולו לבן טהור. ברגע שהגלבה מתחילה להצהיב, להזית או להשחים, מותירים אותו. לפני הבישול מסירים את הקליפה החיצונית הקשה. הטעם נחשב בדרך כלל לבינוני. יש לחתוך תמיד את גופי הרבייה לאורכם כדי לאשר פנים לבן טהור ולשלול כדורי אדמה רעילים וכפתורים צעירים של Amanita.",
+      "confusion": "Lycoperdon perlatum בדרך כלל גדול מעט יותר, גדל על הקרקע ולא על עץ, ומכוסה ביבלות חרוטיות פניניות גדולות הרבה יותר, שבהינתקן מותירות דגם דמוי רשת. Scleroderma citrinum מוצק, עם קליפה עבה, קשה ומקושקשת חומה־צהבהבה ופנים סגול־שחור עד אפור כהה, בלי נקבים בקודקוד; אלה רעילים. כפתורים צעירים של Amanita עשויים להיראות כגופי רבייה לבנים וכדוריים עד שחתך אנכי מראה את קווי המתאר של כובע, רגל, ובמינים אחדים גם וולווה.",
+      "notes": "רצועות התפטיר הלבנות בבסיס והגידול על עץ רקוב הם סימני השדה האמינים ביותר. גוף רבייה שנראה ניצב על קרקע חשופה יש לבדוק שמא יש תחתיו עץ קבור. לפני כל שימוש חיוני חתך אנכי כדי לאשר פנים לבן טהור ולשלול כדורי אדמה ופטריות צלחות צעירות.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "सड़ती लकड़ी पर सीधे उगने वाले नाशपाती से गदा आकार के फलनिकाओं के घने झुंड, आमतौर पर 1.5–4 cm चौड़े और लगभग 3–4 cm ऊँचे (कुछ मध्य यूरोपीय मार्गदर्शिकाएँ व्यापक सीमा देती हैं, लगभग 2–7 cm चौड़ाई और 2–6 या 2–7 cm ऊँचाई)। प्रत्येक का गोलाकार उर्वर शीर्ष होता है जो छोटे, स्पंजी बाँझ आधार में संकरा होता है, और स्पष्ट सफेद, रस्सी जैसे राइजोमॉर्फ से जुड़ा होता है। युवा फलनिकाएँ सफेद से क्रीम रंग की होती हैं और छोटी, महीन मस्सों से ढकी होती हैं। परिपक्व पीली-गेरुआ से पीली-भूरी हो जाती हैं; मस्सें घिस जाती हैं, थोड़ी कागज़ी त्वचा रह जाती है, और शीर्ष पर एक छोटी गोल छिद्र खुलती है।",
+      "cap": "आमतौर पर 1.5–4 cm चौड़ी और लगभग 3–4 cm ऊँची (कुछ मार्गदर्शिकाएँ लगभग 2–7 cm चौड़ाई और 2–6 या 2–7 cm ऊँचाई बताती हैं)। नाशपाती से गदा आकार की, गोलाकार शीर्ष और छोटे, थोड़े संकरे बाँझ आधार के साथ। सतह पहले सफेद से क्रीम, महीन पिरामिड मस्सों वाली होती है, बाद में पीली-गेरुआ से पीली-भूरी और मस्सों के झड़ने पर अधिक चिकनी। शीर्ष पर गहरा, थोड़ा उठा हुआ स्थान बनता है, और परिपक्व होने पर एक छोटी छिद्र खुलती है।",
+      "hymenium": "उर्वर ऊतक ग्लेबा है जो शीर्ष को भरती है। युवा अवस्था में वह शुद्ध सफेद और ठोस होती है। पकने पर नरम और चूर्णिल होकर जैतूनी-भूरी और अंत में गहरी भूरी हो जाती है। बाँझ आधार सफेद, बाद में क्रीम रहता है और ग्लेबा से स्पष्ट रूप से अलग होता है।",
+      "stipe": "कोई वास्तविक डंठल नहीं होता। छोटा, स्पंजी बाँझ आधार, आमतौर पर लगभग समांतर या थोड़ा संकरा, फलनिका को लकड़ी में स्थिर रखता है और ग्लेबा के काले पड़ने पर भी सफेद रहता है। आधार से सड़ी लकड़ी में सफेद माइसीलियम डोरियाँ जाती हैं।",
+      "flesh": "युवा अवस्था में भीतर पूरी तरह शुद्ध सफेद और ठोस होता है। बाद में शीर्ष की ग्लेबा जैतूनी-भूरी और चूर्णिल हो जाती है, जबकि बाँझ आधार अधिक हल्का रहता है। गंध कभी-कभी अप्रिय या गैस जैसी कही जाती है; युवा फलनिकाओं का स्वाद विशिष्ट नहीं होता, पर ग्लेबा के रंग बदलते ही कड़वा हो जाता है।",
+      "sporePrint": "जैतूनी-भूरा, पूर्ण परिपक्वता में गहरा भूरा। बीजाणु गोल या लगभग गोल, चिकने, आमतौर पर 3.5–4.5 µm व्यास के होते हैं (कुछ मार्गदर्शिकाएँ 3.5–5 µm बताती हैं)।",
+      "habitat": "मृतोपजीवी, आमतौर पर सड़ते ठूँठों, दबी शाखाओं और चौड़ी पत्ती वाले वृक्षों की जड़ों पर घने, ठसे समूहों में, कभी-कभी शंकुधारियों पर भी। यदि लकड़ी सतह के ठीक नीचे छिपी हो तो मिट्टी पर उगता हुआ लग सकता है। ब्रिटेन और आयरलैंड में जुलाई से दिसंबर की शुरुआत तक फलता है; मध्य यूरोपीय मार्गदर्शिकाएँ अक्सर जून से नवंबर बताती हैं, और पुरानी सूखी फलनिकाएँ सर्दी तक रह सकती हैं।",
+      "uses": "केवल युवा होने पर और केवल तब खाई जा सकती है जब भीतर अभी पूरी तरह शुद्ध सफेद हो। जैसे ही ग्लेबा पीली, जैतूनी या भूरी होने लगे, उसे छोड़ दिया जाता है। पकाने से पहले कड़ी बाहरी त्वचा उतारी जाती है। स्वाद सामान्यतः साधारण माना जाता है। शुद्ध सफेद भीतर की पुष्टि करने और विषैले मिट्टी के गोलों तथा Amanita के युवा बटनों को हटाने के लिए फलनिकाओं को हमेशा लंबाई में काटना चाहिए।",
+      "confusion": "Lycoperdon perlatum आमतौर पर थोड़ी बड़ी होती है, लकड़ी के बजाय मिट्टी पर उगती है, और बहुत बड़ी शंक्वाकार मोतिया मस्सों से ढकी होती है जो झड़ने पर जालीदार पैटर्न छोड़ती हैं। Scleroderma citrinum ठोस है, मोटी, कड़ी, शल्की पीली-भूरी छाल और गहरे बैंगनी-काले से गहरे स्लेटी भीतर के साथ, शीर्ष छिद्र के बिना; ये विषैले हैं। युवा Amanita बटन सफेद गोलाकार फलनिकाओं जैसे लग सकते हैं जब तक एक ऊर्ध्वाधर काट टोपी, डंठल और कुछ जातियों में वॉल्वा की रूपरेखा न दिखा दे।",
+      "notes": "आधार पर सफेद माइसीलियम डोरियाँ और सड़ती लकड़ी पर वृद्धि सबसे विश्वसनीय क्षेत्र संकेत हैं। जो फलनिका नंगी मिट्टी पर खड़ी दिखे, उसे छिपी लकड़ी के लिए जाँचना चाहिए। किसी भी उपयोग से पहले शुद्ध सफेद भीतर की पुष्टि और विषैले मिट्टी के गोलों तथा युवा गिल कवकों को हटाने के लिए ऊर्ध्वाधर काट आवश्यक है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Guste skupine kruškolikih do kijačastih plodnih tijela koje rastu izravno na trulom drvu, obično 1.5–4 cm širine i oko 3–4 cm visine (neki srednjoeuropski vodiči navode širi raspon, oko 2–7 cm širine i 2–6 ili 2–7 cm visine). Svako ima zaobljenu plodnu glavu koja se sužava u kratku, spužvastu sterilnu bazu i pričvršćeno je uočljivim bijelim, užetastim rizomorfama. Mlada plodna tijela bijela su do kremasta i prekrivena kratkim, finim bradavicama. Zrela postaju blijedookra do žutosmeđa; bradavice otpadaju, ostaje pomalo papirasta kožica, a na vrhu se otvara mali okrugli otvor.",
+      "cap": "Obično 1.5–4 cm širine i oko 3–4 cm visine (neki srednjoeuropski vodiči navode oko 2–7 cm širine i 2–6 ili 2–7 cm visine). Kruškolik do kijačast, sa zaobljenom glavom i kratkom, blago suženom sterilnom bazom. Površina je najprije bijela do kremasta s finim piramidalnim bradavicama, potom blijedookra do žutosmeđa i glađa kako bradavice otpadaju. Na vrhu se razvija tamnije, blago uzdignuto mjesto, a u zrelosti se otvara jedan mali otvor.",
+      "hymenium": "Plodno tkivo je gleba koja ispunjava glavu. Dok je mlada, čisto je bijela i čvrsta. Kako dozrijeva, omekša i postaje prašnjava, maslinastosmeđa i naposljetku tamnosmeđa. Sterilna baza ostaje bijela, kasnije kremasta, i jasno je odvojena od glebe.",
+      "stipe": "Prave stručka nema. Kratka, spužvasta sterilna baza, obično više-manje usporedna ili blago sužena, pričvršćuje plodno tijelo za drvo i ostaje bijela čak i kad gleba potamni. Iz baze u trulo drvo idu bijele micelijske vrpce.",
+      "flesh": "Dok je mlado, unutrašnjost je potpuno čisto bijela i čvrsta. Kasnije gleba u glavi postaje maslinastosmeđa i prašnjava, dok sterilna baza ostaje svjetlija. Miris se ponekad opisuje kao neugodan ili nalik plinu; okus mladih plodnih tijela nije osobit, ali nakon bojanja glebe postaje gorak.",
+      "sporePrint": "Maslinastosmeđi, u punoj zrelosti tamnosmeđi. Spore su okrugle ili gotovo okrugle, glatke, obično 3.5–4.5 µm u promjeru (neki vodiči navode 3.5–5 µm).",
+      "habitat": "Saprotrofna, obično u gustim, zbijenim skupinama na trulim panjevima, zakopanim granama i korijenju listača, povremeno i na četinjačama. Može izgledati kao da raste na tlu kada je drvo skriveno tik ispod površine. U Britaniji i Irskoj plodi od srpnja do početka prosinca; srednjoeuropski vodiči često navode lipanj–studeni, a stara suha plodna tijela mogu ostati do zime.",
+      "uses": "Jestiva samo dok je mlada i unutrašnjost još potpuno čisto bijela. Čim gleba počne žutjeti, maslinastiti ili smeđiti, ostavlja se. Prije pripreme skida se tvrda vanjska kožica. Okus se uglavnom smatra osrednjim. Plodna tijela uvijek treba prerezati uzdužno kako bi se potvrdila čisto bijela unutrašnjost i isključile tvrokožnice te mladi, gumbasti pupoljci munara.",
+      "confusion": "Lycoperdon perlatum obično je malo veća, raste na tlu a ne na drvu, i prekrivena je znatno većim stožastim, biserastim bradavicama koje nakon otpadanja ostavljaju mrežasti uzorak. Scleroderma citrinum je čvrsta, s debelom, tvrdom, ljuskavom žutosmeđom korom i tamnom purpurnocrnom do tamnosivom unutrašnjosti, bez vršnog otvora; tvrokožnice su otrovne. Mladi gumbovi roda Amanita mogu nalikovati bijelim okruglim plodnim tijelima dok uzdužni presjek ne pokaže obris klobuka, stručka i kod nekih vrsta i volve.",
+      "notes": "Bijele micelijske vrpce na bazi i rast na trulom drvu najpouzdaniji su terenski znakovi. Plodno tijelo koje izgleda kao da raste na golom tlu treba provjeriti ima li ispod skrivenog drva. Prije bilo kakve uporabe nužan je uzdužni presjek kako bi se potvrdila čisto bijela unutrašnjost i isključile tvrokožnice te mlade listićave gljive.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Sűrű csoportokban növő, körte vagy buzogány alakú termőtestek korhadó fán, tipikusan 1.5–4 cm szélesek és körülbelül 3–4 cm magasak (egyes közép-európai útmutatók körülbelül 2–7 cm szélességet és 2–6 vagy 2–7 cm magasságot adnak). Mindegyiknek kerekded termő feje van, amely rövid, szivacsos steril tőbe keskenyedik, és feltűnő fehér, zsinórszerű rizomorfákkal tapad. A fiatal termőtestek fehérek vagy krémszínűek, rövid finom szemölcsökkel. Az érettek halvány okkeresek vagy sárgásbarnák; a szemölcsök lekopnak, papírszerű bőr marad, és a csúcson kis kerek nyílás nyílik.",
+      "cap": "Tipikusan 1.5–4 cm széles és körülbelül 3–4 cm magas (egyes útmutatók: körülbelül 2–7 cm szélesség és 2–6 vagy 2–7 cm magasság). Körte vagy buzogány alakú, kerekded fejjel és rövid, kissé keskenyedő steril tővel. A felszín először fehér vagy krémszínű, finom piramisos szemölcsökkel, később halvány okkeres vagy sárgásbarna és simább. A csúcson sötétebb, kissé kiemelkedő folt alakul ki, és éretten egyetlen kis nyílás nyílik.",
+      "hymenium": "A termőszövet a fejet kitöltő gleba. Fiatalon tiszta fehér és szilárd. Éréskor meglágyul és porosodik, olívabarnává, végül sötétbarnává válik. A steril tő fehér, később krémszínű marad, és világosan elkülönül a glebától.",
+      "stipe": "Valódi tönkje nincs. Rövid, szivacsos steril tő, általában többé-kevésbé párhuzamos vagy kissé keskenyedő, a termőtestet a fához rögzíti, és fehér marad akkor is, amikor a gleba elsötétül. A tőből fehér micéliumzsinórok futnak a korhadó fába.",
+      "flesh": "Fiatalon a belseje végig tiszta fehér és szilárd. Később a fej glebája olívabarna és poros lesz, míg a steril tő világosabb marad. A szagot néha kellemetlennek vagy gázszerűnek írják; a fiatal termőtestek íze nem jellegzetes, de megkeseredik, amint a gleba színeződik.",
+      "sporePrint": "Olívabarna, teljes érettségben sötétbarna. A spórák kerekek vagy csaknem kerekek, simák, tipikusan 3.5–4.5 µm átmérőjűek (egyes útmutatók 3.5–5 µm-t említenek).",
+      "habitat": "Lebontó, általában sűrű, zsúfolt csoportokban korhadó tuskókon, eltemetett ágakon és lomblevelű fák gyökerein, alkalmanként tűlevelűeken is. Úgy tűnhet, hogy talajon nő, ha a fa éppen a felszín alatt rejtőzik. Nagy-Britanniában és Írországban júliustól december elejéig terem; a közép-európai útmutatók gyakran júniustól novemberig említik, és a régi, száraz termőtestek a télbe is megmaradhatnak.",
+      "uses": "Csak fiatalon ehető, és csak addig, amíg a belseje még végig tiszta fehér. Amint a gleba sárgulni, olívává vagy barnává kezd válni, otthagyjuk. Főzés előtt a szívós külső bőrt eltávolítjuk. Az ízt általában közepesnek tartják. A termőtesteket mindig hosszirányban kell elvágni, hogy a tiszta fehér belseje igazolódjon, és ki lehessen zárni a mérgező földlabdákat és a fiatal Amanita-gombócokat.",
+      "confusion": "A Lycoperdon perlatum általában valamivel nagyobb, talajon nő, nem fán, és jóval nagyobb kúpos, gyöngyszerű szemölcsök borítják, amelyek lehullva hálós mintát hagynak. A Scleroderma citrinum szilárd, vastag, kemény, pikkelyes sárgásbarna kéreggel és sötét bíborfekete vagy sötétszürke belsővel, csúcsi nyílás nélkül; ezek a gombák mérgezőek. A fiatal Amanita-gombócok fehér, gömbölyű termőtestekre hasonlíthatnak, amíg a hosszirányú metszet nem mutatja a kalap, a tönk és egyes fajoknál a bocskor körvonalát.",
+      "notes": "A tőnél lévő fehér micéliumzsinórok és a korhadó fán való növekedés a legmegbízhatóbb terepi jegyek. A csupasz talajon állónak tűnő termőtestet ellenőrizni kell rejtett fa után. Bármilyen használat előtt elengedhetetlen a hosszirányú metszet, hogy a tiszta fehér belseje igazolódjon, és ki lehessen zárni a mérgező földlabdákat és a fiatal lemezes gombákat.",
+      "names": [
+        "Körtealakú pöfeteg"
+      ],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Körtepöfeteg",
+        "https://www.wikidata.org/wiki/Q79337417",
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme"
+      ],
+      "label": "Körtepöfeteg"
+    },
+    "id": {
+      "description": "Rumpun rapat tubuh buah berbentuk pir hingga pentungan yang tumbuh langsung pada kayu membusuk, biasanya 1.5–4 cm lebar dan sekitar 3–4 cm tinggi (beberapa panduan Eropa Tengah memberi kisaran lebih luas, sekitar 2–7 cm lebar dan 2–6 atau 2–7 cm tinggi). Masing-masing memiliki kepala subur membulat yang menyempit menjadi pangkal mandul pendek dan berongga seperti spons, melekat dengan rizomorf putih seperti tali yang mencolok. Tubuh buah muda putih hingga krem dan tertutup kutil pendek yang halus. Yang matang menjadi oker pucat hingga cokelat kekuningan; kutilnya aus, tertinggal kulit agak seperti kertas, dan di puncak terbuka pori bulat kecil.",
+      "cap": "Biasanya 1.5–4 cm lebar dan sekitar 3–4 cm tinggi (beberapa panduan menyebut sekitar 2–7 cm lebar dan 2–6 atau 2–7 cm tinggi). Berbentuk pir hingga pentungan, dengan kepala membulat dan pangkal mandul pendek yang sedikit meruncing. Permukaan mula-mula putih hingga krem dengan kutil piramida halus, kemudian oker pucat hingga cokelat kekuningan dan lebih licin ketika kutil rontok. Di puncak muncul bagian lebih gelap yang sedikit menonjol, dan saat matang terbuka satu pori kecil.",
+      "hymenium": "Jaringan subur adalah gleba yang mengisi kepala. Ketika muda ia putih murni dan padat. Saat masak menjadi lunak dan bertepung, cokelat zaitun, dan akhirnya cokelat tua. Pangkal mandul tetap putih, kemudian krem, dan jelas terpisah dari gleba.",
+      "stipe": "Tidak ada batang sejati. Pangkal mandul pendek dan berongga seperti spons, biasanya kurang lebih sejajar atau sedikit meruncing, menambatkan tubuh buah pada kayu dan tetap putih meski gleba menggelap. Dari pangkal, tali miselium putih merambat ke kayu busuk.",
+      "flesh": "Pada yang muda bagian dalam seluruhnya putih murni dan padat. Kemudian gleba di kepala menjadi cokelat zaitun dan bertepung, sementara pangkal mandul tetap lebih pucat. Bau kadang dilukiskan tidak sedap atau seperti gas; rasa tubuh buah muda tidak khas, tetapi menjadi pahit begitu gleba berwarna.",
+      "sporePrint": "Cokelat zaitun, menjadi cokelat tua pada kematangan penuh. Spora bulat atau hampir bulat, licin, biasanya berdiameter 3.5–4.5 µm (beberapa panduan menyebut 3.5–5 µm).",
+      "habitat": "Saprotrof, biasanya dalam kelompok rapat dan berdesakan pada tunggul membusuk, cabang terkubur, dan akar pohon berdaun lebar, kadang juga pada konifer. Dapat tampak tumbuh di tanah jika kayu tersembunyi tepat di bawah permukaan. Di Britania dan Irlandia berbuah dari Juli hingga awal Desember; panduan Eropa Tengah sering menyebut Juni hingga November, dan tubuh buah kering tua dapat bertahan hingga musim dingin.",
+      "uses": "Dapat dimakan hanya ketika muda dan hanya selama bagian dalam masih seluruhnya putih murni. Begitu gleba mulai menguning, menjadi zaitun, atau cokelat, dibiarkan. Kulit luar yang liat dikupas sebelum dimasak. Rasanya umumnya dianggap sedang. Selalu belah tubuh buah memanjang untuk memastikan bagian dalam putih murni dan menyingkirkan bola tanah beracun serta kuncup muda Amanita.",
+      "confusion": "Lycoperdon perlatum biasanya sedikit lebih besar, tumbuh di tanah bukan pada kayu, dan tertutup kutil kerucut mutiara yang jauh lebih besar, yang saat rontok meninggalkan pola jaring. Scleroderma citrinum padat, dengan kulit tebal, keras, bersisik cokelat kekuningan dan bagian dalam ungu-hitam hingga abu-abu tua, tanpa pori puncak; itu beracun. Kuncup muda Amanita dapat menyerupai tubuh buah putih membulat sampai irisan tegak menunjukkan garis tudung, batang, dan pada beberapa spesies juga volva.",
+      "notes": "Tali miselium putih di pangkal dan pertumbuhan pada kayu membusuk adalah petunjuk lapangan yang paling andal. Tubuh buah yang tampak berdiri di tanah gundul harus diperiksa apakah ada kayu terkubur. Sebelum digunakan, irisan tegak wajib dilakukan untuk memastikan bagian dalam putih murni dan menyingkirkan bola tanah serta jamur berinsang muda.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Gruppi densi di carpofori a forma di pera o di clava, che crescono direttamente sul legno marcescente, tipicamente larghi 1.5–4 cm e alti circa 3–4 cm (alcune guide dell’Europa centrale indicano un intervallo più ampio, circa 2–7 cm di larghezza e 2–6 o 2–7 cm di altezza). Ciascuno ha una testa fertile arrotondata che si restringe in una base sterile corta e spugnosa, fissata da evidenti cordoni miceliari bianchi. I carpofori giovani sono bianchi o crema e coperti da verruche corte e fini. A maturità diventano camoscio chiaro o bruno-giallastri; le verruche si consumano, resta una cuticola un po’ papiracea e all’apice si apre un piccolo poro rotondo.",
+      "cap": "Tipicamente largo 1.5–4 cm e alto circa 3–4 cm (alcune guide dell’Europa centrale indicano circa 2–7 cm di larghezza e 2–6 o 2–7 cm di altezza). A forma di pera o di clava, con testa arrotondata e una base sterile corta, leggermente attenuata. La superficie è dapprima bianca o crema, con verruche piramidali fini, poi camoscio chiaro o bruno-giallastra e più liscia quando le verruche cadono. All’apice compare una zona più scura, leggermente rilevata, e a maturità si apre un solo piccolo poro.",
+      "hymenium": "Il tessuto fertile è una gleba che riempie la testa. Da giovane è di un bianco puro e soda. Con la maturazione diventa morbida e polverosa, bruno-olivastra e infine bruno scura. La base sterile resta bianca, poi crema, ed è nettamente distinta dalla gleba.",
+      "stipe": "Non c’è un vero gambo. Una base sterile corta e spugnosa, di solito più o meno parallela o leggermente attenuata, ancora il carpoforo al legno e resta bianca anche quando la gleba si scurisce. Dalla base partono nel legno marcio cordoni miceliari bianchi.",
+      "flesh": "Nei giovani l’interno è interamente di un bianco puro e sodo. Più tardi la gleba della testa diventa bruno-olivastra e polverosa, mentre la base sterile resta più chiara. L’odore è talvolta descritto come sgradevole o gassoso; il sapore dei giovani non è caratteristico, ma diventa amaro quando la gleba si colora.",
+      "sporePrint": "Bruno-olivastro, che diventa bruno scuro a piena maturità. Le spore sono rotonde o quasi rotonde, lisce, tipicamente di 3.5–4.5 µm di diametro (alcune guide indicano 3.5–5 µm).",
+      "habitat": "Saprotrofo, di solito in gruppi densi e serrati su ceppi in decomposizione, rami interrati e radici di latifoglie, talvolta anche su conifere. Può sembrare che cresca sul terreno quando il legno è appena sotto la superficie. In Gran Bretagna e Irlanda fruttifica da luglio all’inizio di dicembre; le guide dell’Europa centrale indicano spesso giugno-novembre, e i vecchi carpofori secchi possono persistere fino all’inverno.",
+      "uses": "Commestibile solo da giovane e solo finché l’interno è ancora interamente di un bianco puro. Appena la gleba inizia a diventare gialla, olivastra o bruna, si lascia. Prima della cottura si toglie la cuticola esterna coriacea. Il sapore è in genere considerato mediocre. Tagliare sempre i carpofori per il lungo per confermare un interno di bianco puro ed escludere gli scleroderma e i bottoni giovani di Amanita.",
+      "confusion": "Lycoperdon perlatum è di solito un po’ più grande, cresce sul terreno e non sul legno, ed è coperto da verruche coniche perlacee molto più grandi, che cadendo lasciano un disegno reticolato. Scleroderma citrinum è sodo, con una corteccia spessa, dura e squamosa giallo-bruna e un interno purpureo-nero o grigio scuro, senza poro apicale; quegli esemplari sono velenosi. I giovani bottoni di Amanita possono assomigliare a carpofori bianchi e globosi finché una sezione verticale non mostra il profilo di un cappello, di un gambo e, in alcune specie, di una volva.",
+      "notes": "I cordoni miceliari bianchi alla base e la crescita sul legno marcescente sono i caratteri di campo più affidabili. Un carpoforo che sembra stare su suolo nudo va controllato per legno interrato. Prima di qualsiasi uso è indispensabile un taglio verticale per confermare un interno di bianco puro ed escludere gli scleroderma e i funghi lamellati giovani.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "腐った木材に直接生じる、ナシ形から杵形の子実体の密な群れ。ふつう幅 1.5–4 cm、高さ約 3–4 cm（中欧の図鑑では幅 2–7 cm、高さ 2–6 または 2–7 cm とするものもある）。それぞれが丸い稔性の頭部と、短く海綿状の不稔基部をもち、目立つ白い紐状の根状菌糸束で木材につく。若い子実体は白からクリーム色で、短く細かいいぼに覆われる。成熟すると淡い淡黄褐色から黄褐色になり、いぼはすり切れ、やや紙質の外皮が残り、頂に小さな円い孔が開く。",
+      "cap": "ふつう幅 1.5–4 cm、高さ約 3–4 cm（一部の図鑑では幅 2–7 cm、高さ 2–6 または 2–7 cm）。ナシ形から杵形で、丸い頭部と短くやや細まる不稔基部がある。表面は初め白からクリーム色で細かいピラミッド状のいぼがあり、のちに淡い淡黄褐色から黄褐色となり、いぼが落ちると滑らかになる。頂はより暗色でやや盛り上がり、成熟すると一つの小さな孔が開く。",
+      "hymenium": "稔性組織は頭部を満たすグレバである。若いときは純白で堅い。成熟するにつれて軟らかく粉状になり、オリーブ褐色、ついには暗褐色になる。不稔基部は白、のちにクリーム色のままで、グレバとははっきり分かれる。",
+      "stipe": "真の柄はない。短く海綿状の不稔基部が、ほぼ平行またはやや細まり、子実体を木材に固定し、グレバが暗くなっても白いまま残る。基部から白い菌糸束が腐った木材に伸びる。",
+      "flesh": "若いときは内部が全体に純白で堅い。のちに頭部のグレバはオリーブ褐色で粉状になり、不稔基部はより淡色のまま残る。匂い不快またはガス様と記されることがあり、若い子実体の味は特になく、グレバが色づくと苦くなる。",
+      "sporePrint": "オリーブ褐色、十分に成熟すると暗褐色。胞子は球形またはほぼ球形、平滑、ふつう直径 3.5–4.5 µm（図鑑によっては 3.5–5 µm）。",
+      "habitat": "腐生。ふつう広葉樹の腐った切り株、埋もれた枝、根に密で混み合った群れをなし、ときに針葉樹にも生じる。木材が地表すぐ下に隠れていると、地上に生えているように見えることがある。イギリスとアイルランドでは 7 月から 12 月初めに発生し、中欧の図鑑ではしばしば 6–11 月とされ、古い乾いた子実体は冬まで残ることがある。",
+      "uses": "若いときで、内部がまだ全体に純白なときに限って食用になる。グレバが黄、オリーブ、褐色になり始めたら残す。調理の前に硬い外皮を除く。味は一般に平凡とされる。内部が純白であることを確かめ、有毒な土団子やテングタケ属の若いボタンを除くため、必ず縦に切る。",
+      "confusion": "Lycoperdon perlatum はやや大きく、木材ではなく地上に生じ、はるかに大きな円錐形の真珠状のいぼに覆われ、それが落ちると網目模様が残る。Scleroderma citrinum は堅く、厚く硬く鱗状の黄褐色の外皮と、暗紫黒色から暗灰色の内部をもち、頂孔がない。これらは有毒である。テングタケ属の若いボタンは、縦断面が傘・柄、種によってはつぼの輪郭を示すまで、白い球形の子実体に見えることがある。",
+      "notes": "基部の白い菌糸束と腐った木材上の発生が、野外でもっとも信頼できる手がかりである。裸地に立っているように見える子実体は、埋もれた木材がないか確かめる。利用の前には、内部が純白であることを確かめ、有毒な土団子や若いひだのあるきのこを除くために、縦断面が必要である。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme"
+      ],
+      "label": "タヌキノチャブクロ"
+    },
+    "ko": {
+      "description": "썩은 나무에 직접 나는, 배 모양에서 방망이 모양의 자실체 밀집 무리. 보통 너비 1.5–4 cm, 높이 약 3–4 cm이다(일부 중부 유럽 도감은 너비 2–7 cm, 높이 2–6 또는 2–7 cm로 적는다). 각각 둥근 가임 머리가 짧고 해면질의 불임 기부로 좁아지며, 뚜렷한 흰색 끈 모양 근상균사속으로 나무에 붙는다. 어린 자실체는 흰색에서 크림색이며 짧고 잔 돌기가 덮여 있다. 성숙하면 옅은 황토색에서 누런 갈색이 되고, 돌기는 닳아 없어지며 약간 종이 같은 겉껍질이 남고 꼭대기에 작은 둥근 구멍이 열린다.",
+      "cap": "보통 너비 1.5–4 cm, 높이 약 3–4 cm(일부 도감은 너비 2–7 cm, 높이 2–6 또는 2–7 cm). 배 모양에서 방망이 모양이며, 둥근 머리와 짧고 약간 가늘어지는 불임 기부가 있다. 표면은 처음 흰색에서 크림색에 잔 피라미드 돌기가 있고, 나중에 옅은 황토색에서 누런 갈색이 되며 돌기가 떨어지면 더 매끈해진다. 꼭대기에 더 어두운, 약간 솟은 자리가 생기고 성숙하면 작은 구멍이 하나 열린다.",
+      "hymenium": "가임 조직은 머리를 채우는 글레바이다. 어릴 때는 순백이고 단단하다. 익으면서 부드럽고 가루처럼 되며 올리브갈색, 마침내 암갈색이 된다. 불임 기부는 흰색, 나중에 크림색으로 남고 글레바와 뚜렷이 구분된다.",
+      "stipe": "진정한 대는 없다. 짧고 해면질의 불임 기부가, 대체로 거의 평행하거나 약간 가늘어지며, 자실체를 나무에 고정하고 글레바가 어두워져도 하얗게 남는다. 기부에서 흰색 균사 줄기가 썩은 나무 속으로 들어간다.",
+      "flesh": "어릴 때 속은 전체가 순백이고 단단하다. 나중에 머리의 글레바는 올리브갈색이고 가루처럼 되며, 불임 기부는 더 옅게 남는다. 냄새는 때로 불쾌하거나 가스 같다고 하며, 어린 자실체의 맛은 뚜렷하지 않으나 글레바가 색이 나면 쓰다.",
+      "sporePrint": "올리브갈색, 충분히 익으면 암갈색. 포자는 둥글거나 거의 둥글고 매끈하며, 보통 지름 3.5–4.5 µm이다(일부 도감은 3.5–5 µm).",
+      "habitat": "부생. 보통 활엽수의 썩은 그루터기, 묻힌 가지, 뿌리 위에 빽빽하고 밀집한 무리로 나며, 때로는 침엽수에도 난다. 나무가 지면 바로 아래에 숨어 있으면 흙에서 나는 것처럼 보일 수 있다. 영국과 아일랜드에서는 7월부터 12월 초에 나고, 중부 유럽 도감은 흔히 6–11월을 적으며, 오래된 마른 자실체는 겨울까지 남을 수 있다.",
+      "uses": "어릴 때, 속이 아직 전체적으로 순백일 때만 식용한다. 글레바가 노랗거나 올리브색, 갈색으로 바뀌기 시작하면 둔다. 조리 전에 질긴 겉껍질을 벗긴다. 맛은 대체로 평범하다고 본다. 속이 순백인지 확인하고 독성 땅공과 어린 Amanita 단추를 배제하려면 자실체를 반드시 세로로 자른다.",
+      "confusion": "Lycoperdon perlatum 은 보통 조금 더 크고, 나무가 아니라 땅에서 나며, 훨씬 큰 원뿔형의 진주빛 돌기로 덮여 있고 돌기가 떨어지면 그물 무늬가 남는다. Scleroderma citrinum 은 단단하고, 두껍고 단단하며 비늘 같은 누런 갈색 껍질과 짙은 자주흑색에서 암회색의 속을 가지며 꼭대기 구멍이 없다. 이들은 독성이다. 어린 Amanita 단추는 세로 단면이 갓·대, 어떤 종에서는 외피막의 윤곽을 보일 때까지 흰 공 모양 자실체처럼 보일 수 있다.",
+      "notes": "기부의 흰 균사 줄기와 썩은 나무 위의 발생이 야외에서 가장 믿을 만한 단서이다. 맨땅에 서 있는 것처럼 보이는 자실체는 묻힌 나무가 없는지 확인해야 한다. 사용 전에 속이 순백인지 확인하고 독성 땅공과 어린 주름버섯을 배제하려면 세로 단면이 필요하다.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme"
+      ],
+      "label": "좀말불버섯"
+    },
+    "lt": {
+      "description": "Tankūs kriaušės ar buožės pavidalo vaisiakūnių kuokštai, augantys tiesiai ant pūvančios medienos, paprastai 1.5–4 cm pločio ir apie 3–4 cm aukščio (kai kurie Vidurio Europos vadovai nurodo platesnį intervalą, apie 2–7 cm pločio ir 2–6 arba 2–7 cm aukščio). Kiekvienas turi apvalią derlingą galvutę, susiaurėjančią į trumpą, kempinėtą sterilią pamatinę dalį, ir prisitvirtina ryškiais baltais, virveliniais rizomorfais. Jauni vaisiakūniai balti ar gelsvai kreminiai ir apaugę trumpais, smulkiais gumburėliais. Subrendę tampa blankiai ochriniai ar gelsvai rudi; gumburėliai nutrina, lieka kiek popieriška odelė, o viršūnėje atsiveria maža apvali anga.",
+      "cap": "Paprastai 1.5–4 cm pločio ir apie 3–4 cm aukščio (kai kurie Vidurio Europos vadovai nurodo apie 2–7 cm pločio ir 2–6 arba 2–7 cm aukščio). Kriaušės ar buožės pavidalo, su apvalia galvute ir trumpa, šiek tiek siaurėjančia sterilia pamatine dalimi. Paviršius iš pradžių baltas ar gelsvai kreminis, su smulkiais piramidiniais gumburėliais, vėliau blankiai ochrinis ar gelsvai rudas ir lygesnis, gumburėliams nubiurus. Viršūnėje atsiranda tamsesnė, šiek tiek iškilusi vieta, o subrendus atsiveria viena maža anga.",
+      "hymenium": "Derlingasis audinys yra gleba, užpildanti galvutę. Jauna ji gryna balta ir kieta. Bręsdama suminkštėja ir tampa miltelinga, alyvuogiškai ruda ir galiausiai tamsiai ruda. Sterili pamatinė dalis lieka balta, vėliau kreminė, ir aiškiai atsiskiria nuo glebos.",
+      "stipe": "Tikro koto nėra. Trumpa, kempinėta sterili pamatinė dalis, paprastai daugiau ar mažiau lygiagreti ar šiek tiek siaurėjanti, įtvirtina vaisiakūnį medienoje ir lieka balta net tada, kai gleba patamsėja. Nuo pamato į pūvančią medieną eina balti grybienos virvelės.",
+      "flesh": "Jaunų vidus ištisai grynas baltas ir kietas. Vėliau galvutės gleba tampa alyvuogiškai ruda ir miltelinga, o sterili pamatinė dalis lieka šviesesnė. Kvapas kartais apibūdinamas kaip nemalonus ar dujinis; jaunų vaisiakūnių skonis nėra būdingas, bet apkarsta glebai nusidažius.",
+      "sporePrint": "Alyvuogiškai rudas, visiškai subrendęs tamsiai rudas. Sporos apvalios arba beveik apvalios, lygios, paprastai 3.5–4.5 µm skersmens (kai kurie vadovai nurodo 3.5–5 µm).",
+      "habitat": "Saprotrofas, paprastai tankiose, susispaudusiose grupėse ant pūvančių kelmų, užkastų šakų ir lapuočių šaknų, kartais ir ant spygliuočių. Gali atrodyti augantis dirvoje, jei mediena slepiasi tuoj po paviršiumi. Didžiojoje Britanijoje ir Airijoje dera nuo liepos iki gruodžio pradžios; Vidurio Europos vadovai dažnai nurodo birželį–lapkritį, o seni sausi vaisiakūniai gali išlikti iki žiemos.",
+      "uses": "Valgomas tik jaunas ir tik tol, kol vidus dar ištisai grynas baltas. Kai gleba ima gelsti, alyvuogėti ar ruduoti, paliekamas. Prieš gaminant nuimama kieta išorinė odelė. Skonis paprastai laikomas vidutinišku. Vaisiakūnius visada reikia perpjauti išilgai, kad būtų patvirtintas grynas baltas vidus ir atmesti kietieji miltinukai bei jauni Amanita mygtukai.",
+      "confusion": "Lycoperdon perlatum paprastai šiek tiek didesnis, auga dirvoje, o ne ant medienos, ir apaugęs gerokai didesniais kūgiškais, perliniais gumburėliais, kurie nubyrėję palieka tinklišką raštą. Scleroderma citrinum kietas, su stora, kieta, žvynuota gelsvai ruda žieve ir tamsiu purpuriniu juodu ar tamsiai pilku vidumi, be viršūninės angos; tie kūnai nuodingi. Jauni Amanita mygtukai gali priminti baltus apvalius vaisiakūnius, kol išilginis pjūvis parodo kepurėlės, koto ir kai kurių rūšių makšties kontūrus.",
+      "notes": "Baltos grybienos virvelės prie pamato ir augimas ant pūvančios medienos yra patikimiausi lauko požymiai. Vaisiakūnį, atrodantį augantį ant plikos dirvos, verta patikrinti, ar po juo nėra paslėptos medienos. Prieš bet kokį naudojimą būtinas išilginis pjūvis, kad būtų patvirtintas grynas baltas vidus ir atmesti kietieji miltinukai bei jauni lakštuotieji grybai.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+        "https://lt.wikipedia.org/wiki/Kriaušinis_pumpotaukšlis",
+        "https://www.wikidata.org/wiki/Q79337417"
+      ],
+      "label": "Kriaušinis pumpotaukšlis"
+    },
+    "lv": {
+      "description": "Blīvi bumbieru vai vāla veida augļķermeņu puduri, kas aug tieši uz trūdošas koksnes, parasti 1.5–4 cm plati un apmēram 3–4 cm augsti (dažas Centrāleiropas rokasgrāmatas norāda plašāku diapazonu, apmēram 2–7 cm platumā un 2–6 vai 2–7 cm augstumā). Katram ir noapaļota auglīga galva, kas sašaurinās īsā, sūkļainā sterilā pamatnē, un tas piestiprinās ar uzskatāmām baltām, auklveida rizomorfām. Jaunie augļķermeņi ir balti līdz krēmkrāsas un klāti ar īsiem, sīkiem kārpiņām. Nobriedušie kļūst bāli okera līdz dzeltenbrūni; kārpiņas nodilst, paliek nedaudz papīraina miziņa, un galotnē atveras mazs apaļš pora.",
+      "cap": "Parasti 1.5–4 cm plats un apmēram 3–4 cm augsts (dažas Centrāleiropas rokasgrāmatas norāda apmēram 2–7 cm platumā un 2–6 vai 2–7 cm augstumā). Bumbieru vai vāla veida, ar noapaļotu galvu un īsu, nedaudz sašaurinātu sterilu pamatni. Virsma vispirms ir balta līdz krēmkrāsas, ar sīkām piramidālām kārpiņām, vēlāk bāli okera līdz dzeltenbrūna un gludāka, kad kārpiņas nokrīt. Galotnē parādās tumšāka, nedaudz pacelta vieta, un nobriedušam atveras viena maza pora.",
+      "hymenium": "Auglīgie audi ir gleba, kas piepilda galvu. Jauna tā ir tīri balta un stingra. Nogatavojoties kļūst mīksta un putekļaina, olīvbrūna un visbeidzot tumši brūna. Sterilā pamatne paliek balta, vēlāk krēmkrāsas, un ir skaidri atdalīta no glebas.",
+      "stipe": "Īstas kātiņa nav. Īsa, sūkļaina sterila pamatne, parasti vairāk vai mazāk paralēla vai nedaudz sašaurināta, noenkuro augļķermeni koksnē un paliek balta pat tad, kad gleba satumst. No pamatnes trūdošajā koksnē iet baltas micēlija auklas.",
+      "flesh": "Jauniem iekšpuse ir viscaur tīri balta un stingra. Vēlāk galvas gleba kļūst olīvbrūna un putekļaina, bet sterilā pamatne paliek gaišāka. Smarža dažreiz tiek aprakstīta kā nepatīkama vai gāzaina; jauno augļķermeņu garša nav raksturīga, bet kļūst rūgta, kad gleba iekrāsojas.",
+      "sporePrint": "Olīvbrūns, pilnā briedumā tumši brūns. Sporas ir apaļas vai gandrīz apaļas, gludas, parasti 3.5–4.5 µm diametrā (dažas rokasgrāmatas norāda 3.5–5 µm).",
+      "habitat": "Saprotrofs, parasti blīvos, saspiestos grupējumos uz trūdošiem celmiem, apraktām zariem un lapu koku saknēm, dažreiz arī uz skuju kokiem. Var šķist, ka aug uz augsnes, ja koksne slēpjas tieši zem virsmas. Lielbritānijā un Īrijā augļķermeņi parādās no jūlija līdz decembra sākumam; Centrāleiropas rokasgrāmatas bieži norāda jūniju–novembri, un veci sausi augļķermeņi var saglabāties līdz ziemai.",
+      "uses": "Ēdams tikai jauns un tikai tik ilgi, kamēr iekšpuse vēl ir viscaur tīri balta. Tiklīdz gleba sāk dzeltēt, kļūt olīvzaļa vai brūna, to atstāj. Pirms gatavošanas noņem cieto ārējo miziņu. Garša parasti tiek uzskatīta par viduvēju. Augļķermeņus vienmēr jāsagriež gareniski, lai apstiprinātu tīri baltu iekšpusi un izslēgtu cietos pūpēžus un jaunos Amanita pogveida aizmetņus.",
+      "confusion": "Lycoperdon perlatum parasti ir nedaudz lielāks, aug uz augsnes, nevis uz koksnes, un ir klāts ar daudz lielākām koniskām, pērļainām kārpiņām, kas nokrītot atstāj tīklveida rakstu. Scleroderma citrinum ir ciets, ar biezu, cietu, zvīņainu dzeltenbrūnu mizu un tumšu purpursarkanu līdz tumši pelēku iekšpusi, bez galotnes poras; tie ķermeņi ir indīgi. Jaunie Amanita pogveida aizmetņi var atgādināt baltus lodveida augļķermeņus, līdz garenisks griezums parāda cepurītes, kātiņa un dažām sugām arī maksts kontūru.",
+      "notes": "Baltas micēlija auklas pie pamatnes un augšana uz trūdošas koksnes ir visuzticamākās pazīmes dabā. Augļķermeni, kas šķiet augam uz kailas augsnes, vajadzētu pārbaudīt, vai zem tā nav slēpta koksne. Pirms jebkuras lietošanas nepieciešams garenisks griezums, lai apstiprinātu tīri baltu iekšpusi un izslēgtu cietos pūpēžus un jaunas lapiņu sēnes.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme"
+      ],
+      "label": "Bumbieru pūpēdis"
+    },
+    "nl": {
+      "description": "Dichte bundels peervormige tot knotsvormige vruchtlichamen die rechtstreeks op rottend hout groeien, typisch 1.5–4 cm breed en ongeveer 3–4 cm hoog (sommige Midden-Europese gidsen geven een ruimer bereik, ongeveer 2–7 cm breed en 2–6 of 2–7 cm hoog). Elk heeft een afgeronde fertiele kop die versmalt tot een korte, sponsachtige steriele basis en is bevestigd met opvallende witte, koordachtige rizomorfen. Jonge vruchtlichamen zijn wit tot roomkleurig en bedekt met korte, fijne wratjes. Rijpe worden bleek oker tot geelbruin; de wratjes slijten af, er blijft een wat papierachtige huid over, en aan de top opent zich een klein rond gaatje.",
+      "cap": "Typisch 1.5–4 cm breed en ongeveer 3–4 cm hoog (sommige Midden-Europese gidsen noemen ongeveer 2–7 cm breed en 2–6 of 2–7 cm hoog). Peervormig tot knotsvormig, met een afgeronde kop en een korte, licht versmallende steriele basis. Het oppervlak is eerst wit tot roomkleurig met fijne piramidale wratjes, later bleek oker tot geelbruin en gladder wanneer de wratjes afvallen. Aan de top ontstaat een donkerder, licht verheven plek, en bij rijpheid opent zich één klein gaatje.",
+      "hymenium": "Het fertiele weefsel is een gleba die de kop vult. Jong is die zuiver wit en stevig. Bij rijping wordt hij zacht en poederig, olijfbruin en ten slotte donkerbruin. De steriele basis blijft wit, later roomkleurig, en is duidelijk van de gleba gescheiden.",
+      "stipe": "Een echte steel ontbreekt. Een korte, sponsachtige steriele basis, meestal min of meer evenwijdig of licht versmallend, verankert het vruchtlichaam in het hout en blijft wit zelfs wanneer de gleba donkerder wordt. Vanuit de basis lopen witte myceliumdraden het rotte hout in.",
+      "flesh": "Jong is het binnenste volledig zuiver wit en stevig. Later wordt de gleba in de kop olijfbruin en poederig, terwijl de steriele basis lichter blijft. De geur wordt soms als onaangenaam of gasachtig beschreven; de smaak van jonge vruchtlichamen is niet kenmerkend, maar wordt bitter zodra de gleba verkleurt.",
+      "sporePrint": "Olijfbruin, bij volle rijpheid donkerbruin. De sporen zijn rond of bijna rond, glad, typisch 3.5–4.5 µm in diameter (sommige gidsen noemen 3.5–5 µm).",
+      "habitat": "Saprotroof, gewoonlijk in dichte, opeengedrongen groepen op verrottende stobben, begraven takken en wortels van loofbomen, soms ook op naaldhout. Het kan lijken of hij op de grond groeit wanneer het hout vlak onder het oppervlak verborgen is. In Groot-Brittannië en Ierland vrucht hij van juli tot begin december; Midden-Europese gidsen noemen vaak juni tot november, en oude droge vruchtlichamen kunnen tot in de winter blijven staan.",
+      "uses": "Eetbaar alleen jong en alleen zolang het binnenste nog volledig zuiver wit is. Zodra de gleba geel, olijf of bruin begint te worden, laat men hem staan. Voor het bereiden wordt de taaie buitenste huid verwijderd. De smaak wordt over het algemeen als middelmatig beschouwd. Snijd vruchtlichamen altijd in de lengte door om een zuiver wit binnenste te bevestigen en aardappelbovisten en jonge knopjes van Amanita uit te sluiten.",
+      "confusion": "Lycoperdon perlatum is gewoonlijk iets groter, groeit op de grond in plaats van op hout, en is bedekt met veel grotere kegelvormige, parelachtige wratten die bij het afvallen een netachtig patroon achterlaten. Scleroderma citrinum is stevig, met een dikke, harde, schilferige geelbruine korst en een donker purperzwart tot donkergrijs binnenste, zonder opening aan de top; aardappelbovisten zijn giftig. Jonge Amanita-knopjes kunnen op witte bolvormige vruchtlichamen lijken totdat een lengtedoorsnede de omtrek van hoed, steel en bij sommige soorten een schede toont.",
+      "notes": "Witte myceliumdraden aan de basis en groei op rottend hout zijn de betrouwbaarste veldkenmerken. Een vruchtlichaam dat op kale grond lijkt te staan, moet op begraven hout worden gecontroleerd. Voor elk gebruik is een lengtedoorsnede nodig om een zuiver wit binnenste te bevestigen en aardappelbovisten en jonge plaatjeszwammen uit te sluiten.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+        "https://nl.wikipedia.org/wiki/Peervormige_stuifzwam",
+        "https://www.wikidata.org/wiki/Q865798"
+      ],
+      "label": "Peervormige stuifzwam"
+    },
+    "no": {
+      "description": "Tette klynger av pæreformede til kølleformede fruktlegemer som vokser direkte på råttent tre, typisk 1.5–4 cm brede og omkring 3–4 cm høye (noen sentraleuropeiske håndbøker oppgir et videre spenn, omkring 2–7 cm i bredden og 2–6 eller 2–7 cm i høyden). Hvert har et avrundet fertilt hode som smalner til en kort, svampaktig steril base og festes med tydelige hvite, snorliknende rhizomorfer. Unge fruktlegemer er hvite til kremfargede og dekket av korte, fine vorter. Modne blir blekt oker til gulbrune; vorterne slites av, det blir igjen et noe papiraktig skall, og i toppen åpnes en liten rund pore.",
+      "cap": "Typisk 1.5–4 cm bred og omkring 3–4 cm høy (noen sentraleuropeiske håndbøker oppgir omkring 2–7 cm i bredden og 2–6 eller 2–7 cm i høyden). Pæreformet til kølleformet, med avrundet hode og en kort, lett avsmalnende steril base. Overflaten er først hvit til kremfarget med fine pyramideformede vorter, senere blekt oker til gulbrun og glattere når vorterne faller av. I toppen utvikles et mørkere, lett opphøyd parti, og ved modning åpnes en enkelt liten pore.",
+      "hymenium": "Det fertile vevet er en gleba som fyller hodet. Unge er den rent hvit og fast. Under modningen blir den myk og pulveraktig, olivenbrun og til slutt mørkebrun. Den sterile basen forblir hvit, senere kremfarget, og er tydelig avgrenset fra glebaen.",
+      "stipe": "Det finnes ingen ekte stilk. En kort, svampaktig steril base, vanligvis mer eller mindre parallell eller lett avsmalnende, forankrer fruktlegemet i treet og forblir hvit også når glebaen mørkner. Fra basen går hvite mycelstrenger inn i det råtne treet.",
+      "flesh": "Hos unge er det indre helt rent hvitt og fast. Senere blir glebaen i hodet olivenbrun og pulveraktig, mens den sterile basen forblir lysere. Lukten beskrives av og til som ubehagelig eller gassliknende; smaken hos unge fruktlegemer er ikke særegen, men blir bitter når glebaen farges.",
+      "sporePrint": "Olivenbrun, ved full modning mørkebrun. Sporene er runde eller nesten runde, glatte, typisk 3.5–4.5 µm i diameter (noen håndbøker oppgir 3.5–5 µm).",
+      "habitat": "Saprotrof, vanligvis i tette, tettpakkede grupper på råtne stubber, nedgravde greiner og røtter av lauvtrær, av og til også på bartrær. Den kan se ut til å vokse på jord når treet er skjult like under overflaten. I Storbritannia og Irland fruktifiserer den fra juli til begynnelsen av desember; sentraleuropeiske håndbøker oppgir ofte juni til november, og gamle tørre fruktlegemer kan stå utover vinteren.",
+      "uses": "Spiselig bare som ung og bare mens det indre fortsatt er helt rent hvitt. Når glebaen begynner å bli gul, oliven eller brun, lar man den stå. Det seige ytre skinnet fjernes før tilberedning. Smaken regnes vanligvis som middelmådig. Skjær alltid fruktlegemene på langs for å bekrefte et rent hvitt indre og utelukke rottryfler samt unge knapper av Amanita.",
+      "confusion": "Lycoperdon perlatum er vanligvis noe større, vokser på jord i stedet for på tre og er dekket av mye større kjegleformede, perleaktige vorter som etterlater et nettlignende mønster når de faller av. Scleroderma citrinum er fast, med en tykk, hard, skjellende gulbrun skorpe og et mørkt purpursvart til mørkegrått indre, uten pore i toppen; rottryfler er giftige. Unge Amanita-knapper kan likne hvite kuleformede fruktlegemer inntil et lengdesnitt viser omrisset av hatt, stilk og hos noen arter en slire.",
+      "notes": "Hvite mycelstrenger ved basen og vekst på råttent tre er de mest pålitelige feltkjennetegnene. Et fruktlegeme som synes å stå på bar jord, bør sjekkes for skjult tre. Før enhver bruk er et lengdesnitt nødvendig for å bekrefte et rent hvitt indre og utelukke rottryfler samt unge skivesopper.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme"
+      ],
+      "label": "pærerøyksopp"
+    },
+    "pl": {
+      "description": "Gęste kępy gruszkowatych do maczugowatych owocników rosnących bezpośrednio na próchniejącym drewnie, typowo 1.5–4 cm szerokości i około 3–4 cm wysokości (niektóre środkowoeuropejskie przewodniki podają szerszy zakres, około 2–7 cm szerokości i 2–6 lub 2–7 cm wysokości). Każdy ma zaokrągloną płodną główkę zwężającą się w krótką, gąbczastą sterylną nasadę i jest przytwierdzony wyraźnymi białymi, sznurowatymi ryzomorfami. Młode owocniki są białe do kremowych i pokryte krótkimi, delikatnymi brodawkami. Dojrzałe stają się bladoochrowe do żółtobrązowych; brodawki odpadają, pozostaje nieco papierowata skórka, a na szczycie otwiera się mały okrągły otwór.",
+      "cap": "Typowo 1.5–4 cm szerokości i około 3–4 cm wysokości (niektóre środkowoeuropejskie przewodniki podają około 2–7 cm szerokości i 2–6 lub 2–7 cm wysokości). Gruszkowaty do maczugowatego, z zaokrągloną główką i krótką, lekko zwężającą się sterylną nasadą. Powierzchnia jest najpierw biała do kremowej, z drobnymi piramidalnymi brodawkami, później bladoochrowa do żółtobrązowej i gładsza, gdy brodawki odpadną. Na szczycie pojawia się ciemniejsze, lekko wyniesione miejsce, a w dojrzałości otwiera się jeden mały otwór.",
+      "hymenium": "Tkanka zarodnikotwórcza to gleba wypełniająca główkę. W młodości jest czysto biała i twarda. W miarę dojrzewania mięknie i staje się pylista, oliwkowobrązowa, a w końcu ciemnobrązowa. Sterylna nasada pozostaje biała, później kremowa, i jest wyraźnie oddzielona od gleby.",
+      "stipe": "Prawdziwego trzonu brak. Krótka, gąbczasta sterylna nasada, zwykle mniej więcej równoległa lub lekko zwężająca się, kotwiczy owocnik w drewnie i pozostaje biała nawet wtedy, gdy gleba ściemnieje. Z nasady w spróchniałe drewno wychodzą białe sznury grzybni.",
+      "flesh": "W młodości wnętrze jest całe czysto białe i twarde. Później gleba w główce staje się oliwkowobrązowa i pylista, podczas gdy sterylna nasada pozostaje jaśniejsza. Zapach bywa opisywany jako nieprzyjemny lub przypominający gaz; smak młodych owocników nie jest charakterystyczny, ale po zabarwieniu gleby gorzknieje.",
+      "sporePrint": "Oliwkowobrązowy, w pełnej dojrzałości ciemnobrązowy. Zarodniki są okrągłe lub niemal okrągłe, gładkie, typowo 3.5–4.5 µm średnicy (niektóre przewodniki podają 3.5–5 µm).",
+      "habitat": "Saprotroficzny, zwykle w gęstych, stłoczonych grupach na próchniejących pniakach, zasypanych gałęziach i korzeniach drzew liściastych, czasem także na iglastych. Może sprawiać wrażenie, że rośnie na glebie, gdy drewno jest ukryte tuż pod powierzchnią. W Wielkiej Brytanii i Irlandii owocniki pojawiają się od lipca do początku grudnia; przewodniki środkowoeuropejskie często podają czerwiec–listopad, a stare suche owocniki mogą przetrwać do zimy.",
+      "uses": "Jadalny tylko w młodości, gdy wnętrze jest jeszcze całkowicie czysto białe. Gdy gleba zaczyna żółknąć, oliwkowieć lub brązowieć, pozostawia się go. Przed przyrządzeniem zdejmuje się twardą zewnętrzną skórkę. Smak uważa się na ogół za przeciętny. Owocniki zawsze należy przeciąć wzdłuż, aby potwierdzić czysto białe wnętrze i wykluczyć tęgoskóry oraz młode, guzikowate muchomory.",
+      "confusion": "Lycoperdon perlatum bywa nieco większy, rośnie na glebie, a nie na drewnie, i jest pokryty znacznie większymi stożkowatymi, perłowymi kolcami, które po odpadnięciu zostawiają siateczkowaty wzór. Scleroderma citrinum jest twardy, z grubą, twardą, łuskowatą żółtobrązową korą i ciemnym purpurowoczarny do ciemnoszarym wnętrzem, bez otworu szczytowego; tęgoskóry są trujące. Młode guziki rodzaju Amanita mogą przypominać białe kuliste owocniki, dopóki przekrój pionowy nie ukaże zarysu kapelusza, trzonu i u niektórych gatunków pochwy.",
+      "notes": "Białe sznury grzybni u nasady i wzrost na próchniejącym drewnie to najpewniejsze cechy w terenie. Owocnik, który zdaje się rosnąć na gołej glebie, warto sprawdzić pod kątem ukrytego drewna. Przed jakimkolwiek użyciem konieczny jest przekrój pionowy, aby potwierdzić czysto białe wnętrze i wykluczyć tęgoskóry oraz młode grzyby blaszkowe.",
+      "names": [
+        "Purchawka gruszkowata"
+      ],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Lignopurchawka_gruszkowata",
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme"
+      ],
+      "label": "Lignopurchawka gruszkowata"
+    },
+    "pt": {
+      "description": "Agrupamentos densos de corpos frutíferos em forma de pera ou de maça, que crescem diretamente sobre madeira podre, tipicamente com 1.5–4 cm de largura e cerca de 3–4 cm de altura (alguns guias da Europa Central indicam um intervalo mais amplo, cerca de 2–7 cm de largura e 2–6 ou 2–7 cm de altura). Cada um tem uma cabeça fértil arredondada que se estreita numa base estéril curta e esponjosa, presa por evidentes cordões miceliais brancos. Os corpos jovens são brancos a creme e cobertos de verrugas curtas e finas. Os maduros tornam-se ocre pálido a castanho-amarelado; as verrugas desgastam-se, resta uma pele um pouco papirácea e no ápice abre-se um pequeno poro redondo.",
+      "cap": "Tipicamente 1.5–4 cm de largura e cerca de 3–4 cm de altura (alguns guias da Europa Central indicam cerca de 2–7 cm de largura e 2–6 ou 2–7 cm de altura). Em forma de pera ou de maça, com cabeça arredondada e uma base estéril curta, ligeiramente atenuada. A superfície é a princípio branca a creme, com verrugas piramidais finas, depois ocre pálido a castanho-amarelado e mais lisa quando as verrugas caem. No ápice aparece uma zona mais escura, ligeiramente elevada, e na maturidade abre-se um único poro pequeno.",
+      "hymenium": "O tecido fértil é uma gleba que preenche a cabeça. Quando jovem é de um branco puro e firme. Ao amadurecer torna-se mole e poeirenta, castanho-oliváceo e por fim castanho-escuro. A base estéril permanece branca, mais tarde creme, e fica claramente separada da gleba.",
+      "stipe": "Não há um pé verdadeiro. Uma base estéril curta e esponjosa, em geral mais ou menos paralela ou ligeiramente atenuada, ancora o corpo frutífero à madeira e permanece branca mesmo quando a gleba escurece. Da base entram na madeira podre cordões miceliais brancos.",
+      "flesh": "Nos jovens o interior é inteiramente de um branco puro e firme. Mais tarde a gleba da cabeça torna-se castanho-olivácea e poeirenta, enquanto a base estéril permanece mais pálida. O cheiro é por vezes descrito como desagradável ou gasoso; o sabor dos jovens não é distintivo, mas torna-se amargo quando a gleba se colore.",
+      "sporePrint": "Castanho-oliváceo, tornando-se castanho-escuro na plena maturidade. Os esporos são redondos ou quase redondos, lisos, tipicamente com 3.5–4.5 µm de diâmetro (alguns guias indicam 3.5–5 µm).",
+      "habitat": "Sapróbia, habitualmente em grupos densos e apertados sobre cepos em decomposição, ramos enterrados e raízes de folhosas, por vezes também em coníferas. Pode parecer crescer no solo quando a madeira está logo sob a superfície. Na Grã-Bretanha e na Irlanda frutifica de julho ao início de dezembro; os guias da Europa Central indicam muitas vezes junho a novembro, e os corpos secos velhos podem persistir até ao inverno.",
+      "uses": "Comestível apenas quando jovem e apenas enquanto o interior ainda é inteiramente de um branco puro. Assim que a gleba começa a amarelecer, a ficar olivácea ou castanha, deixa-se. Antes de cozinhar retira-se a pele exterior coriácea. O sabor é em geral considerado medíocre. Cortar sempre os corpos no sentido do comprimento para confirmar um interior de branco puro e excluir as estrela-da-terra duras e os botões jovens de Amanita.",
+      "confusion": "Lycoperdon perlatum é habitualmente um pouco maior, cresce no solo e não sobre a madeira, e está coberto de verrugas cónicas peroladas muito maiores, que ao cair deixam um padrão reticulado. Scleroderma citrinum é firme, com uma casca espessa, dura e escamosa amarelo-acastanhada e um interior púrpura-negro a cinzento-escuro, sem poro apical; esses corpos são venenosos. Os botões jovens de Amanita podem parecer corpos brancos e globosos até uma secção vertical mostrar o contorno de um chapéu, de um pé e, em algumas espécies, de uma volva.",
+      "notes": "Os cordões miceliais brancos na base e o crescimento sobre madeira podre são as pistas de campo mais fiáveis. Um corpo que parece estar em solo nu deve ser verificado quanto a madeira enterrada. Antes de qualquer uso é essencial um corte vertical para confirmar um interior de branco puro e excluir esses sósias tóxicos e os cogumelos lamelados jovens.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Grupuri dese de corpuri de fructificație în formă de pară sau de măciucă, care cresc direct pe lemn putred, de obicei late de 1.5–4 cm și înalte de circa 3–4 cm (unele ghiduri din Europa Centrală dau un interval mai larg, circa 2–7 cm lățime și 2–6 sau 2–7 cm înălțime). Fiecare are un cap fertil rotunjit care se îngustează într-o bază sterilă scurtă și spongioasă, prinsă prin cordoane miceliene albe, evidente. Corpurile tinere sunt albe până la crem și acoperite cu verucozități scurte și fine. Cele mature devin ocru pal până la brun-gălbui; verucozitățile se uzează, rămâne o pieliță oarecum papiracee, iar în vârf se deschide un por rotund mic.",
+      "cap": "De obicei lat de 1.5–4 cm și înalt de circa 3–4 cm (unele ghiduri din Europa Centrală indică circa 2–7 cm lățime și 2–6 sau 2–7 cm înălțime). În formă de pară sau de măciucă, cu cap rotunjit și o bază sterilă scurtă, ușor îngustată. Suprafața este la început albă până la crem, cu verucozități piramidale fine, apoi ocru pal până la brun-gălbui și mai netedă când verucozitățile cad. În vârf apare o zonă mai întunecată, ușor ridicată, iar la maturitate se deschide un singur por mic.",
+      "hymenium": "Țesutul fertil este o glebă care umple capul. La tinerețe este alb pur și ferm. Pe măsură ce se coace devine moale și prăfoasă, brun-măsliniu și în cele din urmă brun-închis. Baza sterilă rămâne albă, mai târziu crem, și este clar deosebită de glebă.",
+      "stipe": "Nu există un picior adevărat. O bază sterilă scurtă și spongioasă, de obicei mai mult sau mai puțin paralelă sau ușor îngustată, ancorează corpul de fructificație în lemn și rămâne albă chiar și atunci când gleba se închide la culoare. Din bază pornesc în lemnul putred cordoane miceliene albe.",
+      "flesh": "La cele tinere interiorul este în întregime alb pur și ferm. Mai târziu gleba din cap devine brun-măslinie și prăfoasă, în timp ce baza sterilă rămâne mai deschisă. Mirosul este uneori descris ca neplăcut sau de gaz; gustul corpurilor tinere nu este caracteristic, dar devine amar odată ce gleba se colorează.",
+      "sporePrint": "Brun-măsliniu, devenind brun-închis la deplina maturitate. Sporii sunt rotunzi sau aproape rotunzi, netezi, de obicei de 3.5–4.5 µm în diametru (unele ghiduri indică 3.5–5 µm).",
+      "habitat": "Saprofită, de obicei în grupuri dese și înghesuite pe cioate în descompunere, ramuri îngropate și rădăcini de foioase, uneori și pe conifere. Poate părea că crește pe sol când lemnul este chiar sub suprafață. În Marea Britanie și Irlanda fructifică din iulie până la începutul lui decembrie; ghidurile din Europa Centrală indică adesea iunie–noiembrie, iar corpurile vechi uscate pot persista până iarna.",
+      "uses": "Comestibilă doar tânără și doar cât timp interiorul este încă în întregime alb pur. De îndată ce gleba începe să devină galbenă, măslinie sau brună, se lasă. Înainte de preparare se îndepărtează pielea exterioară tare. Gustul este în general considerat mediocru. Tăiați întotdeauna corpurile pe lungime pentru a confirma un interior alb pur și a exclude sclerodermele și nasturii tineri de Amanita.",
+      "confusion": "Lycoperdon perlatum este de obicei puțin mai mare, crește pe sol, nu pe lemn, și este acoperită cu verucozități conice sidefii mult mai mari, care la cădere lasă un desen reticulat. Scleroderma citrinum este ferm, cu o scoarță groasă, tare, solzoasă, galben-brună, și un interior purpuriu-negru până la gri-închis, fără por apical; acele corpuri sunt otrăvitoare. Nasturii tineri de Amanita pot semăna cu corpuri albe, globuloase, până când o secțiune verticală arată conturul unei pălării, al unui picior și, la unele specii, al unei volve.",
+      "notes": "Cordoanele miceliene albe de la bază și creșterea pe lemn putred sunt cele mai de încredere semne de teren. Un corp care pare să stea pe sol gol trebuie verificat pentru lemn îngropat. Înainte de orice folosire este esențială o tăietură verticală pentru a confirma un interior alb pur și a exclude sclerodermele și ciupercile cu lamele tinere.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q865798"
+      ],
+      "label": "Para cerbului"
+    },
+    "ru": {
+      "description": "Плотные скопления грушевидных или булавовидных плодовых тел на гниющей древесине, обычно 1.5–4 cm в поперечнике и около 3–4 cm высотой (некоторые среднеевропейские справочники дают около 2–7 cm в поперечнике и 2–6 или 2–7 cm в высоту). У каждого округлая фертильная головка, сужающаяся в короткое губчатое стерильное основание, прикреплённое заметными белыми шнуровидными ризоморфами. Молодые плодовые тела белые до кремовых, с короткими мелкими бородавочками. Зрелые бледно-охристые до желтовато-коричневых; бородавочки стираются, остаётся слегка бумажистая кожица, и на вершине открывается маленькое круглое отверстие.",
+      "cap": "Обычно 1.5–4 cm в поперечнике и около 3–4 cm высотой (некоторые справочники: около 2–7 cm в поперечнике и 2–6 или 2–7 cm в высоту). Грушевидное или булавовидное, с округлой головкой и коротким, слегка суженным стерильным основанием. Поверхность сначала белая до кремовой, с мелкими пирамидальными бородавочками, позднее бледно-охристая до желтовато-коричневой и более гладкая. На вершине появляется более тёмное, слегка приподнятое место, и в зрелости открывается одно маленькое отверстие.",
+      "hymenium": "Плодородная ткань — глеба, заполняющая головку. В молодости она чисто белая и плотная. При созревании становится мягкой и порошистой, оливково-коричневой и наконец тёмно-коричневой. Стерильное основание остаётся белым, позднее кремовым, и чётко отделено от глебы.",
+      "stipe": "Настоящей ножки нет. Короткое губчатое стерильное основание, обычно более или менее параллельное или слегка суженное, закрепляет плодовое тело в древесине и остаётся белым даже когда глеба темнеет. От основания в гнилую древесину отходят белые мицелиальные шнуры.",
+      "flesh": "У молодых внутренность целиком чисто белая и плотная. Позднее глеба в головке становится оливково-коричневой и порошистой, а стерильное основание остаётся более светлым. Запах иногда описывают как неприятный или газовый; вкус молодых плодовых тел не характерен, но становится горьким, когда глеба окрашивается.",
+      "sporePrint": "Оливково-коричневый, в полной зрелости тёмно-коричневый. Споры округлые или почти округлые, гладкие, обычно 3.5–4.5 µm в диаметре (некоторые справочники указывают 3.5–5 µm).",
+      "habitat": "Сапротроф, обычно в плотных скученных группах на гниющих пнях, погребённых ветках и корнях лиственных деревьев, иногда также на хвойных. Может казаться растущим на почве, если древесина скрыта сразу под поверхностью. В Великобритании и Ирландии плодоносит с июля до начала декабря; среднеевропейские справочники часто указывают июнь–ноябрь, а старые сухие плодовые тела могут сохраняться до зимы.",
+      "uses": "Съедобен только молодым и только пока внутренность ещё целиком чисто белая. Как только глеба начинает желтеть, становиться оливковой или коричневой, его оставляют. Перед приготовлением снимают жёсткую наружную кожицу. Вкус обычно считают посредственным. Плодовые тела всегда нужно разрезать вдоль, чтобы подтвердить чисто белую внутренность и исключить ядовитые земляные шары и молодые пуговицы мухоморов.",
+      "confusion": "Lycoperdon perlatum обычно немного крупнее, растёт на почве, а не на древесине, и покрыт гораздо более крупными коническими жемчужными бородавками, которые при опадении оставляют сетчатый рисунок. Scleroderma citrinum плотный, с толстой твёрдой чешуйчатой желтовато-коричневой коркой и тёмной пурпурно-чёрной до тёмно-серой внутренностью, без вершинного отверстия; эти грибы ядовиты. Молодые пуговицы рода Amanita могут быть похожи на белые шаровидные плодовые тела, пока продольный разрез не покажет очертания шляпки, ножки и у некоторых видов вольвы.",
+      "notes": "Белые мицелиальные шнуры у основания и рост на гниющей древесине — самые надёжные полевые признаки. Плодовое тело, кажущееся растущим на голой почве, следует проверить на скрытую древесину. Перед любым использованием необходим продольный разрез, чтобы подтвердить чисто белую внутренность и исключить ядовитые земляные шары и молодые пластинчатые грибы.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+        "https://ru.wikipedia.org/wiki/Дождевик_грушевидный"
+      ],
+      "label": "Дождевик грушевидный"
+    },
+    "sk": {
+      "description": "Husté trsy hruškovitých až palicovitých plodníc rastúce priamo na tlejúcom dreve, zvyčajne 1.5–4 cm široké a okolo 3–4 cm vysoké (niektoré stredoeurópske príručky uvádzajú širší rozsah, približne 2–7 cm na šírku a 2–6 alebo 2–7 cm na výšku). Každá má zaoblenú plodnú hlavu, ktorá sa zužuje do krátkej, hubovitej sterilnej bázy a je pripevnená nápadnými bielymi, povrazcovitými povrazcami podhubia. Mladé plodnice sú biele až krémové a pokryté krátkymi, jemnými šupinkami. Zrelé sú bledookrové až žltohnedé; šupinky opadávajú, ostáva trochu papierovitá pokožka a na vrchole sa otvára malý okrúhly otvor.",
+      "cap": "Zvyčajne 1.5–4 cm široká a okolo 3–4 cm vysoká (niektoré stredoeurópske príručky uvádzajú približne 2–7 cm na šírku a 2–6 alebo 2–7 cm na výšku). Hruškovitá až palicovitá, so zaoblenou hlavou a krátkou, mierne zúženou sterilnou bázou. Povrch je najprv biely až krémový s jemnými ihlancovitými bradavicami, neskôr bledookrový až žltohnedý a hladší, keď bradavice opadajú. Na vrchole sa tvorí tmavšie, mierne vystúpené miesto a v zrelosti sa otvára jeden malý otvor.",
+      "hymenium": "Plodné pletivo je gleba vyplňujúca hlavu. V mladosti je čisto biela a pevná. Pri dozrievaní mäkkne a stáva sa prašnou, olivovohnedou a nakoniec tmavohnedou. Sterilná báza ostáva biela, neskôr krémová, a je od gleby jasne oddelená.",
+      "stipe": "Pravý hlúbik chýba. Krátka, hubovitá sterilná báza, zvyčajne takmer rovnobežná alebo mierne zúžená, prichytáva plodnicu k drevu a ostáva biela aj vtedy, keď gleba stmavne. Z bázy do tlejúceho dreva vybiehajú biele povrazce podhubia.",
+      "flesh": "V mladosti je vnútro celé čisto biele a pevné. Neskôr sa gleba v hlave stáva olivovohnedou a prašnou, kým sterilná báza ostáva svetlejšia. Vôňa sa niekedy opisuje ako nepríjemná alebo pripomínajúca plyn; chuť mladých plodníc nie je výrazná, ale po sfarbení gleby horkne.",
+      "sporePrint": "Olivovohnedý, v plnej zrelosti tmavohnedý. Výtrusy sú okrúhle alebo takmer okrúhle, hladké, zvyčajne 3.5–4.5 µm v priemere (niektoré príručky uvádzajú 3.5–5 µm).",
+      "habitat": "Saprotrofná, zvyčajne v hustých, natlačených skupinách na tlejúcich pňoch, zahrabaných konároch a koreňoch listnatých stromov, občas aj na ihličnanoch. Môže pôsobiť dojmom, že rastie na pôde, ak je drevo skryté tesne pod povrchom. V Británii a Írsku plodí od júla do začiatku decembra; stredoeurópske príručky často uvádzajú jún až november a staré suché plodnice môžu pretrvať do zimy.",
+      "uses": "Jedlá len ako mladá, kým je vnútro ešte celkom čisto biele. Keď gleba začne žltnúť, olivovieť alebo hnednúť, necháva sa. Pred prípravou sa stiahne tuhá vonkajšia pokožka. Chuť sa zvyčajne považuje za priemernú. Plodnice treba vždy rozrezať pozdĺžne, aby sa potvrdilo čisto biele vnútro a vylúčili sa pestrce a mladé gombíkovité muchotrávky.",
+      "confusion": "Lycoperdon perlatum býva o niečo väčšia, rastie na pôde, nie na dreve, a je pokrytá oveľa väčšími kužeľovitými, perleťovými ostňami, ktoré po opadnutí zanechávajú sieťovitú kresbu. Scleroderma citrinum je pevný, s hrubou, tvrdou, šupinatou žltohnedou kôrou a tmavým purpurovočiernym až tmavosivým vnútrom a nemá vrcholový otvor; pestrce sú jedovaté. Mladé gombíky rodu Amanita môžu pripomínať biele guľovité plodnice, kým pozdĺžny rez neukáže obrys klobúka, hlúbika a u niektorých druhov aj pošvy.",
+      "notes": "Biele povrazce podhubia na báze a rast na tlejúcom dreve sú najspoľahlivejšie znaky v teréne. Plodnicu, ktorá sa zdá rásť na holej pôde, treba overiť, či pod ňou nie je skryté drevo. Pred akýmkoľvek použitím je nevyhnutný pozdĺžny rez, aby sa potvrdilo čisto biele vnútro a vylúčili sa pestrce aj mladé lupeňové huby.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+        "https://botany.cz/cs/lycoperdon-pyriforme/"
+      ],
+      "label": "prášnica hruškovitá"
+    },
+    "sl": {
+      "description": "Gosti šopi hruškastih do kijačastih trosnjakov, ki rastejo neposredno na trohnečem lesu, običajno 1.5–4 cm na širino in približno 3–4 cm visoki (nekateri srednjeevropski vodniki navajajo širši razpon, približno 2–7 cm na širino in 2–6 ali 2–7 cm v višino). Vsak ima zaobljeno plodno glavo, ki se zoži v kratko, gobasto sterilno dno, pritrjeno z opaznimi belimi, vrvicastimi rizomorfi. Mladi trosnjaki so beli do kremasti in pokriti s kratkimi, finimi bradavicami. Zreli postanejo bledo okrasti do rumenorjavi; bradavice odpadejo, ostane nekoliko papirnata kožica, na vrhu pa se odpre majhna okrogla odprtina.",
+      "cap": "Običajno 1.5–4 cm na širino in približno 3–4 cm visok (nekateri srednjeevropski vodniki navajajo približno 2–7 cm na širino in 2–6 ali 2–7 cm v višino). Hruškast do kijačast, z zaobljeno glavo in kratkim, rahlo zoženim sterilnim dnom. Površina je najprej bela do kremasta z drobnimi piramidastimi bradavicami, pozneje bledo okrasta do rumenojava in bolj gladka, ko bradavice odpadejo. Na vrhu se razvije temnejše, rahlo dvignjeno mesto, ob zrelosti pa se odpre ena majhna odprtina.",
+      "hymenium": "Plodno tkivo je gleba, ki polni glavo. V mladosti je čisto bela in čvrsta. Med zorenjem se zmehča in postane prašnata, olivnorjava in nazadnje temnorjava. Sterilno dno ostane belo, pozneje kremasto, in je od glebe jasno ločeno.",
+      "stipe": "Pravega beta ni. Kratko, gobasto sterilno dno, običajno bolj ali manj vzporedno ali rahlo zoženo, pritrdi trosnjak na les in ostane belo tudi takrat, ko gleba potemni. Iz dna v trohneč les potekajo beli micelijski vrvi.",
+      "flesh": "V mladosti je notranjost povsem čisto bela in čvrsta. Pozneje gleba v glavi postane olivnorjava in prašnata, medtem ko sterilno dno ostane svetlejše. Vonj včasih opisujejo kot neprijeten ali podoben plinu; okus mladih trosnjakov ni značilen, po obarvanju glebe pa postane grenak.",
+      "sporePrint": "Olivnorjav, v polni zrelosti temnorjav. Trosi so okrogli ali skoraj okrogli, gladki, običajno 3.5–4.5 µm v premeru (nekateri vodniki navajajo 3.5–5 µm).",
+      "habitat": "Saprofit, običajno v gostih, stisnjenih skupinah na trohnečih štorih, zakopanih vejah in koreninah listavcev, občasno tudi na iglavcih. Lahko deluje, kot da raste na tleh, kadar je les skrit tik pod površjem. V Britaniji in na Irskem trosnjaki rastejo od julija do začetka decembra; srednjeevropski vodniki pogosto navajajo junij–november, stari suhi trosnjaki pa lahko vztrajajo v zimo.",
+      "uses": "Užitna le mlada, dokler je notranjost še povsem čisto bela. Ko gleba začne rumeneti, olivnati ali rjaveti, jo pustimo. Pred pripravo se odstrani trda zunanja kožica. Okus na splošno velja za povprečen. Trosnjake je treba vedno prerezati po dolžini, da se potrdi čisto bela notranjost in izločijo trdokožnice ter mladi, gumbasti munarji.",
+      "confusion": "Lycoperdon perlatum je običajno nekoliko večja, raste na tleh in ne na lesu ter je pokrita z veliko večjimi stožčastimi, biserastimi bradavicami, ki po odpadu pustijo mrežast vzorec. Scleroderma citrinum je čvrsta, z debelo, trdo, luskasto rumenorjavo skorjo in temno škrlatno črno do temno sivo notranjostjo, brez vršne odprtine; trdokožnice so strupene. Mladi gumbi rodu Amanita lahko spominjajo na bele okrogle trosnjake, dokler navpični prerez ne pokaže obrisa klobuka, beta in pri nekaterih vrstah tudi ovojnice.",
+      "notes": "Beli micelijski vrvi ob dnu in rast na trohnečem lesu sta najzanesljivejši terenski znaki. Trosnjak, ki se zdi, da raste na goli zemlji, je treba preveriti, ali je pod njim skrit les. Pred vsako uporabo je nujen navpični prerez, da se potrdi čisto bela notranjost in izločijo trdokožnice ter mlade lističaste gobe.",
+      "names": [
+        "hruškasta prašnica"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+        "https://sl.wikipedia.org/wiki/Hruškasta_prašničarka",
+        "https://www.wikidata.org/wiki/Q79337417"
+      ],
+      "label": "hruškasta prašničarka"
+    },
+    "sr": {
+      "description": "Густи скупи крушколиких до штапичастих плодоносних тела која расту непосредно на трулом дрвету, обично 1.5–4 cm ширине и око 3–4 cm висине (неки средњоевропски водичи наводе шири распон, око 2–7 cm ширине и 2–6 или 2–7 cm висине). Свако има заобљену плодну главу која се сужава у кратку, сунђерасту стерилну базу и причвршћено је уочљивим белим, ужетастим ризоморфама. Млада плодоносна тела бела су до кремаста и покривена кратким, финим брадавицама. Зрела постају бледоокер до жутосмеђа; брадавице опадају, остаје помало папираста кожица, а на врху се отвара мали округли отвор.",
+      "cap": "Обично 1.5–4 cm ширине и око 3–4 cm висине (неки средњоевропски водичи наводе око 2–7 cm ширине и 2–6 или 2–7 cm висине). Крушколико до штапичасто, са заобљеном главом и кратком, благо суженом стерилном базом. Површина је најпре бела до кремаста с финим пирамидалним брадавицама, потом бледоокер до жутосмеђа и глађа како брадавице опадају. На врху се развија тамније, благо издигнуто место, а у зрелости се отвара један мали отвор.",
+      "hymenium": "Плодно ткиво је глеба која испуњава главу. Док је млада, чисто је бела и чврста. Како сазрева, омекша и постаје прашњава, маслинастосмеђа и напослетку тамносмеђа. Стерилна база остаје бела, касније кремаста, и јасно је одвојена од глебе.",
+      "stipe": "Правог стручка нема. Кратка, сунђераста стерилна база, обично мање-више паралелна или благо сужена, причвршћује плодоносно тело за дрво и остаје бела чак и када глеба потамни. Из базе у труло дрво иду беле мицелијске врпце.",
+      "flesh": "Док је младо, унутрашњост је сасвим чисто бела и чврста. Касније глеба у глави постаје маслинастосмеђа и прашњава, док стерилна база остаје светлија. Мирис се понекад описује као непријатан или налик гасу; укус младих плодоносних тела није особит, али после бојења глебе постаје горак.",
+      "sporePrint": "Маслинастосмеђи, у пуној зрелости тамносмеђи. Споре су округле или готово округле, глатке, обично 3.5–4.5 µm у пречнику (неки водичи наводе 3.5–5 µm).",
+      "habitat": "Сапротрофна, обично у густим, збијеним групама на трулим пањевима, закопаним гранама и корењу лишћара, повремено и на четинарима. Може изгледати као да расте на тлу када је дрво скривено тик испод површине. У Британији и Ирској плоди од јула до почетка децембра; средњоевропски водичи често наводе јун–новембар, а стара сува плодоносна тела могу остати до зиме.",
+      "uses": "Јстива само док је млада и унутрашњост још сасвим чисто бела. Чим глеба почне да жути, маслинасти или смеђи, оставља се. Пре припреме скида се тврда спољашња кожица. Укус се углавном сматра осредњим. Плодоносна тела увек треба пререзати уздуж да би се потврдила чисто бела унутрашњост и искључиле тврдокожнице и млади, дугметасти пупољци мухара.",
+      "confusion": "Lycoperdon perlatum обично је мало већа, расте на тлу а не на дрвету, и покривена је знатно већим купастим, бисерним брадавицама које после опадања остављају мрежаст образац. Scleroderma citrinum је чврста, с дебелом, тврдом, љускавом жутосмеђом кором и тамном пурпурноцрном до тамносивом унутрашњошћу, без вршног отвора; тврдокожнице су отровне. Млади дугмићи рода Amanita могу личити на бела округла плодоносна тела док уздужни пресек не покаже обрис шешира, стручка и код неких врста и волве.",
+      "notes": "Беле мицелијске врпце на бази и раст на трулом дрвету најпоузданији су теренски знаци. Плодоносно тело које изгледа као да расте на голом тлу треба проверити има ли испод скривеног дрвета. Пре било какве употребе неопходан је уздужни пресек да би се потврдила чисто бела унутрашњост и искључиле тврдокожнице и младе листићаве гљиве.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q79337417",
+        "https://sr.wikipedia.org/wiki/Крушкаста_пухара"
+      ],
+      "label": "Крушкаста пухара"
+    },
+    "sv": {
+      "description": "Täta grupper av päronformade till klubblika fruktkroppar som växer direkt på murket trä, typiskt 1.5–4 cm breda och omkring 3–4 cm höga (vissa centraleuropeiska guider anger ett vidare spann, omkring 2–7 cm i bredd och 2–6 eller 2–7 cm i höjd). Var och en har ett avrundat fertilt huvud som smalnar av i en kort, svampig steril bas och fästs med tydliga vita, trådlika rhizomorfer. Unga fruktkroppar är vita till krämfärgade och täckta av korta, fina vårtor. Mogna blir blekt ockra till gulbruna; vårtorna nöts bort, en något papperslik hud blir kvar och i toppen öppnas en liten rund por.",
+      "cap": "Typiskt 1.5–4 cm bred och omkring 3–4 cm hög (vissa centraleuropeiska guider anger omkring 2–7 cm i bredd och 2–6 eller 2–7 cm i höjd). Päronformad till klubblik, med avrundat huvud och en kort, något avsmalnande steril bas. Ytan är först vit till krämfärgad med fina pyramidformade vårtor, senare blekt ockra till gulbrun och slätare när vårtorna faller av. I toppen utvecklas ett mörkare, något upphöjt parti, och vid mognad öppnas en enda liten por.",
+      "hymenium": "Den fertila vävnaden är en gleba som fyller huvudet. Ung är den rent vit och fast. Under mognaden blir den mjuk och puderartad, olivbrun och till sist mörkbrun. Den sterila basen förblir vit, senare krämfärgad, och är tydligt avgränsad från gleban.",
+      "stipe": "Det finns ingen verklig fot. En kort, svampig steril bas, vanligen mer eller mindre parallell eller något avsmalnande, förankrar fruktkroppen i träet och förblir vit även när gleban mörknar. Från basen går vita mycelsträngar in i det murkna träet.",
+      "flesh": "Hos unga är det inre helt rent vitt och fast. Senare blir gleban i huvudet olivbrun och puderartad, medan den sterila basen förblir ljusare. Lukten beskrivs ibland som obehaglig eller gaslik; smaken hos unga fruktkroppar är inte utmärkande, men blir bitter när gleban färgas.",
+      "sporePrint": "Olivbrun, vid full mognad mörkbrun. Sporerna är runda eller nästan runda, släta, typiskt 3.5–4.5 µm i diameter (vissa guider anger 3.5–5 µm).",
+      "habitat": "Saprotrof, vanligen i täta, trängda grupper på murkna stubbar, begravda grenar och rötter av lövträd, ibland också på barrträd. Den kan se ut att växa på marken när träet är dolt precis under ytan. I Storbritannien och Irland fruktifierar den från juli till början av december; centraleuropeiska guider anger ofta juni till november, och gamla torra fruktkroppar kan stå kvar in på vintern.",
+      "uses": "Ätlig endast som ung och endast medan det inre fortfarande är helt rent vitt. När gleban börjar bli gul, olivfärgad eller brun lämnas den. Det sega yttre skinnet avlägsnas före tillagning. Smaken betraktas i allmänhet som medelmåttig. Skär alltid fruktkropparna på längden för att bekräfta ett rent vitt inre och utesluta rottryfflar samt unga knappar av Amanita.",
+      "confusion": "Lycoperdon perlatum är vanligen något större, växer på marken i stället för på trä och är täckt av mycket större koniska, pärllika vårtor som lämnar ett nätlikt mönster när de faller av. Scleroderma citrinum är fast, med en tjock, hård, fjällig gulbrun skorpa och ett mörkt purpursvart till mörkgrått inre, utan por i toppen; rottryfflar är giftiga. Unga Amanita-knappar kan likna vita klotformade fruktkroppar tills ett längdsnitt visar konturen av hatt, fot och hos vissa arter en slida.",
+      "notes": "Vita mycelsträngar vid basen och tillväxt på murket trä är de mest tillförlitliga fältkännetecknen. En fruktkropp som tycks stå på bar jord bör kontrolleras med avseende på dolt trä. Före all användning är ett längdsnitt nödvändigt för att bekräfta ett rent vitt inre och utesluta rottryfflar samt unga skivlingar.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+        "https://sv.wikipedia.org/wiki/Gyttrad_röksvamp",
+        "https://www.wikidata.org/wiki/Q79337417"
+      ],
+      "label": "gyttrad röksvamp"
+    },
+    "tr": {
+      "description": "Çürüyen odun üzerinde doğrudan büyüyen, armut ya da tokmak biçimli meyve gövdelerinin sık kümeleri; tipik olarak 1.5–4 cm genişliğinde ve yaklaşık 3–4 cm yüksekliğindedir (bazı Orta Avrupa kılavuzları yaklaşık 2–7 cm genişlik ve 2–6 veya 2–7 cm yükseklik verir). Her birinin yuvarlak verimli bir başı vardır; bu baş kısa, süngerimsi kısır bir tabana daralır ve belirgin beyaz, ip benzeri rizomorflarla tutunur. Genç meyve gövdeleri beyaz ile krem rengi arasındadır ve kısa, ince siğillerle kaplıdır. Olgunlaşınca soluk okrdan sarımsı kahverengiye döner; siğiller aşınır, biraz kâğıdımsı bir kabuk kalır ve tepede küçük yuvarlak bir delik açılır.",
+      "cap": "Tipik olarak 1.5–4 cm genişliğinde ve yaklaşık 3–4 cm yüksekliğindedir (bazı kılavuzlar: yaklaşık 2–7 cm genişlik ve 2–6 veya 2–7 cm yükseklik). Armut ya da tokmak biçimli, yuvarlak başlı ve kısa, hafifçe daralan kısır tabanlıdır. Yüzey önce beyaz ile krem rengi arasında, ince piramit siğillidir; sonra soluk okrdan sarımsı kahverengiye döner ve siğiller dökülünce daha düz olur. Tepede daha koyu, hafif kabarık bir nokta oluşur ve olgunlukta tek küçük bir delik açılır.",
+      "hymenium": "Verimli doku, başı dolduran bir glebadır. Gençken saf beyaz ve serttir. Olgunlaşırken yumuşar ve tozumsu olur, zeytin kahverengisine, sonunda koyu kahverengiye döner. Kısır taban beyaz, daha sonra krem kalır ve glebadan açıkça ayrılır.",
+      "stipe": "Gerçek bir sap yoktur. Kısa, süngerimsi kısır bir taban, genellikle az çok paralel veya hafifçe daralan, meyve gövdesini oduna tutturur ve gleba kararınca bile beyaz kalır. Tabandan çürük oduna beyaz miselyum ipleri uzanır.",
+      "flesh": "Gençken iç kısım baştan sona saf beyaz ve serttir. Daha sonra baştaki gleba zeytin kahverengisine ve tozumsu hâle gelir, kısır taban ise daha soluk kalır. Koku bazen hoş olmayan veya gazımsı diye tanımlanır; genç meyve gövdelerinin tadı ayırt edici değildir, ancak gleba renklenince acılaşır.",
+      "sporePrint": "Zeytin kahverengi, tam olgunlukta koyu kahverengi. Sporlar yuvarlak veya neredeyse yuvarlak, pürüzsüz, tipik olarak 3.5–4.5 µm çapındadır (bazı kılavuzlar 3.5–5 µm verir).",
+      "habitat": "Saprotrof, genellikle çürüyen kütükler, gömülü dallar ve yapraklı ağaç kökleri üzerinde sık, sıkışık gruplar hâlinde, bazen de iğne yapraklılarda. Odun yüzeyin hemen altında gizlendiğinde toprakta büyüyormuş gibi görünebilir. Britanya ve İrlanda’da Temmuz’dan Aralık başına kadar meyve verir; Orta Avrupa kılavuzları çoğu kez Haziran–Kasım der ve eski kuru meyve gövdeleri kışa kadar kalabilir.",
+      "uses": "Yalnızca gençken ve iç kısım hâlâ baştan sona saf beyazken yenir. Gleba sarı, zeytin ya da kahverengi olmaya başlayınca bırakılır. Pişirmeden önce sert dış kabuk soyulur. Tat genel olarak vasat kabul edilir. Saf beyaz içi doğrulamak ve zehirli yer toplarını ve genç Amanita düğmelerini elemek için meyve gövdeleri her zaman uzunlamasına kesilmelidir.",
+      "confusion": "Lycoperdon perlatum genellikle biraz daha büyüktür, odun yerine toprakta büyür ve dökülünce ağsı bir desen bırakan çok daha büyük konik, incimsi siğillerle kaplıdır. Scleroderma citrinum serttir, kalın, sert, pullu sarımsı kahverengi bir kabuğu ve koyu morumsu siyahtan koyu griye bir içi vardır, tepede delik bulunmaz; bunlar zehirlidir. Genç Amanita düğmeleri, dikey bir kesit şapka, sap ve bazı türlerde volva hatlarını gösterene kadar beyaz küremsi meyve gövdelerine benzeyebilir.",
+      "notes": "Tabandaki beyaz miselyum ipleri ve çürüyen odun üzerinde büyüme en güvenilir arazi ipuçlarıdır. Çıplak toprakta duruyor gibi görünen bir meyve gövdesi, gömülü odun açısından kontrol edilmelidir. Herhangi bir kullanımdan önce saf beyaz içi doğrulamak ve zehirli yer topları ile genç lamelli mantarları elemek için dikey bir kesit zorunludur.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme"
+      ],
+      "label": "Ağaç Toz Mantarı"
+    },
+    "uk": {
+      "description": "Щільні скупчення грушоподібних або булавоподібних плодових тіл на гнилій деревині, зазвичай 1.5–4 cm упоперек і близько 3–4 cm заввишки (деякі середньоєвропейські довідники дають близько 2–7 cm упоперек і 2–6 або 2–7 cm заввишки). Кожне має заокруглену фертильну голівку, що звужується в коротку губчасту стерильну основу, прикріплену помітними білими шнуроподібними ризоморфами. Молоді плодові тіла білі до кремових, із короткими дрібними бородавочками. Зрілі блідо-вохристі до жовтувато-коричневих; бородавочки стираються, лишається трохи паперова шкірка, і на верхівці відкривається маленький круглий отвір.",
+      "cap": "Зазвичай 1.5–4 cm упоперек і близько 3–4 cm заввишки (деякі довідники: близько 2–7 cm упоперек і 2–6 або 2–7 cm заввишки). Грушоподібне або булавоподібне, із заокругленою голівкою і короткою, злегка звуженою стерильною основою. Поверхня спочатку біла до кремової, з дрібними пірамідальними бородавочками, пізніше блідо-вохриста до жовтувато-коричневої і гладкіша. На верхівці з’являється темніше, злегка підняте місце, і в зрілості відкривається один маленький отвір.",
+      "hymenium": "Плідна тканина — глеба, що заповнює голівку. В молодості вона чисто біла й щільна. Під час дозрівання стає м’якою й порошкуватою, оливково-коричневою і зрештою темно-коричневою. Стерильна основа лишається білою, пізніше кремовою, і чітко відділена від глеби.",
+      "stipe": "Справжньої ніжки немає. Коротка губчаста стерильна основа, зазвичай більш-менш паралельна або злегка звужена, закріплює плодове тіло в деревині й лишається білою навіть коли глеба темніє. Від основи в гнилу деревину відходять білі міцеліальні шнури.",
+      "flesh": "У молодих середина цілком чисто біла й щільна. Пізніше глеба в голівці стає оливково-коричневою й порошкуватою, а стерильна основа лишається світлішою. Запах іноді описують як неприємний або газуватий; смак молодих плодових тіл не характерний, але стає гірким, коли глеба забарвлюється.",
+      "sporePrint": "Оливково-коричневий, у повній зрілості темно-коричневий. Спори округлі або майже округлі, гладкі, зазвичай 3.5–4.5 µm у діаметрі (деякі довідники вказують 3.5–5 µm).",
+      "habitat": "Сапротроф, зазвичай у щільних скупчених групах на гнилих пнях, заглиблених гілках і коренях листяних дерев, іноді також на хвойних. Може здаватися, що росте на ґрунті, якщо деревина схована одразу під поверхнею. У Великій Британії та Ірландії плодоносить із липня до початку грудня; середньоєвропейські довідники часто вказують червень–листопад, а старі сухі плодові тіла можуть зберігатися до зими.",
+      "uses": "Їстівний лише молодим і лише поки середина ще цілком чисто біла. Щойно глеба починає жовтіти, ставати оливковою чи коричневою, його залишають. Перед приготуванням знімають жорстку зовнішню шкірку. Смак зазвичай вважають посереднім. Плодові тіла завжди треба розрізати вздовж, щоб підтвердити чисто білу середину й виключити отруйні земляні кулі та молоді ґудзики мухоморів.",
+      "confusion": "Lycoperdon perlatum зазвичай трохи більший, росте на ґрунті, а не на деревині, і вкритий значно більшими конічними перлистими бородавками, які після опадання залишають сітчастий малюнок. Scleroderma citrinum щільний, з товстою твердою лускатою жовтувато-коричневою кіркою і темною пурпурово-чорною до темно-сірої серединою, без верхівкового отвору; ці гриби отруйні. Молоді ґудзики роду Amanita можуть бути схожі на білі кулясті плодові тіла, поки поздовжній розріз не покаже обриси шапинки, ніжки й у деяких видів вольви.",
+      "notes": "Білі міцеліальні шнури біля основи та ріст на гнилій деревині — найнадійніші польові ознаки. Плодове тіло, що здається зростаючим на голому ґрунті, слід перевірити на сховану деревину. Перед будь-яким використанням необхідний поздовжній розріз, щоб підтвердити чисто білу середину й виключити отруйні земляні кулі та молоді пластинчасті гриби.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+        "https://uk.wikipedia.org/wiki/Дощовик_грушоподібний"
+      ],
+      "label": "Дощовик грушоподібний"
+    },
+    "zh": {
+      "description": "成密丛直接生于腐朽木材上的梨形至棒形子实体，通常宽 1.5–4 cm、高约 3–4 cm（一些中欧图鉴给出更宽范围，宽约 2–7 cm、高 2–6 或 2–7 cm）。各有一圆的可育头部，向下收成短而海绵质的不育基部，并以明显的白色索状菌索着生。幼小子实体白色至奶油色，被短而细的疣。成熟后呈浅土黄至黄褐色；疣磨尽后留下略呈纸质的表皮，顶端开一小圆孔。",
+      "cap": "通常宽 1.5–4 cm、高约 3–4 cm（一些图鉴约宽 2–7 cm、高 2–6 或 2–7 cm）。梨形至棒形，头部圆，不育基部短而略收窄。表面初为白色至奶油色，有细的金字塔状疣，后呈浅土黄至黄褐色，疣脱落后较平滑。顶端出现较暗、略隆起的部位，成熟时开一个小孔。",
+      "hymenium": "可育组织是充满头部的产孢组织（gleba）。幼时纯白而坚实。成熟时变软成粉，呈橄榄褐色，最后暗褐色。不育基部保持白色，稍后奶油色，与产孢组织分界清楚。",
+      "stipe": "没有真正的菌柄。短而海绵质的不育基部大体平行或略收窄，把子实体固定在木材上，即使产孢组织变暗也仍保持白色。白色菌索从基部伸入腐木。",
+      "flesh": "幼时内部通体纯白而坚实。随后头部的产孢组织变为橄榄褐色而呈粉状，不育基部仍较淡。气味有时被说成不快或像气体；幼小子实体味道并不特别，但产孢组织着色后变苦。",
+      "sporePrint": "橄榄褐色，充分成熟时暗褐色。孢子圆形或近圆形，平滑，通常直径 3.5–4.5 µm（一些图鉴作 3.5–5 µm）。",
+      "habitat": "腐生，通常密集成丛生于阔叶树的腐朽树桩、埋藏枝条和根上，有时也生于针叶树。木材就在土表之下时，可能看起来像长在地上。在英国和爱尔兰于 7 月至 12 月初出菇；中欧图鉴常作 6–11 月，陈旧的干燥子实体可残留到冬季。",
+      "uses": "仅在幼嫩、内部仍通体纯白时可以食用。一旦产孢组织开始变黄、变橄榄色或褐色，便弃置。烹调前剥去坚韧的外皮。味道一般被认为平平。必须纵切子实体，以确认内部纯白，并排除有毒的硬皮种类和鹅膏的幼嫩纽扣。",
+      "confusion": "Lycoperdon perlatum 通常稍大，生于地面而非木材，表面有大得多的圆锥形珍珠状疣，脱落后留下网纹。Scleroderma citrinum 质地坚实，有厚、硬、鳞片状的黄褐色外皮和深紫黑色至深灰色的内部，顶端无孔；这类菌有毒。鹅膏属的幼嫩纽扣在纵切显示出菌盖、菌柄以及某些种类的菌托轮廓之前，可能像白色球形子实体。",
+      "notes": "基部的白色菌索和生于腐朽木材，是野外最可靠的线索。看似长在裸土上的子实体，应检查是否有埋藏的木材。使用前必须纵切，以确认内部纯白，并排除有毒的硬皮种类和幼嫩的褶菌。",
+      "names": [
+        "梨形馬勃"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q79337417",
+        "https://www.inaturalist.org/taxa/972793-Apioperdon-pyriforme",
+        "https://zh.wikipedia.org/wiki/梨形馬勃"
+      ],
+      "label": "梨形马勃"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Lycoperdon pyriforme",
+      "author": "Schaeff.",
+      "year": 1774,
+      "rank": "species",
+      "type": "basionym",
+      "if": 123159
+    },
+    {
+      "name": "Utraria pyriformis",
+      "author": "(Schaeff.) Quél.",
+      "year": 1873,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 507510
+    },
+    {
+      "name": "Morganella pyriformis",
+      "author": "(Schaeff.) Kreisel & D. Krüger",
+      "year": 2003,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 487358,
+      "as": "pyriforme"
+    },
+    {
+      "name": "Lycoperdon serotinum",
+      "author": "Bonord.",
+      "year": 1857,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 151446
+    },
+    {
+      "name": "Lycoperdon betulinum",
+      "author": "Velen.",
+      "year": 1922,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 258424
+    }
+  ],
+  "reserved": false,
+  "id": 253,
+  "citation": "in Vizzini & Ercole, Phytotaxa 299(1): 81 (2017)"
 }
 ];

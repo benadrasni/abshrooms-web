@@ -1272,15 +1272,25 @@ export const TAXA = {
     rank: "genus"
   },
   Sarcomyxaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "pňovkovité"
   },
   Sarcomyxa: {
-    rank: "genus"
+    rank: "genus",
+    sk: "pňovka"
   },
   Hypoxylaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "drevovčekovité"
+  },
+  Hypoxylon: {
+    rank: "genus",
+    sk: "drevovček"
   },
   Daldinia: {
+    rank: "genus"
+  },
+  Apioperdon: {
     rank: "genus"
   }
 };
