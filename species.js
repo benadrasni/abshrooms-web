@@ -255162,5 +255162,2041 @@ export const CATALOG = [
   "reserved": false,
   "id": 253,
   "citation": "in Vizzini & Ercole, Phytotaxa 299(1): 81 (2017)"
+},
+{
+  "name": "Verpa bohemica",
+  "author": "(Krombh.) J. Schröt.",
+  "family": "Morchellaceae",
+  "genus": "Verpa",
+  "order": "Pezizales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Ascomycota",
+    "Pezizomycotina",
+    "Pezizomycetes",
+    "Pezizomycetidae",
+    "Pezizales",
+    "Morchellaceae",
+    "Verpa"
+  ],
+  "summary": [
+    "Pezizales",
+    "Morchellaceae",
+    "Verpa"
+  ],
+  "edibility": "edible_with_caution",
+  "hymenium": "folds",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "white",
+    "yellow",
+    "brown"
+  ],
+  "capFrom": 1.5,
+  "capTo": 3.0,
+  "stipeHeightFrom": 8.0,
+  "stipeHeightTo": 22.0,
+  "stipeThickFrom": 1.5,
+  "stipeThickTo": 3.0,
+  "fruitingFrom": 3,
+  "fruitingTo": 5,
+  "label": {
+    "ar": "فيربا بوهيمي",
+    "bg": "Набръчкан напръстник",
+    "cs": "kačenka česká",
+    "da": "Rynket klokkemorkel",
+    "de": "Runzel-Verpel",
+    "en": "wrinkled thimble morel",
+    "et": "kurrel",
+    "fi": "poimukellomörsky",
+    "fr": "Verpe de Bohême",
+    "hu": "Cseh kucsmagomba",
+    "ja": "オオズキンカブリタケ",
+    "lt": "Bohemiškasis aukšliavarpis",
+    "lv": "parastais ķēvpups",
+    "no": "rynket klokkemorkel",
+    "pl": "Naparstniczka czeska",
+    "ru": "Шапочка сморчковая",
+    "sk": "smrčkovec český",
+    "sl": "češki smrčkovec",
+    "sr": "Чешка смрчковица",
+    "sv": "vindlad klockmurkla",
+    "tr": "yalancı kuzu göbeği",
+    "uk": "Зморшкова шапинка",
+    "zh": "皱盖钟菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [
+      "Набръчкана верпа"
+    ],
+    "cs": [
+      "smrž český"
+    ],
+    "da": [],
+    "de": [
+      "Böhmische Verpel",
+      "Runzelverpel"
+    ],
+    "en": [
+      "early false morel",
+      "wrinkled thimble-cap morel",
+      "wrinkled thimble-cap"
+    ],
+    "es": [],
+    "et": [
+      "sõrmkübaraseen",
+      "böömi sõrmkübarseen"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "Smardzówka czeska"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "Сморчковая шапочка"
+    ],
+    "sk": [
+      "pasmrčok český"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [
+      "Sahte Kuzugöbeği"
+    ],
+    "uk": [
+      "Верпа чеська"
+    ],
+    "zh": [
+      "波地钟菌",
+      "皺蓋鐘菌"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=481988",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=481988",
+      "https://api.gbif.org/v1/species/match?name=Verpa%20bohemica",
+      "https://www.gbif.org/species/5259057",
+      "https://www.wikidata.org/wiki/Q1463716",
+      "https://www.inaturalist.org/taxa/126131",
+      "https://species.wikimedia.org/wiki/Verpa_bohemica",
+      "https://www.mushroomexpert.com/verpa_bohemica.html",
+      "https://www.nahuby.sk/atlas-hub/Verpa-bohemica/smrckovec-cesky/kacenka-ceska/ID626",
+      "https://botany.cz/cs/verpa-bohemica/",
+      "https://linnet.geog.ubc.ca/Atlas/Atlas.aspx?sciname=Verpa+bohemica",
+      "https://sk.wikipedia.org/wiki/Smr%C4%8Dkovec_%C4%8Desk%C3%BD",
+      "https://commons.wikimedia.org/wiki/Category:Verpa_bohemica"
+    ],
+    "ar": [
+      "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B1%D8%A8%D8%A7_%D8%A8%D9%88%D9%87%D9%8A%D9%85%D9%8A",
+      "https://www.wikidata.org/wiki/Q1463716"
+    ],
+    "bg": [
+      "https://www.inaturalist.org/taxa/126131",
+      "https://www.wikidata.org/wiki/Q1463716"
+    ],
+    "cs": [
+      "https://www.inaturalist.org/taxa/126131",
+      "https://www.wikidata.org/wiki/Q1463716",
+      "https://cs.wikipedia.org/wiki/Ka%C4%8Denka_%C4%8Desk%C3%A1",
+      "https://botany.cz/cs/verpa-bohemica/"
+    ],
+    "da": [
+      "https://www.inaturalist.org/taxa/126131"
+    ],
+    "de": [
+      "https://www.inaturalist.org/taxa/126131",
+      "https://www.wikidata.org/wiki/Q1463716",
+      "https://de.wikipedia.org/wiki/Runzel-Verpel"
+    ],
+    "es": [],
+    "et": [
+      "https://www.inaturalist.org/taxa/126131",
+      "https://et.wikipedia.org/wiki/Kurrel",
+      "https://www.wikidata.org/wiki/Q1463716"
+    ],
+    "fa": [],
+    "fi": [
+      "https://www.inaturalist.org/taxa/126131",
+      "https://www.wikidata.org/wiki/Q1463716",
+      "https://fi.wikipedia.org/wiki/Poimukellom%C3%B6rsky"
+    ],
+    "fr": [
+      "https://www.inaturalist.org/taxa/126131",
+      "https://fr.wikipedia.org/wiki/Verpe_de_Boh%C3%AAme",
+      "https://commons.wikimedia.org/wiki/Category:Verpa_bohemica"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://www.inaturalist.org/taxa/126131",
+      "https://www.wikidata.org/wiki/Q1463716",
+      "https://hu.wikipedia.org/wiki/Cseh_kucsmagomba"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.inaturalist.org/taxa/126131"
+    ],
+    "ko": [],
+    "lt": [
+      "https://www.inaturalist.org/taxa/126131",
+      "https://www.wikidata.org/wiki/Q1463716",
+      "https://lt.wikipedia.org/wiki/Bohemi%C5%A1kasis_auk%C5%A1liavarpis"
+    ],
+    "lv": [
+      "https://www.inaturalist.org/taxa/126131"
+    ],
+    "nl": [],
+    "no": [
+      "https://www.inaturalist.org/taxa/126131"
+    ],
+    "pl": [
+      "https://www.inaturalist.org/taxa/126131",
+      "https://www.wikidata.org/wiki/Q1463716",
+      "https://pl.wikipedia.org/wiki/Naparstniczka_czeska"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://www.wikidata.org/wiki/Q1463716",
+      "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BF%D0%BE%D1%87%D0%BA%D0%B0_%D1%81%D0%BC%D0%BE%D1%80%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F",
+      "https://www.inaturalist.org/taxa/126131"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Verpa-bohemica/smrckovec-cesky/kacenka-ceska/ID626",
+      "https://www.inaturalist.org/taxa/126131",
+      "https://sk.wikipedia.org/wiki/Smr%C4%8Dkovec_%C4%8Desk%C3%BD",
+      "https://www.wikidata.org/wiki/Q1463716"
+    ],
+    "sl": [
+      "https://www.inaturalist.org/taxa/126131"
+    ],
+    "sr": [
+      "https://www.inaturalist.org/taxa/126131",
+      "https://www.wikidata.org/wiki/Q1463716",
+      "https://sr.wikipedia.org/wiki/%D0%A7%D0%B5%D1%88%D0%BA%D0%B0_%D1%81%D0%BC%D1%80%D1%87%D0%BA%D0%BE%D0%B2%D0%B8%D1%86%D0%B0"
+    ],
+    "sv": [
+      "https://www.inaturalist.org/taxa/126131",
+      "https://www.wikidata.org/wiki/Q1463716",
+      "https://sv.wikipedia.org/wiki/Vindlad_klockmurkla"
+    ],
+    "tr": [
+      "https://www.inaturalist.org/taxa/126131"
+    ],
+    "uk": [
+      "https://www.wikidata.org/wiki/Q1463716",
+      "https://uk.wikipedia.org/wiki/%D0%97%D0%BC%D0%BE%D1%80%D1%88%D0%BA%D0%BE%D0%B2%D0%B0_%D1%88%D0%B0%D0%BF%D0%B8%D0%BD%D0%BA%D0%B0",
+      "https://www.inaturalist.org/taxa/126131",
+      "https://commons.wikimedia.org/wiki/Category:Verpa_bohemica"
+    ],
+    "zh": [
+      "https://www.inaturalist.org/taxa/126131",
+      "https://www.wikidata.org/wiki/Q1463716",
+      "https://zh.wikipedia.org/wiki/%E7%AE%9A%E8%93%8B%E9%90%98%E8%8F%8C",
+      "https://commons.wikimedia.org/wiki/Category:Verpa_bohemica"
+    ]
+  },
+  "added": "2026-11-28",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Morchellaceae/Verpa_bohemica/Verpa_bohemica@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Morchellaceae/Verpa_bohemica/Verpa_bohemica@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Morchellaceae/Verpa_bohemica/Verpa_bohemica@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Morchellaceae/Verpa_bohemica/Verpa_bohemica_1.webp",
+      "author": "Branislav Tej",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/78068972"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Morchellaceae/Verpa_bohemica/Verpa_bohemica_2.webp",
+      "author": "Davide Puddu",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/9433925"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Morchellaceae/Verpa_bohemica/Verpa_bohemica_3.webp",
+      "author": "Mykola Borysenko",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/270413621"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Morchellaceae/Verpa_bohemica/Verpa_bohemica_4.webp",
+      "author": "Enrico Tomschke",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/38713149"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Morchellaceae/Verpa_bohemica/Verpa_bohemica_5.webp",
+      "author": "sariai",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/77238284"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Pezizales/Morchellaceae/Verpa_bohemica/Verpa_bohemica@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Morchellaceae/Verpa_bohemica/Verpa_bohemica@1600.webp",
+      "basedOn": [],
+      "existingMark": "The 896×1200 source (JPEG/JFIF bytes in a .png filename, SHA-256 72b30ac3b43f2e471e16cdc0f91da53501494159f8ba5faf7f81010263bb05fa, Exif Orientation 1, software Picasa, no alpha) was given a centred 48 px side trim (800×1200, exact 2:3) and enlarged uniformly 2× (Lanczos) to 1600×2400. A centred 48 px trim does not clip the cursive Gemini signature. Official background.webp (SHA-256 d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c) was applied by colour-weighted multiply with the canonical tool tools/plate_blend/multiply_on_background.py (trim=48, weighted mode; the canonical tool was not modified). @1600 SHA-256 f1d4ebaaa1dcdee88c30b52fcf73f0426c05256cdb2eeaa55b42381d12c55e49; @400 SHA-256 d98919c0e6cb23e499981c2b8b676d522eac751121457037a781e66d3cde7c23. Credit: Adrian Benko (Gemini)."
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Pezizales/Morchellaceae/Verpa_bohemica/Verpa_bohemica_1.webp",
+      "author": "Branislav Tej",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/78068972"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Pezizales/Morchellaceae/Verpa_bohemica/Verpa_bohemica_2.webp",
+      "author": "Davide Puddu",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/9433925"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Pezizales/Morchellaceae/Verpa_bohemica/Verpa_bohemica_3.webp",
+      "author": "Mykola Borysenko",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/270413621"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Pezizales/Morchellaceae/Verpa_bohemica/Verpa_bohemica_4.webp",
+      "author": "Enrico Tomschke",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/38713149"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Pezizales/Morchellaceae/Verpa_bohemica/Verpa_bohemica_5.webp",
+      "author": "sariai",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/77238284"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر زقي يظهر في أوائل الربيع، له قبعة على شكل كشتبان أو جرس، لونها بني ترابي إلى بني مصفر، تتدلى حرة تمامًا عن الساق ولا تتصل بها إلا عند القمة تمامًا. يبلغ ارتفاع القبعة 2–4 cm وعرضها 1.5–3 cm، وفيها تجاعيد وأضلاع طولية متفرعة واضحة، وليست شبكة منتظمة من الحفر. الساق طويلة، كريمية البياض إلى ترابية شاحبة، وكثيرًا ما تحمل أطواقًا حرشفية دقيقة، مجوفة أو مملوءة على تراخٍ بألياف بيضاء قطنية. تثمر على التربة في مواقف رطبة من الأشجار العريضة الأوراق، ولا سيما تحت الحور والرجراج والرماد.",
+      "cap": "ارتفاعها 2–4 cm وعرضها 1.5–3 cm (وغالبًا ما تذكر الأدلة الأوروبية الوسطى قبعة أضيق قليلًا، نحو 1.5–2.5 cm). على شكل كشتبان أو جرس، أو تكاد تكون مخروطية، وأحيانًا غير منتظمة. بني ترابي إلى بني مصفر أو زيتوني، بتجاعيد وأضلاع طولية شبيهة بالدماغ من القمة إلى الحافة؛ وقد تبدو الأجسام الثمرية الأقدم قليلاً محفّرة. تتدلى الحافة السفلى حرة عن الساق، والوجه السفلي مبيض وباهت الزغب.",
+      "hymenium": "السطح الخصب هو الوجه الخارجي المتجعد للقبعة. وهو مطوي في أضلاع وتجاعيد طولية، لا مرتبًا في شبكة منتظمة من الحفر.",
+      "stipe": "في الأوصاف الأمريكية الشمالية طولها 8–22 cm وسُمكها 1.5–3 cm؛ أما الأدلة الأوروبية الوسطى فتذكر عادة ساقًا أقصر وأنحف، نحو 5–12 cm طولًا و1–2 cm سُمكًا. أسطوانية، متساوية أو مستدقة قليلًا، كريمية البياض إلى ترابية شاحبة أو صفراء باهتة، وقد تميل قليلًا إلى البرتقالي عند اللمس. كثيرًا ما يحمل السطح زغبًا حبيبيًا دقيقًا في أطواق متراكزة باهتة. مجوفة أو مملوءة على تراخٍ بألياف بيضاء قطنية متفرقة.",
+      "flesh": "رقيقة، مبيضة وهشة، بلا رائحة أو طعم مميزين. في المقطع الطولي لا تتصل القبعة بالساق إلا عند القمة، والساق مجوفة أو مملوءة بألياف قطنية رخوة، لا بتجويف واحد متصل مشترك مع القبعة.",
+      "sporePrint": "أصفر ترابي شاحب إلى أصفر. الأبواغ كبيرة جدًا، نحو 48–85 × 15–24 µm، إهليلجية وملساء، وعادة ما تكون اثنتين في كل زق.",
+      "habitat": "على التربة في أوائل الربيع، عادة من مارس إلى مايو، في غابات رطبة من الأشجار العريضة الأوراق أو المختلطة. كثيرًا ما تكون تحت الحور والرجراج والرماد، بين أوراق العام السابق؛ وتُذكر أيضًا تحت أشجار عريضة أخرى وأحيانًا تحت الصنوبريات. تظهر الأجسام الثمرية منفردة أو في مجموعات صغيرة.",
+      "uses": "تُؤكل بكثرة في بعض الجهات، لكنها قد تسبب لبعض الناس اضطرابًا هضميًا وفقدانًا مؤقتًا للتناسق، خاصة بعد حصص كبيرة أو وجبات على أيام متتالية. وُصفت أيضًا عدم تحمل للكحول. ينبغي عدّها صالحة للأكل بحذر فقط: تُطهى جيدًا، ويُتذوق منها أولًا مقدار قليل، ولا تؤكل بكميات كبيرة ولا في أيام متتالية. لا تؤكل نيئة أبدًا.",
+      "confusion": "الموريل الحقيقية مثل Morchella esculenta لها قبعة ذات شبكة منتظمة من الحفر ملتحمة بالساق على طولها كله، والجسم الثمري مجوف في تجويف واحد متصل. أما الموريل نصف الحرة (Morchella semilibera) فقبلتها ملتحمة بالساق في نحو النصف العلوي، ولا يتدلى حرًا إلا النصف السفلي، والساق مجوفة تمامًا. ولـ Verpa conica قبعة حرة مشابهة على شكل كشتبان، لكن سطحها أملس أو متجعد قليلًا فقط. أما Gyromitra esculenta القاتلة فلها قبعة حمراء بنية، مفصصة، شبيهة بالدماغ، وساق قصيرة مقسمة إلى حجرات؛ وأوثق سبيل للتمييز مقطع طولي في الجسم الثمري.",
+      "notes": "تتفاوت نطاقات الحجم الأوروبية والأمريكية الشمالية، كما هو مبين عند القبعة والساق. وأهم اختبار ميداني التحقق من أن القبعة متصلة عند القمة فقط وتتدلى حرة، ككشتبان على إصبع. ولأن بعض الناس حسّاسون حتى للأجسام الثمرية المطهوة جيدًا، لا تُعامل هذه الأنواع معاملة الموريل الصالحة للأكل العادية.",
+      "names": [],
+      "sourceUrls": [
+        "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B1%D8%A8%D8%A7_%D8%A8%D9%88%D9%87%D9%8A%D9%85%D9%8A",
+        "https://www.wikidata.org/wiki/Q1463716"
+      ],
+      "label": "فيربا بوهيمي"
+    },
+    "bg": {
+      "description": "Раннопролетен аскомицет с напръстниковидна или камбанковидна, охраво-кафява до жълтокафява шапка, която виси напълно свободно на пънчето и е прикрепена само на самия връх. Шапката е висока 2–4 cm и широка 1.5–3 cm, със силни надлъжни, разклонени бръчки и ребра, а не с правилна пита от ямички. Пънчето е високо, кремавобяло до бледоохраво, често с нежни люспести пояси, кухо или рехаво изпълнено с бели, ватообразни влакна. Расте на почвата във влажни широколистни насаждения, особено под тополи, трепетлики и ясени.",
+      "cap": "Висока 2–4 cm и широка 1.5–3 cm (средноевропейските определители често посочват малко по-тясна шапка, около 1.5–2.5 cm). Напръстниковидна или камбанковидна, или почти конусовидна, понякога неправилна. Охраво-кафява до жълтокафява или маслиненокафява, с надлъжни, мозъковидни бръчки и ребра от върха до ръба; по-старите плодни тела могат да изглеждат леко ямичести. Долният ръб виси свободно от пънчето, а долната страна е белезникава и слабо плъстена.",
+      "hymenium": "Плодният слой е на външната, набръчкана повърхност на шапката. Събран е в надлъжни ребра и бръчки, а не в правилна пита от ямички.",
+      "stipe": "В северноамериканските описания е дълго 8–22 cm и дебело 1.5–3 cm; средноевропейските определители обикновено посочват по-късо и по-стройно пънче, около 5–12 cm дълго и 1–2 cm дебело. Цилиндрично, равно или леко стеснено, кремавобяло до бледоохраво или матовожълто, при допир понякога слабо оранжевее. Повърхността често има фин зърнест налеп в неясни концентрични пояси. Кухо или рехаво изпълнено с бели, ватообразни, пухкави влакна.",
+      "flesh": "Тънка, белезникава и крехка, без отчетлива миризма и вкус. На надлъжен разрез шапката е съединена с пънчето само на върха, а пънчето е кухо или изпълнено с рехави ватообразни влакна, а не с една непрекъсната кухина, обща с шапката.",
+      "sporePrint": "Бледоохравожълт до жълт. Спорите са много едри, около 48–85 × 15–24 µm, елипсовидни и гладки, обикновено по две в една сумка.",
+      "habitat": "На почвата рано напролет, обикновено от март до май, във влажни широколистни или смесени гори. Често под тополи, трепетлики и ясени, сред миналогодишните листа; съобщава се и под други широколистни и понякога под иглолистни. Плодните тела се появяват поединично или на малки групи.",
+      "uses": "В някои райони често се бере за ядене, но при някои хора може да предизвика стомашно разстройство и временна загуба на координация, особено след големи порции или ядене няколко дни подред. Описана е и непоносимост към алкохол. Да се счита за ядлив само с повишено внимание: да се сготвя добре, първо да се опита само малко количество и да не се яде в големи количества, нито няколко дни подред. Суров да не се яде.",
+      "confusion": "Истинските смръчкули, например Morchella esculenta, имат шапка с правилна пита от ямички, сраснала с пънчето по цялата дължина, а плодното тяло е кухо в една непрекъсната кухина. Полусвободната смръчкула (Morchella semilibera) има шапка, сраснала с пънчето приблизително в горната половина, свободна е само долната половина, а пънчето е напълно кухо. Verpa conica има подобна свободна, напръстниковидна шапка, но повърхността е гладка или само слабо набръчкана. Смъртоносно отровната Gyromitra esculenta има червеникавокафява, дяловидна, мозъковидна шапка и късо, камерно пънче; най-сигурният начин да се различат е надлъжен разрез на плодното тяло.",
+      "notes": "Европейските и северноамериканските диапазони на размери се различават, както е посочено при шапката и пънчето. Основната теренна проверка е да се установи, че шапката е прикрепена само на върха и виси свободно, като напръстник на пръст. Понеже някои хора са чувствителни дори към добре сготвени плодни тела, този вид не се разглежда като обикновена ядлива смръчкула.",
+      "names": [
+        "Набръчкана верпа"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131",
+        "https://www.wikidata.org/wiki/Q1463716"
+      ],
+      "label": "Набръчкан напръстник"
+    },
+    "cs": {
+      "description": "Časná jarní vřeckatá houba se zvoncovitým až náprstkovitým, okrově hnědým až žlutohnědým kloboukem, který visí zcela volně na třeni a je přirostlý jen na samém vrcholu. Klobouk je 2–4 cm vysoký a 1.5–3 cm široký, se silnými podélnými, větvenými vráskami a žebry, nikoli s pravidelnou pláství jamek. Třeň je vysoký, smetanově bílý až bělavě okrový, často s jemnými šupinkatými pásy, dutý nebo volně vyplněný bílými, vatičkovitými vlákny. Roste na zemi ve vlhkých listnatých porostech, zejména pod topoly, osikami a jasany.",
+      "cap": "Je 2–4 cm vysoký a 1.5–3 cm široký (středoevropské příručky uvádějí často o něco užší klobouk, přibližně 1.5–2.5 cm). Má zvoncovitý až náprstkovitý nebo téměř kuželovitý tvar, někdy nepravidelný. Je okrově hnědý až žlutohnědý nebo olivově hnědý, s podélnými, mozkovitě zbrázděnými vráskami a žebry od vrcholu k okraji; starší plodnice mohou působit až jamkovitě. Spodní okraj visí volně od třeně a spodní strana je bělavá a slabě plstnatá.",
+      "hymenium": "Výtrusorodá vrstva je na vnějším, svraskalém povrchu klobouku. Je složena do podélných žeber a vrásek, nikoli do pravidelné plástve jamek.",
+      "stipe": "V severoamerických popisech je 8–22 cm dlouhý a 1.5–3 cm tlustý; středoevropské příručky uvádějí typicky kratší a štíhlejší třeň, přibližně 5–12 cm dlouhý a 1–2 cm tlustý. Je válcovitý, stejně tlustý nebo mírně zúžený, smetanově bílý až bělavě okrový nebo matně žlutý, na dotek někdy slabě oranžoví. Povrch má často jemný zrnitý povlak v nezřetelných soustředných pásech. Je dutý nebo volně vyplněný bílými, vatičkovitými, chmýřitými vlákny.",
+      "flesh": "Je tenká, bělavá a křehká, bez výrazné vůně a chuti. Na podélném řezu je klobouk spojen s třeněm jen na vrcholu a třeň je dutý nebo vyplněný volnými vatičkovitými vlákny, nikoli jedinou souvislou dutinou společnou s kloboukem.",
+      "sporePrint": "Bledě okrově žlutý až žlutý. Výtrusy jsou velmi velké, přibližně 48–85 × 15–24 µm, elipsoidní a hladké, obvykle po dvou ve vřecku.",
+      "habitat": "Na zemi časně na jaře, typicky od března do května, ve vlhkých listnatých nebo smíšených lesích. Často pod topoly, osikami a jasany, v loňském listí; uvádí se i pod jinými listnáči a ojediněle pod jehličnany. Plodnice rostou jednotlivě nebo v malých skupinách.",
+      "uses": "V některých krajích se běžně sbírá k jídlu, ale u některých lidí může vyvolat zažívací potíže a dočasné poruchy rovnováhy, zejména po velkých porcích nebo při jedení několik dní po sobě. Je popisována i nesnášenlivost s alkoholem. Je třeba ji považovat za jedlou jen s opatrností: důkladně tepelně upravit, nejprve ochutnat jen malé množství a nejíst ji ve velkém ani několik dní za sebou. Syrová se nesmí jíst.",
+      "confusion": "Pravé smrže, například Morchella esculenta, mají klobouk s pravidelnou pláství jamek, který je srostlý s třeněm po celé délce, a plodnice je dutá v jediné souvislé dutině. Polovolný smrž (Morchella semilibera) má klobouk srostlý s třeněm přibližně v horní polovině, volná je jen spodní polovina, a třeň je zcela dutý. Verpa conica má podobný volný, náprstkovitý klobouk, ale povrch je hladký nebo jen slabě svraskalý. Smrtelně jedovatá Gyromitra esculenta má červenohnědý, laločnatý, mozkovitý klobouk a krátký, komůrkovitý třeň; nejjistějším rozlišovacím znakem je podélný řez plodnicí.",
+      "notes": "Evropská a severoamerická velikostní rozpětí se liší, jak je uvedeno u klobouku a třeně. Základní terénní zkouškou je ověřit, že klobouk je přirostlý jen na vrcholu a visí volně, jako náprstek na prstu. Protože někteří lidé jsou citliví i na důkladně upravené plodnice, tento druh se nepovažuje za běžně jedlý smrž.",
+      "names": [
+        "smrž český"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131",
+        "https://www.wikidata.org/wiki/Q1463716",
+        "https://cs.wikipedia.org/wiki/Ka%C4%8Denka_%C4%8Desk%C3%A1",
+        "https://botany.cz/cs/verpa-bohemica/"
+      ],
+      "label": "kačenka česká"
+    },
+    "da": {
+      "description": "En tidligt forårsfremkommende sæksvamp med en fingerbøl- til klokkeformet, okker- til gulbrun hat, der hænger helt frit på stokken og kun er hæftet helt i toppen. Hatten er 2–4 cm høj og 1.5–3 cm bred, med tydelige længdeløbende, forgrenede rynker og ribber, ikke med et regelmæssigt honningkagemønster af gruber. Stokken er høj, flødefarvet til bleg okker, ofte med fine skællede bånd, hul eller løst fyldt med hvide, vattede fibre. Den frugter på jorden i fugtige løvbevoksninger, især under poppel, bævreasp og ask.",
+      "cap": "2–4 cm høj og 1.5–3 cm bred (centraleuropæiske håndbøger angiver ofte en lidt smallere hat, ca. 1.5–2.5 cm). Fingerbøl- til klokkeformet eller næsten kegleformet, undertiden uregelmæssig. Okker- til gulbrun eller olivenbrun, med længdeløbende, hjerneagtigt furede rynker og ribber fra top til rand; ældre frugtlegemer kan virke lidt grubede. Den nedre rand hænger frit fra stokken, og undersiden er hvidlig og svagt filtagtig.",
+      "hymenium": "Det fertile lag sidder på den ydre, rynkede hatoverflade. Det er foldet i længdeløbende ribber og rynker, ikke som et regelmæssigt honningkagemønster af gruber.",
+      "stipe": "I nordamerikanske beskrivelser 8–22 cm lang og 1.5–3 cm tyk; centraleuropæiske håndbøger angiver typisk en kortere, slankere stok, ca. 5–12 cm lang og 1–2 cm tyk. Cylinderformet, ensartet tyk eller let tilspidset, flødefarvet til bleg okker eller matgul, ved berøring undertiden svagt orange. Overfladen har ofte et fint kornet overtræk i utydelige koncentriske bånd. Hul eller løst fyldt med hvide, vattede, fnuggede fibre.",
+      "flesh": "Tyndt, hvidligt og skørt, uden særligt lugt eller smag. I længdesnit er hatten kun forbundet med stokken i toppen, og stokken er hul eller fyldt med løse vattede fibre, ikke i ét sammenhængende hulrum fælles med hatten.",
+      "sporePrint": "Bleg okkergul til gul. Sporerne er meget store, ca. 48–85 × 15–24 µm, ellipsoidiske og glatte, sædvanligvis to i hver sæksvamp.",
+      "habitat": "På jorden tidligt om foråret, typisk fra marts til maj, i fugtige løv- eller blandskove. Ofte under poppel, bævreasp og ask, blandt visne blade fra året før; også angivet under andre løvtræer og lejlighedsvis under nåletræer. Frugtlegemerne står enkeltvis eller i små grupper.",
+      "uses": "I nogle egne spises den ofte, men den kan hos nogle mennesker give mavebesvær og midlertidig tab af koordination, især efter store portioner eller måltider flere dage i træk. Alkoholintolerance er også beskrevet. Behandles kun som spiselig med forsigtighed: tilberedes grundigt, prøves først i en lille mængde og spises ikke i større mængder eller på hinanden følgende dage. Spises aldrig rå.",
+      "confusion": "Ægte morler som Morchella esculenta har en hat med et regelmæssigt honningkagemønster af gruber, der er sammenvokset med stokken i hele længden, og frugtlegemet er hult i ét sammenhængende hulrum. Den halvt frie morl (Morchella semilibera) har en hat, der er sammenvokset med stokken i cirka den øvre halvdel, mens kun den nedre halvdel hænger frit, og en helt hul stok. Verpa conica har en lignende fri, fingerbølformet hat, men en glat eller kun svagt rynket overflade. Den dødeligt giftige Gyromitra esculenta har en rødbrun, lappet, hjerneagtig hat og en kort, kamret stok; den sikreste skelnen er et længdesnit gennem frugtlegemet.",
+      "notes": "De europæiske og nordamerikanske størrelsesintervaller er forskellige, som anført under hat og stok. Den vigtigste feltprøve er at kontrollere, at hatten kun er hæftet i toppen og hænger frit, som et fingerbøl på en finger. Fordi nogle mennesker er følsomme selv over for veltilberedte frugtlegemer, behandles denne art ikke som en almindelig spiselig morl.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131"
+      ],
+      "label": "Rynket klokkemorkel"
+    },
+    "de": {
+      "description": "Ein frühjahrsfrüchtender Schlauchpilz mit einem Fingerhut- bis glockenförmigen, ocker- bis gelbbraunen Hut, der völlig frei am Stiel hängt und nur ganz oben angewachsen ist. Der Hut ist 2–4 cm hoch und 1.5–3 cm breit, mit kräftigen längs verlaufenden, verzweigten Runzeln und Rippen, nicht mit einem regelmäßigen Wabenmuster aus Gruben. Der Stiel ist hoch, cremeweiß bis blass ockerfarben, oft mit feinen, schuppigen Bändern, hohl oder locker mit weißen, watteartigen Fasern ausgefüllt. Er fruktifiziert auf dem Boden in feuchten Laubbeständen, besonders unter Pappeln, Espen und Eschen.",
+      "cap": "2–4 cm hoch und 1.5–3 cm breit (mitteleuropäische Führer geben oft einen etwas schmaleren Hut an, etwa 1.5–2.5 cm). Fingerhut- bis glockenförmig oder nahezu kegelig, manchmal unregelmäßig. Ocker- bis gelbbraun oder olivbraun, mit längs verlaufenden, gehirnartig gefurchten Runzeln und Rippen vom Scheitel zum Rand; ältere Fruchtkörper können etwas grubig wirken. Der untere Rand hängt frei vom Stiel, die Unterseite ist weißlich und schwach filzig.",
+      "hymenium": "Die fruchtbare Schicht liegt auf der äußeren, runzeligen Hutoberfläche. Sie ist in längs verlaufende Rippen und Runzeln gefaltet, nicht als regelmäßiges Wabenmuster aus Gruben angeordnet.",
+      "stipe": "In nordamerikanischen Beschreibungen 8–22 cm lang und 1.5–3 cm dick; mitteleuropäische Führer geben typischerweise einen kürzeren, schlankeren Stiel an, etwa 5–12 cm lang und 1–2 cm dick. Zylindrisch, gleich dick oder leicht verjüngt, cremeweiß bis blass ockerfarben oder mattgelb, bei Berührung manchmal schwach orange anlaufend. Die Oberfläche hat oft einen feinen, körnigen Reif in undeutlichen konzentrischen Bändern. Hohl oder locker mit weißen, watteartigen, flockigen Fasern ausgefüllt.",
+      "flesh": "Dünn, weißlich und zerbrechlich, ohne auffälligen Geruch oder Geschmack. Im Längsschnitt ist der Hut nur am Scheitel mit dem Stiel verbunden, und der Stiel ist hohl oder mit lockeren watteartigen Fasern gefüllt, nicht in einem einzigen durchgehenden Hohlraum mit dem Hut.",
+      "sporePrint": "Blass ockergelb bis gelb. Die Sporen sind sehr groß, etwa 48–85 × 15–24 µm, ellipsoid und glatt, gewöhnlich zu zweit im Schlauch.",
+      "habitat": "Am Boden im frühen Frühjahr, typisch von März bis Mai, in feuchten Laub- oder Mischwäldern. Oft unter Pappeln, Espen und Eschen, im vorjährigen Laub; auch unter anderen Laubhölzern und gelegentlich unter Nadelbäumen angegeben. Die Fruchtkörper erscheinen einzeln oder in kleinen Gruppen.",
+      "uses": "In manchen Gegenden wird er häufig gegessen, kann aber bei manchen Menschen Verdauungsbeschwerden und vorübergehende Koordinationsstörungen verursachen, besonders nach großen Portionen oder nach mehreren Tagen hintereinander. Auch Alkoholunverträglichkeit ist beschrieben. Nur mit Vorsicht als essbar behandeln: gründlich garen, zuerst nur eine kleine Menge versuchen und nicht in größeren Mengen oder an aufeinanderfolgenden Tagen essen. Nie roh essen.",
+      "confusion": "Echte Morcheln wie Morchella esculenta haben einen Hut mit einem regelmäßigen Wabenmuster aus Gruben, der auf ganzer Länge mit dem Stiel verwachsen ist, und der Fruchtkörper ist in einem einzigen durchgehenden Hohlraum hohl. Die Halbfreie Morchel (Morchella semilibera) hat einen Hut, der etwa in der oberen Hälfte mit dem Stiel verwachsen ist, während nur die untere Hälfte frei hängt, und einen vollständig hohlen Stiel. Verpa conica hat einen ähnlichen freien, fingerhutartigen Hut, aber eine glatte oder nur schwach runzelige Oberfläche. Die tödlich giftige Gyromitra esculenta hat einen rotbraunen, gelappten, gehirnartigen Hut und einen kurzen, gekammerten Stiel; der sicherste Unterschied ist ein Längsschnitt durch den Fruchtkörper.",
+      "notes": "Die europäischen und nordamerikanischen Größenangaben unterscheiden sich, wie unter Hut und Stiel angegeben. Die wichtigste Feldprobe ist zu prüfen, dass der Hut nur oben angewachsen ist und frei hängt, wie ein Fingerhut auf einem Finger. Weil manche Menschen selbst auf gut gegarte Fruchtkörper empfindlich reagieren, wird diese Art nicht wie eine gewöhnliche essbare Morchel behandelt.",
+      "names": [
+        "Böhmische Verpel",
+        "Runzelverpel"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131",
+        "https://www.wikidata.org/wiki/Q1463716",
+        "https://de.wikipedia.org/wiki/Runzel-Verpel"
+      ],
+      "label": "Runzel-Verpel"
+    },
+    "en": {
+      "description": "An early-spring ascomycete with a thimble- to bell-shaped, tan to yellow-brown cap that hangs completely free of the stem, attached only at the very top. The cap is 2–4 cm high and 1.5–3 cm across, with strong longitudinal, branching wrinkles and ribs rather than a honeycomb of pits. The stem is tall, creamy white to pale buff, often with fine scurfy bands, and is hollow or loosely stuffed with white, cottony fibres. It fruits on the ground in damp hardwood stands, especially under poplars, aspens and ash.",
+      "cap": "2–4 cm high and 1.5–3 cm across (Central European guides often give a slightly narrower cap, about 1.5–2.5 cm). Thimble- to bell-shaped or nearly conical, sometimes irregular. Tan to yellow-brown or olive-brown, with longitudinal, brain-like wrinkles and ribs running from the apex to the margin; older specimens can look somewhat pitted. The lower margin hangs free of the stem, and the underside is whitish and slightly downy.",
+      "hymenium": "The fertile surface is the outer, wrinkled cap. It is folded into longitudinal ribs and wrinkles, not arranged as a regular honeycomb of pits.",
+      "stipe": "8–22 cm long and 1.5–3 cm thick in North American accounts; Central European guides typically give a shorter, slimmer stem, about 5–12 cm long and 1–2 cm thick. Cylindrical, equal or slightly tapered, creamy white to pale buff or dull yellow, sometimes bruising slightly orange where handled. The surface often has fine granular scurf in faint concentric bands. Hollow or loosely stuffed with white, cottony, wispy fibres.",
+      "flesh": "Thin, whitish and fragile, with no distinctive odour or taste. In section the cap is joined to the stem only at the apex, and the stem is hollow or filled with loose cottony fibres, not a single continuous hollow shared with the cap.",
+      "sporePrint": "Pale ochre-yellow to yellow. Spores are very large, about 48–85 × 15–24 µm, ellipsoid and smooth, usually two per ascus.",
+      "habitat": "On the ground in early spring, typically March to May, in damp deciduous or mixed woodland. Often under poplars, aspens and ash, among last year's leaves; also recorded under other hardwoods and occasionally conifers. Fruitbodies may appear singly or in small groups.",
+      "uses": "It is commonly eaten in some regions, but it can cause digestive upset and a temporary loss of coordination in some people, especially after large servings or meals on successive days. Alcohol intolerance has also been reported. Treat it as edible only with caution: cook it thoroughly, try a small amount first, and do not eat it in quantity or on consecutive days. Never eat it raw.",
+      "confusion": "True morels such as Morchella esculenta have a cap with a honeycomb of regular pits that is fused to the stem along its length, and the fruitbody is hollow in one continuous cavity. The half-free morel (Morchella semilibera) has a cap fused to the stem for about the upper half, with only the lower half hanging free, and a fully hollow stem. Verpa conica has a similar free, thimble-like cap but a smooth or only faintly wrinkled surface. The deadly Gyromitra esculenta has a reddish-brown, lobed, brain-like cap and a short, chambered stem; cutting a fruitbody lengthwise is the surest way to separate these look-alikes.",
+      "notes": "European and North American size ranges differ, as noted under the cap and stem. The main field test is to check that the cap is attached only at the top and hangs free, like a thimble on a finger. Because some people are sensitive even to well-cooked fruitbodies, this species is not treated as a standard edible morel.",
+      "names": [
+        "early false morel",
+        "wrinkled thimble-cap morel",
+        "wrinkled thimble-cap"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=481988",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=481988",
+        "https://api.gbif.org/v1/species/match?name=Verpa%20bohemica",
+        "https://www.gbif.org/species/5259057",
+        "https://www.wikidata.org/wiki/Q1463716",
+        "https://www.inaturalist.org/taxa/126131",
+        "https://species.wikimedia.org/wiki/Verpa_bohemica",
+        "https://www.mushroomexpert.com/verpa_bohemica.html",
+        "https://www.nahuby.sk/atlas-hub/Verpa-bohemica/smrckovec-cesky/kacenka-ceska/ID626",
+        "https://botany.cz/cs/verpa-bohemica/",
+        "https://linnet.geog.ubc.ca/Atlas/Atlas.aspx?sciname=Verpa+bohemica",
+        "https://sk.wikipedia.org/wiki/Smr%C4%8Dkovec_%C4%8Desk%C3%BD",
+        "https://commons.wikimedia.org/wiki/Category:Verpa_bohemica"
+      ],
+      "label": "wrinkled thimble morel"
+    },
+    "es": {
+      "description": "Un ascomiceto de comienzos de primavera, con sombrero en forma de dedal o de campana, ocráceo a pardo amarillento, que cuelga completamente libre del pie y solo está unido en el extremo superior. El sombrero mide 2–4 cm de alto y 1.5–3 cm de ancho, con fuertes arrugas y costillas longitudinales ramificadas, no con un panal regular de alvéolos. El pie es alto, blanco crema a ocre pálido, a menudo con finas bandas escamosas, hueco o laxamente relleno de fibras blancas algodonosas. Fructifica en el suelo en rodales húmedos de frondosas, especialmente bajo álamos, temblones y fresnos.",
+      "cap": "De 2–4 cm de alto y 1.5–3 cm de ancho (las guías de Europa central suelen dar un sombrero un poco más estrecho, unos 1.5–2.5 cm). En forma de dedal o de campana, o casi cónico, a veces irregular. Ocráceo a pardo amarillento u oliváceo, con arrugas y costillas longitudinales, de aspecto cerebral, desde el ápice hasta el margen; los ejemplares viejos pueden parecer algo alveolados. El margen inferior cuelga libre del pie, y la cara inferior es blanquecina y ligeramente tomentosa.",
+      "hymenium": "La superficie fértil es la externa y arrugada del sombrero. Está plegada en costillas y arrugas longitudinales, no dispuesta en un panal regular de alvéolos.",
+      "stipe": "En las descripciones norteamericanas mide 8–22 cm de largo y 1.5–3 cm de grosor; las guías de Europa central suelen indicar un pie más corto y delgado, de unos 5–12 cm de largo y 1–2 cm de grosor. Cilíndrico, igual o algo atenuado, blanco crema a ocre pálido o amarillo mate, a veces con un ligero tono anaranjado al tocarlo. La superficie suele tener una fina pruina granulosa en bandas concéntricas poco marcadas. Hueco o laxamente relleno de fibras blancas, algodonosas y flocosas.",
+      "flesh": "Delgada, blanquecina y frágil, sin olor ni sabor distintivos. En sección longitudinal el sombrero solo está unido al pie en el ápice, y el pie es hueco o está relleno de fibras algodonosas sueltas, no de una cavidad continua única común con el sombrero.",
+      "sporePrint": "Amarillo ocráceo pálido a amarillo. Las esporas son muy grandes, de unos 48–85 × 15–24 µm, elipsoides y lisas, habitualmente dos por asco.",
+      "habitat": "En el suelo a comienzos de primavera, típicamente de marzo a mayo, en bosques húmedos de frondosas o mixtos. A menudo bajo álamos, temblones y fresnos, entre la hojarasca del año anterior; también se cita bajo otras frondosas y a veces bajo coníferas. Los cuerpos fructíferos aparecen aislados o en grupos pequeños.",
+      "uses": "En algunas regiones se come con frecuencia, pero puede causar en algunas personas molestias digestivas y una pérdida temporal de coordinación, sobre todo tras raciones grandes o comidas en días sucesivos. También se ha descrito intolerancia al alcohol. Debe tratarse como comestible solo con precaución: cocinarlo bien, probar primero una pequeña cantidad y no comerlo en gran cantidad ni en días consecutivos. Nunca comerlo crudo.",
+      "confusion": "Las colmenillas verdaderas como Morchella esculenta tienen un sombrero con un panal regular de alvéolos soldado al pie en toda su longitud, y el cuerpo fructífero es hueco en una sola cavidad continua. La colmenilla de pie semilibre (Morchella semilibera) tiene el sombrero soldado al pie en aproximadamente la mitad superior, y solo la mitad inferior cuelga libre, con un pie completamente hueco. Verpa conica tiene un sombrero libre semejante, en forma de dedal, pero una superficie lisa o solo débilmente arrugada. La mortal Gyromitra esculenta tiene un sombrero pardo rojizo, lobulado, de aspecto cerebral, y un pie corto y tabicado; la forma más segura de distinguirlas es una sección longitudinal del cuerpo fructífero.",
+      "notes": "Los intervalos de tamaño europeos y norteamericanos difieren, como se indica en el sombrero y el pie. La prueba de campo principal es comprobar que el sombrero solo está unido en el ápice y cuelga libre, como un dedal en un dedo. Como algunas personas son sensibles incluso a ejemplares bien cocinados, esta especie no se trata como una colmenilla comestible habitual.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Varakevadine kottseenedelik, mille sõrmkübara- kuni kellukakujuline, ooker- kuni kollakaspruun kübar ripub varre küljes täiesti vabalt ja on kinnitunud vaid päris tipus. Kübar on 2–4 cm kõrge ja 1.5–3 cm lai, selgete pikisuunaliste, harunevate kurrude ja roietega, mitte korrapärase kärjekujulise lohukesemustriga. Jalg on kõrge, kreemjasvalge kuni kahvatult ookerne, sageli peente soomusjate vöötidega, õõnes või hõredalt täidetud valgete, vatjate kiududega. Ta viljub maapinnal niisketes lehtpuistutes, eriti paplite, haabade ja saarte all.",
+      "cap": "2–4 cm kõrge ja 1.5–3 cm lai (Kesk-Euroopa määramistabelid annavad sageli veidi kitsama kübara, umbes 1.5–2.5 cm). Sõrmkübara- kuni kellukakujuline või peaaegu kooniline, vahel ebakorrapärane. Ooker- kuni kollakaspruun või oliivpruun, pikisuunaliste, ajulaadselt vaguste kurrude ja roietega tipust servani; vanemad viljakehad võivad näida veidi lohukestena. Alumine serv ripub varrest vabalt ja alakülg on valkjas ning nõrgalt viltjas.",
+      "hymenium": "Viljakas kiht asub kübara välisel, kurrulisel pinnal. See on volditud pikisuunalisteks roieteks ja kurdudeks, mitte korrapäraseks kärjekujuliseks lohukesemustriks.",
+      "stipe": "Põhja-Ameerika kirjeldustes 8–22 cm pikk ja 1.5–3 cm jäme; Kesk-Euroopa määramistabelid annavad tüüpiliselt lühema ja peenema jala, umbes 5–12 cm pika ja 1–2 cm jämeda. Silinderjas, ühtlaselt jäme või veidi ahenev, kreemjasvalge kuni kahvatult ookerne või mattkollane, puudutusel vahel nõrgalt oranžikas. Pinnal on sageli peeneteraline kate ebaselgete kontsentriliste vöötidena. Õõnes või hõredalt täidetud valgete, vatjate, uduste kiududega.",
+      "flesh": "Õhuke, valkjas ja rabe, ilma selge lõhna või maitseta. Pikilõikes on kübar ühendatud jalaga vaid tipus ning jalg on õõnes või täidetud hõredate vatjate kiududega, mitte ühtses kübaraga ühises õõnsuses.",
+      "sporePrint": "Kahvatult ookerkollane kuni kollane. Eosed on väga suured, umbes 48–85 × 15–24 µm, ellipsoidse kujuga ja siledad, tavaliselt kaks koti kohta.",
+      "habitat": "Maapinnal varakevadel, tüüpiliselt märtsist maini, niisketes leht- või segametsades. Sageli paplite, haabade ja saarte all, eelmise aasta lehtede seas; mainitud ka teiste lehtpuude ja vahel okaspuude all. Viljakehad kasvavad üksikult või väikeste rühmadena.",
+      "uses": "Mõnes kandis süüakse teda sageli, kuid ta võib osadel inimestel tekitada seedehäireid ja ajutist koordinatsioonihäiret, eriti pärast suuri portsjoneid või mitmel järjestikusel päeval söömist. Kirjeldatud on ka alkoholitalumatust. Teda tuleb pidada söödavaks ainult ettevaatusega: küpsetada põhjalikult, proovida esmalt vaid väikest kogust ning mitte süüa suurtes kogustes ega järjestikustel päevadel. Toorelt ei tohi süüa.",
+      "confusion": "Tõelistel mürklitel, näiteks liigil Morchella esculenta, on kübar korrapärase kärjekujulise lohukesemustriga, mis on kogu pikkuses jalaga kokku kasvanud, ja viljakeha on õõnes ühes ühtses õõnsuses. Poolvaba mürkel (Morchella semilibera) on kübaraga jalaga kokku kasvanud umbes ülemises pooles, vaba on vaid alumine pool, ja jalg on täiesti õõnes. Verpa conica on sarnase vaba, sõrmkübarataolise kübaraga, kuid pind on sile või vaid nõrgalt kurruline. Surmavalt mürgise liigi Gyromitra esculenta kübar on punakaspruun, hõlmine ja ajulaadne ning jalg lühike ja kambriline; kindlaim eristus on viljakeha pikilõige.",
+      "notes": "Euroopa ja Põhja-Ameerika suurusevahemikud erinevad, nagu on märgitud kübara ja jala juures. Peamine välikatse on kontrollida, et kübar on kinnitunud vaid tipus ja ripub vabalt, nagu sõrmkübar sõrmel. Kuna mõned inimesed on tundlikud ka hoolikalt küpsetatud viljakehade suhtes, ei käsitleta seda liiki tavalise söödava mürklina.",
+      "names": [
+        "sõrmkübaraseen",
+        "böömi sõrmkübarseen"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131",
+        "https://et.wikipedia.org/wiki/Kurrel",
+        "https://www.wikidata.org/wiki/Q1463716"
+      ],
+      "label": "kurrel"
+    },
+    "fa": {
+      "description": "یک آسکومایست اوایل بهار با کلاهی انگشترمانند یا زنگوله‌ای، به رنگ قهوه‌ای اخرایی تا قهوه‌ای مایل به زرد، که کاملاً آزاد از ساقه آویزان است و فقط در خودِ نوک به آن متصل می‌شود. کلاه 2–4 cm ارتفاع و 1.5–3 cm پهنا دارد، با چین‌ها و دنده‌های طولی منشعبِ آشکار، نه با شبکه‌ای منظم از گودال‌ها. ساقه بلند، سفید کرمی تا اخرایی کم‌رنگ، اغلب با نوارهای پولک‌دار ظریف، توخالی یا به‌طور سست با تارهای سفید پنبه‌مانند پر شده است. روی خاک، در توده‌های مرطوب درختان پهن‌برگ، به‌ویژه زیر صنوبرها، سپیداران و زبان‌گنجشک‌ها میوه می‌دهد.",
+      "cap": "ارتفاع 2–4 cm و پهنای 1.5–3 cm (راهنماهای اروپای مرکزی اغلب کلاهی کمی باریک‌تر، حدود 1.5–2.5 cm، می‌دهند). انگشترمانند یا زنگوله‌ای، یا تقریباً مخروطی، گاهی نامنظم. قهوه‌ای اخرایی تا قهوه‌ای مایل به زرد یا زیتونی، با چین‌ها و دنده‌های طولی مغزمانند از رأس تا حاشیه؛ نمونه‌های پیرتر ممکن است کمی گودال‌دار به نظر برسند. حاشیهٔ زیرین آزاد از ساقه آویزان است و روی زیرین سفیدک‌رنگ و اندکی نمدی است.",
+      "hymenium": "سطح بارور، روی بیرونی و چروکیدهٔ کلاه است. به صورت دنده‌ها و چین‌های طولی تا خورده است، نه به شکل شبکه‌ای منظم از گودال‌ها.",
+      "stipe": "در توصیف‌های آمریکای شمالی 8–22 cm طول و 1.5–3 cm ضخامت دارد؛ راهنماهای اروپای مرکزی معمولاً ساقه‌ای کوتاه‌تر و باریک‌تر، حدود 5–12 cm طول و 1–2 cm ضخامت، ذکر می‌کنند. استوانه‌ای، یکنواخت یا اندکی باریک‌شونده، سفید کرمی تا اخرایی کم‌رنگ یا زرد مات، گاه با لمس اندکی نارنجی می‌شود. سطح اغلب پوششی دانه‌ریز در نوارهای هم‌مرکز کم‌رنگ دارد. توخالی یا به‌طور سست با تارهای سفید پنبه‌مانند و پشمالو پر شده است.",
+      "flesh": "نازک، سفیدک‌رنگ و شکننده، بدون بو یا طعم مشخص. در برش طولی کلاه فقط در رأس به ساقه وصل است و ساقه توخالی است یا با تارهای پنبه‌مانند سست پر شده، نه با یک حفرهٔ پیوستهٔ واحد مشترک با کلاه.",
+      "sporePrint": "زرد اخرایی کم‌رنگ تا زرد. هاگ‌ها بسیار درشت‌اند، حدود 48–85 × 15–24 µm، بیضوی و صاف، معمولاً دو عدد در هر آسک.",
+      "habitat": "روی خاک در اوایل بهار، معمولاً از مارس تا مه، در جنگل‌های مرطوب پهن‌برگ یا آمیخته. اغلب زیر صنوبرها، سپیداران و زبان‌گنجشک‌ها، میان برگ‌های سال پیش؛ همچنین زیر دیگر پهن‌برگان و گاه زیر سوزنی‌برگان گزارش شده است. بدنه‌های میوه‌دهنده تنها یا در گروه‌های کوچک ظاهر می‌شوند.",
+      "uses": "در برخی نواحی معمولاً خورده می‌شود، اما در برخی افراد ممکن است ناراحتی گوارشی و از دست رفتن موقت هماهنگی ایجاد کند، به‌ویژه پس از سهم‌های بزرگ یا وعده‌ها در روزهای پیاپی. ناسازگاری با الکل نیز گزارش شده است. فقط با احتیاط خوراکی دانسته شود: کاملاً پخته شود، نخست فقط مقدار کمی چشیده شود، و به مقدار زیاد یا در روزهای متوالی خورده نشود. هرگز خام خورده نشود.",
+      "confusion": "مورل‌های واقعی مانند Morchella esculenta کلاهی با شبکهٔ منظم گودال‌ها دارند که در تمام طول به ساقه جوش خورده است و بدنهٔ میوه‌دهنده در یک حفرهٔ پیوسته توخالی است. مورل نیمه‌آزاد (Morchella semilibera) کلاهی دارد که تقریباً در نیمهٔ بالایی به ساقه جوش خورده، فقط نیمهٔ پایین آزاد آویزان است، و ساقه کاملاً توخالی است. Verpa conica کلاهی آزاد مشابه، انگشترمانند، دارد اما سطح آن صاف یا فقط به‌طور ضعیف چروکیده است. Gyromitra esculenta مرگبار کلاهی قرمز-قهوه‌ای، لوب‌دار و مغزمانند و ساقه‌ای کوتاه و حجره‌دار دارد؛ مطمئن‌ترین راه تشخیص، برش طولی بدنهٔ میوه‌دهنده است.",
+      "notes": "دامنه‌های اندازهٔ اروپایی و آمریکای شمالی، چنان‌که در کلاه و ساقه آمده، متفاوت‌اند. آزمون اصلی صحرایی این است که بررسی شود کلاه فقط در رأس متصل است و آزاد آویزان می‌ماند، مانند انگشتری روی انگشت. چون برخی افراد حتی به بدنه‌های خوب پخته نیز حساس‌اند، این گونه مانند یک مورل خوراکی معمولی در نظر گرفته نمی‌شود.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Varhain keväällä itiöivä kotelosieni, jonka sormustin- tai kellomainen, okra- tai keltaruskea lakki roikkuu täysin vapaana jalasta ja on kiinnittynyt vain aivan huipusta. Lakki on 2–4 cm korkea ja 1.5–3 cm leveä, ja siinä on selviä pitkittäisiä, haarovia ryppyjä ja harjanteita, ei säännöllistä kennomaista kuoppakuviota. Jalka on korkea, kermanvalkea tai vaaleanokranvärinen, usein hienojen suomumaisten vyöhykkeiden kirjoma, ontto tai löyhästi täyttynyt valkoisilla, vanumaisilla säikeillä. Se esiintyy maassa kosteissa lehtipuustoissa, etenkin poppelien, haapojen ja saarnien alla.",
+      "cap": "2–4 cm korkea ja 1.5–3 cm leveä (keskieurooppalaiset oppaat ilmoittavat usein hieman kapeamman lakin, noin 1.5–2.5 cm). Sormustin- tai kellomainen tai lähes kartiomainen, joskus epäsäännöllinen. Okra- tai keltaruskea tai oliivinruskea, ja siinä on pitkittäisiä, aivomaisesti uurteisia ryppyjä ja harjanteita huipusta laitaan; vanhemmat itiöemät voivat vaikuttaa hieman kuoppaisilta. Alareuna roikkuu vapaana jalasta, ja alapinta on valkeahko ja heikosti huopakarvainen.",
+      "hymenium": "Itiölava on lakin ulkopinnan ryppyisellä pinnalla. Se on poimuttunut pitkittäisiksi harjanteiksi ja rypyiksi, ei säännölliseksi kennomaiseksi kuoppakuvioksi.",
+      "stipe": "Pohjoisamerikkalaisissa kuvauksissa 8–22 cm pitkä ja 1.5–3 cm paksu; keskieurooppalaiset oppaat ilmoittavat tyypillisesti lyhyemmän ja hoikemman jalan, noin 5–12 cm pitkän ja 1–2 cm paksun. Lieriömäinen, tasapaksu tai hieman kapeneva, kermanvalkea tai vaaleanokranvärinen tai himmeän keltainen, kosketuksesta toisinaan heikosti oranssistuva. Pinnassa on usein hieno jyväinen kiteytymä epäselvissä samankeskisissä vyöhykkeissä. Ontto tai löyhästi täyttynyt valkoisilla, vanumaisilla, hahtuvaisilla säikeillä.",
+      "flesh": "Ohut, valkeahko ja hauras, ilman selvää hajua tai makua. Pituusleikkauksessa lakki liittyy jalkaan vain huipusta, ja jalka on ontto tai täyttynyt löyhillä vanumaisilla säikeillä, ei yhtenäisessä, lakin kanssa yhteisessä ontelossa.",
+      "sporePrint": "Vaalean okra-keltainen tai keltainen. Itiöt ovat hyvin suuria, noin 48–85 × 15–24 µm, ellipsoidisia ja sileitä, yleensä kaksi kussakin kotelossa.",
+      "habitat": "Maassa varhain keväällä, tyypillisesti maaliskuusta toukokuuhun, kosteissa lehti- tai sekametsissä. Usein poppelien, haapojen ja saarnien alla, edellisvuoden lehtien seassa; mainitaan myös muiden lehtipuiden ja joskus havupuiden alta. Itiöemät esiintyvät yksittäin tai pieninä ryhminä.",
+      "uses": "Joillakin seuduilla sitä syödään yleisesti, mutta se voi aiheuttaa joillekin ihmisille ruoansulatusvaivoja ja tilapäistä koordinaation heikkenemistä, erityisesti suurten annosten tai useana peräkkäisenä päivänä syömisen jälkeen. Myös alkoholi-intoleranssia on kuvattu. Käsiteltävä syötävänä vain varoen: kypsennettävä huolellisesti, kokeiltava ensin vain pientä määrää eikä syötävä suurina määrinä tai peräkkäisinä päivinä. Ei saa syödä raakana.",
+      "confusion": "Aidoilla huhtasienillä, kuten lajilla Morchella esculenta, on lakki, jossa on säännöllinen kennomainen kuoppakuvio ja joka on kasvanut kiinni jalkaan koko pituudeltaan, ja itiöemä on ontto yhdessä yhtenäisessä ontelossa. Puolivapaa huhtasieni (Morchella semilibera) on lakin yläpuolelta kiinnittynyt jalkaan, vain alaosa roikkuu vapaana, ja jalka on täysin ontto. Verpa conica on samantapainen vapaa, sormustinmainen lakki, mutta pinta on sileä tai vain heikosti ryppyinen. Tappavan myrkyllisellä lajilla Gyromitra esculenta on punaruskea, liuskainen, aivomainen lakki ja lyhyt, lokeroinen jalka; varmin ero saadaan itiöemän pituusleikkauksesta.",
+      "notes": "Eurooppalaiset ja pohjoisamerikkalaiset kokovälit eroavat, kuten lakin ja jalan kohdalla on esitetty. Tärkein maastotunnus on tarkistaa, että lakki on kiinnittynyt vain huipusta ja roikkuu vapaana, kuin sormustin sormessa. Koska jotkut ovat herkkiä jopa huolellisesti kypsennetyille itiöemille, tätä lajia ei käsitellä tavallisena syötävänä huhtasienenä.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131",
+        "https://www.wikidata.org/wiki/Q1463716",
+        "https://fi.wikipedia.org/wiki/Poimukellom%C3%B6rsky"
+      ],
+      "label": "poimukellomörsky"
+    },
+    "fr": {
+      "description": "Un ascomycète de début de printemps, au chapeau en dé à coudre ou en cloche, fauve à brun-jaune, qui pend complètement libre sur le pied et n’est attaché qu’à l’extrême sommet. Le chapeau mesure 2–4 cm de haut et 1.5–3 cm de large, avec de fortes rides et côtes longitudinales ramifiées, et non un réseau régulier d’alvéoles. Le pied est élevé, blanc crème à ocre pâle, souvent marqué de fines bandes squamuleuses, creux ou lâchement rempli de fibres blanches cotonneuses. Il fructifie au sol dans les peuplements feuillus humides, surtout sous les peupliers, les trembles et les frênes.",
+      "cap": "Haut de 2–4 cm et large de 1.5–3 cm (les guides d’Europe centrale indiquent souvent un chapeau un peu plus étroit, environ 1.5–2.5 cm). En dé à coudre ou en cloche, ou presque conique, parfois irrégulier. Fauve à brun-jaune ou brun-olivâtre, avec des rides et des côtes longitudinales, cérébriformes, allant du sommet à la marge; les sporophores âgés peuvent paraître un peu alvéolés. La marge inférieure pend librement le long du pied, et la face inférieure est blanchâtre et légèrement tomenteuse.",
+      "hymenium": "La surface fertile est celle, ridée, de l’extérieur du chapeau. Elle est plissée en côtes et rides longitudinales, et non disposée en un réseau régulier d’alvéoles.",
+      "stipe": "Dans les descriptions nord-américaines, long de 8–22 cm et épais de 1.5–3 cm; les guides d’Europe centrale indiquent typiquement un pied plus court et plus grêle, d’environ 5–12 cm de long et 1–2 cm d’épaisseur. Cylindrique, égal ou un peu atténué, blanc crème à ocre pâle ou jaune terne, bruissant parfois légèrement à l’orangé au toucher. La surface porte souvent un fin pruine granuleuse en bandes concentriques peu marquées. Creux ou lâchement rempli de fibres blanches, cotonneuses et floconneuses.",
+      "flesh": "Mince, blanchâtre et fragile, sans odeur ni saveur distinctes. En coupe longitudinale, le chapeau n’est uni au pied qu’au sommet, et le pied est creux ou rempli de fibres cotonneuses lâches, et non d’une cavité unique continue commune avec le chapeau.",
+      "sporePrint": "Jaune ocre pâle à jaune. Les spores sont très grandes, d’environ 48–85 × 15–24 µm, ellipsoïdes et lisses, habituellement deux par asque.",
+      "habitat": "Au sol au début du printemps, typiquement de mars à mai, dans les bois feuillus ou mixtes humides. Souvent sous les peupliers, les trembles et les frênes, parmi les feuilles de l’année précédente; aussi signalé sous d’autres feuillus et parfois sous des conifères. Les sporophores apparaissent isolés ou en petits groupes.",
+      "uses": "Il est couramment consommé dans certaines régions, mais il peut provoquer chez certaines personnes des troubles digestifs et une perte temporaire de coordination, surtout après de grandes portions ou des repas plusieurs jours de suite. Une intolérance à l’alcool a aussi été signalée. À considérer comme comestible seulement avec prudence: le cuire soigneusement, n’en goûter d’abord qu’une petite quantité, et ne pas le manger en grande quantité ni plusieurs jours consécutifs. Ne jamais le manger cru.",
+      "confusion": "Les morilles vraies telles que Morchella esculenta ont un chapeau à réseau régulier d’alvéoles soudé au pied sur toute sa longueur, et le sporophore est creux d’une seule cavité continue. La morille à pied semi-libre (Morchella semilibera) a un chapeau soudé au pied sur environ la moitié supérieure, seule la moitié inférieure pendant libre, et un pied entièrement creux. Verpa conica a un chapeau libre semblable, en dé à coudre, mais une surface lisse ou seulement faiblement ridée. La mortellement toxique Gyromitra esculenta a un chapeau brun-rouge, lobé, cérébriforme, et un pied court, cloisonné; le moyen le plus sûr de les distinguer est une coupe longitudinale du sporophore.",
+      "notes": "Les gammes de taille européennes et nord-américaines diffèrent, comme indiqué sous le chapeau et le pied. Le principal test de terrain est de vérifier que le chapeau n’est attaché qu’au sommet et pend librement, comme un dé à coudre sur un doigt. Parce que certaines personnes sont sensibles même à des sporophores bien cuits, cette espèce n’est pas traitée comme une morille comestible ordinaire.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131",
+        "https://fr.wikipedia.org/wiki/Verpe_de_Boh%C3%AAme",
+        "https://commons.wikimedia.org/wiki/Category:Verpa_bohemica"
+      ],
+      "label": "Verpe de Bohême"
+    },
+    "he": {
+      "description": "פטריית שק באביב המוקדם, בעלת כובע דמוי אצבעון או פעמון, בצבע חום-אוכרה עד חום-צהבהב, התלוי חופשי לגמרי על הרגל ומחובר רק בקצה העליון ממש. הכובע גבוה 2–4 cm ורחב 1.5–3 cm, עם קמטים וצלעות אורכיים מסועפים בולטים, ולא עם דבש סדור של גומות. הרגל גבוהה, לבנה-קרם עד אוכרה חיוורת, לעיתים קרובות עם סרטים קשקשיים עדינים, חלולה או מלאה ברפיון בסיבים לבנים דמויי כותנה. היא מניבה על הקרקע בחורשות לחות של עצים רחבי-עלים, במיוחד תחת צפצפות, רעדנים ומילות.",
+      "cap": "גובה 2–4 cm ורוחב 1.5–3 cm (מדריכים ממרכז אירופה מציינים לעיתים כובע צר מעט יותר, כ-1.5–2.5 cm). דמוי אצבעון או פעמון, או כמעט חרוטי, לעיתים בלתי סדור. חום-אוכרה עד חום-צהבהב או חום-זית, עם קמטים וצלעות אורכיים דמויי מוח מקודקוד עד שפה; גופים בוגרים עשויים להיראות מעט גומתיים. השפה התחתונה תלויה חופשית מהרגל, והצד התחתון לבנבן ומעט לבדד.",
+      "hymenium": "השכבה הפורייה נמצאת על פני הכובע החיצוניים והמקומטים. היא מקופלת לצלעות ולקמטים אורכיים, ולא ערוכה כדבש סדור של גומות.",
+      "stipe": "בתיאורים צפון-אמריקאיים אורכה 8–22 cm ועובייה 1.5–3 cm; מדריכים ממרכז אירופה מציינים בדרך כלל רגל קצרה ודקה יותר, כ-5–12 cm אורך ו-1–2 cm עובי. גלילית, שוות-עובי או מעט מתחדדת, לבנה-קרם עד אוכרה חיוורת או צהובה עמומה, ולעיתים משנה מעט לכתום במגע. המשטח נושא לעיתים קרובות ציפה גרגרית עדינה בסרטים חד-מרכזיים מעורפלים. חלולה או מלאה ברפיון בסיבים לבנים, דמויי כותנה ופתוסיים.",
+      "flesh": "דקה, לבנבנה ושבירה, בלי ריח או טעם מובהקים. בחתך לאורך הכובע מחובר לרגל רק בקודקוד, והרגל חלולה או מלאה בסיבים כותנתיים רפויים, ולא בחלל רצוף אחד המשותף לכובע.",
+      "sporePrint": "צהוב-אוכרה חיוור עד צהוב. הנבגים גדולים מאוד, כ-48–85 × 15–24 µm, אליפסואידיים וחלקים, בדרך כלל שניים בכל שק.",
+      "habitat": "על הקרקע בראשית האביב, בדרך כלל ממרץ עד מאי, ביערות לחים של עצים רחבי-עלים או מעורבים. לעיתים קרובות תחת צפצפות, רעדנים ומילות, בין עלי השנה שעברה; נרשמה גם תחת עצים רחבי-עלים אחרים ולעיתים תחת מחטניים. גופי הפרי מופיעים בודדים או בקבוצות קטנות.",
+      "uses": "באזורים אחדים היא נאכלת לעיתים קרובות, אך אצל אנשים אחדים היא עלולה לגרום להפרעות עיכול ולאובדן זמני של קואורדינציה, במיוחד אחרי מנות גדולות או ארוחות בכמה ימים רצופים. תוארה גם אי-סבילות לאלכוהול. יש לנהוג בה כראויה למאכל רק בזהירות: לבשל היטב, לטעום תחילה כמות קטנה בלבד, ולא לאכול בכמות גדולה או בימים רצופים. אין לאכול אותה חיה.",
+      "confusion": "בני המורל האמיתיים כגון Morchella esculenta יש להם כובע עם דבש סדור של גומות המאוחה לרגל לכל אורכו, וגוף הפרי חלול בחלל רצוף אחד. המורל החצי-חופשי (Morchella semilibera) יש לו כובע המאוחה לרגל בערך במחצית העליונה, ורק המחצית התחתונה תלויה חופשית, ורגל חלולה לגמרי. ל-Verpa conica כובע חופשי דומה, דמוי אצבעון, אך פני השטח חלקים או מקומטים רק במעט. ה-Gyromitra esculenta הקטלנית יש לה כובע חום-אדמדם, אונתי, דמוי מוח, ורגל קצרה ומחולקת לתאים; הדרך הבטוחה ביותר להבחין ביניהם היא חתך לאורך בגוף הפרי.",
+      "notes": "טווחי הגודל האירופיים וצפון-האמריקאיים שונים, כפי שמצוין תחת הכובע והרגל. מבחן השדה העיקרי הוא לוודא שהכובע מחובר רק בקודקוד ותלוי חופשי, כאצבעון על אצבע. משום שיש אנשים הרגישים אף לגופי פרי מבושלים היטב, אין מתייחסים למין זה כאל מורל מאכל רגיל.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "यह एक प्रारंभिक वसंतकालीन ऐस्कोमाइसीट है, जिसकी टोपी अंगूठी या घंटे के आकार की, गेरुआ-भूरे से पीले-भूरे रंग की होती है, तने से पूरी तरह स्वतंत्र लटकती है और केवल सबसे ऊपरी सिरे पर जुड़ी रहती है। टोपी 2–4 cm ऊँची और 1.5–3 cm चौड़ी होती है, जिसमें स्पष्ट अनुदैर्ध्य, शाखित सिकुड़न और पसलियाँ होती हैं, न कि गड्ढों का नियमित छत्ता। तना ऊँचा, क्रीम-सफेद से फीका गेरुआ, अक्सर महीन शल्कदार पट्टियों वाला, खोखला या ढीले सफेद, रूई जैसे रेशों से भरा होता है। यह नम चौड़ी-पत्ती वाले झुरमुटों में भूमि पर फलता है, विशेषकर पोपलर, ऐस्पन और ऐश के नीचे।",
+      "cap": "2–4 cm ऊँची और 1.5–3 cm चौड़ी (मध्य यूरोपीय निर्देशिकाएँ अक्सर थोड़ी संकरी टोपी, लगभग 1.5–2.5 cm, बताती हैं)। अंगूठी या घंटे के आकार की, या लगभग शंक्वाकार, कभी-कभी अनियमित। गेरुआ-भूरे से पीले-भूरे या जैतून-भूरे रंग की, शीर्ष से किनारे तक अनुदैर्ध्य, मस्तिष्क जैसी नालीदार सिकुड़न और पसलियों के साथ; पुराने फलन-शरीर कुछ गड्ढेदार दिख सकते हैं। निचला किनारा तने से स्वतंत्र लटकता है, और निचला तल सफेद-सा और हल्का मखमली होता है।",
+      "hymenium": "उर्वर सतह टोपी की बाहरी, सिकुड़ी हुई सतह है। यह अनुदैर्ध्य पसलियों और सिकुड़नों में मुड़ी होती है, गड्ढों के नियमित छत्ते के रूप में नहीं।",
+      "stipe": "उत्तर अमेरिकी विवरणों में 8–22 cm लंबा और 1.5–3 cm मोटा; मध्य यूरोपीय निर्देशिकाएँ आमतौर पर छोटा और पतला तना देती हैं, लगभग 5–12 cm लंबा और 1–2 cm मोटा। बेलनाकार, समान मोटा या थोड़ा पतला होता हुआ, क्रीम-सफेद से फीका गेरुआ या मटमैला पीला, छूने पर कभी-कभी हल्का नारंगी। सतह पर अक्सर धुँधली संकेंद्रित पट्टियों में महीन दानेदार लेप होता है। खोखला या ढीले सफेद, रूई जैसे, फुल्के रेशों से भरा।",
+      "flesh": "पतला, सफेद-सा और भुरभुरा, बिना स्पष्ट गंध या स्वाद के। अनुदैर्ध्य काट में टोपी तने से केवल शीर्ष पर जुड़ी होती है, और तना खोखला या ढीले रूई जैसे रेशों से भरा होता है, टोपी के साथ साझा एक ही सतत खोखले कक्ष के रूप में नहीं।",
+      "sporePrint": "फीका गेरुआ-पीला से पीला। बीजाणु बहुत बड़े होते हैं, लगभग 48–85 × 15–24 µm, दीर्घवृत्ताकार और चिकने, आमतौर पर प्रत्येक ऐस्कस में दो।",
+      "habitat": "भूमि पर प्रारंभिक वसंत में, आमतौर पर मार्च से मई तक, नम चौड़ी-पत्ती या मिश्रित वनों में। अक्सर पोपलर, ऐस्पन और ऐश के नीचे, पिछले वर्ष के पत्तों के बीच; अन्य चौड़ी-पत्ती वृक्षों और कभी-कभी शंकुधारियों के नीचे भी दर्ज। फलन-शरीर अकेले या छोटे समूहों में दिखाई देते हैं।",
+      "uses": "कुछ क्षेत्रों में इसे आम तौर पर खाया जाता है, लेकिन कुछ लोगों में यह पाचन संबंधी तकलीफ और अस्थायी समन्वय-हानि पैदा कर सकता है, विशेषकर बड़ी मात्रा या लगातार कई दिनों तक खाने के बाद। अल्कोहल असहिष्णुता भी बताई गई है। इसे केवल सावधानी के साथ खाद्य माना जाए: अच्छी तरह पकाएँ, पहले केवल थोड़ी मात्रा चखें, और बड़ी मात्रा में या लगातार दिनों में न खाएँ। कच्चा कभी न खाएँ।",
+      "confusion": "सच्चे मोरल, जैसे Morchella esculenta, की टोपी में गड्ढों का नियमित छत्ता होता है जो पूरी लंबाई में तने से जुड़ा होता है, और फलन-शरीर एक ही सतत कक्ष में खोखला होता है। आधे-स्वतंत्र मोरल (Morchella semilibera) की टोपी लगभग ऊपरी आधे भाग में तने से जुड़ी होती है, केवल निचला आधा स्वतंत्र लटकता है, और तना पूरी तरह खोखला होता है। Verpa conica की समान स्वतंत्र, अंगूठी जैसी टोपी होती है, पर सतह चिकनी या केवल हल्की सिकुड़ी होती है। घातक Gyromitra esculenta की लाल-भूरी, पालियुक्त, मस्तिष्क जैसी टोपी और छोटा, कक्षीय तना होता है; सबसे विश्वसनीय अंतर फलन-शरीर का अनुदैर्ध्य काट है।",
+      "notes": "यूरोपीय और उत्तर अमेरिकी आकार-सीमाएँ भिन्न हैं, जैसा टोपी और तने के अंतर्गत बताया गया है। मुख्य क्षेत्र परीक्षण यह जाँचना है कि टोपी केवल शीर्ष पर जुड़ी है और स्वतंत्र लटकती है, जैसे उंगली पर अंगूठी। चूँकि कुछ लोग अच्छी तरह पके फलन-शरीरों के प्रति भी संवेदनशील होते हैं, इस जाति को सामान्य खाद्य मोरल की तरह नहीं लिया जाता।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Ranovproljetna ascomiceta sa zvonastim do naprstkastim, oker-smeđim do žutosmeđim klobukom koji visi potpuno slobodno na stručku i pričvršćen je samo na samom vrhu. Klobuk je visok 2–4 cm i širok 1.5–3 cm, s izraženim uzdužnim, razgranatim naborima i rebrima, a ne s pravilnim saćem jamica. Stručak je visok, kremasto bijel do blijedo oker, često s finim ljuskavim pojasima, šupalj ili rijetko ispunjen bijelim, vunasto-pamukastim vlaknima. Raste na tlu u vlažnim listopadnim sastojinama, osobito pod topolama, jasikama i jasenima.",
+      "cap": "Visok je 2–4 cm i širok 1.5–3 cm (srednjoeuropski vodiči često navode nešto uži klobuk, oko 1.5–2.5 cm). Zvonast do naprstkast ili gotovo stožast, ponekad nepravilan. Oker-smeđ do žutosmeđ ili maslinastosmeđ, s uzdužnim, moždano naboranim naborima i rebrima od vrha do ruba; stariji plodna tijela mogu izgledati pomalo jamasto. Donji rub visi slobodno od stručka, a donja strana je bjelkasta i slabo filcana.",
+      "hymenium": "Plodni sloj je na vanjskoj, naboranoj površini klobuka. Složen je u uzdužna rebra i nabore, a ne u pravilno saće jamica.",
+      "stipe": "U sjevernoameričkim opisima dug je 8–22 cm i debeo 1.5–3 cm; srednjoeuropski vodiči obično navode kraći i vitkiji stručak, oko 5–12 cm dug i 1–2 cm debeo. Cilindričan, jednako debeo ili blago sužen, kremasto bijel do blijedo oker ili mutno žut, na dodir ponekad blago narančast. Površina često ima fini zrnati premaz u slabo izraženim koncentričnim pojasevima. Šupalj je ili rijetko ispunjen bijelim, pamukastim, pahuljastim vlaknima.",
+      "flesh": "Tanka, bjelkasta i krhka, bez izrazitog mirisa i okusa. Na uzdužnom presjeku klobuk je spojen sa stručkom samo na vrhu, a stručak je šupalj ili ispunjen rahlim pamukastim vlaknima, ne jednom neprekidnom šupljinom zajedničkom s klobukom.",
+      "sporePrint": "Blijedo oker-žut do žut. Spore su vrlo velike, oko 48–85 × 15–24 µm, elipsoidne i glatke, obično po dvije u asku.",
+      "habitat": "Na tlu rano u proljeće, tipično od ožujka do svibnja, u vlažnim listopadnim ili mješovitim šumama. Često pod topolama, jasikama i jasenima, među prošlogodišnjim lišćem; navodi se i pod drugim listopačama te ponekad pod četinjačama. Plodna tijela rastu pojedinačno ili u malim skupinama.",
+      "uses": "U nekim se krajevima uobičajeno bere za jelo, ali u nekih ljudi može izazvati probavne smetnje i privremeni gubitak koordinacije, osobito nakon velikih porcija ili jela više dana zaredom. Zabilježena je i nepodnošljivost alkohola. Treba ga smatrati jestivim samo s oprezom: temeljito termički obraditi, najprije kušati samo malu količinu i ne jesti ga u većim količinama ni više dana zaredom. Sirovo se ne smije jesti.",
+      "confusion": "Prave smrčke, na primjer Morchella esculenta, imaju klobuk s pravilnim saćem jamica sraslim sa stručkom duž cijele duljine, a plodno tijelo je šuplje u jednoj neprekidnoj šupljini. Poluslobodna smrčak (Morchella semilibera) ima klobuk srasao sa stručkom otprilike u gornjoj polovici, slobodna je samo donja polovica, a stručak je potpuno šupalj. Verpa conica ima sličan slobodan, naprstkast klobuk, ali je površina glatka ili samo slabo naborana. Smrtonosno otrovna Gyromitra esculenta ima crvenosmeđi, krpasti, moždani klobuk i kratak, komorast stručak; najsigurniji način razlikovanja je uzdužni presjek plodnog tijela.",
+      "notes": "Europski i sjevernoamerički rasponi veličina razlikuju se, kako je navedeno kod klobuka i stručka. Osnovni terenski test je provjeriti da je klobuk pričvršćen samo na vrhu i da visí slobodno, kao prstenjak na prstu. Budući da su neki ljudi osjetljivi i na temeljito pripremljena plodna tijela, ova se vrsta ne tretira kao uobičajeno jestiva smrčak.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Kora tavaszi tömlősgomba, csengettyű vagy gyűszű alakú, okkerbarna vagy sárgásbarna kalappal, amely teljesen szabadon csüng a tönkön, és csak a legfelső csúcson nőtt hozzá. A kalap 2–4 cm magas és 1.5–3 cm széles, erős hosszanti, elágazó ráncokkal és bordákkal, nem pedig szabályos, gödörkés méhsejtmintával. A tönk magas, krémszínű-fehér vagy sápadt okkerszínű, gyakran finom pikkelyes övekkel, üreges vagy laza, fehér, vattaszerű szálakkal kitöltött. Nedves lombos állományokban, a talajon terem, különösen nyár, rezgő nyár és kőris alatt.",
+      "cap": "2–4 cm magas és 1.5–3 cm széles (a közép-európai határozók gyakran kissé keskenyebb kalapot adnak, körülbelül 1.5–2.5 cm-t). Csengettyű vagy gyűszű alakú, vagy csaknem kúpos, néha szabálytalan. Okkerbarna vagy sárgásbarna, esetleg olajbarna, hosszanti, agyszerűen barázdált ráncokkal és bordákkal a csúcstól a szélig; az idősebb termőtestek kissé gödörkésnek tűnhetnek. Az alsó szél szabadon csüng a tönkről, az alsó oldal fehéres és gyengén nemezes.",
+      "hymenium": "A termőréteg a kalap külső, ráncos felszínén van. Hosszanti bordákba és ráncokba redőzött, nem szabályos, gödörkés méhsejtmintába rendeződött.",
+      "stipe": "Az észak-amerikai leírásokban 8–22 cm hosszú és 1.5–3 cm vastag; a közép-európai határozók jellemzően rövidebb, karcsúbb tönköt adnak, körülbelül 5–12 cm hosszal és 1–2 cm vastagsággal. Hengeres, egyenletes vastagságú vagy kissé keskenyedő, krémszínű-fehér vagy sápadt okkerszínű, esetleg tompasárga, érintésre néha enyhén narancsosodó. A felszín gyakran finom, szemcsés bevonatot visel elmosódó koncentrikus övekben. Üreges vagy laza, fehér, vattaszerű, pelyhes szálakkal kitöltött.",
+      "flesh": "Vékony, fehéres és törékeny, jellegzetes szag és íz nélkül. Hosszanti metszetben a kalap csak a csúcson kapcsolódik a tönkhöz, a tönk pedig üreges vagy laza vattaszerű szálakkal van kitöltve, nem egyetlen, a kalappal közös, folyamatos üreggel.",
+      "sporePrint": "Sápadt okkersárga vagy sárga. A spórák nagyon nagyok, körülbelül 48–85 × 15–24 µm, ellipszoidok és simák, általában kettesével egy tömlőben.",
+      "habitat": "A talajon kora tavasszal, jellemzően márciustól májusig, nedves lombos vagy elegyes erdőkben. Gyakran nyár, rezgő nyár és kőris alatt, a tavalyi avarban; más lombos fák, ritkábban fenyők alatt is említik. A termőtestek magánosan vagy kis csoportokban jelennek meg.",
+      "uses": "Egyes vidékeken gyakran fogyasztják, de egyes embereknél emésztési panaszokat és átmeneti mozgáskoordinációs zavart okozhat, különösen nagy adagok vagy több napon át tartó fogyasztás után. Alkoholérzékenységet is leírtak. Csak óvatosan tekinthető ehetőnek: alaposan meg kell főzni, először csak kis mennyiséget kóstolni, és nem szabad nagy mennyiségben vagy egymást követő napokon enni. Nyersen soha nem szabad fogyasztani.",
+      "confusion": "Az igazi kucsmagombáknak, például a Morchella esculenta fajnak, szabályos, gödörkés méhsejtmintájú kalapjuk van, amely a tönkhöz a teljes hosszában nőtt, és a termőtest egyetlen folyamatos üregben üreges. A félig szabad kucsmagomba (Morchella semilibera) kalapja nagyjából a felső felében nőtt a tönkhöz, csak az alsó fele csüng szabadon, a tönk pedig teljesen üreges. A Verpa conica hasonló, szabad, gyűszűszerű kalapú, de a felszíne sima vagy csak gyengén ráncos. A halálosan mérgező Gyromitra esculenta vörösbarna, karéjos, agyszerű kalapú, rövid, kamrás tönkkel; a legbiztosabb megkülönböztetés a termőtest hosszanti metszete.",
+      "notes": "Az európai és az észak-amerikai mérettartományok eltérnek, ahogy a kalapnál és a tönknél jeleztük. A fő terepi próba annak ellenőrzése, hogy a kalap csak a csúcson nőtt hozzá, és szabadon csüng, mint egy gyűszű az ujjon. Mivel egyesek még az alaposan elkészített termőtestekre is érzékenyek, ezt a fajt nem kezeljük közönséges ehető kucsmagombaként.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131",
+        "https://www.wikidata.org/wiki/Q1463716",
+        "https://hu.wikipedia.org/wiki/Cseh_kucsmagomba"
+      ],
+      "label": "Cseh kucsmagomba"
+    },
+    "id": {
+      "description": "Askomiset awal musim semi dengan tudung berbentuk bidal atau lonceng, berwarna cokelat oker hingga cokelat kekuningan, yang menggantung sepenuhnya bebas dari batang dan hanya melekat di puncak sekali. Tudung setinggi 2–4 cm dan selebar 1.5–3 cm, dengan kerutan dan rusuk memanjang bercabang yang jelas, bukan sarang lebah teratur dari lekuk-lekuk. Batangnya tinggi, putih krem hingga oker pucat, sering dengan pita bersisik halus, berongga atau terisi longgar oleh serat putih seperti kapas. Ia berbuah di tanah di tegakan daun basah, terutama di bawah poplar, aspen, dan abu.",
+      "cap": "Tinggi 2–4 cm dan lebar 1.5–3 cm (panduan Eropa Tengah sering memberi tudung yang sedikit lebih sempit, sekitar 1.5–2.5 cm). Berbentuk bidal atau lonceng, atau hampir kerucut, kadang tidak teratur. Cokelat oker hingga cokelat kekuningan atau zaitun, dengan kerutan dan rusuk memanjang mirip otak dari puncak ke tepi; tubuh buah yang lebih tua dapat tampak sedikit berlekuk. Tepi bawah menggantung bebas dari batang, dan sisi bawah keputihan serta sedikit berbulu halus.",
+      "hymenium": "Permukaan subur adalah sisi luar tudung yang berkerut. Ia terlipat menjadi rusuk dan kerutan memanjang, bukan tersusun sebagai sarang lebah teratur dari lekuk-lekuk.",
+      "stipe": "Dalam uraian Amerika Utara panjangnya 8–22 cm dan tebalnya 1.5–3 cm; panduan Eropa Tengah biasanya memberi batang yang lebih pendek dan lebih ramping, sekitar 5–12 cm panjang dan 1–2 cm tebal. Silindris, sama tebal atau sedikit meruncing, putih krem hingga oker pucat atau kuning kusam, kadang sedikit oranye bila disentuh. Permukaan sering memiliki pruina berbutir halus dalam pita konsentris yang samar. Berongga atau terisi longgar oleh serat putih seperti kapas dan berflok.",
+      "flesh": "Tipis, keputihan, dan rapuh, tanpa bau atau rasa yang khas. Pada irisan memanjang tudung hanya tersambung ke batang di puncak, dan batang berongga atau terisi serat kapas yang longgar, bukan satu rongga menerus yang sama dengan tudung.",
+      "sporePrint": "Kuning oker pucat hingga kuning. Spora sangat besar, sekitar 48–85 × 15–24 µm, elipsoid dan halus, biasanya dua per askus.",
+      "habitat": "Di tanah pada awal musim semi, biasanya dari Maret hingga Mei, di hutan daun atau campuran yang basah. Sering di bawah poplar, aspen, dan abu, di antara daun tahun sebelumnya; juga tercatat di bawah pohon daun lain dan kadang di bawah konifer. Tubuh buah muncul soliter atau dalam kelompok kecil.",
+      "uses": "Di beberapa daerah ia sering dimakan, tetapi pada sebagian orang dapat menyebabkan gangguan pencernaan dan kehilangan koordinasi sementara, terutama setelah porsi besar atau makanan selama beberapa hari berturut-turut. Intoleransi alkohol juga telah dilaporkan. Harus dianggap dapat dimakan hanya dengan hati-hati: masak hingga matang, cicipi dulu hanya sedikit, dan jangan makan dalam jumlah besar atau pada hari-hari berturut-turut. Jangan pernah dimakan mentah.",
+      "confusion": "Morel sejati seperti Morchella esculenta memiliki tudung dengan sarang lebah teratur dari lekuk yang menyatu dengan batang sepanjang seluruh panjangnya, dan tubuh buah berongga dalam satu rongga menerus. Morel setengah bebas (Morchella semilibera) memiliki tudung yang menyatu dengan batang kira-kira pada setengah bagian atas, hanya setengah bagian bawah yang menggantung bebas, dan batang sepenuhnya berongga. Verpa conica memiliki tudung bebas serupa, berbentuk bidal, tetapi permukaannya licin atau hanya sedikit berkerut. Gyromitra esculenta yang mematikan memiliki tudung cokelat kemerahan, berlekuk, mirip otak, dan batang pendek bersekat; cara paling andal untuk membedakannya adalah irisan memanjang tubuh buah.",
+      "notes": "Kisaran ukuran Eropa dan Amerika Utara berbeda, sebagaimana dicatat pada tudung dan batang. Uji lapangan utama adalah memeriksa bahwa tudung hanya melekat di puncak dan menggantung bebas, seperti bidal pada jari. Karena sebagian orang peka bahkan terhadap tubuh buah yang dimasak dengan baik, spesies ini tidak diperlakukan sebagai morel yang dapat dimakan biasa.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un ascomicete di inizio primavera, con cappello a ditale o a campana, ocra o bruno-giallastro, che pende completamente libero dal gambo ed è attaccato soltanto all’apice. Il cappello è alto 2–4 cm e largo 1.5–3 cm, con forti rughe e coste longitudinali ramificate, non con un favo regolare di alveoli. Il gambo è alto, bianco crema o ocraceo pallido, spesso con sottili fasce squamulose, cavo o lascamente riempito di fibre bianche cotonose. Fruttifica al suolo in soprassuoli umidi di latifoglie, soprattutto sotto pioppi, tremuli e frassini.",
+      "cap": "Alto 2–4 cm e largo 1.5–3 cm (le guide dell’Europa centrale indicano spesso un cappello un po’ più stretto, circa 1.5–2.5 cm). A ditale o a campana, o quasi conico, talvolta irregolare. Ocra o bruno-giallastro o olivastro, con rughe e coste longitudinali, di aspetto cerebriforme, dall’apice al margine; gli esemplari vecchi possono apparire alquanto alveolati. Il margine inferiore pende libero dal gambo, e la faccia inferiore è biancastra e lievemente tomentosa.",
+      "hymenium": "La superficie fertile è quella esterna e rugosa del cappello. È pieghettata in coste e rughe longitudinali, non disposta in un favo regolare di alveoli.",
+      "stipe": "Nelle descrizioni nordamericane è lungo 8–22 cm e spesso 1.5–3 cm; le guide dell’Europa centrale indicano tipicamente un gambo più corto e più sottile, di circa 5–12 cm di lunghezza e 1–2 cm di spessore. Cilindrico, uguale o un po’ attenuato, bianco crema o ocraceo pallido o giallo opaco, talvolta con una lieve tinta aranciata al tatto. La superficie ha spesso una fine pruina granulosa in fasce concentriche poco marcate. Cavo o lascamente riempito di fibre bianche, cotonose e fioccose.",
+      "flesh": "Sottile, biancastra e fragile, senza odore né sapore distinti. In sezione longitudinale il cappello è unito al gambo soltanto all’apice, e il gambo è cavo o riempito di fibre cotonose lasse, non di una cavità continua unica in comune con il cappello.",
+      "sporePrint": "Giallo ocraceo pallido o giallo. Le spore sono molto grandi, di circa 48–85 × 15–24 µm, ellissoidali e lisce, di solito due per asco.",
+      "habitat": "Al suolo all’inizio della primavera, tipicamente da marzo a maggio, in boschi umidi di latifoglie o misti. Spesso sotto pioppi, tremuli e frassini, tra le foglie dell’anno precedente; segnalato anche sotto altre latifoglie e talvolta sotto conifere. I corpi fruttiferi compaiono isolati o in piccoli gruppi.",
+      "uses": "In alcune regioni è comunemente mangiato, ma può provocare in alcune persone disturbi digestivi e una perdita temporanea di coordinazione, soprattutto dopo porzioni abbondanti o pasti in giorni successivi. È stata descritta anche un’intolleranza all’alcol. Va considerato commestibile soltanto con cautela: cuocerlo bene, assaggiarne prima una piccola quantità e non mangiarlo in grande quantità né in giorni consecutivi. Non va mai mangiato crudo.",
+      "confusion": "Le spugnole vere come Morchella esculenta hanno un cappello con un favo regolare di alveoli saldato al gambo per tutta la lunghezza, e il corpo fruttifero è cavo in un’unica cavità continua. La spugnola a gambo semilibero (Morchella semilibera) ha il cappello saldato al gambo per circa la metà superiore, e soltanto la metà inferiore pende libera, con un gambo interamente cavo. Verpa conica ha un cappello libero simile, a ditale, ma una superficie liscia o soltanto debolmente rugosa. La mortale Gyromitra esculenta ha un cappello bruno-rossastro, lobato, di aspetto cerebriforme, e un gambo corto e camere; il modo più sicuro per distinguerle è una sezione longitudinale del corpo fruttifero.",
+      "notes": "Gli intervalli di taglia europei e nordamericani differiscono, come indicato sotto il cappello e il gambo. La prova di campo principale è verificare che il cappello sia attaccato soltanto all’apice e penda libero, come un ditale su un dito. Poiché alcune persone sono sensibili anche a esemplari ben cotti, questa specie non è trattata come una spugnola commestibile ordinaria.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "早春に出る子嚢菌で、指貫形または鐘形の、黄土褐色から黄褐色の傘が柄からまったく自由に垂れ、ごく頂点だけに付いている。傘は高さ 2–4 cm、幅 1.5–3 cm で、規則正しい蜂の巣状の窪みではなく、明瞭な縦走する分岐したしわと肋がある。柄は高く、クリーム色から淡い黄土色、しばしば細かい鱗片状の帯があり、中空か、白い綿状の繊維で疎らに満たされる。湿った広葉樹林、とくにポプラ・アスペン・トネリコの下の地上に生じる。",
+      "cap": "高さ 2–4 cm、幅 1.5–3 cm（中部ヨーロッパの図鑑では、やや狭い傘、およそ 1.5–2.5 cm とされることが多い）。指貫形または鐘形、あるいはほぼ円錐形で、ときに不規則。黄土褐色から黄褐色またはオリーブ褐色で、顶から縁まで縦走する脳状のしわと肋があり、古い子実体はいくぶん窪んで見えることがある。下縁は柄から自由に垂れ、下面は白っぽく、わずかに綿毛状。",
+      "hymenium": "子実層は傘の外側の、しわのある表面にある。規則正しい蜂の巣状の窪みではなく、縦走する肋としわに折り込まれている。",
+      "stipe": "北米の記載では長さ 8–22 cm、太さ 1.5–3 cm。中部ヨーロッパの図鑑では、より短く細い柄、およそ長さ 5–12 cm、太さ 1–2 cm とされるのが普通である。円筒形で、等脚またはやや先細り、クリーム色から淡い黄土色またはくすんだ黄色、触れるとわずかに橙変することがある。表面には、不明瞭な同心帯状の細かい粒状粉をしばしば生じる。中空か、白い綿状・絮状の繊維で疎らに満たされる。",
+      "flesh": "薄く、白っぽくてもろく、特有のにおいも味もない。縦断面では傘は頂点だけで柄とつながり、柄は中空か疎らな綿状繊維で満たされ、傘と共有する一本の連続した空洞にはならない。",
+      "sporePrint": "淡い黄土黄色から黄色。胞子は非常に大きく、およそ 48–85 × 15–24 µm、楕円形で平滑、通常は一つの子嚢に二つ入る。",
+      "habitat": "早春の地上、ふつう 3 月から 5 月、湿った広葉樹または混交林に生じる。しばしばポプラ・アスペン・トネリコの下、前年の落葉の中。他の広葉樹の下や、ときに針葉樹の下でも記録される。子実体は単生するか、小さな群れになる。",
+      "uses": "一部の地方ではよく食用にされるが、人によっては消化器症状や一時的な協調運動の障害を起こすことがあり、とくに大量に、あるいは連日食べたあとに多い。アルコール不耐も報告されている。食用とする場合は慎重に扱うこと。十分に加熱し、最初は少量だけ試し、大量に、あるいは連続した日に食べない。生では食べない。",
+      "confusion": "Morchella esculenta のような真正のアミガサタケ類は、規則正しい蜂の巣状の窪みのある傘が柄の全長にわたって癒着し、子実体は一本の連続した空洞で中空である。半自由のアミガサタケ（Morchella semilibera）は、傘のおよそ上半分が柄に癒着し、下半分だけが自由に垂れ、柄は完全に中空である。Verpa conica は同様の自由な指貫形の傘を持つが、表面は平滑か、わずかにしわがあるだけである。致死的な Gyromitra esculenta は赤褐色で裂片状、脳状の傘と、短く室のある柄を持つ。最も確実な区別は子実体の縦断面である。",
+      "notes": "ヨーロッパと北米の大きさの範囲は、傘と柄の項に示したように異なる。野外での主な確認は、傘が頂点だけに付き、指の指貫のように自由に垂れているかを見ることである。十分に加熱した子実体にも過敏な人がいるため、この種は通常の食用アミガサタケとしては扱わない。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131"
+      ],
+      "label": "オオズキンカブリタケ"
+    },
+    "ko": {
+      "description": "이른 봄에 나오는 자낭균으로, 골무형 또는 종 모양의 황토갈색에서 황갈색 갓이 대에서 완전히 자유롭게 늘어지고 맨 꼭대기에만 붙는다. 갓은 높이 2–4 cm, 너비 1.5–3 cm이며, 규칙적인 벌집형 움푹한 무늬가 아니라 뚜렷한 세로의 가지 친 주름과 늑골이 있다. 대는 높고, 크림색에서 옅은 황토색이며, 흔히 가는 비늘 띠가 있고, 속이 비었거나 하얀 솜 같은 섬유로 성기게 채워진다. 습한 활엽수림, 특히 포플러·사시나무·물푸레나무 아래의 땅 위에 난다.",
+      "cap": "높이 2–4 cm, 너비 1.5–3 cm이다(중부 유럽 도감은 종종 조금 더 좁은 갓, 약 1.5–2.5 cm을 적는다). 골무형 또는 종 모양이거나 거의 원추형이며, 때로 불규칙하다. 황토갈색에서 황갈색 또는 올리브갈색이며, 꼭대기에서 가장자리까지 세로의, 뇌처럼 홈이 패인 주름과 늑골이 있다. 오래된 자실체는 다소 움푹해 보일 수 있다. 아래 가장자리는 대에서 자유롭게 늘어지고, 아랫면은 희끗하고 약간 융모성이다.",
+      "hymenium": "실층은 갓의 바깥쪽 주름진 표면에 있다. 규칙적인 벌집형 움푹한 무늬가 아니라 세로의 늑골과 주름으로 접혀 있다.",
+      "stipe": "북아메리카 기재에서는 길이 8–22 cm, 굵기 1.5–3 cm이다. 중부 유럽 도감은 보통 더 짧고 가는 대, 약 길이 5–12 cm, 굵기 1–2 cm를 적는다. 원통형이고 같은 굵기이거나 약간 가늘어지며, 크림색에서 옅은 황토색 또는 흐린 노란색이고, 만지면 가끔 약간 주황색으로 변한다. 표면에는 흐릿한 동심 띠의 고운 알갱이 가루가 자주 있다. 속이 비었거나 하얀 솜 같고 솜털 같은 섬유로 성기게 채워진다.",
+      "flesh": "얇고 희끗하며 부서지기 쉽고, 뚜렷한 냄새나 맛이 없다. 세로 단면에서는 갓이 꼭대기에서만 대와 이어지고, 대는 속이 비었거나 성긴 솜 같은 섬유로 채워지며, 갓과 함께하는 하나의 연속된 공동은 아니다.",
+      "sporePrint": "옅은 황토노란색에서 노란색. 포자는 매우 크며, 약 48–85 × 15–24 µm, 타원형이고 매끈하며, 보통 하나의 자낭에 두 개이다.",
+      "habitat": "이른 봄 땅 위, 보통 3월부터 5월까지, 습한 활엽수 또는 혼효림에 난다. 흔히 포플러·사시나무·물푸레나무 아래, 지난해 낙엽 사이에 있다. 다른 활엽수 아래와 가끔 침엽수 아래에서도 기록된다. 자실체는 단생하거나 작은 무리를 이룬다.",
+      "uses": "일부 지방에서는 흔히 먹지만, 어떤 사람에게는 소화기 증상과 일시적인 협응 장애를 일으킬 수 있으며, 특히 많은 양을 먹거나 여러 날 연속으로 먹은 뒤에 그렇다. 알코올 불내성도 보고되어 있다. 식용으로 볼 때는 주의해야 한다. 충분히 익히고, 처음에는 조금만 맛보며, 많은 양이나 연속된 날에는 먹지 않는다. 날것으로는 먹지 않는다.",
+      "confusion": "Morchella esculenta와 같은 참 곰보버섯은 규칙적인 벌집형 움푹한 무늬의 갓이 대 전체 길이에 유착되고, 자실체는 하나의 연속된 공동으로 속이 비어 있다. 반자유 곰보버섯(Morchella semilibera)은 갓의 대략 윗절반이 대에 유착되고 아랫절반만 자유롭게 늘어지며, 대는 완전히 속이 비어 있다. Verpa conica는 비슷한 자유로운 골무형 갓을 가지지만 표면은 매끈하거나 약하게만 주름져 있다. 치명적인 Gyromitra esculenta는 적갈색의 갈래지고 뇌 같은 갓과 짧고 방이 있는 대를 가진다. 가장 확실한 구분은 자실체의 세로 단면이다.",
+      "notes": "유럽과 북아메리카의 크기 범위는 갓과 대 항목에서 적었듯이 다르다. 야외에서의 주요 확인은 갓이 꼭대기에만 붙어 손가락의 골무처럼 자유롭게 늘어지는지를 보는 것이다. 충분히 익힌 자실체에도 민감한 사람이 있으므로, 이 종은 보통의 식용 곰보버섯으로 다루지 않는다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Ankstyvo pavasario askomicetas su antpirščio ar varpelio pavidalo, ochriškai rusvu iki gelsvai rudu kepurėle, kuri visiškai laisvai kabo ant koto ir yra prisitvirtinusi tik pačioje viršūnėje. Kepurėlė yra 2–4 cm aukščio ir 1.5–3 cm pločio, su ryškiomis išilginėmis, šakotomis raukšlėmis ir briaunomis, o ne su taisyklingu korio duobučių raštu. Kotas aukštas, kreminės baltos iki blankiai ochrinės spalvos, dažnai su smulkiomis žvynuotomis juostomis, tuščiaviduris arba retai pripildytas baltų, vatos pavidalo skaidulų. Vaisiakūniai auga ant žemės drėgnuose lapuočių medynuose, ypač po tuopomis, drebulėmis ir uosiais.",
+      "cap": "2–4 cm aukščio ir 1.5–3 cm pločio (Vidurio Europos vadovai dažnai nurodo kiek siauresnę kepurėlę, apie 1.5–2.5 cm). Antpirščio ar varpelio pavidalo, arba beveik kūgiška, kartais netaisyklinga. Ochriškai rusva iki gelsvai rudos ar alyvuogiškai rudos, su išilginėmis, smegenis primenančiomis raukšlėmis ir briaunomis nuo viršūnės iki krašto; senesni vaisiakūniai gali atrodyti šiek tiek duobėti. Apatinis kraštas laisvai kabo nuo koto, o apatinė pusė yra balsva ir silpnai veltinėta.",
+      "hymenium": "Derlingasis sluoksnis yra ant išorinio, raukšlėto kepurėlės paviršiaus. Jis sulankstytas į išilgines briaunas ir raukšles, o ne išdėstytas taisyklingu korio duobučių raštu.",
+      "stipe": "Šiaurės Amerikos aprašuose 8–22 cm ilgio ir 1.5–3 cm storio; Vidurio Europos vadovai paprastai nurodo trumpesnį ir lieknesnį kotą, apie 5–12 cm ilgio ir 1–2 cm storio. Cilindriškas, vienodo storio arba šiek tiek smailėjantis, kreminės baltos iki blankiai ochrinės ar blankiai geltonos spalvos, palietus kartais silpnai oranžuojantis. Paviršiuje dažnai būna smulkiagrūdė apnaša neryškiomis koncentrinėmis juostomis. Tuščiaviduris arba retai pripildytas baltų, vatos pavidalo, pūkinių skaidulų.",
+      "flesh": "Plona, balsva ir trapi, be ryškaus kvapo ar skonio. Išilginiame pjūvyje kepurėlė su kotu sujungta tik viršūnėje, o kotas tuščiaviduris arba pripildytas palaidų vatos pavidalo skaidulų, ne viena ištisine ertme, bendra su kepurėle.",
+      "sporePrint": "Blankiai ochriškai geltona iki geltonos. Sporos labai didelės, apie 48–85 × 15–24 µm, elipsoidinės ir lygios, paprastai po dvi askoje.",
+      "habitat": "Ant žemės ankstyvą pavasarį, paprastai nuo kovo iki gegužės, drėgnuose lapuočių ar mišriuose miškuose. Dažnai po tuopomis, drebulėmis ir uosiais, tarp pernykščių lapų; minimas ir po kitais lapuočiais, kartais po spygliuočiais. Vaisiakūniai auga pavieniui arba nedidelėmis grupėmis.",
+      "uses": "Kai kuriuose kraštuose jis dažnai valgomas, bet kai kuriems žmonėms gali sukelti virškinimo sutrikimų ir laikiną koordinacijos praradimą, ypač po didelių porcijų ar valgymo kelias dienas iš eilės. Aprašytas ir netoleravimas alkoholiui. Laikytinas valgomu tik atsargiai: gerai iškepti, pirmiausia paragauti tik nedidelį kiekį ir nevalgyti dideliais kiekiais ar keliomis dienomis iš eilės. Žalio valgyti negalima.",
+      "confusion": "Tikrosios briedžiukės, pavyzdžiui Morchella esculenta, turi kepurėlę su taisyklingu korio duobučių raštu, suaugusią su kotu visame ilgyje, o vaisiakūnis tuščiaviduris vienoje ištisinėje ertmėje. Pusiau laisvoji briedžiukė (Morchella semilibera) turi kepurėlę, suaugusią su kotu maždaug viršutinėje pusėje, laisva yra tik apatinė pusė, o kotas visiškai tuščiaviduris. Verpa conica turi panašią laisvą, antpirščio pavidalo kepurėlę, bet paviršius lygus arba tik silpnai raukšlėtas. Mirtinai nuodinga Gyromitra esculenta turi rausvai rudą, skiautėtą, smegenis primenančią kepurėlę ir trumpą, kameruotą kotą; patikimiausias skirtumas – išilginis vaisiakūnio pjūvis.",
+      "notes": "Europos ir Šiaurės Amerikos dydžių intervalai skiriasi, kaip nurodyta prie kepurėlės ir koto. Pagrindinis lauko bandymas – patikrinti, kad kepurėlė prisitvirtinusi tik viršūnėje ir kabo laisvai, tarsi antpirštis ant piršto. Kadangi kai kurie žmonės jautrūs net gerai iškeptiems vaisiakūniams, ši rūšis nelaikoma įprasta valgoma briedžiuke.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131",
+        "https://www.wikidata.org/wiki/Q1463716",
+        "https://lt.wikipedia.org/wiki/Bohemi%C5%A1kasis_auk%C5%A1liavarpis"
+      ],
+      "label": "Bohemiškasis aukšliavarpis"
+    },
+    "lv": {
+      "description": "Agrā pavasara askomicēte ar uzpirksteņa vai zvaniņa formas, okera līdz dzeltenbrūnu cepurīti, kas pilnīgi brīvi karājas uz kātiņa un ir piestiprināta tikai pašā galotnē. Cepurīte ir 2–4 cm augsta un 1.5–3 cm plata, ar izteiktām gareniskām, zarotām krokām un ribām, nevis ar regulāru šūnu bedrīšu rakstu. Kātiņš ir augsts, krēmbalts līdz bāli okerkrāsas, bieži ar smalkām zvīņainām joslām, dobs vai irdeni pildīts ar baltām, vatei līdzīgām šķiedrām. Aug uz zemes mitros lapkoku audzēs, it īpaši zem apsēm, pūkainajām apsēm un ošiem.",
+      "cap": "2–4 cm augsta un 1.5–3 cm plata (Centrāleiropas rokasgrāmatas bieži norāda nedaudz šaurāku cepurīti, apmēram 1.5–2.5 cm). Uzpirksteņa vai zvaniņa formā vai gandrīz koniska, dažkārt neregulāra. Okera līdz dzeltenbrūna vai olīvbrūna, ar gareniskām, smadzeņu veida krokām un ribām no galotnes līdz malai; vecāki augļķermeņi var izskatīties nedaudz bedraini. Apakšējā mala brīvi karājas no kātiņa, un apakšpuse ir bālgana un vāji filcaina.",
+      "hymenium": "Auglīgā kārta atrodas uz cepurītes ārējās, krokainās virsmas. Tā ir salocīta gareniskās ribās un krokās, nevis izkārtota regulārā šūnu bedrīšu rakstā.",
+      "stipe": "Ziemeļamerikas aprakstos 8–22 cm garš un 1.5–3 cm resns; Centrāleiropas rokasgrāmatas parasti norāda īsāku un tievāku kātiņu, apmēram 5–12 cm garu un 1–2 cm resnu. Cilindrisks, vienāda resnuma vai nedaudz sašaurināts, krēmbalts līdz bāli okerkrāsas vai matēti dzeltens, pieskaroties dažkārt vāji oranžējošs. Virsma bieži ir ar smalku graudainu apsarmi neskaidrās koncentriskās joslās. Dobs vai irdeni pildīts ar baltām, vatei līdzīgām, pūkainām šķiedrām.",
+      "flesh": "Plāna, bālgana un trausla, bez izteiktas smaržas vai garšas. Gareniskā griezumā cepurīte ar kātiņu ir savienota tikai galotnē, un kātiņš ir dobs vai pildīts ar irdenām, vatei līdzīgām šķiedrām, nevis ar vienu nepārtrauktu dobumu, kas kopīgs ar cepurīti.",
+      "sporePrint": "Bāli okerdzeltens līdz dzeltens. Sporas ir ļoti lielas, apmēram 48–85 × 15–24 µm, elipsoidālas un gludas, parasti pa divām katrā askā.",
+      "habitat": "Uz zemes agrā pavasarī, parasti no marta līdz maijam, mitros lapkoku vai jauktos mežos. Bieži zem apsēm, pūkainajām apsēm un ošiem, starp iepriekšējā gada lapām; minēts arī zem citiem lapkokiem un dažkārt zem skujukokiem. Augļķermeņi aug pa vienam vai nelielās grupās.",
+      "uses": "Dažos novados to bieži ēd, bet dažiem cilvēkiem tā var izraisīt gremošanas traucējumus un īslaicīgus koordinācijas traucējumus, īpaši pēc lielām porcijām vai ēšanas vairākas dienas pēc kārtas. Aprakstīta arī nepanesība pret alkoholu. Uzskatāma par ēdamu tikai piesardzīgi: rūpīgi termiski apstrādāt, vispirms nogaršot tikai nelielu daudzumu un neēst lielos daudzumos vai vairākas dienas pēc kārtas. Jēlu ēst nedrīkst.",
+      "confusion": "Īstajām lāčpurnām, piemēram Morchella esculenta, ir cepurīte ar regulāru šūnu bedrīšu rakstu, kas visā garumā saaugusi ar kātiņu, un augļķermenis ir dobs vienā nepārtrauktā dobumā. Pusbrīvā lāčpurna (Morchella semilibera) cepurīte ar kātiņu ir saaugusi aptuveni augšējā pusē, brīva ir tikai apakšējā puse, un kātiņš ir pilnīgi dobs. Verpa conica ir līdzīga brīva, uzpirksteņa veida cepurīte, bet virsma ir gluda vai tikai vāji krokaina. Nāvējoši indīgajai Gyromitra esculenta ir sarkanbrūna, daivaina, smadzeņu veida cepurīte un īss, kamerām sadalīts kātiņš; drošākais atšķiršanas veids ir augļķermeņa garenisks griezums.",
+      "notes": "Eiropas un Ziemeļamerikas izmēru diapazoni atšķiras, kā norādīts pie cepurītes un kātiņa. Galvenais lauka pārbaudījums ir pārliecināties, ka cepurīte ir piestiprināta tikai galotnē un brīvi karājas, kā uzpirktenis uz pirksta. Tā kā daži cilvēki ir jutīgi pat pret rūpīgi pagatavotiem augļķermeņiem, šo sugu neuzskata par parastu ēdamu lāčpurnu.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131"
+      ],
+      "label": "parastais ķēvpups"
+    },
+    "nl": {
+      "description": "Een vroeg in het voorjaar verschijnende ascomyceet met een vingerhoed- tot klokvormige, oker- tot geelbruine hoed die volledig vrij van de steel hangt en alleen helemaal bovenaan is vastgegroeid. De hoed is 2–4 cm hoog en 1.5–3 cm breed, met duidelijke overlangse, vertakte rimpels en ribben, niet met een regelmatig honingraatpatroon van putjes. De steel is hoog, roomwit tot bleek oker, vaak met fijne schilferige banden, hol of los gevuld met witte, watteachtige vezels. Hij vrucht op de grond in vochtige loofbossen, vooral onder populieren, ratelpopulieren en essen.",
+      "cap": "2–4 cm hoog en 1.5–3 cm breed (Midden-Europese gidsen geven vaak een iets smallere hoed, ongeveer 1.5–2.5 cm). Vingerhoed- tot klokvormig of bijna kegelvormig, soms onregelmatig. Oker- tot geelbruin of olijfbruin, met overlangse, hersenachtig gegroefde rimpels en ribben van de top naar de rand; oudere vruchtlichamen kunnen wat putjesachtig lijken. De onderrand hangt vrij van de steel en de onderzijde is witachtig en licht viltig.",
+      "hymenium": "De vruchtbare laag zit op het buitenste, gerimpelde hoedoppervlak. Ze is in overlangse ribben en rimpels gevouwen, niet als een regelmatig honingraatpatroon van putjes.",
+      "stipe": "In Noord-Amerikaanse beschrijvingen 8–22 cm lang en 1.5–3 cm dik; Midden-Europese gidsen geven typisch een kortere, slankere steel, ongeveer 5–12 cm lang en 1–2 cm dik. Cilindrisch, gelijk dik of iets versmallend, roomwit tot bleek oker of matgeel, bij aanraking soms licht oranje verkleurend. Het oppervlak heeft vaak een fijne korrelige berijping in vage concentrische banden. Hol of los gevuld met witte, watteachtige, vlokkige vezels.",
+      "flesh": "Dun, witachtig en bros, zonder opvallende geur of smaak. In lengtedoorsnede is de hoed alleen aan de top met de steel verbonden, en is de steel hol of gevuld met losse watteachtige vezels, niet met één doorlopende holte samen met de hoed.",
+      "sporePrint": "Bleek okergeel tot geel. De sporen zijn zeer groot, ongeveer 48–85 × 15–24 µm, ellipsoïd en glad, meestal twee per ascus.",
+      "habitat": "Op de grond in het vroege voorjaar, typisch van maart tot mei, in vochtige loof- of gemengde bossen. Vaak onder populieren, ratelpopulieren en essen, tussen vorig jaar gevallen blad; ook vermeld onder andere loofbomen en soms onder naaldbomen. Vruchtlichamen staan alleen of in kleine groepjes.",
+      "uses": "In sommige streken wordt hij veel gegeten, maar hij kan bij sommige mensen spijsverteringsklachten en een tijdelijk verlies van coördinatie veroorzaken, vooral na grote porties of na meerdere dagen achter elkaar. Ook alcoholintolerantie is beschreven. Alleen met voorzichtigheid als eetbaar behandelen: grondig garen, eerst slechts een kleine hoeveelheid proberen en niet in grote hoeveelheden of op opeenvolgende dagen eten. Nooit rauw eten.",
+      "confusion": "Echte morieljes zoals Morchella esculenta hebben een hoed met een regelmatig honingraatpatroon van putjes die over de hele lengte met de steel is vergroeid, en het vruchtlichaam is hol in één doorlopende holte. De halfvrije morielje (Morchella semilibera) heeft een hoed die ongeveer in de bovenste helft met de steel is vergroeid, terwijl alleen de onderste helft vrij hangt, en een volledig holle steel. Verpa conica heeft een soortgelijke vrije, vingerhoedachtige hoed, maar een glad of slechts zwak gerimpeld oppervlak. De dodelijk giftige Gyromitra esculenta heeft een roodbruine, gelobde, hersenachtige hoed en een korte, gekamerde steel; het zekerste onderscheid is een lengtedoorsnede van het vruchtlichaam.",
+      "notes": "De Europese en Noord-Amerikaanse maatbereiken verschillen, zoals bij hoed en steel vermeld. De belangrijkste veldproef is te controleren dat de hoed alleen bovenaan is vastgegroeid en vrij hangt, als een vingerhoed op een vinger. Omdat sommige mensen zelfs op goed gare vruchtlichamen reageren, wordt deze soort niet als een gewone eetbare morielje behandeld.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "no": {
+      "description": "En tidlig vår-sekksporesopp med en fingerbøl- til klokkeformet, okker- til gulbrun hatt som henger helt fritt på stilken og bare er festet helt øverst. Hatten er 2–4 cm høy og 1.5–3 cm bred, med tydelige langsgående, forgrenede rynker og ribber, ikke med et regelmessig honningkakemønster av groper. Stilken er høy, kremhvit til blekt okkerfarget, ofte med fine skjellete bånd, hul eller løst fylt med hvite, vattaktige fibre. Den frukter på bakken i fuktige lauvbestand, særlig under poppel, osp og ask.",
+      "cap": "2–4 cm høy og 1.5–3 cm bred (sentraleuropeiske førere oppgir ofte en noe smalere hatt, omtrent 1.5–2.5 cm). Fingerbøl- til klokkeformet eller nesten kjegleformet, av og til ujevn. Okker- til gulbrun eller olivenbrun, med langsgående, hjerneaktig furete rynker og ribber fra toppen til kanten; eldre fruktlegemer kan virke noe gropete. Den nedre kanten henger fritt fra stilken, og undersiden er hvitaktig og svakt filtet.",
+      "hymenium": "Det fertile laget sitter på den ytre, rynkete hattoverflaten. Det er foldet i langsgående ribber og rynker, ikke som et regelmessig honningkakemønster av groper.",
+      "stipe": "I nordamerikanske beskrivelser 8–22 cm lang og 1.5–3 cm tykk; sentraleuropeiske førere oppgir typisk en kortere, slankere stilk, omtrent 5–12 cm lang og 1–2 cm tykk. Sylindrisk, jevntykk eller litt avsmalnende, kremhvit til blekt okkerfarget eller mattgul, ved berøring av og til svakt oransje. Overflaten har ofte et fint kornet belegg i utydelige konsentriske bånd. Hul eller løst fylt med hvite, vattaktige, flossede fibre.",
+      "flesh": "Tynt, hvitaktig og sprøtt, uten tydelig lukt eller smak. I lengdesnitt er hatten bare festet til stilken i toppen, og stilken er hul eller fylt med løse vattaktige fibre, ikke i ett sammenhengende hulrom felles med hatten.",
+      "sporePrint": "Blekt okkergult til gult. Sporene er svært store, omtrent 48–85 × 15–24 µm, ellipsoidiske og glatte, vanligvis to i hver sekk.",
+      "habitat": "På bakken tidlig om våren, typisk fra mars til mai, i fuktige lauv- eller blandingsskoger. Ofte under poppel, osp og ask, blant fjorårets løv; også oppgitt under andre lauvtrær og av og til under bartrær. Fruktlegemene står enkeltvis eller i små grupper.",
+      "uses": "I noen trakter spises den ofte, men den kan hos enkelte gi mageplager og midlertidig tap av koordinasjon, særlig etter store porsjoner eller måltider flere dager på rad. Alkoholintoleranse er også beskrevet. Behandles bare som spiselig med forsiktighet: tilberedes grundig, prøves først i en liten mengde og spises ikke i større mengder eller på etterfølgende dager. Spises aldri rå.",
+      "confusion": "Ekte morkler som Morchella esculenta har en hatt med et regelmessig honningkakemønster av groper som er sammenvokst med stilken i hele lengden, og fruktlegemet er hult i ett sammenhengende hulrom. Den halvt frie morkelen (Morchella semilibera) har en hatt som er sammenvokst med stilken omtrent i den øvre halvdelen, mens bare den nedre halvdelen henger fritt, og en helt hul stilk. Verpa conica har en liknende fri, fingerbølformet hatt, men en glatt eller bare svakt rynket overflate. Den dødelig giftige Gyromitra esculenta har en rødbrun, lappet, hjerneaktig hatt og en kort, kamret stilk; den sikreste forskjellen er et lengdesnitt gjennom fruktlegemet.",
+      "notes": "De europeiske og nordamerikanske størrelsesintervallene skiller seg, som angitt under hatt og stilk. Den viktigste feltprøven er å sjekke at hatten bare er festet øverst og henger fritt, som et fingerbøl på en finger. Fordi noen er følsomme selv for godt tilberedte fruktlegemer, behandles denne arten ikke som en vanlig spiselig morkel.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131"
+      ],
+      "label": "rynket klokkemorkel"
+    },
+    "pl": {
+      "description": "Wczesnowiosenny workowiec o palczastym lub dzwonkowatym, ochrowobrązowym do żółtobrązowego kapeluszu, który zwisa całkowicie wolno na trzonie i jest przyrośnięty tylko na samym szczycie. Kapelusz ma 2–4 cm wysokości i 1.5–3 cm szerokości, z wyraźnymi podłużnymi, rozgałęzionymi zmarszczkami i żebrami, a nie z regularnym plastrami jam. Trzon jest wysoki, kremowobiały do jasnoochrowego, często z delikatnymi, łuseczkowatymi przepaskami, pusty albo luźno wypełniony białymi, watowatymi włóknami. Rośnie na ziemi w wilgotnych drzewostanach liściastych, zwłaszcza pod topolami, osikami i jesionami.",
+      "cap": "Ma 2–4 cm wysokości i 1.5–3 cm szerokości (środkowoeuropejskie przewodniki podają często nieco węższy kapelusz, około 1.5–2.5 cm). Jest palczasty lub dzwonkowaty, albo niemal stożkowaty, czasem nieregularny. Ochrowobrązowy do żółtobrązowego lub oliwkowobrązowego, z podłużnymi, mózgowo pofałdowanymi zmarszczkami i żebrami od wierzchołka do brzegu; starsze owocniki mogą wyglądać nieco jamkowato. Dolny brzeg zwisa wolno od trzonu, a spód jest białawy i lekko filcowaty.",
+      "hymenium": "Warstwa zarodnikotwórcza znajduje się na zewnętrznej, pomarszczonej powierzchni kapelusza. Jest ułożona w podłużne żebra i zmarszczki, a nie w regularny plaster jam.",
+      "stipe": "W opisach północnoamerykańskich ma 8–22 cm długości i 1.5–3 cm grubości; środkowoeuropejskie przewodniki podają zwykle krótszy i smuklejszy trzon, około 5–12 cm długości i 1–2 cm grubości. Walcowaty, równogruby albo lekko zwężony, kremowobiały do jasnoochrowego lub matowożółtego, po dotknięciu czasem lekko pomarańczowy. Powierzchnia często ma delikatny, ziarnisty nalot w słabo zaznaczonych koncentrycznych przepaskach. Jest pusty albo luźno wypełniony białymi, watowatymi, puszystymi włóknami.",
+      "flesh": "Cienki, białawy i kruchy, bez wyraźnego zapachu i smaku. Na przekroju podłużnym kapelusz łączy się z trzonem tylko na szczycie, a trzon jest pusty albo wypełniony luźnymi watowatymi włóknami, nie jedną ciągłą jamą wspólną z kapeluszem.",
+      "sporePrint": "Bladoochrowożółty do żółtego. Zarodniki są bardzo duże, około 48–85 × 15–24 µm, elipsoidalne i gładkie, zwykle po dwa w worku.",
+      "habitat": "Na ziemi wczesną wiosną, typowo od marca do maja, w wilgotnych lasach liściastych lub mieszanych. Często pod topolami, osikami i jesionami, wśród zeszłorocznych liści; podawany także pod innymi drzewami liściastymi i sporadycznie pod iglastymi. Owocniki pojawiają się pojedynczo lub w małych grupach.",
+      "uses": "W niektórych okolicach jest powszechnie zbierany do jedzenia, ale u części osób może powodować dolegliwości żołądkowe i chwilową utratę równowagi, zwłaszcza po dużych porcjach lub po spożyciu przez kilka dni z rzędu. Notowano też nietolerancję alkoholu. Należy traktować go jako jadalnego tylko z ostrożnością: dokładnie obróbka cieplna, najpierw tylko mała próbka i nie jeść go w dużej ilości ani przez kolejne dni. Surowego nie wolno spożywać.",
+      "confusion": "Prawdziwe smardze, na przykład Morchella esculenta, mają kapelusz z regularnym plastrem jam zrośnięty z trzonem na całej długości, a owocnik jest pusty w jednej ciągłej jamie. Smardz półwolny (Morchella semilibera) ma kapelusz zrośnięty z trzonem mniej więcej w górnej połowie, wolna jest tylko dolna połowa, a trzon jest całkowicie pusty. Verpa conica ma podobny wolny, palczasty kapelusz, ale powierzchnia jest gładka albo tylko słabo pomarszczona. Śmiertelnie trująca Gyromitra esculenta ma czerwonobrązowy, klapowany, mózgowaty kapelusz i krótki, komorowaty trzon; najpewniejszym sposobem rozróżnienia jest podłużne przecięcie owocnika.",
+      "notes": "Europejskie i północnoamerykańskie zakresy wielkości różnią się, jak podano przy kapeluszu i trzonie. Podstawową próbą terenową jest sprawdzenie, że kapelusz jest przyrośnięty tylko na szczycie i zwisa wolno, jak naparstek na palcu. Ponieważ niektórzy ludzie są wrażliwi nawet na dokładnie przyrządzone owocniki, gatunku tego nie traktuje się jak zwykłego jadalnego smardza.",
+      "names": [
+        "Smardzówka czeska"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131",
+        "https://www.wikidata.org/wiki/Q1463716",
+        "https://pl.wikipedia.org/wiki/Naparstniczka_czeska"
+      ],
+      "label": "Naparstniczka czeska"
+    },
+    "pt": {
+      "description": "Um ascomiceta de início de primavera, com chapéu em forma de dedal ou de campânula, ocráceo a castanho-amarelado, que pende completamente livre do pé e só está ligado no extremo superior. O chapéu tem 2–4 cm de altura e 1.5–3 cm de largura, com fortes rugas e costelas longitudinais ramificadas, e não um favo regular de alvéolos. O pé é alto, branco-creme a ocre pálido, muitas vezes com finas faixas escamosas, oco ou frouxamente preenchido com fibras brancas algodoadas. Frutifica no solo em povoamentos húmidos de folhosas, especialmente sob choupos, álamos e freixos.",
+      "cap": "Com 2–4 cm de altura e 1.5–3 cm de largura (os guias da Europa Central indicam muitas vezes um chapéu um pouco mais estreito, cerca de 1.5–2.5 cm). Em forma de dedal ou de campânula, ou quase cónico, por vezes irregular. Ocráceo a castanho-amarelado ou oliváceo, com rugas e costelas longitudinais, de aspeto cerebral, do ápice até à margem; os exemplares velhos podem parecer um pouco alveolados. A margem inferior pende livre do pé, e a face inferior é esbranquiçada e ligeiramente tomentosa.",
+      "hymenium": "A superfície fértil é a exterior e enrugada do chapéu. Está pregueada em costelas e rugas longitudinais, e não disposta num favo regular de alvéolos.",
+      "stipe": "Nas descrições norte-americanas tem 8–22 cm de comprimento e 1.5–3 cm de espessura; os guias da Europa Central indicam tipicamente um pé mais curto e mais delgado, com cerca de 5–12 cm de comprimento e 1–2 cm de espessura. Cilíndrico, igual ou um pouco atenuado, branco-creme a ocre pálido ou amarelo-mate, por vezes com um tom alaranjado fraco ao toque. A superfície tem muitas vezes uma fina pruína granulosa em faixas concêntricas pouco marcadas. Oco ou frouxamente preenchido com fibras brancas, algodoadas e flocosas.",
+      "flesh": "Fina, esbranquiçada e frágil, sem cheiro nem sabor distintos. Em corte longitudinal o chapéu só está unido ao pé no ápice, e o pé é oco ou está preenchido com fibras algodoadas soltas, não numa cavidade contínua única comum com o chapéu.",
+      "sporePrint": "Amarelo-ocre pálido a amarelo. Os esporos são muito grandes, com cerca de 48–85 × 15–24 µm, elipsoides e lisos, habitualmente dois por asco.",
+      "habitat": "No solo no início da primavera, tipicamente de março a maio, em bosques húmidos de folhosas ou mistos. Muitas vezes sob choupos, álamos e freixos, entre a folhada do ano anterior; também referido sob outras folhosas e por vezes sob coníferas. Os corpos frutíferos aparecem isolados ou em pequenos grupos.",
+      "uses": "Em algumas regiões é frequentemente comido, mas pode causar em algumas pessoas mal-estar digestivo e uma perda temporária de coordenação, sobretudo após porções grandes ou refeições em dias sucessivos. Também foi descrita intolerância ao álcool. Deve tratar-se como comestível apenas com precaução: cozinhar bem, provar primeiro uma pequena quantidade e não o comer em grande quantidade nem em dias consecutivos. Nunca o comer cru.",
+      "confusion": "As morilhas verdadeiras como Morchella esculenta têm um chapéu com um favo regular de alvéolos soldado ao pé em toda a sua extensão, e o corpo frutífero é oco numa só cavidade contínua. A morilha de pé semilivre (Morchella semilibera) tem o chapéu soldado ao pé em cerca da metade superior, e só a metade inferior pende livre, com um pé completamente oco. Verpa conica tem um chapéu livre semelhante, em forma de dedal, mas uma superfície lisa ou apenas fracamente enrugada. A mortal Gyromitra esculenta tem um chapéu pardo-avermelhado, lobado, de aspeto cerebral, e um pé curto e compartimentado; a forma mais segura de as distinguir é um corte longitudinal do corpo frutífero.",
+      "notes": "Os intervalos de tamanho europeus e norte-americanos diferem, como se indica no chapéu e no pé. O principal teste de campo é verificar que o chapéu só está ligado no ápice e pende livre, como um dedal num dedo. Como algumas pessoas são sensíveis mesmo a exemplares bem cozinhados, esta espécie não é tratada como uma morilha comestível habitual.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Un ascomicet de început de primăvară, cu pălăria în formă de degetar sau de clopot, ocru până la brun-gălbui, care atârnă complet liberă pe picior și este prinsă numai în vârful extrem. Pălăria are 2–4 cm înălțime și 1.5–3 cm lățime, cu cute și coaste longitudinale ramificate, nu cu un fagure regulat de alveole. Piciorul este înalt, alb-crem până la ocru pal, adesea cu benzi fine solzoase, gol sau umplut lax cu fibre albe bumbăcoase. Fructifică pe sol în arborete umede de foioase, mai ales sub plopi, plopi tremurători și frasini.",
+      "cap": "Înaltă de 2–4 cm și lată de 1.5–3 cm (ghidurile din Europa Centrală indică adesea o pălărie puțin mai îngustă, circa 1.5–2.5 cm). În formă de degetar sau de clopot, ori aproape conică, uneori neregulată. Ocru până la brun-gălbui sau olivaceu, cu cute și coaste longitudinale, de aspect cerebral, de la vârf până la margine; exemplarele bătrâne pot părea oarecum alveolate. Marginea inferioară atârnă liberă de picior, iar fața inferioară este albicioasă și ușor tomentoasă.",
+      "hymenium": "Suprafața fertilă este cea exterioară, zbârcită, a pălăriei. Este pliată în coaste și cute longitudinale, nu așezată într-un fagure regulat de alveole.",
+      "stipe": "În descrierile nord-americane are 8–22 cm lungime și 1.5–3 cm grosime; ghidurile din Europa Centrală indică de obicei un picior mai scurt și mai subțire, de circa 5–12 cm lungime și 1–2 cm grosime. Cilindric, egal sau puțin atenuat, alb-crem până la ocru pal ori galben mat, uneori cu o nuanță portocalie slabă la atingere. Suprafața are adesea o pruină fină granulată, în benzi concentrice puțin marcate. Gol sau umplut lax cu fibre albe, bumbăcoase și flocose.",
+      "flesh": "Subțire, albicioasă și fragilă, fără miros sau gust distinct. În secțiune longitudinală pălăria este unită de picior numai în vârf, iar piciorul este gol sau umplut cu fibre bumbăcoase laxe, nu de o cavitate continuă unică, comună cu pălăria.",
+      "sporePrint": "Galben-ocru pal până la galben. Sporii sunt foarte mari, de circa 48–85 × 15–24 µm, elipsoidali și netezi, de obicei câte doi într-un asco.",
+      "habitat": "Pe sol la începutul primăverii, de obicei din martie până în mai, în păduri umede de foioase sau mixte. Adesea sub plopi, plopi tremurători și frasini, printre frunzele anului precedent; citat și sub alte foioase și uneori sub conifere. Corpurile de fructificație apar izolate sau în grupuri mici.",
+      "uses": "În unele regiuni este mâncat în mod obișnuit, dar poate provoca la unii oameni tulburări digestive și o pierdere temporară a coordonării, mai ales după porții mari sau mese în zile succesive. A fost descrisă și o intoleranță la alcool. Trebuie considerat comestibil numai cu prudență: gătit temeinic, gustat mai întâi în cantitate mică și nu mâncat în cantități mari ori în zile consecutive. Nu se mănâncă niciodată crud.",
+      "confusion": "Zbârciogii adevărați, precum Morchella esculenta, au o pălărie cu un fagure regulat de alveole sudată de picior pe toată lungimea, iar corpul de fructificație este gol într-o singură cavitate continuă. Zbârciogul cu picior semiliber (Morchella semilibera) are pălăria sudată de picior pe circa jumătatea superioară, numai jumătatea inferioară atârnând liberă, și un picior complet gol. Verpa conica are o pălărie liberă asemănătoare, în formă de degetar, dar o suprafață netedă sau doar slab zbârcită. Mortala Gyromitra esculenta are o pălărie brun-roșiatică, lobată, de aspect cerebral, și un picior scurt, camerat; cel mai sigur mod de a le deosebi este o secțiune longitudinală a corpului de fructificație.",
+      "notes": "Intervalele de mărime europene și nord-americane diferă, după cum este arătat la pălărie și la picior. Proba principală de teren este să se verifice că pălăria este prinsă numai în vârf și atârnă liberă, ca un degetar pe un deget. Deoarece unii oameni sunt sensibili chiar și la exemplare bine gătite, această specie nu este tratată ca un zbârciog comestibil obișnuit.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Ранневесенний сумчатый гриб с колпачковидной или колокольчатой, охристо-коричневой до жёлто-коричневой шляпкой, которая полностью свободно свисает на ножке и прикреплена только на самой вершине. Шляпка 2–4 cm высотой и 1.5–3 cm шириной, с выраженными продольными, ветвящимися морщинами и рёбрами, а не с правильными сотовыми ячейками. Ножка высокая, кремово-белая до бледно-охристой, часто с тонкими чешуйчатыми поясками, полая или рыхло заполненная белыми, ватообразными волокнами. Плодоносит на почве во влажных лиственных насаждениях, особенно под тополями, осинами и ясенями.",
+      "cap": "Высотой 2–4 cm и шириной 1.5–3 cm (среднеевропейские определители часто указывают несколько более узкую шляпку, около 1.5–2.5 cm). Колпачковидная или колокольчатая, либо почти коническая, иногда неправильная. Охристо-коричневая до жёлто-коричневой или оливково-коричневой, с продольными, мозговидными морщинами и рёбрами от вершины к краю; старые плодовые тела могут выглядеть слегка ячеистыми. Нижний край свободно свисает от ножки, а нижняя сторона беловатая и слегка войлочная.",
+      "hymenium": "Спороносный слой расположен на внешней, морщинистой поверхности шляпки. Он сложен в продольные рёбра и морщины, а не в правильный сотовый рисунок ячеек.",
+      "stipe": "В североамериканских описаниях длиной 8–22 cm и толщиной 1.5–3 cm; среднеевропейские определители обычно указывают более короткую и тонкую ножку, около 5–12 cm длиной и 1–2 cm толщиной. Цилиндрическая, ровная или слегка суженная, кремово-белая до бледно-охристой или тускло-жёлтой, при прикосновении иногда слабо оранжевеющая. Поверхность часто с тонким зернистым налётом в неясных концентрических поясках. Полая или рыхло заполненная белыми, ватообразными, пушистыми волокнами.",
+      "flesh": "Тонкая, беловатая и хрупкая, без отчётливого запаха и вкуса. На продольном разрезе шляпка соединена с ножкой только на вершине, а ножка полая или заполнена рыхлыми ватообразными волокнами, а не одной сплошной полостью, общей со шляпкой.",
+      "sporePrint": "Бледно-охристо-жёлтый до жёлтого. Споры очень крупные, около 48–85 × 15–24 µm, эллипсоидные и гладкие, обычно по две в сумке.",
+      "habitat": "На почве ранней весной, обычно с марта по май, во влажных лиственных или смешанных лесах. Часто под тополями, осинами и ясенями, среди прошлогодней листвы; отмечается также под другими лиственными и изредка под хвойными. Плодовые тела появляются поодиночке или небольшими группами.",
+      "uses": "В некоторых местностях его нередко едят, но у некоторых людей он может вызывать расстройство пищеварения и временную потерю координации, особенно после больших порций или еды несколько дней подряд. Описана также непереносимость алкоголя. Считать съедобным только с осторожностью: тщательно готовить, сначала пробовать лишь небольшое количество и не есть в больших количествах и не несколько дней подряд. В сыром виде не употреблять.",
+      "confusion": "Настоящие сморчки, например Morchella esculenta, имеют шляпку с правильным сотовым рисунком ячеек, сросшуюся с ножкой по всей длине, а плодовое тело полое в одной сплошной полости. Полусвободный сморчок (Morchella semilibera) имеет шляпку, сросшуюся с ножкой примерно в верхней половине, свободно свисает лишь нижняя половина, а ножка полностью полая. Verpa conica имеет сходную свободную, колпачковидную шляпку, но поверхность гладкая или лишь слабо морщинистая. Смертельно ядовитая Gyromitra esculenta имеет красновато-коричневую, лопастную, мозговидную шляпку и короткую, камерную ножку; самый надёжный способ различить их — продольный разрез плодового тела.",
+      "notes": "Европейские и североамериканские диапазоны размеров различаются, как указано при шляпке и ножке. Главная полевая проверка — убедиться, что шляпка прикреплена только на вершине и свободно свисает, как напёрсток на пальце. Поскольку некоторые люди чувствительны даже к тщательно приготовленным плодовым телам, этот вид не рассматривают как обычный съедобный сморчок.",
+      "names": [
+        "Сморчковая шапочка"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1463716",
+        "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BF%D0%BE%D1%87%D0%BA%D0%B0_%D1%81%D0%BC%D0%BE%D1%80%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F",
+        "https://www.inaturalist.org/taxa/126131"
+      ],
+      "label": "Шапочка сморчковая"
+    },
+    "sk": {
+      "description": "Skorá jarná vreckatá huba so zvoncovitým až náprstkovitým, okrovo hnedým až žltohnedým klobúkom, ktorý visí úplne voľne na hlúbiku a je prirastený len na samotnom vrchole. Klobúk je 2–4 cm vysoký a 1.5–3 cm široký, s výraznými pozdĺžnymi, rozvetvenými vráskami a rebrami, nie s pravidelným plástom jamiek. Hlúbik je vysoký, smotanovo biely až belavookrový, často s jemnými šupinatými pásmi, dutý alebo riedko vyplnený bielymi, vatovitými vláknami. Rastie na zemi vo vlhkých listnatých porastoch, najmä pod topolemi, osikami a jaseňmi.",
+      "cap": "Je 2–4 cm vysoký a 1.5–3 cm široký (stredoeurópske príručky uvádzajú často o niečo užší klobúk, približne 1.5–2.5 cm). Má zvoncovitý až náprstkovitý alebo takmer kužeľovitý tvar, niekedy nepravidelný. Je okrovo hnedý až žltohnedý alebo olivovohnedý, s pozdĺžnymi, mozgovito zbrázdenými vráskami a rebrami od vrcholu k okraju; staršie plodnice môžu pôsobiť až jamkovito. Spodný okraj visí voľne od hlúbika a spodná strana je belavá a slabo plstnatá.",
+      "hymenium": "Plodná vrstva je na vonkajšom, zvrásnenom povrchu klobúka. Je zložená do pozdĺžnych rebier a vrásk, nie do pravidelného plástu jamiek.",
+      "stipe": "V severoamerických popisoch je 8–22 cm dlhý a 1.5–3 cm hrubý; stredoeurópske príručky uvádzajú typicky kratší a štíhlejší hlúbik, približne 5–12 cm dlhý a 1–2 cm hrubý. Je valcovitý, rovnako hrubý alebo mierne zúžený, smotanovo biely až belavookrový alebo matne žltý, na pohmat niekedy slabo oranžovie. Povrch má často jemný zrnkovitý povlak v nezreteľných sústredných pásoch. Je dutý alebo riedko vyplnený bielymi, vatovitými, páperovitými vláknami.",
+      "flesh": "Je tenká, belavá a krehká, bez výraznej vône a chuti. Na pozdĺžnom reze je klobúk spojený s hlúbikom len na vrchole a hlúbik je dutý alebo vyplnený voľnými vatovitými vláknami, nie jednou súvislou dutinou spoločnou s klobúkom.",
+      "sporePrint": "Bledookrovo žltý až žltý. Výtrusy sú veľmi veľké, približne 48–85 × 15–24 µm, elipsoidné a hladké, zvyčajne po dvoch vo vrecku.",
+      "habitat": "Na zemi skoro na jar, typicky od marca do mája, vo vlhkých listnatých alebo zmiešaných lesoch. Často pod topolemi, osikami a jaseňmi, vo vlaňajšom lístí; uvádza sa aj pod inými listnáčmi a ojedinele pod ihličnanmi. Plodnice rastú jednotlivo alebo v malých skupinách.",
+      "uses": "V niektorých krajoch sa bežne zbiera na jedenie, ale u niektorých ľudí môže vyvolať zažívacie ťažkosti a dočasné poruchy rovnováhy, najmä po veľkých porciách alebo pri jedení niekoľko dní po sebe. Opisuje sa aj znášanlivosť s alkoholom. Treba ho považovať za jedlý len s opatrnosťou: dôkladne ho tepelne upraviť, najprv ochutnať len malé množstvo a nejesť ho vo veľkom ani niekoľko dní za sebou. Surový sa nesmie jesť.",
+      "confusion": "Pravé smrčky, napríklad Morchella esculenta, majú klobúk s pravidelným plástom jamiek, ktorý je zrastený s hlúbikom po celej dĺžke, a plodnica je dutá v jednej súvislej dutine. Polovoľný smrčok (Morchella semilibera) má klobúk zrastený s hlúbikom približne v hornej polovici, voľná je len spodná polovica, a hlúbik je úplne dutý. Verpa conica má podobný voľný, náprstkovitý klobúk, ale povrch je hladký alebo len slabo zvrásnený. Smrteľne jedovatý Gyromitra esculenta má červenohnedý, laločnatý, mozgovitý klobúk a krátky, komorovitý hlúbik; najspoľahlivejší rozlíšovací znak je pozdĺžny rez plodnicou.",
+      "notes": "Európske a severoamerické veľkostné rozpätia sa líšia, ako je uvedené pri klobúku a hlúbiku. Základnou terénnou skúškou je overiť, že klobúk je prirastený len na vrchole a visí voľne, ako náprstok na prste. Pretože niektorí ľudia sú citliví aj na dôkladne upravené plodnice, tento druh sa nepovažuje za bežne jedlý smrčok.",
+      "names": [
+        "pasmrčok český"
+      ],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Verpa-bohemica/smrckovec-cesky/kacenka-ceska/ID626",
+        "https://www.inaturalist.org/taxa/126131",
+        "https://sk.wikipedia.org/wiki/Smr%C4%8Dkovec_%C4%8Desk%C3%BD",
+        "https://www.wikidata.org/wiki/Q1463716"
+      ],
+      "label": "smrčkovec český"
+    },
+    "sl": {
+      "description": "Zgodnjespomladanska zaprtotrosnica z zvonastim do naprstnikastim, okrasto rjavim do rumenorjavim klobukom, ki visí povsem prosto na betu in je pritrjen le na samem vrhu. Klobuk je 2–4 cm visok in 1.5–3 cm širok, z izrazitimi vzdolžnimi, razvejanimi gubami in rebri, ne pa s pravilnim satjem jamíc. Bet je visok, smetanasto bel do bledookrast, pogosto z nežnimi luskastimi pasovi, votel ali redko napolnjen z belimi, vatastimi vlakni. Raste na tleh v vlažnih listnatih sestojih, zlasti pod topoli, trepetlikami in jeseni.",
+      "cap": "Je 2–4 cm visok in 1.5–3 cm širok (srednjeevropski vodniki pogosto navajajo nekoliko ožji klobuk, približno 1.5–2.5 cm). Je zvonast do naprstnikast ali skoraj stožčast, včasih nepravilen. Okrasto rjav do rumenorjav ali oljčnorjav, z vzdolžnimi, možganasto nagubanimi gubami in rebri od vrha do roba; starejši trosnjaki lahko delujejo nekoliko jamkasti. Spodnji rob visí prosto od beta, spodnja stran pa je belkasta in rahlo plstnata.",
+      "hymenium": "Trosovnica je na zunanji, nagubani površini klobuka. Zložena je v vzdolžna rebra in gube, ne v pravilno satje jamíc.",
+      "stipe": "V severnoameriških opisih je 8–22 cm dolg in 1.5–3 cm debel; srednjeevropski vodniki običajno navajajo krajši in vitkejši bet, približno 5–12 cm dolg in 1–2 cm debel. Valjast, enako debel ali rahlo zožen, smetanasto bel do bledookrast ali motno rumen, ob otipu včasih rahlo oranžen. Površina ima pogosto nežno zrnato prevleko v slabo vidnih koncentričnih pasovih. Je votel ali redko napolnjen z belimi, vatastimi, puhastimi vlakni.",
+      "flesh": "Tanka, belkasta in krhka, brez izrazitega vonja in okusa. Na vzdolžnem prerezu je klobuk povezan z betom le na vrhu, bet pa je votel ali napolnjen z ohlapnimi vatastimi vlakni, ne z eno samo neprekinjeno votlino, skupno s klobukom.",
+      "sporePrint": "Bledo okrasto rumen do rumen. Trosi so zelo veliki, približno 48–85 × 15–24 µm, elipsoidni in gladki, običajno po dva v asku.",
+      "habitat": "Na tleh zgodaj spomladi, običajno od marca do maja, v vlažnih listnatih ali mešanih gozdovih. Pogosto pod topoli, trepetlikami in jeseni, med lanskimi listi; navedena tudi pod drugimi listavci in redkeje pod iglavci. Trosnjaki rastejo posamič ali v majhnih skupinah.",
+      "uses": "V nekaterih krajih jo pogosto nabirajo za jed, vendar lahko pri nekaterih ljudeh povzroči prebavne motnje in začasno izgubo koordinacije, zlasti po velikih obrokih ali po uživanju več dni zapored. Poročajo tudi o nezdružljivosti z alkoholom. Obravnavati jo je treba kot užitno le previdno: temeljito termično obdelati, najprej poskusiti le majhno količino in je ne jesti v večjih količinah niti več dni zapored. Surove se ne sme uživati.",
+      "confusion": "Prave smrčke, na primer Morchella esculenta, imajo klobuk s pravilnim satjem jamíc, ki je zrasel z betom po vsej dolžini, trosnjak pa je votel v eni neprekinjeni votlini. Polprosta smrčka (Morchella semilibera) ima klobuk zrasel z betom približno v zgornji polovici, prosta je le spodnja polovica, bet pa je povsem votel. Verpa conica ima podoben prost, naprstnikast klobuk, vendar je površina gladka ali le slabo nagubana. Smrtno strupena Gyromitra esculenta ima rdečerjav, krpast, možganast klobuk in kratek, prekaten bet; najzanesljivejše ločevanje je vzdolžni prerez trosnjaka.",
+      "notes": "Evropska in severnoameriška velikostna območja se razlikujejo, kot je navedeno pri klobuku in betu. Osnovni terenski preizkus je preveriti, da je klobuk pritrjen le na vrhu in visí prosto, kot naprstnik na prstu. Ker so nekateri ljudje občutljivi tudi na temeljito pripravljene trosnjake, te vrste ne obravnavamo kot običajno užitno smrčko.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131"
+      ],
+      "label": "češki smrčkovec"
+    },
+    "sr": {
+      "description": "Ранопролећна аскомицета са звонастим до напрсткастим, окераста-смеђим до жутосмеђим клобуком који виси потпуно слободно на стручку и причвршћен је само на самом врху. Клобук је висок 2–4 cm и широк 1.5–3 cm, са израженим уздужним, разгранатим наборима и ребрима, а не са правилним саћем јамица. Стручак је висок, кремастобео до бледоокераст, често са финим љускастим појасевима, шупаљ или ретко испуњен белим, ватастим влакнима. Расте на земљи у влажним листопадним састојинама, нарочито под тополама, јасикама и јасенима.",
+      "cap": "Висок је 2–4 cm и широк 1.5–3 cm (средњоевропски водичи често наводе нешто ужи клобук, око 1.5–2.5 cm). Звонаст до напрсткаст или готово купаст, понекад неправилан. Окераста-смеђ до жутосмеђ или маслинастосмеђ, са уздужним, мождано набораним наборима и ребрима од врха до ивице; старија плодна тела могу изгледати помало јамасто. Доња ивица виси слободно од стручка, а доња страна је беличаста и слабо филцаста.",
+      "hymenium": "Плодни слој је на спољашњој, набораној површини клобука. Сложен је у уздужна ребра и наборе, а не у правилно саће јамица.",
+      "stipe": "У северноамеричким описима дуг је 8–22 cm и дебео 1.5–3 cm; средњоевропски водичи обично наводе краћи и виткији стручак, око 5–12 cm дуг и 1–2 cm дебео. Ваљкаст, једнако дебео или благо сужен, кремастобео до бледоокераст или мутножут, на додир понекад благо наранџаст. Површина често има фини зрнасти премаз у слабо израженим концентричним појасевима. Шупаљ је или ретко испуњен белим, ватастим, пахуљастим влакнима.",
+      "flesh": "Танка, беличаста и крта, без изразитог мириса и укуса. На уздужном пресеку клобук је спојен са стручком само на врху, а стручак је шупаљ или испуњен рахалим ватастим влакнима, не једном непрекидном шупљином заједничком са клобуком.",
+      "sporePrint": "Бледо окерасто-жут до жут. Споре су веома велике, око 48–85 × 15–24 µm, елипсоидне и глатке, обично по две у аскусу.",
+      "habitat": "На земљи рано у пролеће, типично од марта до маја, у влажним листопадним или мешовитим шумама. Често под тополама, јасикама и јасенима, међу прошлогодишњим лишћем; наводи се и под другим лишћарима и повремено под четинарима. Плодна тела расту појединачно или у малим групама.",
+      "uses": "У неким крајевима се уобичајено бере за јело, али код неких људи може изазвати пробавне тегобе и привремени губитак координације, нарочито после великих порција или јела више дана заредом. Забележена је и нетолеранција на алкохол. Треба га сматрати јестивим само с опрезом: темељно термички обрадити, најпре пробати само малу количину и не јести га у већим количинама ни више дана заредом. Сирово се не сме јести.",
+      "confusion": "Праве смрчке, на пример Morchella esculenta, имају клобук са правилним саћем јамица сраслим са стручком дуж целе дужине, а плодно тело је шупље у једној непрекидној шупљини. Полуслободна смрчка (Morchella semilibera) има клобук срастао са стручком отприлике у горњој половини, слободна је само доња половина, а стручак је потпуно шупаљ. Verpa conica има сличан слободан, напрсткаст клобук, али је површина глатка или само слабо наборана. Смртоносно отровна Gyromitra esculenta има црвеносмеђи, режњевит, мождани клобук и кратак, комораст стручак; најсигурнији начин разликовања је уздужни пресек плодног тела.",
+      "notes": "Европски и северноамерички распони величина се разликују, како је наведено код клобука и стручка. Основни теренски тест је проверити да је клобук причвршћен само на врху и да виси слободно, као напрстак на прсту. Пошто су неки људи осетљиви и на темељно припремљена плодна тела, ова врста се не третира као уобичајено јестива смрчка.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131",
+        "https://www.wikidata.org/wiki/Q1463716",
+        "https://sr.wikipedia.org/wiki/%D0%A7%D0%B5%D1%88%D0%BA%D0%B0_%D1%81%D0%BC%D1%80%D1%87%D0%BA%D0%BE%D0%B2%D0%B8%D1%86%D0%B0"
+      ],
+      "label": "Чешка смрчковица"
+    },
+    "sv": {
+      "description": "En tidigt på våren fruktifierande sporsäckssvamp med en fingerborgs- till klockformad, ockra- till gulbrun hatt som hänger helt fri från foten och bara är fäst högst upp. Hatten är 2–4 cm hög och 1.5–3 cm bred, med tydliga längsgående, förgrenade veck och ribbor, inte med ett regelbundet vaxkakemönster av gropar. Foten är hög, gräddvit till blekt ockrafärgad, ofta med fina fjälliga band, ihålig eller löst fylld med vita, vaddlika fibrer. Den fruktifierar på marken i fuktiga lövbestånd, särskilt under popplar, aspar och askar.",
+      "cap": "2–4 cm hög och 1.5–3 cm bred (centraleuropeiska guider anger ofta en något smalare hatt, ungefär 1.5–2.5 cm). Fingerborgs- till klockformad eller nästan kägelformad, ibland oregelbunden. Ockra- till gulbrun eller olivbrun, med längsgående, hjärnlikt fårade veck och ribbor från toppen till kanten; äldre fruktkroppar kan se något gropiga ut. Den nedre kanten hänger fri från foten och undersidan är vitaktig och svagt filthårig.",
+      "hymenium": "Det fertila skiktet sitter på den yttre, skrynkliga hattytan. Det är vikt i längsgående ribbor och veck, inte som ett regelbundet vaxkakemönster av gropar.",
+      "stipe": "I nordamerikanska beskrivningar 8–22 cm lång och 1.5–3 cm tjock; centraleuropeiska guider anger typiskt en kortare, slankare fot, ungefär 5–12 cm lång och 1–2 cm tjock. Cylindrisk, jämntjock eller något avsmalnande, gräddvit till blekt ockrafärgad eller mattgul, vid beröring ibland svagt orangefärgad. Ytan har ofta ett fint kornigt överdrag i otydliga koncentriska band. Ihålig eller löst fylld med vita, vaddlika, luddiga fibrer.",
+      "flesh": "Tunt, vitaktigt och skört, utan tydlig lukt eller smak. I längdsnitt är hatten bara förbunden med foten i toppen, och foten är ihålig eller fylld med lösa vaddlika fibrer, inte i ett enda sammanhängande hålrum gemensamt med hatten.",
+      "sporePrint": "Blekt ockragult till gult. Sporerna är mycket stora, ungefär 48–85 × 15–24 µm, ellipsoida och släta, vanligen två per sporsäck.",
+      "habitat": "På marken tidigt på våren, typiskt från mars till maj, i fuktiga löv- eller blandskogar. Ofta under popplar, aspar och askar, bland fjolårslöv; även uppgiven under andra lövträd och ibland under barrträd. Fruktkropparna står ensamma eller i små grupper.",
+      "uses": "I vissa trakter äts den ofta, men den kan hos somliga ge magbesvär och tillfällig koordinationsstörning, särskilt efter stora portioner eller efter flera dagar i följd. Alkoholintolerans är också beskriven. Behandla den som ätlig endast med försiktighet: tillaga den grundligt, prova först en liten mängd och ät den inte i större mängder eller flera dagar i rad. Ät den aldrig rå.",
+      "confusion": "Äkta murklor som Morchella esculenta har en hatt med ett regelbundet vaxkakemönster av gropar som är sammanvuxen med foten längs hela längden, och fruktkroppen är ihålig i ett enda sammanhängande hålrum. Den halvfria murklan (Morchella semilibera) har en hatt som är sammanvuxen med foten ungefär i den övre hälften, medan bara den nedre hälften hänger fri, och en helt ihålig fot. Verpa conica har en liknande fri, fingerborgslik hatt, men en slät eller bara svagt skrynklig yta. Den dödligt giftiga Gyromitra esculenta har en rödbrun, flikig, hjärnlik hatt och en kort, kamrad fot; den säkraste skillnaden är ett längdsnitt genom fruktkroppen.",
+      "notes": "De europeiska och nordamerikanska storleksintervallen skiljer sig, som anges under hatt och fot. Det viktigaste fälttestet är att kontrollera att hatten bara är fäst högst upp och hänger fri, som en fingerborg på ett finger. Eftersom somliga är känsliga även för väl tillagade fruktkroppar behandlas den här arten inte som en vanlig ätlig murkla.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131",
+        "https://www.wikidata.org/wiki/Q1463716",
+        "https://sv.wikipedia.org/wiki/Vindlad_klockmurkla"
+      ],
+      "label": "vindlad klockmurkla"
+    },
+    "tr": {
+      "description": "Erken ilkbaharda görülen bir askomiset; yüksük veya çan biçiminde, okradan sarı-kahverengiye değişen, sapa yalnızca en tepeden bağlı duran ve tamamen serbest sarkan bir şapkası vardır. Şapka 2–4 cm yüksekliğinde ve 1.5–3 cm genişliğindedir; düzenli bir petek çukur deseninden değil, belirgin boyuna, dallanan kırışıklık ve kaburgalardan oluşur. Sap uzundur, krem-beyazdan soluk okraya değişir, çoğu zaman ince pulsu bantlar taşır, içi boştur veya gevşekçe beyaz, pamuğumsu liflerle doludur. Nemli yapraklı meşcerelerde, özellikle kavak, titrekkavak ve dişbudak altında toprakta meyve verir.",
+      "cap": "2–4 cm yüksekliğinde ve 1.5–3 cm genişliğindedir (Orta Avrupa kılavuzları çoğu zaman biraz daha dar bir şapka, yaklaşık 1.5–2.5 cm, verir). Yüksük veya çan biçiminde ya da neredeyse konik, bazen düzensizdir. Okradan sarı-kahverengiye veya zeytin kahverengisine değişir; tepeden kenara uzanan boyuna, beyin gibi oluklu kırışıklık ve kaburgaları vardır; yaşlı meyve cisimleri biraz çukurlu görünebilir. Alt kenar sapa serbestçe sarkar, alt yüzü beyazımsı ve hafif keçemsidir.",
+      "hymenium": "Verimli yüzey, şapkanın dıştaki kırışık yüzüdür. Düzenli bir petek çukur deseni olarak değil, boyuna kaburga ve kırışıklıklar halinde katlanmıştır.",
+      "stipe": "Kuzey Amerika betimlemelerinde 8–22 cm uzunluğunda ve 1.5–3 cm kalınlığındadır; Orta Avrupa kılavuzları tipik olarak daha kısa ve ince bir sap, yaklaşık 5–12 cm uzunluk ve 1–2 cm kalınlık verir. Silindirik, eşit kalınlıkta veya hafifçe incelen, krem-beyazdan soluk okraya veya mat sarıya değişir, dokununca bazen hafifçe turuncuya döner. Yüzeyde çoğu zaman belirsiz eşmerkezli bantlar halinde ince taneli bir toz bulunur. İçi boştur veya gevşekçe beyaz, pamuğumsu, pul pul liflerle doludur.",
+      "flesh": "İnce, beyazımsı ve kırılgandır, belirgin koku ve tadı yoktur. Boyuna kesitte şapka sapa yalnızca tepeden bağlıdır ve sap içi boştur ya da gevşek pamuğumsu liflerle doludur; şapkayla ortak tek bir sürekli boşluk yoktur.",
+      "sporePrint": "Soluk okra sarısından sarıya. Sporlar çok büyüktür, yaklaşık 48–85 × 15–24 µm, elipsoit ve düzgün yüzeyli, genellikle her askusta iki tanedir.",
+      "habitat": "Erken ilkbaharda, tipik olarak marttan mayısa kadar, nemli yapraklı veya karışık ormanlarda toprakta. Çoğu zaman kavak, titrekkavak ve dişbudak altında, önceki yılın yaprakları arasında; başka yapraklıların ve bazen iğne yapraklıların altında da kaydedilmiştir. Meyve cisimleri tek tek veya küçük kümeler halinde çıkar.",
+      "uses": "Bazı yörelerde sıkça yenir, ancak bazı kişilerde, özellikle büyük porsiyonlardan veya art arda birkaç gün yendikten sonra, sindirim bozukluğu ve geçici koordinasyon kaybına yol açabilir. Alkol intoleransı da bildirilmiştir. Yalnızca dikkatle yenilebilir kabul edilmelidir: iyice pişirilmeli, önce yalnızca az miktarda tadılmalı, büyük miktarda veya art arda günlerde yenmemelidir. Çiğ yenmemelidir.",
+      "confusion": "Morchella esculenta gibi gerçek kuzu göbeklerinin şapkası, sapla tüm uzunluğu boyunca kaynaşmış düzenli bir petek çukur desenine sahiptir ve meyve cismi tek bir sürekli boşlukta oyuktur. Yarı serbest kuzu göbeği (Morchella semilibera) şapkası yaklaşık üst yarıda sapa kaynaşmıştır, yalnızca alt yarı serbestçe sarkar ve sap tamamen oyuktur. Verpa conica benzer serbest, yüksük biçimli bir şapkaya sahiptir ancak yüzeyi düzgün veya yalnızca hafifçe kırışıktır. Öldürücü zehirli Gyromitra esculenta kırmızımsı kahverengi, loplu, beyin gibi bir şapka ve kısa, bölmeli bir sap taşır; en güvenilir ayırım, meyve cisminin boyuna kesitidir.",
+      "notes": "Avrupa ve Kuzey Amerika ölçü aralıkları, şapka ve sap altında belirtildiği gibi farklıdır. Başlıca arazi sınaması, şapkanın yalnızca tepeden bağlı olduğunu ve bir yüksük gibi serbestçe sarktığını denetlemektir. Bazı kişiler iyice pişmiş meyve cisimlerine bile duyarlı olduğundan, bu tür sıradan yenilebilir bir kuzu göbeği gibi ele alınmaz.",
+      "names": [
+        "Sahte Kuzugöbeği"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131"
+      ],
+      "label": "yalancı kuzu göbeği"
+    },
+    "uk": {
+      "description": "Ранньовесняний сумчастий гриб із ковпакоподібною або дзвоникуватою, вохристо-коричневою до жовто-коричневої шапинкою, яка повністю вільно звисає на ніжці і прикріплена лише на самій верхівці. Шапинка 2–4 cm заввишки і 1.5–3 cm завширшки, з виразними поздовжніми, розгалуженими зморшками і ребрами, а не з правильними стільниковими комірками. Ніжка висока, кремово-біла до блідо-вохристої, часто з тонкими лускатими поясками, порожниста або пухко заповнена білими, ватоподібними волокнами. Плодоносить на ґрунті у вологих листяних насадженнях, особливо під тополями, осиками і ясенами.",
+      "cap": "Заввишки 2–4 cm і завширшки 1.5–3 cm (середньоєвропейські визначники часто вказують дещо вужчу шапинку, близько 1.5–2.5 cm). Ковпакоподібна або дзвоникувата, чи майже конічна, іноді неправильна. Вохристо-коричнева до жовто-коричневої або оливково-коричневої, з поздовжніми, мозкоподібними зморшками і ребрами від верхівки до краю; старі плодові тіла можуть виглядати дещо комірчастими. Нижній край вільно звисає від ніжки, а нижній бік білуватий і злегка повстистий.",
+      "hymenium": "Спороносний шар розташований на зовнішній, зморшкуватій поверхні шапинки. Він складений у поздовжні ребра і зморшки, а не в правильний стільниковий малюнок комірок.",
+      "stipe": "У північноамериканських описах завдовжки 8–22 cm і завтовшки 1.5–3 cm; середньоєвропейські визначники зазвичай вказують коротшу і тоншу ніжку, близько 5–12 cm завдовжки і 1–2 cm завтовшки. Циліндрична, рівна або трохи звужена, кремово-біла до блідо-вохристої або тьмяно-жовтої, при дотику іноді слабко помаранчевіє. Поверхня часто з тонким зернистим нальотом у невиразних концентричних поясках. Порожниста або пухко заповнена білими, ватоподібними, пухнастими волокнами.",
+      "flesh": "Тонка, білувата і крихка, без виразного запаху і смаку. На поздовжньому розрізі шапинка з’єднана з ніжкою лише на верхівці, а ніжка порожниста або заповнена пухкими ватоподібними волокнами, а не однією суцільною порожниною, спільною з шапинкою.",
+      "sporePrint": "Блідо-вохристо-жовтий до жовтого. Спори дуже великі, близько 48–85 × 15–24 µm, еліпсоїдні й гладкі, зазвичай по дві в сумці.",
+      "habitat": "На ґрунті рано навесні, зазвичай з березня до травня, у вологих листяних або мішаних лісах. Часто під тополями, осиками і ясенами, серед торішнього листя; зазначається також під іншими листяними і зрідка під хвойними. Плодові тіла з’являються поодинці або невеликими групами.",
+      "uses": "У деяких місцевостях його нерідко їдять, але в деяких людей він може спричиняти розлад травлення і тимчасову втрату координації, особливо після великих порцій або їжі кілька днів поспіль. Описана також непереносимість алкоголю. Вважати їстівним лише з обережністю: ретельно готувати, спочатку пробувати лише невелику кількість і не їсти у великих кількостях і не кілька днів поспіль. У сирому вигляді не вживати.",
+      "confusion": "Справжні зморшки, наприклад Morchella esculenta, мають шапинку з правильним стільниковим малюнком комірок, що зрослася з ніжкою по всій довжині, а плодове тіло порожнисте в одній суцільній порожнині. Напіввільний зморшок (Morchella semilibera) має шапинку, що зрослася з ніжкою приблизно у верхній половині, вільно звисає лише нижня половина, а ніжка повністю порожниста. Verpa conica має подібну вільну, ковпакоподібну шапинку, але поверхня гладка або лише слабко зморшкувата. Смертельно отруйна Gyromitra esculenta має червонувато-коричневу, лопатеву, мозкоподібну шапинку і коротку, камерну ніжку; найнадійніший спосіб розрізнити їх — поздовжній розріз плодового тіла.",
+      "notes": "Європейські та північноамериканські діапазони розмірів різняться, як зазначено при шапинці і ніжці. Головна польова перевірка — переконатися, що шапинка прикріплена лише на верхівці і вільно звисає, як наперсток на пальці. Оскільки деякі люди чутливі навіть до ретельно приготованих плодових тіл, цей вид не розглядають як звичайний їстівний зморшок.",
+      "names": [
+        "Верпа чеська"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1463716",
+        "https://uk.wikipedia.org/wiki/%D0%97%D0%BC%D0%BE%D1%80%D1%88%D0%BA%D0%BE%D0%B2%D0%B0_%D1%88%D0%B0%D0%BF%D0%B8%D0%BD%D0%BA%D0%B0",
+        "https://www.inaturalist.org/taxa/126131",
+        "https://commons.wikimedia.org/wiki/Category:Verpa_bohemica"
+      ],
+      "label": "Зморшкова шапинка"
+    },
+    "zh": {
+      "description": "一种早春出现的子囊菌，菌盖呈顶针形或钟形，赭褐至黄褐色，完全游离于菌柄之上，仅在最顶端着生。菌盖高 2–4 cm、宽 1.5–3 cm，具明显的纵向分枝皱褶和肋棱，而不是规则的蜂窝状凹坑。菌柄较高，奶油白至浅赭色，常有细小的鳞片状环带，中空或以白色棉絮状菌丝疏松填充。生于潮湿阔叶林地上，尤常见于杨、山杨和梣树下。",
+      "cap": "高 2–4 cm、宽 1.5–3 cm（中欧图鉴常给出稍窄的菌盖，约 1.5–2.5 cm）。顶针形或钟形，或近圆锥形，有时不规则。赭褐至黄褐或橄榄褐色，自顶部至边缘有纵向、脑状皱褶和肋棱；较老的子实体可能略呈凹坑状。下缘游离下垂于菌柄之外，腹面近白色、稍具绒毛。",
+      "hymenium": "产孢面位于菌盖外侧皱褶表面。它折叠成纵向肋棱和皱褶，而不是排列成规则的蜂窝状凹坑。",
+      "stipe": "在北美描述中长 8–22 cm、粗 1.5–3 cm；中欧图鉴通常给出较短、较细的菌柄，约长 5–12 cm、粗 1–2 cm。圆柱形，等粗或稍向下收细，奶油白至浅赭色或暗黄色，触摸后有时略带橙色。表面常有不明显的同心环带状细粒状粉末。中空或以白色棉絮状、蓬松的菌丝疏松填充。",
+      "flesh": "薄、近白色、易碎，无明显气味或味道。纵切时菌盖仅在顶部与菌柄相连，菌柄中空或以疏松的棉絮状菌丝填充，而不是与菌盖共用一个贯通的空腔。",
+      "sporePrint": "浅赭黄至黄色。孢子很大，约 48–85 × 15–24 µm，椭圆形、光滑，通常每个子囊两枚。",
+      "habitat": "早春生于地上，通常为 3 月至 5 月，见于潮湿的阔叶林或混交林。常见于杨、山杨和梣树下，在上年落叶中；也记录于其他阔叶树下，偶尔见于针叶树下。子实体单生或成小丛。",
+      "uses": "在一些地区常被食用，但对某些人可引起消化道不适和暂时的协调障碍，尤其是在大量食用或连续数日食用之后。也有酒精不耐受的报道。只能谨慎视为可食：须充分加热，先只试食少量，不可大量或连续数日食用。切勿生食。",
+      "confusion": "真正的羊肚菌如 Morchella esculenta，菌盖具规则的蜂窝状凹坑，并沿全长与菌柄愈合，子实体在一个贯通的空腔中中空。半游离羊肚菌（Morchella semilibera）的菌盖大约在上半部与菌柄愈合，仅下半部游离下垂，菌柄完全中空。Verpa conica 也有类似的游离顶针形菌盖，但表面平滑或仅有微弱皱褶。致命的 Gyromitra esculenta 具红褐色、裂片状、脑状的菌盖和短而分隔的菌柄；最可靠的区分方法是子实体的纵切面。",
+      "notes": "欧洲和北美的尺寸范围不同，见菌盖和菌柄项下所述。野外的主要检查是确认菌盖仅在顶部着生并自由下垂，如同套在手指上的顶针。由于有些人对充分加热的子实体仍然敏感，本种不按普通可食羊肚菌处理。",
+      "names": [
+        "波地钟菌",
+        "皺蓋鐘菌"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/126131",
+        "https://www.wikidata.org/wiki/Q1463716",
+        "https://zh.wikipedia.org/wiki/%E7%AE%9A%E8%93%8B%E9%90%98%E8%8F%8C",
+        "https://commons.wikimedia.org/wiki/Category:Verpa_bohemica"
+      ],
+      "label": "皱盖钟菌"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Morchella bohemica",
+      "author": "Krombh.",
+      "year": 1828,
+      "rank": "species",
+      "type": "basionym",
+      "if": 208608
+    },
+    {
+      "name": "Mitrophora bohemica",
+      "author": "(Krombh.) Gillet",
+      "year": 1879,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 803763
+    },
+    {
+      "name": "Phalloboletus bohemicus",
+      "author": "(Krombh.) Kuntze",
+      "year": 1891,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 803770
+    },
+    {
+      "name": "Ptychoverpa bohemica",
+      "author": "(Krombh.) Boud.",
+      "year": 1907,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 122068
+    },
+    {
+      "name": "Morchella bispora",
+      "author": "Sorokin",
+      "year": 1877,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 189229
+    },
+    {
+      "name": "Phalloboletus bisporus",
+      "author": "(Sorokin) Kuntze",
+      "year": 1891,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 803771
+    },
+    {
+      "name": "Verpa bispora",
+      "author": "(Sorokin) Lagarde",
+      "year": 1924,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 803764
+    }
+  ],
+  "reserved": false,
+  "id": 254,
+  "citation": "in Cohn, Krypt.-Fl. Schlesien (Breslau) 3.2(1–2): 25 (1893) [1908]"
+},
+{
+  "name": "Helvella acetabulum",
+  "author": "(L.) Quél.",
+  "family": "Helvellaceae",
+  "genus": "Helvella",
+  "order": "Pezizales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Ascomycota",
+    "Pezizomycotina",
+    "Pezizomycetes",
+    "Pezizomycetidae",
+    "Pezizales",
+    "Helvellaceae",
+    "Helvella"
+  ],
+  "summary": [
+    "Pezizales",
+    "Helvellaceae",
+    "Helvella"
+  ],
+  "edibility": "poisonous",
+  "hymenium": "smooth",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "white",
+    "yellow",
+    "brown"
+  ],
+  "capFrom": 2.0,
+  "capTo": 12.0,
+  "stipeHeightFrom": 2.0,
+  "stipeHeightTo": 9.0,
+  "stipeThickFrom": 1.0,
+  "stipeThickTo": 5.0,
+  "fruitingFrom": 4,
+  "fruitingTo": 6,
+  "label": {
+    "ar": "هلفيلة حق الخل",
+    "bg": "Чашковидна бучка",
+    "cs": "chřapáč obecný",
+    "da": "Pokal-foldhat",
+    "de": "Hochgerippter Becherling",
+    "en": "vinegar cup",
+    "et": "karikhelvell",
+    "fi": "lehtopokaalimörsky",
+    "fr": "Helvelle en calice",
+    "he": "גביעית מעורקת",
+    "hu": "bordás serleggomba",
+    "ja": "ウラスジチャワンタケ",
+    "lt": "Paprastoji alvytė",
+    "lv": "Kausa rumpucis",
+    "nl": "Bokaalkluifzwam",
+    "no": "pokalmorkel",
+    "pl": "Piestrzyca pucharowata",
+    "ru": "Лопастник бокальчатый",
+    "sk": "chriapač kalíškovitý",
+    "sl": "pomladni loputar",
+    "sv": "pokalmurkla",
+    "tr": "Çukur Çanak",
+    "zh": "碟状马鞍菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "kališník obecný"
+    ],
+    "da": [],
+    "de": [
+      "Hochgerippte Becher-Lorchel",
+      "Hochgerippte Lorchel"
+    ],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "Helvelle en gobelet"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "Лопастник чашевидный"
+    ],
+    "sk": [
+      "chriapač čiaškovitý",
+      "kališnačka obyčajná"
+    ],
+    "sl": [
+      "pomladanski loputar"
+    ],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "碟形馬鞍菌"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=118662",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=118662",
+      "https://api.gbif.org/v1/species/match?name=Helvella%20acetabulum",
+      "https://www.gbif.org/species/2594756",
+      "https://www.wikidata.org/wiki/Q3388167",
+      "https://www.inaturalist.org/taxa/57462",
+      "https://species.wikimedia.org/wiki/Helvella_acetabulum",
+      "https://www.mushroomexpert.com/helvella_acetabulum.html",
+      "https://www.nahuby.sk/atlas-hub/Helvella-acetabulum/chriapac-kaliskovity/kalisnik-obecny/ID179",
+      "https://www.myko.cz/myko-atlas/Helvella-acetabulum/",
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+    ],
+    "ar": [
+      "https://www.wikidata.org/wiki/Q3388167"
+    ],
+    "bg": [
+      "https://www.wikidata.org/wiki/Q3388167"
+    ],
+    "cs": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum",
+      "https://www.myko.cz/myko-atlas/Helvella-acetabulum/",
+      "https://www.wikidata.org/wiki/Q3388167"
+    ],
+    "da": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+    ],
+    "de": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum",
+      "https://www.wikidata.org/wiki/Q3388167",
+      "http://www.pilze-deutschland.de/organismen/helvella-acetabulum-l-quél-1886"
+    ],
+    "es": [],
+    "et": [
+      "https://www.wikidata.org/wiki/Q3388167"
+    ],
+    "fa": [],
+    "fi": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+    ],
+    "fr": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+    ],
+    "he": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+    ],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+    ],
+    "ko": [],
+    "lt": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+    ],
+    "lv": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum",
+      "https://www.wikidata.org/wiki/Q3388167"
+    ],
+    "nl": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+    ],
+    "no": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+    ],
+    "pl": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum",
+      "https://www.wikidata.org/wiki/Q3388167"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum",
+      "https://www.wikidata.org/wiki/Q3388167"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Helvella-acetabulum/chriapac-kaliskovity/kalisnik-obecny/ID179",
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum",
+      "https://www.wikidata.org/wiki/Q3388167"
+    ],
+    "sl": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+    ],
+    "sr": [],
+    "sv": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum",
+      "https://www.wikidata.org/wiki/Q3388167"
+    ],
+    "tr": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+    ],
+    "uk": [],
+    "zh": [
+      "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+    ]
+  },
+  "added": "2026-11-28",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Helvellaceae/Helvella_acetabulum/Helvella_acetabulum@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Helvellaceae/Helvella_acetabulum/Helvella_acetabulum@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Helvellaceae/Helvella_acetabulum/Helvella_acetabulum@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Helvellaceae/Helvella_acetabulum/Helvella_acetabulum_1.webp",
+      "author": "Ewa Olchanowska",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/159705697"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Helvellaceae/Helvella_acetabulum/Helvella_acetabulum_2.webp",
+      "author": "Matthew Kvocera",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/62229141"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Helvellaceae/Helvella_acetabulum/Helvella_acetabulum_3.webp",
+      "author": "victor laborde",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/154968329"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Helvellaceae/Helvella_acetabulum/Helvella_acetabulum_4.webp",
+      "author": "victor laborde",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/272493802"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Helvellaceae/Helvella_acetabulum/Helvella_acetabulum_5.webp",
+      "author": "Elena A. Kizilova",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/220647694"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Pezizales/Helvellaceae/Helvella_acetabulum/Helvella_acetabulum@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Helvellaceae/Helvella_acetabulum/Helvella_acetabulum@1600.webp",
+      "basedOn": [],
+      "existingMark": "The 896×1200 source (JPEG/JFIF bytes in a .png filename, SHA-256 c601961649c5bcb08e4c69cf68d7bf25704b5773476266dba8705bdf9d77d3a2, Exif Orientation 1, software Picasa, no alpha) was given a centred 48 px side trim (800×1200, exact 2:3) and enlarged uniformly 2× (Lanczos) to 1600×2400. A centred 48 px trim does not clip the Gemini signature, which remains clearly inset. Official background.webp (SHA-256 d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c) was applied by colour-weighted multiply with the canonical tool tools/plate_blend/multiply_on_background.py (trim=48, weighted mode; the canonical tool was not modified). @1600 SHA-256 51f5dbcf75574a9f37d6ca1a355cf2cc7e7f4a771efeb00ee1053f09ee63391a; @400 SHA-256 8c2624785eab8ff0524741721c5e68ebac5c316ed425f17b193680cadae22231. Credit: Adrian Benko (Gemini)."
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Pezizales/Helvellaceae/Helvella_acetabulum/Helvella_acetabulum_1.webp",
+      "author": "Ewa Olchanowska",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/159705697"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Pezizales/Helvellaceae/Helvella_acetabulum/Helvella_acetabulum_2.webp",
+      "author": "Matthew Kvocera",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/62229141"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Pezizales/Helvellaceae/Helvella_acetabulum/Helvella_acetabulum_3.webp",
+      "author": "victor laborde",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/154968329"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Pezizales/Helvellaceae/Helvella_acetabulum/Helvella_acetabulum_4.webp",
+      "author": "victor laborde",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/272493802"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Pezizales/Helvellaceae/Helvella_acetabulum/Helvella_acetabulum_5.webp",
+      "author": "Elena A. Kizilova",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/220647694"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر زقي ربيعي وأوائل الصيف، ذو قبعة عميقة بشكل كأس أو قدح عرضها 2–12 سم، محمولة على ساق قصيرة سميكة محززة بعمق ومقسومة إلى جيوب. السطح الخصيب الداخلي أملس وأجرد، بني مصفر إلى بني دافئ. الساق طولها 2–9 سم وسمكها حتى 5 سم، مبيضّة إلى مغرة شاحبة، ذات أضلاع حادة الحافة ومتفرعة تصعد من الساق وتنتشر على الوجه الخارجي للكأس، غالباً بعيداً نحو الحافة. تنمو الأجسام الثمرية على التربة في الغابة، تحت الأشجار العريضة الأوراق أو الصنوبرية، غالباً في تربة كلسية، بين الفرش.",
+      "cap": "عرضها 2–12 سم (غالباً ما تعطي الأدلة في وسط أوروبا نطاقاً أضيق قليلاً، نحو 2–8 سم، وأحياناً حتى 10 سم). عميقة بشكل كأس أو قدح، وقد تتسطح مع التقدم في العمر، ذات حافة متموجة قليلاً أو ممزقة. الوجه الداخلي أملس وأجرد وبني مصفر إلى بني، أحياناً بلمسة زيتونية. الوجه الخارجي أبهت بنياً إلى بني مصفر، زغبي ناعم قرب الحافة، مزيّن بأضلاع متفرعة مبيضّة إلى ضاربة إلى البني تنطلق من الساق وغالباً تمتد بعيداً نحو الحافة.",
+      "hymenium": "السطح الخصيب هو البطانة الداخلية الملساء والجرداء للكأس. وهو ليس مطوياً ولا منقراً ولا مسنناً.",
+      "stipe": "طولها 2–9 سم وسمكها حتى 5 سم (غالباً ما تشير أدلة وسط أوروبا إلى ساق أقصر وأنحف، نحو 1–6 سم طولاً و1–3 سم سماكة). سميكة، تتسع نحو الكأس، مبيضّة إلى مغرة شاحبة أو ضاربة إلى البني. السطح مقسوم بعمق إلى جيوب ومحزز، بأضلاع حادة الحافة ومتفرعة تستمر على الوجه السفلي للكأس. من الداخل الساق مبيضّة ومقسومة إلى حجرات.",
+      "flesh": "في الكأس رقيقة وهشة وضاربة إلى البني؛ وفي الساق مبيضّة ومقسومة إلى حجرات. الرائحة والطعم غير مميزين.",
+      "sporePrint": "أبيض. الأبواغ إهليلجية عريضة وملساء، نحو 16–20 × 11–14 ميكرومتراً، مع قطرة زيت مركزية كبيرة واحدة. الأسكي ثمانية الأبواغ.",
+      "habitat": "على التربة في الربيع وأوائل الصيف، عادة من أبريل/نيسان إلى يونيو/حزيران، في غابات عريضة الأوراق أو مختلطة، تحت أشجار عريضة الأوراق أو صنوبرية، غالباً في تربة كلسية وفي أوراق العام السابق. في بعض المناطق الجبلية والساحلية الدافئة قد يظهر أيضاً في وقت لاحق من السنة. تنمو الأجسام الثمرية منفردة أو في مجموعات صغيرة.",
+      "uses": "كما هو حال بقية أفراد هذا الجنس، يُفضَّل اعتباره ساماً. يحتوي الجنس على سموم من نمط الجيرومترين، ورغم أن بعض الأدلة الإقليمية تعدّه صالحاً للأكل بعد الطبخ، فإن هذا الفهرس يعامله بالحذر نفسه الذي يعامل به الكؤوس والسروج القريبة. لا يؤكل نيئاً أبداً.",
+      "confusion": "Helvella costifera مشابه، لكن له كأساً رمادية إلى بنية رمادية بلا درجات صفراء، وأضلاع ساقه عادة كليلة الحافة لا حادة. لـHelvella leucomelaena كأس أدكن، رمادي-أسود إلى بني داكن، وساق قصيرة جداً أو مدفونة، وأضلاع لا تمتد إلى الوجه السفلي للكأس؛ وعادة ينمو تحت الصنوبر. لـHelvella queletii حافة ملتفة بقوة إلى الداخل وأضلاع تتوقف عند قاعدة الكأس. الكؤوس البنية العديمة الساق، مثل أنواع الجنس Peziza، تفتقر إلى ساق محززة ومقسومة إلى حجرات. الأنواع السرجية الشكل، مثل Helvella lacunosa وHelvella crispa، لها قبعة مفصصة، لا كأساً بشكل قدح.",
+      "notes": "نطاقات الحجم في أمريكا الشمالية ووسط أوروبا مختلفة، كما هو مبيّن عند وصف الكأس والساق. أوثق صفة ميدانية هي الطريقة التي تصعد بها الأضلاع الحادة المتفرعة من الساق بعيداً على الوجه الخارجي للكأس. ولأن الأنواع القريبة في هذا الجنس مرمّزة في هذا الفهرس على أنها سامة، لا يُعامل هذا النوع كمأكول ربيعي عادي.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q3388167"
+      ],
+      "label": "هلفيلة حق الخل"
+    },
+    "bg": {
+      "description": "Пролетен и раннолетен торбест гъбен вид с дълбока чашковидна или бокаловидна шапка, широка 2–12 cm, върху късо, дебело, дълбоко ребресто и камерно столче. Вътрешната плодна повърхност е гладка и гола, жълто-кафява до топло кафява. Столчето е дълго 2–9 cm и дебело до 5 cm, белезникаво до бледо охраво, с остроръбести, разклонени ребра, които се издигат от столчето и се разпростират по външната страна на чашката, често далеч към ръба. Плодните тела растат на почвата в гора, под широколистни или иглолистни дървета, често на варовити почви, сред постелята.",
+      "cap": "2–12 cm широка (средноевропейските определители често посочват по-тесен диапазон, около 2–8 cm, понякога до 10 cm). Дълбоко чашковидна или бокаловидна, с възрастта понякога се сплесква, с леко вълнист или накъсан ръб. Вътрешната страна е гладка, гола, жълто-кафява до кафява, понякога с маслинен оттенък. Външната страна е по-бледокафява до жълто-кафява, край ръба фино кадифена, украсена с белезникави до кафеникави разклонени ребра, които тръгват от столчето и често се простират далеч към ръба.",
+      "hymenium": "Плодната повърхност е вътрешната гладка и гола обвивка на чашката. Тя не е нагъната, ямчеста или назъбена.",
+      "stipe": "2–9 cm дълго и до 5 cm дебело (средноевропейските определители обикновено посочват по-късо и по-тънко столче, около 1–6 cm дълго и 1–3 cm дебело). Дебело, разширяващо се към чашката, белезникаво до бледо охраво или кафеникаво. Повърхността е дълбоко камерна и ребреста, с остроръбести, разклонени ребра, които продължават по долната страна на чашката. Отвътре столчето е белезникаво и камерно.",
+      "flesh": "В чашката тънка, чуплива и кафеникава; в столчето белезникава и камерна. Мирисът и вкусът не са характерни.",
+      "sporePrint": "Бял. Спорите са широко елипсоидни и гладки, около 16–20 × 11–14 µm, с една голяма централна маслена капка. Аскусите са осмоспорови.",
+      "habitat": "На почвата през пролетта и в началото на лятото, обикновено от април до юни, в широколистни или смесени гори, под широколистни или иглолистни дървета, често на варовити почви и в миналогодишна шума. В някои планински и топли крайбрежни райони може да се появи и по-късно през годината. Плодните тела растат поединично или на малки групи.",
+      "uses": "Както и другите представители на този род, най-добре е да се смята за отровна. В рода има токсини от гиромитринов тип, и въпреки че някои регионални определители я посочват като ядлива след варене, този каталог я третира със същата предпазливост като сродните чашковидни и седловидни гъби. Никога да не се яде сурова.",
+      "confusion": "Helvella costifera е сходна, но има сива до сиво-кафява чашка без жълти тонове, а ребрата на столчето обикновено са тъпи, а не остри. Helvella leucomelaena има по-тъмна, сиво-черна до тъмнокафява чашка, много късо или заровено столче и ребра, които не преминават върху долната страна на чашката; обикновено расте под борове. Helvella queletii има силно навътре подвит ръб и ребра, които спират в основата на чашката. Безстъблените кафяви чашки, например видовете от род Peziza, нямат ребресто, камерно столче. Седловидните видове, като Helvella lacunosa и Helvella crispa, имат наделена шапка, а не бокаловидна чашка.",
+      "notes": "Северноамериканските и средноевропейските диапазони на размерите се различават, както е посочено при чашката и столчето. Най-надеждният полски белег е начинът, по който острите разклонени ребра се издигат от столчето далеч по външната страна на чашката. Тъй като сродните видове от този род в каталога са означени като отровни, този вид не се третира като обикновена ядлива пролетна гъба.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q3388167"
+      ],
+      "label": "Чашковидна бучка"
+    },
+    "cs": {
+      "description": "Jarní až časně letní vřeckovýtrusný druh s hlubokým pohárovitým nebo kalichovitým kloboukem, 2–12 cm širokým, neseným krátkým, statným, hluboce žebernatým a kapsovitým třeněm. Vnitřní plodná plocha je hladká a holá, žlutohnědá až teplouně hnědá. Třeň je 2–9 cm dlouhý a až 5 cm tlustý, bělavý až bledě okrový, s ostrohrannými, větvenými žebry, která vystupují z třeně a rozbíhají se po vnější straně klobouku, často až daleko k okraji. Plodnice rostou na zemi v lesích, pod listnáči nebo jehličnany, často na vápnitých půdách, v opadu.",
+      "cap": "2–12 cm v průměru (středoevropské příručky často uvádějí o něco užší rozsah, přibližně 2–8 cm, příležitostně do 10 cm). Hluboce miskovitý nebo pohárovitý, ve stáří někdy zploštělý, s mírně zvlněným nebo natrženým okrajem. Vnitřní plocha je hladká, holá a žlutohnědá až hnědá, někdy s olivovým nádechem. Vnější strana je bledší hnědá až žlutohnědá, při okraji jemně plstnatá, ozdobená bělavými až hnědavými větvenými žebry, která vystupují z třeně a často dosahují daleko k okraji.",
+      "hymenium": "Plodná plocha je vnitřní, hladká a holá výstelka klobouku. Není skládaná, jamkatá ani ostnitá.",
+      "stipe": "2–9 cm dlouhý a až 5 cm tlustý (středoevropské příručky typicky uvádějí kratší a štíhlejší třeň, přibližně 1–6 cm dlouhý a 1–3 cm tlustý). Statný, ke klobouku se rozšiřující, bělavý až bledě okrový nebo hnědavý. Povrch je hluboce kapsovitý a žebernatý s ostrohrannými, větvenými žebry, která pokračují na vnější stranu klobouku. Uvnitř je třeň bělavý a komůrkovitý.",
+      "flesh": "V klobouku tenká, křehká a hnědavá; v třeni bělavá a komůrkovitá. Vůně a chuť nejsou výrazné.",
+      "sporePrint": "Bílý. Výtrusy jsou široce elipsoidní a hladké, přibližně 16–20 × 11–14 µm, s jednou velkou středovou olejovou kapkou. Vřecka jsou osmivýtrusá.",
+      "habitat": "Na zemi na jaře a počátkem léta, typicky od dubna do června, v listnatých nebo smíšených lesích, pod listnáči nebo jehličnany, často na vápnitých půdách a ve loňském opadu. V některých horských a teplých pobřežních oblastech se může objevit i později v roce. Plodnice rostou jednotlivě nebo v malých skupinách.",
+      "uses": "Stejně jako ostatní druhy tohoto rodu se nejlépe považuje za jedovatý. Rod obsahuje jedy podobné gyromitrinu, a ačkoli některé oblastní příručky uvádějí tento druh po uvaření jako jedlý, tento katalog k němu přistupuje se stejnou opatrností jako k příbuzným miskovitým a sedlovitým houbám. Nikdy se nejí syrový.",
+      "confusion": "Helvella costifera je podobná, má však šedý až šedohnědý klobouk bez žlutých tónů a žebra třeně jsou obvykle tupá, nikoli ostrá. Helvella leucomelaena má tmavší, šedočerný až tmavohnědý klobouk, velmi krátký nebo v zemi skrytý třeň a žebra, která nezasahují na vnější stranu klobouku; obvykle roste pod borovicemi. Helvella queletii má silně dovnitř stočený okraj a žebra, která končí na bázi klobouku. Beztrenné hnědé misky, například druhy rodu Peziza, nemají žebernatý, komůrkovitý třeň. Druhy se sedlovitým kloboukem, jako Helvella lacunosa a Helvella crispa, mají laločnatý klobouk, nikoli pohárovou misku.",
+      "notes": "Severoamerické a středoevropské rozsahy velikosti se liší, jak je uvedeno u klobouku a třeně. Nejspolehlivějším terénním znakem je, že ostrá, větvená žebra vystupují z třeně daleko po vnější straně klobouku. Protože příbuzné druhy tohoto rodu jsou v tomto katalogu označeny jako jedovaté, tento druh se nepovažuje za běžnou jarní jedlou houbu.",
+      "names": [
+        "kališník obecný"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum",
+        "https://www.myko.cz/myko-atlas/Helvella-acetabulum/",
+        "https://www.wikidata.org/wiki/Q3388167"
+      ],
+      "label": "chřapáč obecný"
+    },
+    "da": {
+      "description": "En forårs- til tidligsommer-sæksporesvamp med en dyb bæger- eller pokalformet hat, 2–12 cm bred, på en kort, kraftig, dybt ribbet og lommet stok. Den indre fertile overflade er glat og nøgen, gulbrun til varmt brun. Stokken er 2–9 cm lang og op til 5 cm tyk, hvidlig til bleg okker, med skarpkantede, gaffeldelte ribber, der løber op fra stokken og spreder sig over hattens yderside, ofte langt ud mod randen. Frugtlegemerne vokser på jorden i skov, under løv- eller nåletræer, ofte på kalkholdig jord, blandt løvstrøelse.",
+      "cap": "2–12 cm bred (centraleuropæiske førere angiver ofte et lidt smallere interval, omkring 2–8 cm, lejlighedsvis til 10 cm). Dybt skål- eller pokalformet, med alderen undertiden fladtrykt, med en let bølget eller flænset rand. Indersiden er glat, nøgen og gulbrun til brun, undertiden med olivenagtigt skær. Ydersiden er blegere brun til gulbrun, fint filtet nær randen og prydet med hvidlige til brunlige, forgrenede ribber, der udgår fra stokken og ofte når langt ud mod randen.",
+      "hymenium": "Den fertile overflade er den indre, glatte, nøgne beklædning af hatten. Den er hverken foldet, grubet eller tornet.",
+      "stipe": "2–9 cm lang og op til 5 cm tyk (centraleuropæiske førere angiver typisk en kortere, slankere stok, omkring 1–6 cm lang og 1–3 cm tyk). Kraftig, bredere op mod hatten, hvidlig til bleg okker eller brunlig. Overfladen er dybt lommet og ribbet med skarpkantede, gaffeldelte ribber, der fortsætter ind på undersiden af hatten. Indvendigt er stokken hvidlig og kamret.",
+      "flesh": "I hatten tyndt, skørt og brunligt; i stokken hvidligt og kamret. Lugt og smag er ikke karakteristiske.",
+      "sporePrint": "Hvidt. Sporerne er bredt ellipsoide og glatte, omkring 16–20 × 11–14 µm, med én stor central oliedråbe. Askierne er otte-sporede.",
+      "habitat": "På jorden om foråret og tidligt om sommeren, typisk fra april til juni, i løv- eller blandingsskov, under løv- eller nåletræer, ofte på kalkholdig jord og i fjorårets løv. I nogle bjerg- og varme kystegne kan den også vise sig senere på året. Frugtlegemerne vokser enkeltvis eller i små grupper.",
+      "uses": "Ligesom andre arter i slægten bør den behandles som giftig. Slægten indeholder gyromitrinlignende gifte, og selvom nogle regionale førere angiver arten som spiselig efter kogning, behandler dette katalog den med samme forsigtighed som beslægtede bæger- og saddelsvampe. Spis den aldrig rå.",
+      "confusion": "Helvella costifera ligner, men har en grå til gråbrun hat uden gule toner, og stokribberne er som regel stumpe, ikke skarpe. Helvella leucomelaena har en mørkere, gråsort til mørkebrun hat, en meget kort eller nedgravet stok og ribber, der ikke fortsætter ind på undersiden af hatten; den vokser som regel under fyr. Helvella queletii har en stærkt indrullet rand og ribber, der stopper ved hattens basis. Stokløse brune bægre, for eksempel arter af slægten Peziza, mangler en ribbet, kamret stok. Saddelformede arter som Helvella lacunosa og Helvella crispa har en lapdelt hat, ikke et pokalformet bæger.",
+      "notes": "De nordamerikanske og centraleuropæiske størrelsesintervaller adskiller sig, som angivet under hat og stok. Det mest pålidelige feltkendetegn er, at de skarpe, gaffeldelte ribber løber fra stokken langt op ad hattens yderside. Fordi beslægtede arter i slægten i dette katalog er kodet som giftige, behandles denne art ikke som en almindelig spiselig forårssvamp.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+      ],
+      "label": "Pokal-foldhat"
+    },
+    "de": {
+      "description": "Ein frühjahrs- bis frühsommerlicher Schlauchpilz mit einem tiefen kelch- oder pokalförmigen Hut von 2–12 cm Breite, der auf einem kurzen, derben, tief gerippten und taschenartig gekammerten Stiel sitzt. Die innere fruchtbare Fläche ist glatt und kahl, gelbbraun bis warmbraun. Der Stiel ist 2–9 cm lang und bis 5 cm dick, weißlich bis blass ockerfarben, mit scharfkantigen, sich gabelnden Rippen, die vom Stiel ausgehen und sich über die Außenseite des Hutes ausbreiten, oft weit zum Rand hin. Die Fruchtkörper wachsen am Boden im Wald, unter Laub- oder Nadelbäumen, häufig auf kalkhaltigem Boden, im Laubstreu.",
+      "cap": "2–12 cm breit (mitteleuropäische Führer geben oft einen etwas engeren Bereich an, etwa 2–8 cm, gelegentlich bis 10 cm). Tief becher- oder pokalförmig, im Alter manchmal abgeflacht, mit leicht welligem oder eingerissenem Rand. Die Innenseite ist glatt, kahl und gelbbraun bis braun, manchmal mit olivfarbenem Ton. Die Außenseite ist blasser braun bis gelbbraun, am Rand fein filzig und mit weißlichen bis bräunlichen, sich gabelnden Rippen besetzt, die vom Stiel ausgehen und oft weit zum Rand reichen.",
+      "hymenium": "Die fruchtbare Fläche ist die innere, glatte, kahle Auskleidung des Hutes. Sie ist weder gefaltet noch grubig noch stachelig.",
+      "stipe": "2–9 cm lang und bis 5 cm dick (mitteleuropäische Führer geben typischerweise einen kürzeren, schlankeren Stiel an, etwa 1–6 cm lang und 1–3 cm dick). Derb, zum Hut hin verbreitert, weißlich bis blass ockerfarben oder bräunlich. Die Oberfläche ist tief taschenartig gekammert und gerippt, mit scharfkantigen, sich gabelnden Rippen, die auf die Unterseite des Hutes übergehen. Im Inneren ist der Stiel weißlich und gekammert.",
+      "flesh": "Im Hut dünn, brüchig und bräunlich; im Stiel weißlich und gekammert. Geruch und Geschmack sind nicht auffällig.",
+      "sporePrint": "Weiß. Die Sporen sind breit ellipsoid und glatt, etwa 16–20 × 11–14 µm, mit einem großen zentralen Öltropfen. Die Schläuche sind achtsporig.",
+      "habitat": "Am Boden im Frühjahr und Frühsommer, typischerweise von April bis Juni, in Laub- oder Mischwäldern, unter Laub- oder Nadelbäumen, häufig auf kalkhaltigem Boden und in vorjährigem Laub. In manchen Gebirgs- und warmen Küstenlagen kann er auch später im Jahr erscheinen. Die Fruchtkörper wachsen einzeln oder in kleinen Gruppen.",
+      "uses": "Wie andere Vertreter dieser Gattung wird er am besten als giftig behandelt. Die Gattung enthält gyromitrinähnliche Giftstoffe, und obwohl einige regionale Führer die Art nach dem Kochen als essbar führen, behandelt sie dieser Katalog mit derselben Vorsicht wie verwandte Becher- und Sattelpilze. Nie roh essen.",
+      "confusion": "Helvella costifera ist ähnlich, hat aber einen grauen bis graubraunen Hut ohne Gelbtöne, und ihre Stielrippen sind gewöhnlich stumpf, nicht scharfkantig. Helvella leucomelaena hat einen dunkleren, grauschwarzen bis dunkelbraunen Hut, einen sehr kurzen oder im Boden verborgenen Stiel und Rippen, die nicht auf die Hutunterseite übergehen; sie wächst gewöhnlich unter Kiefern. Helvella queletii hat einen stark eingerollten Rand und Rippen, die an der Hutbasis enden. Stiellose braune Becher, etwa Arten der Gattung Peziza, haben keinen gerippten, gekammerten Stiel. Sattelförmige Arten wie Helvella lacunosa und Helvella crispa haben einen gelappten Hut, keinen pokalförmigen Becher.",
+      "notes": "Die nordamerikanischen und mitteleuropäischen Größenangaben unterscheiden sich, wie unter Hut und Stiel angegeben. Das zuverlässigste Feldmerkmal ist, dass die scharfen, sich gabelnden Rippen vom Stiel weit die Außenseite des Hutes hinauflaufen. Weil verwandte Arten dieser Gattung in diesem Katalog als giftig geführt werden, wird diese Art nicht als gewöhnlicher essbarer Frühlingspilz behandelt.",
+      "names": [
+        "Hochgerippte Becher-Lorchel",
+        "Hochgerippte Lorchel"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum",
+        "https://www.wikidata.org/wiki/Q3388167",
+        "http://www.pilze-deutschland.de/organismen/helvella-acetabulum-l-quél-1886"
+      ],
+      "label": "Hochgerippter Becherling"
+    },
+    "en": {
+      "description": "A spring to early-summer ascomycete with a deep goblet- or chalice-shaped cup, 2–12 cm across, held on a short, stout, deeply ribbed and pocketed stem. The inner fertile surface is smooth and bald, yellow-brown to warm brown. The stem is 2–9 cm long and up to 5 cm thick, whitish to pale buff, with sharp-edged, forking ribs that run up from the stem and spread across the outside of the cup, often reaching well toward the margin. It fruits on the ground in woodland, under hardwoods or conifers, often on calcareous soil, among leaf litter.",
+      "cap": "2–12 cm across (Central European guides often give a slightly narrower range, about 2–8 cm, occasionally to 10 cm). Deeply cup- or goblet-shaped, sometimes flattening in age, with a slightly wavy or torn margin. The inner surface is smooth, bald, and yellow-brown to brown, sometimes with an olive tint. The underside is paler brown to yellowish brown, finely downy near the margin, and ornamented with whitish to brownish branching ribs that extend from the stem, often far toward the margin.",
+      "hymenium": "The fertile surface is the inner, smooth, bald lining of the cup. It is not folded, pitted or toothed.",
+      "stipe": "2–9 cm long and up to 5 cm thick (Central European guides typically give a shorter, slimmer stem, about 1–6 cm long and 1–3 cm thick). Stout, broadening toward the cup, whitish to pale buff or brownish. The surface is deeply pocketed and ribbed with sharp-edged, forking ribs that continue onto the underside of the cup. Internally the stem is whitish and chambered.",
+      "flesh": "Thin, brittle and brownish in the cup; whitish and chambered in the stem. Odour and taste are not distinctive.",
+      "sporePrint": "White. Spores are broadly elliptical and smooth, about 16–20 × 11–14 µm, with one large central oil droplet. Asci are eight-spored.",
+      "habitat": "On the ground in spring and early summer, typically from April to June, in deciduous or mixed woodland, under hardwoods or conifers, often on calcareous soil and among last year's leaf litter. In some mountain and warm-coastal regions it may also appear later in the year. Fruitbodies grow alone or in small groups.",
+      "uses": "Like other members of this genus, it is best treated as poisonous. The genus contains gyromitrin-like toxins, and although some regional guides list the species as edible after cooking, this catalog treats it with the same caution as related cup and saddle fungi. Never eat it raw.",
+      "confusion": "Helvella costifera is similar but has a grey to greyish-brown cup that lacks yellow tones, and its stem ribs are usually blunt-edged rather than sharp. Helvella leucomelaena has a darker, grey-black to dark brown cup, a very short or buried stem, and ribs that do not extend onto the underside of the cup; it usually grows under pines. Helvella queletii has a strongly inrolled margin and ribs that stop at the base of the cup. Stemless brown cups such as Peziza species lack a ribbed, chambered stem. Saddle-shaped species such as Helvella lacunosa and Helvella crispa have a lobed cap, not a goblet cup.",
+      "notes": "North American and Central European size ranges differ, as given under the cup and stem. The most reliable field character is the way the sharp, forking ribs run from the stem far up the outside of the cup. Because related species in this genus are coded as poisonous in this catalog, this species is not treated as a spring edible.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=118662",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=118662",
+        "https://api.gbif.org/v1/species/match?name=Helvella%20acetabulum",
+        "https://www.gbif.org/species/2594756",
+        "https://www.wikidata.org/wiki/Q3388167",
+        "https://www.inaturalist.org/taxa/57462",
+        "https://species.wikimedia.org/wiki/Helvella_acetabulum",
+        "https://www.mushroomexpert.com/helvella_acetabulum.html",
+        "https://www.nahuby.sk/atlas-hub/Helvella-acetabulum/chriapac-kaliskovity/kalisnik-obecny/ID179",
+        "https://www.myko.cz/myko-atlas/Helvella-acetabulum/",
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+      ],
+      "label": "vinegar cup"
+    },
+    "es": {
+      "description": "Ascomiceto de primavera y principios de verano, con una copa profunda en forma de cáliz o de copa, de 2–12 cm de ancho, sostenida por un pie corto, robusto, profundamente costillado y tabicado en oquedades. La superficie fértil interna es lisa y glabra, pardo-amarillenta a pardo cálido. El pie mide 2–9 cm de largo y hasta 5 cm de grosor, blanquecino a ocre pálido, con costillas de arista aguda, ramificadas, que suben desde el pie y se extienden por la cara externa de la copa, a menudo hasta cerca del margen. Fructifica en el suelo en bosques, bajo frondosas o coníferas, a menudo en suelos calizos, entre la hojarasca.",
+      "cap": "2–12 cm de ancho (las guías de Europa central suelen dar un intervalo un poco más estrecho, unos 2–8 cm, a veces hasta 10 cm). Profundamente cupuliforme o en copa, a veces aplanándose con la edad, con el margen ligeramente ondulado o rasgado. La cara interna es lisa, glabra y pardo-amarillenta a parda, a veces con tinte oliváceo. La cara externa es de un pardo más pálido a pardo-amarillento, finamente aterciopelada cerca del margen, adornada con costillas ramificadas blanquecinas a parduscas que parten del pie y a menudo llegan lejos hacia el margen.",
+      "hymenium": "La superficie fértil es el revestimiento interno, liso y glabro, de la copa. No está plegado, alveolado ni dentado.",
+      "stipe": "2–9 cm de largo y hasta 5 cm de grosor (las guías de Europa central suelen indicar un pie más corto y delgado, de unos 1–6 cm de largo y 1–3 cm de grosor). Robusto, ensanchándose hacia la copa, blanquecino a ocre pálido o pardusco. La superficie está profundamente tabicada en oquedades y costillada, con costillas de arista aguda, ramificadas, que continúan por la cara inferior de la copa. Por dentro, el pie es blanquecino y tabicado.",
+      "flesh": "Delgada, quebradiza y pardusca en la copa; blanquecina y tabicada en el pie. El olor y el sabor no son distintivos.",
+      "sporePrint": "Blanca. Las esporas son ampliamente elipsoides y lisas, de unos 16–20 × 11–14 µm, con una gran gota de aceite central. Los ascos son octosporados.",
+      "habitat": "En el suelo en primavera y principios de verano, típicamente de abril a junio, en bosques caducifolios o mixtos, bajo frondosas o coníferas, a menudo en suelos calizos y entre la hojarasca del año anterior. En algunas regiones de montaña y de litoral cálido también puede aparecer más tarde en el año. Los cuerpos fructíferos crecen aislados o en pequeños grupos.",
+      "uses": "Como otros miembros de este género, conviene tratarlo como venenoso. El género contiene toxinas de tipo giromitrina, y aunque algunas guías regionales lo dan como comestible una vez cocinado, este catálogo lo trata con la misma precaución que las copas y las sillas emparentadas. Nunca comerlo crudo.",
+      "confusion": "Helvella costifera es semejante, pero tiene una copa gris a pardo-grisácea, sin tonos amarillos, y las costillas del pie suelen ser romas, no agudas. Helvella leucomelaena tiene una copa más oscura, gris-negra a pardo oscura, un pie muy corto o enterrado, y costillas que no se extienden por la cara inferior de la copa; suele crecer bajo pinos. Helvella queletii tiene el margen fuertemente enrollado hacia dentro y costillas que se detienen en la base de la copa. Las copas pardas sésiles, por ejemplo las especies del género Peziza, carecen de un pie costillado y tabicado. Las especies en forma de silla, como Helvella lacunosa y Helvella crispa, tienen un sombrero lobulado, no una copa en forma de cáliz.",
+      "notes": "Los intervalos de tamaño norteamericano y centroeuropeo difieren, como se indica en la copa y el pie. El carácter de campo más fiable es el modo en que las costillas agudas y ramificadas suben desde el pie lejos por la cara externa de la copa. Como las especies emparentadas de este género están codificadas como venenosas en este catálogo, esta especie no se trata como un comestible primaveral ordinario.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Kevadine kuni varasuviselt esinev kottseene liik sügava karika- või pokaalikujulise kübaraga, 2–12 cm lai, lühikesel, jässakal, sügavalt roielisel ja taskuliselt kambrilisel jalal. Sisemine eoseline pind on sile ja paljas, kollakaspruun kuni soojalt pruun. Jalg on 2–9 cm pikk ja kuni 5 cm jäme, valkjas kuni kahvatult ookerjas, teravaservaliste, hargnevate roietega, mis lähtuvad jalast ja levivad kübarapõhjale, sageli kaugele servani. Viljakehad kasvavad maapinnal metsas, leht- või okaspuude all, sageli lubjarikkal mullal, lehevarises.",
+      "cap": "2–12 cm lai (Kesk-Euroopa juhendid annavad sageli veidi kitsama vahemiku, umbes 2–8 cm, mõnikord kuni 10 cm). Sügavalt kausjas või pokaalikujuline, vananedes mõnikord lamenenud, kergelt lainelise või rebenenud servaga. Sisepind on sile, paljas ning kollakaspruun kuni pruun, mõnikord oliivja varjundiga. Välispind on kahvatumalt pruun kuni kollakaspruun, serva lähedal peenelt viltjas, ja seda kaunistavad valkjad kuni prunakad hargnevad roided, mis lähtuvad jalast ja ulatuvad sageli kaugele servani.",
+      "hymenium": "Eoseline pind on kübara sisemine, sile ja paljas vooder. See ei ole voldiline, auklik ega ogaline.",
+      "stipe": "2–9 cm pikk ja kuni 5 cm jäme (Kesk-Euroopa juhendid annavad tüüpiliselt lühema ja peenema jala, umbes 1–6 cm pika ja 1–3 cm jämeda). Jässakas, kübara poole laienev, valkjas kuni kahvatult ookerjas või prunakas. Pind on sügavalt taskuliselt kambriline ja roieline, teravaservaliste, hargnevate roietega, mis jätkuvad kübara alaküljele. Seest on jalg valkjas ja kambriline.",
+      "flesh": "Kübaras õhuke, rabe ja prunakas; jalas valkjas ja kambriline. Lõhn ja maitse ei ole iseloomulikud.",
+      "sporePrint": "Valge. Eosed on laialt ellipsoidsed ja siledad, umbes 16–20 × 11–14 µm, ühe suure keskmise õlitilgaga. Eoskotid on kaheksaeosed.",
+      "habitat": "Maapinnal kevadel ja varasuvel, tüüpiliselt aprillist juunini, leht- või segametsades, leht- või okaspuude all, sageli lubjarikkal mullal ja eelmise aasta lehtedes. Mõnel mägi- ja soojal rannikualal võib ta ilmuda ka hiljem aastal. Viljakehad kasvavad üksikult või väikeste rühmadena.",
+      "uses": "Nagu teisi selle perekonna liike, on teda kõige parem pidada mürgiseks. Perekond sisaldab güromitriinisarnaseid toksiine, ja kuigi mõned piirkondlikud juhendid märgivad liigi pärast keetmist söödavaks, käsitleb see kataloog teda sama ettevaatusega kui suguluses olevaid karika- ja sadulaseeni. Ärge kunagi sööge teda toorelt.",
+      "confusion": "Helvella costifera on sarnane, kuid tema kübar on hall kuni hallikaspruun ilma kollaste toonideta ning jala roided on tavaliselt nürid, mitte teravad. Helvella leucomelaenal on tumedam, hallikas-must kuni tumepruun kübar, väga lühike või maasse peitunud jalg ning roided, mis ei jätku kübara alaküljele; ta kasvab tavaliselt mändide all. Helvella queletii-l on tugevalt sissepoole keeratud serv ja roided, mis lõpevad kübara alusel. Jalata pruunid karikad, näiteks perekonna Peziza liigid, ei oma roielist, kambrilist jalga. Sadulakujulistel liikidel nagu Helvella lacunosa ja Helvella crispa on hõlmeline kübar, mitte pokaalikujuline karikas.",
+      "notes": "Põhja-Ameerika ja Kesk-Euroopa suurusvahemikud erinevad, nagu on esitatud kübara ja jala juures. Kõige usaldusväärsem välistunnus on see, et teravad, hargnevad roided kulgevad jalast kaugele mööda kübara välispinda. Kuna selle perekonna sugulasliigid on selles kataloogis märgitud mürgisteks, ei käsitleta seda liiki tavalise söödava kevadseenena.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q3388167"
+      ],
+      "label": "karikhelvell"
+    },
+    "fa": {
+      "description": "قارچ کیسه‌ای بهاری و اوایل تابستانی، با کلاهی عمیق به شکل جام یا پیاله به پهنای ۲–۱۲ سانتی‌متر، روی ساقه‌ای کوتاه، ستبر، عمیقاً آجدار و حجره‌دار. سطح بارور درونی صاف و بی‌کرک است، قهوه‌ای مایل به زرد تا قهوه‌ای گرم. ساقه ۲–۹ سانتی‌متر درازا و تا ۵ سانتی‌متر ستبرا دارد، سفیدک تا نخودی کم‌رنگ، با آج‌های تیزلب و شاخه‌شاخه که از ساقه بالا می‌آیند و روی رویه بیرونی جام پخش می‌شوند، اغلب تا نزدیک لبه. اندام‌های بارده روی خاک در جنگل، زیر درختان پهن‌برگ یا سوزنی‌برگ، اغلب در خاک آهکی، میان لاشبرگ می‌رویند.",
+      "cap": "پهنای ۲–۱۲ سانتی‌متر (راهنماهای اروپای مرکزی اغلب دامنهٔ کمی باریک‌تر می‌دهند، حدود ۲–۸ سانتی‌متر، گاهی تا ۱۰ سانتی‌متر). به شکل جام یا پیالهٔ عمیق، گاهی با پیری پهن می‌شود، با لبه‌ای اندکی موج‌دار یا پاره‌پاره. رویه درونی صاف، بی‌کرک و قهوه‌ای مایل به زرد تا قهوه‌ای است، گاهی با ته رنگ زیتونی. رویه بیرونی قهوه‌ای کم‌رنگ‌تر تا قهوه‌ای مایل به زرد است، نزدیک لبه نازک‌نمدی، آراسته به آج‌های شاخه‌شاخهٔ سفیدک تا مایل به قهوه‌ای که از ساقه برمی‌آیند و اغلب تا دور به سوی لبه می‌رسند.",
+      "hymenium": "سطح بارور، آستر درونی صاف و بی‌کرک جام است. چین‌خورده، گودال‌دار یا دندانه‌دار نیست.",
+      "stipe": "۲–۹ سانتی‌متر درازا و تا ۵ سانتی‌متر ستبرا (راهنماهای اروپای مرکزی معمولاً ساقه‌ای کوتاه‌تر و باریک‌تر می‌دهند، حدود ۱–۶ سانتی‌متر درازا و ۱–۳ سانتی‌متر ستبرا). ستبر، به سوی جام پهن می‌شود، سفیدک تا نخودی کم‌رنگ یا مایل به قهوه‌ای. سطح عمیقاً حجره‌دار و آجدار است، با آج‌های تیزلب و شاخه‌شاخه که روی رویه زیرین جام ادامه می‌یابند. درون ساقه سفیدک و حجره‌دار است.",
+      "flesh": "در جام نازک، شکننده و مایل به قهوه‌ای؛ در ساقه سفیدک و حجره‌دار. بو و مزه متمایز نیست.",
+      "sporePrint": "سفید. هاگ‌ها پهن‌بیضوی و صاف‌اند، حدود ۱۶–۲۰ × ۱۱–۱۴ میکرومتر، با یک قطره روغن مرکزی بزرگ. آسک‌ها هشت‌هاگی‌اند.",
+      "habitat": "روی خاک در بهار و اوایل تابستان، معمولاً از آوریل تا ژوئن، در جنگل‌های پهن‌برگ یا آمیخته، زیر درختان پهن‌برگ یا سوزنی‌برگ، اغلب در خاک آهکی و در برگ‌های سال پیش. در برخی مناطق کوهستانی و ساحلی گرم ممکن است دیرتر در سال نیز ظاهر شود. اندام‌های بارده تنها یا در گروه‌های کوچک می‌رویند.",
+      "uses": "مانند دیگر اعضای این سرده بهتر است سمی دانسته شود. این سرده زهرابه‌هایی از نوع ژیرومیترین دارد، و گرچه برخی راهنماهای منطقه‌ای آن را پس از پختن خوراکی می‌دانند، این فهرست آن را با همان احتیاطی که جام‌ها و زین‌های خویشاوند را می‌بیند، در نظر می‌گیرد. هرگز خام خورده نشود.",
+      "confusion": "Helvella costifera مشابه است، اما جامی خاکستری تا قهوه‌ای مایل به خاکستری بدون ته رنگ زرد دارد و آج‌های ساقه معمولاً کند هستند نه تیز. Helvella leucomelaena جامی تیره‌تر، خاکستری-سیاه تا قهوه‌ای تیره، ساقه‌ای بسیار کوتاه یا مدفون، و آج‌هایی دارد که به رویه زیرین جام نمی‌رسند؛ معمولاً زیر کاج می‌روید. Helvella queletii لبه‌ای به‌شدت به درون پیچیده و آج‌هایی دارد که در پایه جام بازمی‌ایستند. جام‌های قهوه‌ای بی‌ساقه، مانند گونه‌های سرده Peziza، ساقهٔ آجدار و حجره‌دار ندارند. گونه‌های زینی‌شکل، مانند Helvella lacunosa و Helvella crispa، کلاهی لبه‌دار دارند، نه جامی به شکل پیاله.",
+      "notes": "دامنه‌های اندازه در آمریکای شمالی و اروپای مرکزی، چنان‌که در توصیف جام و ساقه آمده، تفاوت دارند. مطمئن‌ترین نشانه صحرایی آن است که آج‌های تیز و شاخه‌شاخه از ساقه دور روی رویه بیرونی جام بالا می‌روند. چون گونه‌های خویشاوند این سرده در این فهرست سمی کدگذاری شده‌اند، این گونه به‌عنوان خوراکی بهاری معمولی در نظر گرفته نمی‌شود.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Keväällä ja alkukesällä esiintyvä kotelosieni, jolla on syvä malja- tai pokaalimainen lakki, 2–12 cm leveä, lyhyen, tanakan, syvästi harjaisen ja taskumaisen kammioisen jalan päällä. Sisempi itiöitä tuottava pinta on sileä ja paljas, kellanruskea tai lämpimän ruskea. Jalka on 2–9 cm pitkä ja enintään 5 cm paksu, valkeahko tai vaaleanokra, teräväsärmäisine, haarovine harjanteineen, jotka lähtevät jalasta ja leviävät lakin ulkopinnalle, usein kauas laitaan saakka. Itiöemät kasvavat maassa metsässä, lehti- tai havupuiden alla, usein kalkkipitoisella maalla, lehtikarikkeessa.",
+      "cap": "2–12 cm leveä (keskieurooppalaiset oppaat antavat usein hieman kapeamman vaihteluvälin, noin 2–8 cm, toisinaan 10 cm asti). Syvän kuppi- tai pokaalimainen, vanhetessaan toisinaan litistynyt, hieman aaltoileva- tai repeämäreunainen. Sisäpinta on sileä, paljas ja kellanruskea tai ruskea, toisinaan oliivin sävyinen. Ulkopinta on vaaleamman ruskea tai kellanruskea, laidan tuntumassa hienokarvainen, ja siinä on valkeahkoja tai ruskehtavia haarovia harjanteita, jotka lähtevät jalasta ja yltävät usein kauas laitaan.",
+      "hymenium": "Itiöitä tuottava pinta on lakin sisempi, sileä ja paljas vuoraus. Se ei ole poimuinen, kuoppainen eikä piikkinen.",
+      "stipe": "2–9 cm pitkä ja enintään 5 cm paksu (keskieurooppalaiset oppaat antavat tyypillisesti lyhyemmän ja hoikemman jalan, noin 1–6 cm pitkän ja 1–3 cm paksun). Tanakka, lakkia kohti levenevä, valkeahko, vaaleanokra tai ruskehtava. Pinta on syvän taskumaisesti kammioinen ja harjainen, teräväsärmäisine, haarovine harjanteineen, jotka jatkuvat lakin alapinnalle. Sisältä jalka on valkeahko ja kammioinen.",
+      "flesh": "Lakissa ohut, hauras ja ruskehtava; jalassa valkeahko ja kammioinen. Tuoksu ja maku eivät ole tunnusomaisia.",
+      "sporePrint": "Valkoinen. Itiöt ovat leveän ellipsoidisia ja sileitä, noin 16–20 × 11–14 µm, ja niissä on yksi suuri keskinen öljypisara. Kotelot ovat kahdeksanitiöisiä.",
+      "habitat": "Maassa keväällä ja alkukesällä, tyypillisesti huhtikuusta kesäkuuhun, lehti- tai sekametsissä, lehti- tai havupuiden alla, usein kalkkipitoisella maalla ja edellisvuoden lehdissä. Joillakin vuoristo- ja lämpimillä rannikkoalueilla se voi ilmaantua myös myöhemmin vuonna. Itiöemät kasvavat yksittäin tai pieninä ryhminä.",
+      "uses": "Kuten muutkin tämän suvun lajit, se on parasta katsoa myrkylliseksi. Suku sisältää gyromitriinin kaltaisia myrkkyjä, ja vaikka jotkin alueelliset oppaat pitävät lajia keittämisen jälkeen syötävänä, tämä luettelo käsittelee sitä samalla varovaisuudella kuin sukulaisia malja- ja satulaisia sieniä. Älä koskaan syö sitä raakana.",
+      "confusion": "Helvella costifera on samankaltainen, mutta sen lakki on harmaa tai harmaanruskea ilman keltaisia sävyjä, ja jalan harjanteet ovat tavallisesti tylppiä, eivät teräviä. Helvella leucomelaenalla on tummempi, harmaanmusta tai tummanruskea lakki, hyvin lyhyt tai maahan hautautunut jalka ja harjanteet, jotka eivät jatku lakin alapinnalle; se kasvaa tavallisesti mäntyjen alla. Helvella queletiilla on voimakkaasti sisään kiertynyt reuna ja harjanteet, jotka päättyvät lakin tyveen. Jalattomilla ruskeilla maljoilla, esimerkiksi suvun Peziza lajeilla, ei ole harjaista, kammioista jalkaa. Satulanmuotoisilla lajeilla kuten Helvella lacunosa ja Helvella crispa on liuskainen lakki, ei pokaalimaista maljaa.",
+      "notes": "Pohjoisamerikkalaiset ja keskieurooppalaiset kokovaihtelut eroavat, kuten lakin ja jalan kohdalla on esitetty. Luotettavin maastotuntomerkki on se, että terävät, haarovat harjanteet kulkevat jalasta pitkälle lakin ulkopintaa pitkin. Koska tämän suvun sukulaislajit on tässä luettelossa merkitty myrkyllisiksi, tätä lajia ei käsitellä tavallisena syötävänä kevätsienenä.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+      ],
+      "label": "lehtopokaalimörsky"
+    },
+    "fr": {
+      "description": "Ascomycète de printemps et de début d’été, à coupe profonde en forme de calice ou de goblet, large de 2–12 cm, portée par un pied court, trapu, profondément côtelé et cloisonné en poches. La surface fertile interne est lisse et glabre, brun-jaune à brun chaud. Le pied mesure 2–9 cm de long et jusqu’à 5 cm d’épaisseur, blanchâtre à ocre pâle, avec des côtes à arêtes vives, ramifiées, qui partent du pied et s’étendent sur la face externe de la coupe, souvent jusqu’assez près de la marge. Il fructifie au sol en forêt, sous feuillus ou conifères, souvent sur sol calcaire, dans la litière.",
+      "cap": "2–12 cm de large (les guides d’Europe centrale indiquent souvent une fourchette un peu plus étroite, environ 2–8 cm, parfois jusqu’à 10 cm). Profondément cupuliforme ou en goblet, parfois s’aplatissant avec l’âge, à marge légèrement ondulée ou déchirée. La face interne est lisse, glabre, brun-jaune à brune, parfois teintée d’olivâtre. La face externe est d’un brun plus pâle à brun-jaune, finement tomenteuse près de la marge, ornée de côtes ramifiées blanchâtres à brunâtres qui partent du pied et atteignent souvent loin vers la marge.",
+      "hymenium": "La surface fertile est le revêtement interne, lisse et glabre, de la coupe. Elle n’est ni plissée, ni alvéolée, ni dentée.",
+      "stipe": "2–9 cm de long et jusqu’à 5 cm d’épaisseur (les guides d’Europe centrale indiquent typiquement un pied plus court et plus grêle, d’environ 1–6 cm de long et 1–3 cm d’épaisseur). Trapu, s’élargissant vers la coupe, blanchâtre à ocre pâle ou brunâtre. La surface est profondément cloisonnée en poches et côtelée, avec des côtes à arêtes vives, ramifiées, qui se prolongent sur la face inférieure de la coupe. À l’intérieur, le pied est blanchâtre et cloisonné.",
+      "flesh": "Mince, cassante et brunâtre dans la coupe; blanchâtre et cloisonnée dans le pied. Odeur et saveur peu caractéristiques.",
+      "sporePrint": "Blanche. Les spores sont largement ellipsoïdes et lisses, d’environ 16–20 × 11–14 µm, avec une grosse gouttelette d’huile centrale. Les asques sont octosporés.",
+      "habitat": "Au sol au printemps et au début de l’été, typiquement d’avril à juin, dans les bois feuillus ou mixtes, sous feuillus ou conifères, souvent sur sol calcaire et dans les feuilles de l’année précédente. Dans certaines régions de montagne et de littoral chaud, il peut aussi apparaître plus tard dans l’année. Les fructifications poussent isolément ou en petits groupes.",
+      "uses": "Comme les autres membres de ce genre, il est préférable de le considérer comme toxique. Le genre contient des toxines de type gyromitrine, et bien que certains guides régionaux le donnent comme comestible après cuisson, ce catalogue le traite avec la même prudence que les pézizes et les selles apparentées. Ne jamais le consommer cru.",
+      "confusion": "Helvella costifera est semblable, mais sa coupe est grise à brun-gris, sans tons jaunes, et les côtes du pied sont généralement émoussées plutôt que tranchantes. Helvella leucomelaena a une coupe plus sombre, gris-noir à brun foncé, un pied très court ou enterré, et des côtes qui ne se prolongent pas sous la coupe; elle pousse habituellement sous les pins. Helvella queletii a une marge fortement enroulée et des côtes qui s’arrêtent à la base de la coupe. Les coupes brunes sessiles, par exemple les espèces du genre Peziza, n’ont pas de pied côtelé et cloisonné. Les espèces en selle, comme Helvella lacunosa et Helvella crispa, ont un chapeau lobé, non une coupe en goblet.",
+      "notes": "Les fourchettes de taille nord-américaines et d’Europe centrale diffèrent, comme indiqué sous la coupe et le pied. Le caractère de terrain le plus fiable est la façon dont les côtes aiguës et ramifiées montent du pied loin sur la face externe de la coupe. Parce que des espèces apparentées de ce genre sont codées comme toxiques dans ce catalogue, celle-ci n’est pas traitée comme un comestible printanier ordinaire.",
+      "names": [
+        "Helvelle en gobelet"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+      ],
+      "label": "Helvelle en calice"
+    },
+    "he": {
+      "description": "פטריית שק של האביב וראשית הקיץ, עם כובע עמוק בצורת גביע או כוס ברוחב 2–12 ס\"מ, על רגל קצרה, עבה, מצולעת עמוקות ומחולקת לכיסים. פני השטח הפוריים הפנימיים חלקים וקרחים, חום-צהבהב עד חום חמים. הרגל אורכה 2–9 ס\"מ ועובייה עד 5 ס\"מ, לבנבנה עד אוכרה חיוורת, עם צלעות חדות-שפה ומסתעפות העולות מהרגל ומתפשטות על הצד החיצוני של הגביע, לעיתים קרובות הרחק לעבר השוליים. גופי הפרי גדלים על הקרקע ביער, מתחת לעצים רחבי-עלים או מחטניים, לעיתים קרובות בקרקע גירית, בין השלכת.",
+      "cap": "רוחב 2–12 ס\"מ (מדריכים במרכז אירופה מציינים לעיתים טווח צר יותר, כ-2–8 ס\"מ, ולעיתים עד 10 ס\"מ). בצורת גביע עמוק או כוס, לעיתים משתטח עם הגיל, עם שוליים מעט גליים או קרועים. הצד הפנימי חלק, קרח וחום-צהבהב עד חום, לעיתים בגוון זיתי. הצד החיצוני חום בהיר יותר עד חום-צהבהב, שעיר-לבד דק ליד השוליים, מקושט בצלעות מסתעפות לבנבנות עד חומות העולות מהרגל ומגיעות לעיתים קרובות הרחק לעבר השוליים.",
+      "hymenium": "פני השטח הפוריים הם הציפוי הפנימי, החלק והקרח, של הגביע. הם אינם מקופלים, מחורצים או משוננים.",
+      "stipe": "אורך 2–9 ס\"מ ועובי עד 5 ס\"מ (מדריכים במרכז אירופה מציינים בדרך כלל רגל קצרה ודקה יותר, כ-1–6 ס\"מ אורך ו-1–3 ס\"מ עובי). עבה, מתרחבת לעבר הגביע, לבנבנה עד אוכרה חיוורת או חומה. פני השטח מחולקים לכיסים עמוקים ומצולעים, עם צלעות חדות-שפה ומסתעפות הנמשכות אל הצד התחתון של הגביע. בפנים הרגל לבנבנה ומחולקת לתאים.",
+      "flesh": "בגביע דק, שביר וחום; ברגל לבנבן ומחולק לתאים. הריח והטעם אינם אופייניים.",
+      "sporePrint": "לבן. הנבגים אליפסואידיים רחבים וחלקים, כ-16–20 × 11–14 µm, עם טיפת שמן מרכזית גדולה אחת. השקים הם בני שמונה נבגים.",
+      "habitat": "על הקרקע באביב ובראשית הקיץ, בדרך כלל מאפריל עד יוני, ביערות רחבי-עלים או מעורבים, מתחת לעצים רחבי-עלים או מחטניים, לעיתים קרובות בקרקע גירית ובשלכת של השנה שעברה. באזורים הרריים וחופיים חמים מסוימים היא עשויה להופיע גם מאוחר יותר בשנה. גופי הפרי גדלים בודדים או בקבוצות קטנות.",
+      "uses": "כמו בני הסוג האחרים, ראוי להתייחס אליה כאל רעילה. הסוג מכיל רעלים מסוג גירומיטרין, וแม้ שמדריכים אזוריים מסוימים מציינים אותה כמאכלת לאחר בישול, קטלוג זה מתייחס אליה באותה זהירות כמו אל גביעים ואוכפים קרובים. אין לאכול אותה חיה לעולם.",
+      "confusion": "Helvella costifera דומה, אך יש לה גביע אפור עד חום-אפרפר ללא גוונים צהובים, וצלעות הרגל בדרך כלל קהות ולא חדות. ל-Helvella leucomelaena גביע כהה יותר, אפור-שחור עד חום כהה, רגל קצרה מאוד או טמונה בקרקע, וצלעות שאינן נמשכות אל הצד התחתון של הגביע; היא גדלה בדרך כלל מתחת לאורנים. ל-Helvella queletii שוליים מגולגלים חזק פנימה וצלעות הנעצרות בבסיס הגביע. גביעים חומים חסרי רגל, למשל מיני Peziza, חסרים רגל מצולעת ומחולקת לתאים. למינים בצורת אוכף, כגון Helvella lacunosa ו-Helvella crispa, כובע מפורץ, לא גביע בצורת כוס.",
+      "notes": "טווחי הגודל הצפון-אמריקאיים ואלה של מרכז אירופה שונים, כפי שמצוין בתיאור הגביע והרגל. הסימן האמין ביותר בשדה הוא האופן שבו הצלעות החדות והמסתעפות עולות מהרגל הרחק על הצד החיצוני של הגביע. משום שמינים קרובים בסוג זה מקודדים בקטלוג זה כרעילים, מין זה אינו נחשב למאכל אביבי רגיל.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+      ],
+      "label": "גביעית מעורקת"
+    },
+    "hi": {
+      "description": "वसंत और ग्रीष्म के आरंभ का एक एस्कोमाइसीट, 2–12 सेमी चौड़े गहरे प्याले या गिलास आकार की टोपी के साथ, एक छोटे, मोटे, गहरे धारीदार और कक्षीय डंठल पर। भीतरी उर्वर सतह चिकनी और नंगी होती है, पीली-भूरी से गुनगुनी भूरी। डंठल 2–9 सेमी लंबा और 5 सेमी तक मोटा होता है, सफ़ेद से फीका गेरुआ, तीखे किनारे वाली शाखित पसलियों के साथ जो डंठल से ऊपर उठती हैं और प्याले के बाहरी तल पर, अक्सर किनारे तक दूर तक फैलती हैं। फलनकाय जंगल की मिट्टी पर, चौड़ी पत्ती या शंकुधारी वृक्षों के नीचे, अक्सर चूनायुक्त मिट्टी में, गिरे पत्तों के बीच उगते हैं।",
+      "cap": "2–12 सेमी चौड़ा (मध्य यूरोपीय मार्गदर्शिकाएँ अक्सर थोड़ा संकरा विस्तार देती हैं, लगभग 2–8 सेमी, कभी-कभी 10 सेमी तक)। गहरा प्याला या गिलास आकार, उम्र के साथ कभी-कभी चपटा होता है, थोड़ा लहरदार या फटा किनारा। भीतरी तल चिकना, नंगा और पीला-भूरा से भूरा होता है, कभी-कभी जैतूनी आभा के साथ। बाहरी तल अधिक फीका भूरा से पीला-भूरा होता है, किनारे के पास बारीक ऊनी, डंठल से निकलती और अक्सर किनारे की ओर दूर तक पहुँचती सफ़ेद से भूरी शाखित पसलियों से सजा होता है।",
+      "hymenium": "उर्वर सतह प्याले की भीतरी, चिकनी और नंगी परत है। यह सिलवटदार, गड्ढेदार या दाँतेदार नहीं होती।",
+      "stipe": "2–9 सेमी लंबा और 5 सेमी तक मोटा (मध्य यूरोपीय मार्गदर्शिकाएँ सामान्यतः छोटा और पतला डंठल देती हैं, लगभग 1–6 सेमी लंबा और 1–3 सेमी मोटा)। मोटा, प्याले की ओर चौड़ा होता है, सफ़ेद से फीका गेरुआ या भूरा। सतह गहरे कक्षों में बँटी और धारीदार होती है, तीखे किनारे वाली शाखित पसलियों के साथ जो प्याले के निचले तल पर जारी रहती हैं। भीतर डंठल सफ़ेद और कक्षीय होता है।",
+      "flesh": "प्याले में पतला, भंगुर और भूरा; डंठल में सफ़ेद और कक्षीय। गंध और स्वाद विशिष्ट नहीं हैं।",
+      "sporePrint": "सफ़ेद। बीजाणु चौड़े दीर्घवृत्ताकार और चिकने होते हैं, लगभग 16–20 × 11–14 µm, एक बड़े केंद्रीय तेल की बूँद के साथ। ऐस्काई आठ-बीजाणु वाले होते हैं।",
+      "habitat": "वसंत और ग्रीष्म के आरंभ में मिट्टी पर, सामान्यतः अप्रैल से जून तक, चौड़ी पत्ती या मिश्रित वनों में, चौड़ी पत्ती या शंकुधारी वृक्षों के नीचे, अक्सर चूनायुक्त मिट्टी और पिछले वर्ष के पत्तों में। कुछ पहाड़ी और गर्म तटीय क्षेत्रों में यह वर्ष में बाद में भी दिखाई दे सकता है। फलनकाय अकेले या छोटे समूहों में उगते हैं।",
+      "uses": "इस वंश के अन्य सदस्यों की तरह इसे विषैला मानना चाहिए। इस वंश में जाइरोमिट्रिन-प्रकार के विष होते हैं, और यद्यपि कुछ क्षेत्रीय मार्गदर्शिकाएँ पकाने के बाद इसे खाद्य बताती हैं, यह सूची इसे संबंधित प्याले और काठी कवकों के समान सावधानी से देखती है। इसे कभी कच्चा न खाएँ।",
+      "confusion": "Helvella costifera समान है, पर उसकी प्याली धूसर से धूसर-भूरी होती है, बिना पीले रंगों के, और डंठल की पसलियाँ आमतौर पर कुंठ होती हैं, तीखी नहीं। Helvella leucomelaena की प्याली अधिक गहरी, धूसर-काली से गहरी भूरी होती है, डंठल बहुत छोटा या मिट्टी में धँसा होता है, और पसलियाँ प्याले के निचले तल तक नहीं पहुँचतीं; यह आमतौर पर चीड़ के नीचे उगती है। Helvella queletii का किनारा भीतर की ओर दृढ़ता से मुड़ा होता है और पसलियाँ प्याले के आधार पर रुक जाती हैं। बिना डंठल की भूरी प्यालियाँ, जैसे वंश Peziza की जातियाँ, धारीदार, कक्षीय डंठल से रहित होती हैं। काठी आकार की जातियाँ, जैसे Helvella lacunosa और Helvella crispa, की टोपी पालियुक्त होती है, गिलास जैसी प्याली नहीं।",
+      "notes": "उत्तर अमेरिकी और मध्य यूरोपीय आकार सीमाएँ भिन्न हैं, जैसा प्याले और डंठल के वर्णन में बताया गया है। सबसे विश्वसनीय क्षेत्र चिह्न यह है कि तीखी, शाखित पसलियाँ डंठल से प्याले के बाहरी तल पर दूर तक उठती हैं। क्योंकि इस वंश की संबंधित जातियाँ इस सूची में विषैली चिह्नित हैं, इस जाति को सामान्य खाद्य वसंत कवक नहीं माना जाता।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Proljetna do rano-ljetna ascomicetna gljiva s dubokim peharastim ili čašastim klobukom, širine 2–12 cm, na kratkoj, čvrstoj, duboko rebrastoj i džepastoj stručki. Unutarnja plodna površina je glatka i gola, žutosmeđa do toplo smeđa. Stručak je dugačak 2–9 cm i debeo do 5 cm, bjelkast do blijedo okrast, s oštrobridnim, razgranatim rebrima koja izlaze iz stručka i šire se po vanjskoj strani klobuka, često daleko prema rubu. Plodišta rastu na tlu u šumama, pod bjelogoricom ili crnogoricom, često na vapnenastim tlima, u lisnom otpadu.",
+      "cap": "2–12 cm u promjeru (srednjoeuropski priručnici često daju nešto uži raspon, oko 2–8 cm, povremeno do 10 cm). Duboko zdjelast ili peharast, u starosti ponekad spljošten, s blago valovitim ili rastrganim rubom. Unutarnja površina je glatka, gola i žutosmeđa do smeđa, ponekad s maslinastim tonom. Vanjska strana je svjetlije smeđa do žutosmeđa, pri rubu fino filcana, ukrašena bjelkastim do smeđastim razgranatim rebrima koja izlaze iz stručka i često sežu daleko prema rubu.",
+      "hymenium": "Plodna površina je unutarnja, glatka i gola postava klobuka. Nije naborana, jamasta ni bodljikava.",
+      "stipe": "2–9 cm dugačak i do 5 cm debeo (srednjoeuropski priručnici obično navode kraći i tanji stručak, oko 1–6 cm dugačak i 1–3 cm debeo). Čvrst, prema klobuku se širi, bjelkast do blijedo okrast ili smeđast. Površina je duboko džepasta i rebrasta, s oštrobridnim, razgranatim rebrima koja se nastavljaju na donju stranu klobuka. Iznutra je stručak bjelkast i komorast.",
+      "flesh": "U klobuku tanko, krhko i smeđasto; u stručku bjelkasto i komorasto. Miris i okus nisu izraženi.",
+      "sporePrint": "Bijel. Spore su široko elipsoidne i glatke, oko 16–20 × 11–14 µm, s jednom velikom središnjom uljnom kapljicom. Asci su osmerosporni.",
+      "habitat": "Na tlu u proljeće i rano ljeto, tipično od travnja do lipnja, u listopadnima ili mješovitim šumama, pod bjelogoricom ili crnogoricom, često na vapnenastim tlima i u prošlogodišnjem lišću. U nekim planinskim i toplim obalnim područjima može se pojaviti i kasnije u godini. Plodišta rastu pojedinačno ili u malim skupinama.",
+      "uses": "Kao i ostale vrste ovog roda, najbolje ju je smatrati otrovnom. Rod sadrži toksine slične giromitrinu, i iako je neki regionalni priručnici navode kao jestivu nakon kuhanja, ovaj je katalog tretira s jednakom opreznošću kao i srodne zdjelaste i sedlaste gljive. Nikada se ne jede sirova.",
+      "confusion": "Helvella costifera slična je, ali ima sivi do sivusmeđi klobuk bez žutih tonova, a rebra stručka obično su tupa, a ne oštra. Helvella leucomelaena ima tamniji, sivocrni do tamnosmeđi klobuk, vrlo kratak ili u tlu ukopan stručak i rebra koja ne prelaze na donju stranu klobuka; obično raste pod borovima. Helvella queletii ima jako prema unutra uvijen rub i rebra koja prestaju pri dnu klobuka. Smeđe zdjelice bez stručka, na primjer vrste roda Peziza, nemaju rebrast, komorast stručak. Vrste sa sedlastim klobukom, kao Helvella lacunosa i Helvella crispa, imaju režnjevit klobuk, a ne peharastu zdjelicu.",
+      "notes": "Sjevernoamerički i srednjoeuropski rasponi veličine razlikuju se, kako je navedeno uz klobuk i stručak. Najpouzdanije terensko obilježje je to što oštra, razgranata rebra teku sa stručka daleko po vanjskoj strani klobuka. Budući da su srodne vrste ovog roda u ovom katalogu označene kao otrovne, ova se vrsta ne smatra uobičajenom proljetnom jestivom gljivom.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Tavaszi és kora nyári tömlősgomba, mély kehely vagy pohár alakú, 2–12 cm széles kalappal, rövid, zömök, mélyen bordázott és zsebesen kamrás tönkön. A belső termőfelszín sima és kopasz, sárgásbarna vagy melegbarna. A tönk 2–9 cm hosszú és legfeljebb 5 cm vastag, fehéres vagy halványokker, éles élű, elágazó bordákkal, amelyek a tönkről felkúsznak és a kehely külső oldalán, gyakran messze a szegély felé terjednek. Termőtestei talajon, erdőben, lombos vagy tűlevelű fák alatt, gyakran meszes talajon, avarban nőnek.",
+      "cap": "2–12 cm széles (a közép-európai határozók gyakran szűkebb tartományt adnak, körülbelül 2–8 cm, néha 10 cm-ig). Mélyen csésze vagy kehely alakú, korral néha laposodó, enyhén hullámos vagy szakadozott szegéllyel. A belső oldal sima, kopasz, sárgásbarna vagy barna, néha olív árnyalattal. A külső oldal halványabb barna vagy sárgásbarna, a szegély közelében finoman nemezes, fehéres vagy barnás, elágazó bordákkal, amelyek a tönkről indulnak és gyakran messze a szegély felé nyúlnak.",
+      "hymenium": "A termőfelszín a kehely belső, sima és kopasz bélése. Nem redős, gödörkés vagy fogazott.",
+      "stipe": "2–9 cm hosszú és legfeljebb 5 cm vastag (a közép-európai határozók tipikusan rövidebb és vékonyabb tönköt adnak, körülbelül 1–6 cm hosszú és 1–3 cm vastag). Zömök, a kehely felé szélesedő, fehéres vagy halványokker, esetleg barnás. A felszín mélyen zsebesen kamrás és bordázott, éles élű, elágazó bordákkal, amelyek a kehely alsó oldalán folytatódnak. Belül a tönk fehéres és kamrás.",
+      "flesh": "A kehelyben vékony, törékeny és barnás; a tönkben fehéres és kamrás. Szaga és íze nem jellegzetes.",
+      "sporePrint": "Fehér. A spórák széles elliptikusak és simák, körülbelül 16–20 × 11–14 µm, egy nagy központi olajcseppel. A tömlők nyolcspórásak.",
+      "habitat": "Talajon tavasszal és kora nyáron, tipikusan áprilistól júniusig, lomberdőben vagy elegyes erdőben, lombos vagy tűlevelű fák alatt, gyakran meszes talajon és az előző évi avarban. Egyes hegyi és meleg tengerparti vidékeken később is megjelenhet az évben. A termőtestek magányosan vagy kis csoportokban nőnek.",
+      "uses": "A nemzetség többi tagjához hasonlóan mérgezőként érdemes kezelni. A nemzetség giromitrinszerű toxinokat tartalmaz, és bár egyes regionális határozók főzés után ehetőnek adják, ez a katalógus ugyanazzal az óvatossággal kezeli, mint a rokon csésze- és nyereggombákat. Soha ne fogyasszuk nyersen.",
+      "confusion": "A Helvella costifera hasonló, de szürke vagy szürkésbarna kelyhe van, sárga tónusok nélkül, és a tönk bordái általában tompák, nem élesek. A Helvella leucomelaena sötétebb, szürkésfekete vagy sötétbarna kelyhű, nagyon rövid vagy földbe süllyedt tönkű, és bordái nem nyúlnak a kehely alsó oldalára; általában fenyők alatt nő. A Helvella queletii erősen begöngyölt szegélyű, és bordái a kehely tövénél megállnak. A tönk nélküli barna csészék, például a Peziza fajok, nem rendelkeznek bordázott, kamrás tönkkel. A nyereg alakú fajoknak, mint a Helvella lacunosa és a Helvella crispa, karéjos kalapjuk van, nem kehely alakú csészéjük.",
+      "notes": "Az észak-amerikai és a közép-európai mérettartományok különböznek, ahogy a kehely és a tönk leírásánál jelezzük. A legmegbízhatóbb terepi bélyeg az, ahogyan az éles, elágazó bordák a tönkről messze felkúsznak a kehely külső oldalán. Mivel e nemzetség rokon fajai ebben a katalógusban mérgezőként vannak kódolva, ezt a fajt nem kezeljük szokványos ehető tavaszi gombaként.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+      ],
+      "label": "bordás serleggomba"
+    },
+    "id": {
+      "description": "Ascomycota musim semi hingga awal musim panas, dengan tudung berbentuk cawan atau piala yang dalam, lebar 2–12 cm, pada batang pendek, kekar, berusuk dalam dan beruang-ruang. Permukaan subur bagian dalam licin dan gundul, cokelat kekuningan hingga cokelat hangat. Batang 2–9 cm panjangnya dan hingga 5 cm tebalnya, keputihan hingga oker pucat, dengan rusuk bertepi tajam dan bercabang yang naik dari batang dan menyebar di sisi luar cawan, sering jauh ke arah tepi. Tubuh buah tumbuh di tanah di hutan, di bawah pohon berdaun lebar atau conifer, sering pada tanah berkapur, di antara seresah.",
+      "cap": "Lebar 2–12 cm (panduan Eropa Tengah sering memberi kisaran sedikit lebih sempit, sekitar 2–8 cm, kadang hingga 10 cm). Berbentuk cawan atau piala yang dalam, kadang merata seiring usia, dengan tepi sedikit bergelombang atau robek. Sisi dalam licin, gundul, dan cokelat kekuningan hingga cokelat, kadang dengan rona zaitun. Sisi luar lebih pucat cokelat hingga cokelat kekuningan, berbulu halus dekat tepi, dihiasi rusuk bercabang keputihan hingga kecokelatan yang berangkat dari batang dan sering menjangkau jauh ke arah tepi.",
+      "hymenium": "Permukaan subur adalah lapisan dalam cawan yang licin dan gundul. Ia tidak berlipat, berlekuk, atau bergigi.",
+      "stipe": "2–9 cm panjangnya dan hingga 5 cm tebalnya (panduan Eropa Tengah biasanya memberi batang yang lebih pendek dan lebih tipis, sekitar 1–6 cm panjang dan 1–3 cm tebal). Kekar, melebar ke arah cawan, keputihan hingga oker pucat atau kecokelatan. Permukaan beruang-ruang dalam dan berusuk, dengan rusuk bertepi tajam dan bercabang yang berlanjut ke sisi bawah cawan. Di dalam, batang keputihan dan beruang-ruang.",
+      "flesh": "Di cawan tipis, rapuh, dan kecokelatan; di batang keputihan dan beruang-ruang. Bau dan rasa tidak khas.",
+      "sporePrint": "Putih. Spora elipsoid lebar dan licin, sekitar 16–20 × 11–14 µm, dengan satu tetes minyak pusat yang besar. Askus berdelapan spora.",
+      "habitat": "Di tanah pada musim semi dan awal musim panas, biasanya dari April hingga Juni, di hutan berdaun lebar atau campuran, di bawah pohon berdaun lebar atau conifer, sering pada tanah berkapur dan di daun tahun sebelumnya. Di beberapa daerah pegunungan dan pesisir hangat ia juga dapat muncul lebih lanjut dalam tahun. Tubuh buah tumbuh sendiri-sendiri atau dalam kelompok kecil.",
+      "uses": "Seperti anggota lain dari genus ini, sebaiknya dianggap beracun. Genus ini mengandung toksin tipe giromitrin, dan meskipun beberapa panduan regional menyebutnya dapat dimakan setelah dimasak, katalog ini memperlakukannya dengan kehati-hatian yang sama seperti cawan dan pelana kerabatnya. Jangan pernah dimakan mentah.",
+      "confusion": "Helvella costifera serupa, tetapi memiliki cawan abu-abu hingga cokelat keabu-abuan tanpa nada kuning, dan rusuk batangnya biasanya tumpul, bukan tajam. Helvella leucomelaena memiliki cawan yang lebih gelap, abu-hitam hingga cokelat tua, batang sangat pendek atau terbenam, dan rusuk yang tidak merambat ke sisi bawah cawan; biasanya tumbuh di bawah pinus. Helvella queletii memiliki tepi yang terlipat kuat ke dalam dan rusuk yang berhenti di pangkal cawan. Cawan cokelat tanpa batang, misalnya spesies genus Peziza, tidak memiliki batang berusuk dan beruang-ruang. Spesies berbentuk pelana, seperti Helvella lacunosa dan Helvella crispa, memiliki tudung berlobus, bukan cawan berbentuk piala.",
+      "notes": "Kisaran ukuran Amerika Utara dan Eropa Tengah berbeda, sebagaimana dinyatakan pada cawan dan batang. Ciri lapangan yang paling andal adalah cara rusuk tajam dan bercabang naik dari batang jauh di sisi luar cawan. Karena spesies kerabat dalam genus ini dikodekan sebagai beracun dalam katalog ini, spesies ini tidak diperlakukan sebagai jamur musim semi yang biasa dimakan.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Ascomicete primaverile e di inizio estate, con una coppa profonda a forma di calice o di goblet, larga 2–12 cm, portata da un gambo corto, tozzo, profondamente costolato e suddiviso in tasche. La superficie fertile interna è liscia e glabra, bruno-giallastra o bruno caldo. Il gambo è lungo 2–9 cm e fino a 5 cm di spessore, biancastro o ocraceo pallido, con costole a spigolo vivo, ramificate, che salgono dal gambo e si estendono sulla faccia esterna della coppa, spesso fino vicino al margine. Fruttifica al suolo nei boschi, sotto latifoglie o conifere, spesso su suoli calcarei, tra la lettiera.",
+      "cap": "2–12 cm di larghezza (le guide dell’Europa centrale indicano spesso un intervallo un po’ più stretto, circa 2–8 cm, talvolta fino a 10 cm). Profondamente cupuliforme o a coppa, talvolta appiattendosi con l’età, con il margine leggermente ondulato o lacerato. La faccia interna è liscia, glabra e bruno-giallastra o bruna, talvolta con tinta olivacea. La faccia esterna è di un bruno più chiaro o bruno-giallastro, finemente tomentosa presso il margine, ornata di costole ramificate biancastre o brunastre che partono dal gambo e spesso arrivano lontano verso il margine.",
+      "hymenium": "La superficie fertile è il rivestimento interno, liscio e glabro, della coppa. Non è pieghettata, alveolata né dentata.",
+      "stipe": "2–9 cm di lunghezza e fino a 5 cm di spessore (le guide dell’Europa centrale indicano tipicamente un gambo più corto e più sottile, di circa 1–6 cm di lunghezza e 1–3 cm di spessore). Tozzo, allargandosi verso la coppa, biancastro o ocraceo pallido o brunastro. La superficie è profondamente suddivisa in tasche e costolata, con costole a spigolo vivo, ramificate, che proseguono sulla faccia inferiore della coppa. All’interno il gambo è biancastro e camerato.",
+      "flesh": "Sottile, fragile e brunastro nella coppa; biancastro e camerato nel gambo. Odore e sapore non sono distintivi.",
+      "sporePrint": "Bianca. Le spore sono largamente ellissoidi e lisce, di circa 16–20 × 11–14 µm, con una grande goccia d’olio centrale. Gli aschi sono ottospori.",
+      "habitat": "Al suolo in primavera e all’inizio dell’estate, tipicamente da aprile a giugno, in boschi di latifoglie o misti, sotto latifoglie o conifere, spesso su suoli calcarei e nella lettiera dell’anno precedente. In alcune regioni montane e di litorale caldo può comparire anche più tardi nell’anno. I corpi fruttiferi crescono isolati o in piccoli gruppi.",
+      "uses": "Come gli altri membri di questo genere, è meglio considerarlo velenoso. Il genere contiene tossine di tipo giromitrina, e sebbene alcune guide regionali lo indichino come commestibile dopo la cottura, questo catalogo lo tratta con la stessa cautela delle coppe e delle selle affini. Non va mai mangiato crudo.",
+      "confusion": "Helvella costifera è simile, ma ha una coppa grigia o bruno-grigiastra, senza toni gialli, e le costole del gambo sono di solito ottuse, non acute. Helvella leucomelaena ha una coppa più scura, grigio-nera o bruno scuro, un gambo molto corto o interrato, e costole che non si estendono sulla faccia inferiore della coppa; cresce di solito sotto i pini. Helvella queletii ha il margine fortemente involuto e costole che si fermano alla base della coppa. Le coppe brune sessili, per esempio le specie del genere Peziza, sono prive di un gambo costolato e camerato. Le specie a forma di sella, come Helvella lacunosa e Helvella crispa, hanno un cappello lobato, non una coppa a calice.",
+      "notes": "Gli intervalli di taglia nordamericani e dell’Europa centrale differiscono, come indicato sotto la coppa e il gambo. Il carattere di campo più affidabile è il modo in cui le costole acute e ramificate salgono dal gambo lontano sulla faccia esterna della coppa. Poiché le specie affini di questo genere sono codificate come velenose in questo catalogo, questa specie non è trattata come un commestibile primaverile ordinario.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "春から初夏に出る子嚢菌で、幅2–12 cmの深い盃状またはゴブレット状の傘が、短く太い、深く肋があり室に分かれた柄の上につく。内側の子実層面は平滑で無毛、黄褐色から暖かい褐色。柄は長さ2–9 cm、太さ最大5 cm、白っぽい色から淡い黄土色で、鋭い縁の分岐した肋が柄から上がり、盃の外面を縁近くまで広がることが多い。子実体は林内の地上、広葉樹または針葉樹の下、しばしば石灰質の土壌で、落ち葉の間に生じる。",
+      "cap": "幅2–12 cm（中欧の図鑑ではやや狭い範囲、およそ2–8 cm、時に10 cmまでとされることが多い）。深い盃状またはゴブレット状で、老化とともにやや扁平になることがあり、縁はわずかに波打つか裂けている。内面は平滑で無毛、黄褐色から褐色、ときにオリーブ色を帯びる。外面はより淡い褐色から黄褐色で、縁近くは細かい綿毛状、柄から出て縁の方へ遠くまで達することの多い白っぽいから褐色がかった分岐した肋で飾られる。",
+      "hymenium": "子実層面は盃の内側の平滑で無毛な内壁である。ひだ状、穴状、歯状ではない。",
+      "stipe": "長さ2–9 cm、太さ最大5 cm（中欧の図鑑ではより短く細い柄、長さおよそ1–6 cm、太さ1–3 cmとされることが多い）。太く、盃に向かって広がり、白っぽい色から淡い黄土色または褐色がかる。表面は深く室に分かれ、肋があり、鋭い縁の分岐した肋が盃の下面へと続く。内部の柄は白っぽく室に分かれている。",
+      "flesh": "盃では薄くてもろく褐色がかり、柄では白っぽく室に分かれる。においと味は特異ではない。",
+      "sporePrint": "白色。胞子は幅広い楕円形で平滑、およそ16–20 × 11–14 µm、中央に大きな油滴が一つある。子嚢は八胞子性。",
+      "habitat": "春から初夏の地上、ふつう4月から6月、広葉樹林または混交林で、広葉樹または針葉樹の下、しばしば石灰質の土壌と前年の落ち葉の中。山地や温暖な沿岸の一部では、年内のより遅い時期にも現れることがある。子実体は単生または小さな群生。",
+      "uses": "この属の他の種と同様、有毒として扱うのがよい。属にはジロミトリン様の毒素が含まれ、一部の地域図鑑では加熱後に食用とされるものの、本図鑑では近縁の盃菌や鞍形の種と同じ慎重さで扱う。生食してはならない。",
+      "confusion": "Helvella costifera は似ているが、黄色い色調を欠く灰色から灰褐色の盃をもち、柄の肋はふつう鋭くなく鈍い。Helvella leucomelaena はより暗い灰黒色から暗褐色の盃、ごく短いまたは埋没した柄をもち、肋は盃の下面まで延びない。ふつうマツの下に生じる。Helvella queletii は強く内巻きした縁をもち、肋は盃の基部で止まる。無柄の褐色の盃、たとえば属 Peziza の種には、肋があり室に分かれた柄がない。Helvella lacunosa や Helvella crispa のような鞍形の種は裂片状の傘をもち、ゴブレット状の盃ではない。",
+      "notes": "北米と中欧のサイズ範囲は、盃と柄の項に記したように異なる。最も信頼できる野外形質は、鋭く分岐した肋が柄から盃の外面を遠くまで上がることである。本図鑑ではこの属の近縁種が有毒として符号化されているため、本種をありふれた食用の春菌としては扱わない。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+      ],
+      "label": "ウラスジチャワンタケ"
+    },
+    "ko": {
+      "description": "봄부터 초여름에 나오는 자낭균으로, 너비 2–12 cm의 깊은 잔 모양 또는 고블렛 모양의 갓이 짧고 굵으며 깊게 늑골이 있고 방실로 나뉜 대 위에 달린다. 안쪽의 생식면은 매끈하고 털이 없으며, 황갈색에서 따뜻한 갈색이다. 대는 길이 2–9 cm, 두께 최대 5 cm이며, 희끄무레한 색에서 옅은 황토색으로, 날카로운 모서리의 갈라진 늑골이 대에서 올라와 잔의 바깥면으로, 흔히 가장자리 가까이까지 퍼진다. 자실체는 숲속 땅 위, 활엽수 또는 침엽수 아래, 흔히 석회질 토양에서 낙엽 사이에 난다.",
+      "cap": "너비 2–12 cm(중부 유럽 도감은 흔히 조금 더 좁은 범위, 약 2–8 cm, 때로는 최대 10 cm를 든다). 깊은 잔 모양 또는 고블렛 모양이며, 나이가 들며 다소 납작해지기도 하고, 가장자리는 약간 물결치거나 찢어진다. 안쪽 면은 매끈하고 털이 없으며 황갈색에서 갈색이고, 때로는 올리브색을 띤다. 바깥 면은 더 옅은 갈색에서 황갈색이며, 가장자리 근처는 가늘게 융모가 있고, 대에서 나와 흔히 가장자리 쪽으로 멀리 이르는 희끄무레하거나 갈색을 띤 갈라진 늑골로 장식된다.",
+      "hymenium": "생식면은 잔의 안쪽, 매끈하고 털 없는 내벽이다. 주름지거나 구멍 나거나 톱니 모양은 아니다.",
+      "stipe": "길이 2–9 cm, 두께 최대 5 cm(중부 유럽 도감은 대개 더 짧고 가는 대, 길이 약 1–6 cm, 두께 1–3 cm를 든다). 굵고 잔 쪽으로 넓어지며, 희끄무레한 색에서 옅은 황토색 또는 갈색을 띤다. 표면은 깊게 방실로 나뉘고 늑골이 있으며, 날카로운 모서리의 갈라진 늑골이 잔의 아랫면으로 이어진다. 내부의 대는 희끄무레하고 방실로 나뉜다.",
+      "flesh": "잔에서는 얇고 부서지기 쉬우며 갈색을 띠고, 대에서는 희끄무레하고 방실로 나뉜다. 냄새와 맛은 특징적이지 않다.",
+      "sporePrint": "흰색. 포자는 넓은 타원형이고 매끈하며, 약 16–20 × 11–14 µm이고, 가운데에 큰 기름방울이 하나 있다. 자낭은 8포자성이다.",
+      "habitat": "봄과 초여름의 땅 위, 대개 4월부터 6월까지, 활엽수림 또는 혼효림에서, 활엽수 또는 침엽수 아래, 흔히 석회질 토양과 전년도의 낙엽 속. 일부 산지와 따뜻한 해안 지역에서는 한 해의 더 늦은 시기에도 나타날 수 있다. 자실체는 단생하거나 작은 무리를 이룬다.",
+      "uses": "이 속의 다른 구성원과 마찬가지로 독성으로 다루는 것이 좋다. 속에는 자이로미트린 유형의 독소가 있으며, 일부 지역 도감은 조리 후 식용으로 적지만, 이 목록은 근연의 잔형 및 안장형 종과 같은 신중함으로 다룬다. 날것으로는 절대 먹지 않는다.",
+      "confusion": "Helvella costifera는 비슷하지만 노란 색조가 없는 회색에서 회갈색의 잔을 지니며, 대의 늑골은 대개 날카롭지 않고 무디다. Helvella leucomelaena는 더 어두운 회흑색에서 암갈색의 잔, 매우 짧거나 땅에 묻힌 대, 잔의 아랫면까지 이어지지 않는 늑골을 지니며, 대개 소나무 아래에서 난다. Helvella queletii는 가장자리가 강하게 안쪽으로 말리고, 늑골이 잔의 밑동에서 멈춘다. 대가 없는 갈색 잔, 예를 들어 속 Peziza의 종은 늑골이 있고 방실로 나뉜 대가 없다. Helvella lacunosa와 Helvella crispa 같은 안장 모양의 종은 갈라진 갓을 지니며, 고블렛 모양의 잔이 아니다.",
+      "notes": "북아메리카와 중부 유럽의 크기 범위는 잔과 대 항목에 적은 대로 서로 다르다. 가장 믿을 수 있는 야외 형질은 날카롭고 갈라진 늑골이 대에서 잔의 바깥면을 멀리까지 올라간다는 점이다. 이 목록에서 이 속의 근연종이 독성으로 부호화되어 있으므로, 이 종을 흔한 식용 봄버섯으로 다루지 않는다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Pavasarinis–ankstyvos vasaros aukšliagrybis su gilia taurės ar pokalo pavidalo kepurėle, 2–12 cm pločio, ant trumpo, tvirto, giliai gysloto ir kišenėmis kameruoto koto. Vidinis derlingasis paviršius lygius ir plikas, gelsvai rudas iki šiltai rudo. Kotas 2–9 cm ilgio ir iki 5 cm storio, balkšvas iki blankiai ochrinio, su aštriabriaunėmis, šakojančiomis gyslomis, kurios kyla iš koto ir sklinda kepurėlės išorėje, dažnai toli link krašto. Vaisiakūniai auga ant žemės miške, po lapuočiais arba spygliuočiais, dažnai kalkingoje dirvoje, tarp paklotės.",
+      "cap": "2–12 cm pločio (Vidurio Europos vadovai dažnai nurodo kiek siauresnį intervalą, apie 2–8 cm, kartais iki 10 cm). Giliai dubenėlio ar taurės pavidalo, senstant kartais suplokštėjanti, su šiek tiek banguotu ar plyšusiu kraštu. Vidinė pusė lygi, plika ir gelsvai ruda iki rudos, kartais su alyviniu atspalviu. Išorinė pusė šviesiau ruda iki gelsvai rudos, prie krašto smulkiai veltininė, papuošta balkšvomis iki rusvų šakojančiomis gyslomis, kurios eina iš koto ir dažnai siekia toli link krašto.",
+      "hymenium": "Derlingasis paviršius yra vidinis, lygus ir plikas kepurėlės pamušalas. Jis nėra raukšlėtas, duobėtas ar dantytas.",
+      "stipe": "2–9 cm ilgio ir iki 5 cm storio (Vidurio Europos vadovai paprastai nurodo trumpesnį ir plonesnį kotą, apie 1–6 cm ilgio ir 1–3 cm storio). Tvirtas, platėjantis kepurėlės link, balkšvas iki blankiai ochrinio ar rusvas. Paviršius giliai kišenėmis kameruotas ir gyslotas, su aštriabriaunėmis, šakojančiomis gyslomis, kurios tęsiasi į kepurėlės apačią. Viduje kotas balkšvas ir kameruotas.",
+      "flesh": "Kepurėlėje plona, trapi ir rusva; kote balkšva ir kameruota. Kvapas ir skonis nėra būdingi.",
+      "sporePrint": "Balta. Sporos plačiai elipsoidinės ir lygios, apie 16–20 × 11–14 µm, su vienu dideliu centriniu aliejaus lašeliu. Askai aštuoniasporiai.",
+      "habitat": "Ant žemės pavasarį ir ankstyvą vasarą, paprastai nuo balandžio iki birželio, lapuočių arba mišriuose miškuose, po lapuočiais arba spygliuočiais, dažnai kalkingoje dirvoje ir praėjusių metų lapuose. Kai kuriose kalnų ir šiltose pajūrio srityse gali pasirodyti ir vėliau metais. Vaisiakūniai auga pavieniui arba nedidelėmis grupėmis.",
+      "uses": "Kaip ir kitas šios genties rūšis, ją geriausia laikyti nuodinga. Gentis turi giromitrinui panašių toksinų, ir nors kai kurie regioniniai vadovai ją po virimo nurodo kaip valgomą, šis katalogas ją traktuoja su tokia pačia atsarga kaip ir giminingas taurelines ir balnelines grybas. Niekada nevalgyti žalios.",
+      "confusion": "Helvella costifera panaši, bet jos kepurėlė pilka iki pilkai rudos, be geltonų atspalvių, o koto gyslos paprastai bukos, ne aštrios. Helvella leucomelaena turi tamsesnę, pilkai juodą iki tamsiai rudos kepurėlę, labai trumpą arba į žemę įgrimzdusį kotą ir gyslas, kurios nesitęsia į kepurėlės apačią; paprastai auga po pušimis. Helvella queletii turi stipriai į vidų užsirietusį kraštą ir gyslas, kurios baigiasi prie kepurėlės pamato. Bekotės rudos taurelės, pavyzdžiui, genties Peziza rūšys, neturi gysloto, kameruoto koto. Balnelio pavidalo rūšys, tokios kaip Helvella lacunosa ir Helvella crispa, turi skiautėtą kepurėlę, o ne taurės pavidalo dubenėlį.",
+      "notes": "Šiaurės Amerikos ir Vidurio Europos dydžių intervalai skiriasi, kaip nurodyta prie kepurėlės ir koto. Patikimiausias lauko požymis yra tai, kad aštrios, šakojančios gyslos eina nuo koto toli kepurėlės išore. Kadangi giminingos šios genties rūšys šiame kataloge pažymėtos kaip nuodingos, ši rūšis nelaikoma įprastu valgomu pavasario grybu.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+      ],
+      "label": "Paprastoji alvytė"
+    },
+    "lv": {
+      "description": "Pavasara līdz agras vasaras asku sēne ar dziļu kausa vai pokāla veida cepurīti, 2–12 cm platu, uz īsas, resnas, dziļi rievotas un kabatiņās kamerētas kājiņas. Iekšējā auglīgā virsma ir gluda un kaila, dzeltenbrūna līdz silti brūnai. Kājiņa ir 2–9 cm gara un līdz 5 cm resna, bālgana līdz gaiši okraina, ar asas šķautnes, zarotām rievām, kas kāpj no kājiņas un izplatās pa cepurītes ārpusi, bieži tālu pret malu. Augļķermeņi aug uz zemes mežā, zem lapu kokiem vai skujkokiem, bieži kaļķainā augsnē, starp nobirām.",
+      "cap": "2–12 cm plata (Centrāleiropas ceļveži bieži norāda nedaudz šaurāku diapazonu, apmēram 2–8 cm, dažkārt līdz 10 cm). Dziļi bļodveida vai pokāla veida, novecojot dažkārt saplacināta, ar viegli viļņotu vai saplēstu malu. Iekšpuse ir gluda, kaila un dzeltenbrūna līdz brūnai, dažkārt ar olīvīgu toni. Ārpuse ir gaišāk brūna līdz dzeltenbrūnai, pie malas smalki tūbaina, rotāta ar bālganām līdz brūnganām zarotām rievām, kas iziet no kājiņas un bieži sniedzas tālu pret malu.",
+      "hymenium": "Auglīgā virsma ir cepurītes iekšējais, gludais un kailais oderējums. Tā nav krokota, bedraina vai zobaina.",
+      "stipe": "2–9 cm gara un līdz 5 cm resna (Centrāleiropas ceļveži parasti norāda īsāku un tievāku kājiņu, apmēram 1–6 cm garu un 1–3 cm resnu). Resna, paplašinās pret cepurīti, bālgana līdz gaiši okrainai vai brūngana. Virsma ir dziļi kabatiņās kamerēta un rievota, ar asas šķautnes, zarotām rievām, kas turpinās uz cepurītes apakšpusi. Iekšpusē kājiņa ir bālgana un kamerēta.",
+      "flesh": "Cepurītē plāna, trausla un brūngana; kājiņā bālgana un kamerēta. Smarža un garša nav raksturīgas.",
+      "sporePrint": "Balta. Sporas ir plati elipsoidālas un gludas, apmēram 16–20 × 11–14 µm, ar vienu lielu centrālo eļļas pilienu. Aski ir astoņsporu.",
+      "habitat": "Uz zemes pavasarī un agrā vasarā, parasti no aprīļa līdz jūnijam, lapu koku vai jauktos mežos, zem lapu kokiem vai skujkokiem, bieži kaļķainā augsnē un pagājušā gada lapās. Dažos kalnu un silta piekrastes apvidos tā var parādīties arī vēlāk gadā. Augļķermeņi aug atsevišķi vai nelielās grupās.",
+      "uses": "Tāpat kā citas šīs ģints sugas, to vislabāk uzskatīt par indīgu. Ģintī ir giromitrīnam līdzīgi toksīni, un, lai gan daži reģionālie ceļveži to pēc vārīšanas norāda kā ēdamu, šis katalogs to aplūko ar tādu pašu piesardzību kā radniecīgās kausa un seglu sēnes. Nekad neēst to jēlu.",
+      "confusion": "Helvella costifera ir līdzīga, bet tās cepurīte ir pelēka līdz pelēkbrūnai, bez dzelteniem toņiem, un kājiņas rievas parasti ir strupas, ne asas. Helvella leucomelaena ir tumšāka, pelēkmelna līdz tumši brūnai cepurīte, ļoti īsa vai zemē iedziļināta kājiņa un rievas, kas nepāriet uz cepurītes apakšpusi; tā parasti aug zem priedēm. Helvella queletii ir stipri uz iekšu ieritināta mala un rievas, kas beidzas pie cepurītes pamatnes. Bez kājiņas brūnie kausi, piemēram, ģints Peziza sugas, nav rievotas, kamerētas kājiņas. Seglu veida sugām, piemēram, Helvella lacunosa un Helvella crispa, ir daivaina cepurīte, nevis pokāla veida kauss.",
+      "notes": "Ziemeļamerikas un Centrāleiropas izmēru diapazoni atšķiras, kā norādīts pie cepurītes un kājiņas. Uzticamākā lauka pazīme ir tā, ka asās, zarotās rievas iet no kājiņas tālu pa cepurītes ārpusi. Tā kā šīs ģints radniecīgās sugas šajā katalogā ir kodētas kā indīgas, šo sugu neuzskata par parastu ēdamu pavasara sēni.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum",
+        "https://www.wikidata.org/wiki/Q3388167"
+      ],
+      "label": "Kausa rumpucis"
+    },
+    "nl": {
+      "description": "Een voorjaars- tot vroeg-zomerse ascomyceet met een diepe kelk- of bokaalvormige hoed van 2–12 cm breed, op een korte, stevige, diep geribde en zakvormig gekamerde steel. Het binnenste, fertiele oppervlak is glad en kaal, geelbruin tot warmbruin. De steel is 2–9 cm lang en tot 5 cm dik, witachtig tot bleek oker, met scherprandige, zich vertakkende ribben die vanaf de steel over de buitenzijde van de hoed lopen, vaak ver naar de rand. De vruchtlichamen groeien op de grond in het bos, onder loof- of naaldbomen, vaak op kalkrijke bodem, tussen bladstrooisel.",
+      "cap": "2–12 cm breed (Midden-Europese gidsen geven vaak een iets smaller bereik, ongeveer 2–8 cm, soms tot 10 cm). Diep kom- of bokaalvormig, op oudere leeftijd soms afgeplat, met een licht golvende of gescheurde rand. De binnenzijde is glad, kaal en geelbruin tot bruin, soms met een olijftint. De buitenzijde is bleker bruin tot geelbruin, bij de rand fijn viltig, en versierd met witachtige tot bruinachtige vertakte ribben die vanaf de steel komen en vaak ver naar de rand reiken.",
+      "hymenium": "Het fertiele oppervlak is de binnenste, gladde, kale bekleding van de hoed. Het is niet geplooid, putjesachtig of getand.",
+      "stipe": "2–9 cm lang en tot 5 cm dik (Midden-Europese gidsen geven typisch een kortere, slankere steel, ongeveer 1–6 cm lang en 1–3 cm dik). Stevig, naar de hoed toe verbreed, witachtig tot bleek oker of bruinachtig. Het oppervlak is diep zakvormig gekamerd en geribd, met scherprandige, zich vertakkende ribben die doorlopen op de onderzijde van de hoed. Inwendig is de steel witachtig en gekamerd.",
+      "flesh": "In de hoed dun, bros en bruinachtig; in de steel witachtig en gekamerd. Geur en smaak zijn niet opvallend.",
+      "sporePrint": "Wit. De sporen zijn breed ellipsoïd en glad, ongeveer 16–20 × 11–14 µm, met één grote centrale oliedruppel. De asci zijn achtsporig.",
+      "habitat": "Op de grond in de lente en vroege zomer, typisch van april tot juni, in loof- of gemengd bos, onder loof- of naaldbomen, vaak op kalkrijke bodem en in vorig jaar blad. In sommige berg- en warme kuststreken kan de soort ook later in het jaar verschijnen. De vruchtlichamen groeien alleen of in kleine groepjes.",
+      "uses": "Net als andere leden van dit geslacht wordt hij het best als giftig behandeld. Het geslacht bevat gyromitrine-achtige toxinen, en hoewel sommige regionale gidsen de soort na koken als eetbaar vermelden, behandelt deze catalogus hem met dezelfde voorzichtigheid als verwante beker- en zadelzwammen. Nooit rauw eten.",
+      "confusion": "Helvella costifera is vergelijkbaar, maar heeft een grijze tot grijsbruine hoed zonder gele tinten, en de steelribben zijn meestal stomp in plaats van scherp. Helvella leucomelaena heeft een donkerdere, grijszwarte tot donkerbruine hoed, een zeer korte of in de grond verborgen steel en ribben die niet op de onderzijde van de hoed doorlopen; hij groeit meestal onder dennen. Helvella queletii heeft een sterk ingerolde rand en ribben die bij de hoedbasis ophouden. Steelloze bruine bekers, zoals soorten van het geslacht Peziza, hebben geen geribde, gekamerde steel. Zadelvormige soorten zoals Helvella lacunosa en Helvella crispa hebben een gelobde hoed, geen bokaalvormige beker.",
+      "notes": "De Noord-Amerikaanse en Midden-Europese maatbereiken verschillen, zoals vermeld bij hoed en steel. Het betrouwbaarste veldkenmerk is dat de scherpe, zich vertakkende ribben vanaf de steel ver over de buitenzijde van de hoed lopen. Omdat verwante soorten van dit geslacht in deze catalogus als giftig zijn gecodeerd, wordt deze soort niet als een gewone eetbare voorjaarszwam behandeld.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+      ],
+      "label": "Bokaalkluifzwam"
+    },
+    "no": {
+      "description": "En vår- til forsommerascomycett med en dyp beger- eller pokalformet hatt, 2–12 cm bred, på en kort, kraftig, dypt ribbet og lommeformet kamret stilk. Den indre fertile flaten er glatt og naken, gulbrun til varmt brun. Stilken er 2–9 cm lang og opptil 5 cm tykk, hvitaktig til blekt oker, med skarpekantede, gaffeldelte ribber som løper opp fra stilken og sprer seg over hattens ytterside, ofte langt mot randen. Fruktlegemene vokser på bakken i skog, under løv- eller bartre, ofte på kalkholdig jord, blant løvstrø.",
+      "cap": "2–12 cm bred (sentraleuropeiske førere gir ofte et noe smalere spenn, om lag 2–8 cm, av og til til 10 cm). Dypt skål- eller pokalformet, med alderen av og til avflatet, med en svakt bølget eller fliset rand. Innsiden er glatt, naken og gulbrun til brun, av og til med olivenaktig skjær. Utsiden er blekere brun til gulbrun, fint filtet nær randen og prydet med hvitaktige til brunaktige, forgrenede ribber som går ut fra stilken og ofte når langt mot randen.",
+      "hymenium": "Den fertile flaten er den indre, glatte, nakne kledningen av hatten. Den er verken foldet, gropet eller pigget.",
+      "stipe": "2–9 cm lang og opptil 5 cm tykk (sentraleuropeiske førere gir typisk en kortere, slankere stilk, om lag 1–6 cm lang og 1–3 cm tykk). Kraftig, bredere mot hatten, hvitaktig til blekt oker eller brunaktig. Overflaten er dypt lommeformet kamret og ribbet med skarpekantede, gaffeldelte ribber som fortsetter inn på undersiden av hatten. Innvendig er stilken hvitaktig og kamret.",
+      "flesh": "I hatten tynt, sprøtt og brunaktig; i stilken hvitaktig og kamret. Lukt og smak er ikke karakteristiske.",
+      "sporePrint": "Hvitt. Sporene er bredt ellipsoide og glatte, om lag 16–20 × 11–14 µm, med én stor sentral oljedråpe. Asci er åttesporige.",
+      "habitat": "På bakken om våren og tidlig om sommeren, typisk fra april til juni, i løv- eller blandingsskog, under løv- eller bartre, ofte på kalkholdig jord og i fjorårets løv. I noen fjell- og varme kyststrøk kan den også vise seg senere i året. Fruktlegemene vokser enkeltvis eller i små grupper.",
+      "uses": "Som andre arter i slekten bør den behandles som giftig. Slekten inneholder gyromitrinlignende gifte, og selv om noen regionale førere oppgir arten som spiselig etter koking, behandler denne katalogen den med samme forsiktighet som beslektede beger- og sadelsopper. Spis den aldri rå.",
+      "confusion": "Helvella costifera er lik, men har en grå til gråbrun hatt uten gule toner, og stilkribben er vanligvis butte, ikke skarpe. Helvella leucomelaena har en mørkere, gråsvart til mørkebrun hatt, en svært kort eller nedgravd stilk og ribber som ikke fortsetter inn på undersiden av hatten; den vokser vanligvis under furu. Helvella queletii har en sterkt innrullet rand og ribber som stopper ved hattens basis. Stilkløse brune beger, for eksempel arter i slekten Peziza, mangler en ribbet, kamret stilk. Sadelformede arter som Helvella lacunosa og Helvella crispa har en lappet hatt, ikke et pokalformet beger.",
+      "notes": "De nordamerikanske og sentraleuropeiske størrelsesintervallene skiller seg, som angitt under hatt og stilk. Det mest pålitelige feltkjennetegnet er at de skarpe, gaffeldelte ribbene løper fra stilken langt opp langs hattens ytterside. Fordi beslektede arter i slekten i denne katalogen er kodet som giftige, behandles ikke denne arten som en vanlig spiselig vårssopp.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+      ],
+      "label": "pokalmorkel"
+    },
+    "pl": {
+      "description": "Wiosenny do wczesnoletniego workowiec z głębokim pucharowatym lub kielichowatym kapeluszem, szerokości 2–12 cm, osadzonym na krótkim, krzepkim, głęboko żebrowanym i kieszeniowatym trzonie. Wewnętrzna powierzchnia zarodnikotwórcza jest gładka i naga, żółtobrązowa do ciepłobrązowej. Trzon ma 2–9 cm długości i do 5 cm grubości, białawy do blidoochrowego, z ostrokrawędzistymi, rozgałęzionymi żebrami, które wychodzą z trzonu i rozchodzą się po zewnętrznej stronie kapelusza, często daleko ku brzegowi. Owocniki wyrastają na ziemi w lasach, pod drzewami liściastymi lub iglastymi, często na glebach wapiennych, wśród ściółki.",
+      "cap": "2–12 cm średnicy (przewodniki środkowoeuropejskie często podają nieco węższy zakres, około 2–8 cm, czasem do 10 cm). Głęboko miseczkowaty lub pucharowaty, z wiekiem niekiedy spłaszczony, z lekko falistym lub podartym brzegiem. Wewnętrzna powierzchnia jest gładka, naga i żółtobrązowa do brązowej, czasem z oliwkowym odcieniem. Strona zewnętrzna jest bledziej brązowa do żółtobrązowej, przy brzegu drobno kosmata, ozdobiona białawymi do brązowawych rozgałęzionymi żebrami, które wychodzą z trzonu i często sięgają daleko ku brzegowi.",
+      "hymenium": "Powierzchnia zarodnikotwórcza to wewnętrzna, gładka i naga wyściółka kapelusza. Nie jest pofałdowana, dołkowata ani kolczasta.",
+      "stipe": "2–9 cm długości i do 5 cm grubości (przewodniki środkowoeuropejskie zwykle podają krótszy i cieńszy trzon, około 1–6 cm długości i 1–3 cm grubości). Krzepki, rozszerzający się ku kapeluszowi, białawy do blidoochrowego lub brązowawy. Powierzchnia jest głęboko kieszeniowata i żebrowana, z ostrokrawędzistymi, rozgałęzionymi żebrami, które przechodzą na spód kapelusza. Wewnątrz trzon jest białawy i komorowaty.",
+      "flesh": "W kapeluszu cienki, kruchy i brązowawy; w trzonie białawy i komorowaty. Zapach i smak nie są charakterystyczne.",
+      "sporePrint": "Biały. Zarodniki są szeroko elipsoidalne i gładkie, około 16–20 × 11–14 µm, z jedną dużą środkową kroplą oleju. Worki są ośmiozarodnikowe.",
+      "habitat": "Na ziemi wiosną i na początku lata, typowo od kwietnia do czerwca, w lasach liściastych lub mieszanych, pod drzewami liściastymi lub iglastymi, często na glebach wapiennych i w zeszłorocznej ściółce. W niektórych rejonach górskich i ciepłych nadmorskich może pojawiać się także później w roku. Owocniki rosną pojedynczo lub w małych grupach.",
+      "uses": "Jak inne gatunki tego rodzaju, najlepiej traktować go jako trujący. Rodzaj zawiera toksyny podobne do gyromitryny, i chociaż niektóre regionalne przewodniki podają ten gatunek jako jadalny po ugotowaniu, ten katalog traktuje go z taką samą ostrożnością jak pokrewne grzyby miseczkowate i siodełkowate. Nigdy nie je się go na surowo.",
+      "confusion": "Helvella costifera jest podobna, ale ma szary do szarobrązowego kapelusz bez żółtych tonów, a żebra trzonu są zwykle tępe, nie ostre. Helvella leucomelaena ma ciemniejszy, szaroczarny do ciemnobrązowego kapelusz, bardzo krótki lub zagłębiony w ziemi trzon i żebra, które nie wchodzą na spód kapelusza; zwykle rośnie pod sosnami. Helvella queletii ma silnie zawinięty brzeg i żebra kończące się u podstawy kapelusza. Beztrzonowe brązowe miseczki, na przykład gatunki z rodzaju Peziza, nie mają żebrowanego, komorowatego trzonu. Gatunki o siodełkowatym kapeluszu, takie jak Helvella lacunosa i Helvella crispa, mają klapowany kapelusz, a nie pucharowatą miseczkę.",
+      "notes": "Północnoamerykańskie i środkowoeuropejskie zakresy wielkości różnią się, jak podano przy kapeluszu i trzonie. Najpewniejszą cechą terenową jest to, że ostre, rozgałęzione żebra biegną z trzonu daleko po zewnętrznej stronie kapelusza. Ponieważ pokrewne gatunki tego rodzaju są w tym katalogu oznaczone jako trujące, tego gatunku nie traktuje się jako zwykłego wiosennego grzyba jadalnego.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum",
+        "https://www.wikidata.org/wiki/Q3388167"
+      ],
+      "label": "Piestrzyca pucharowata"
+    },
+    "pt": {
+      "description": "Ascomiceta de primavera e início do verão, com uma taça profunda em forma de cálice ou de gobelé, com 2–12 cm de largura, sustentada por um pé curto, robusto, profundamente costelado e compartimentado em bolsas. A superfície fértil interna é lisa e glabra, pardo-amarelada a pardo quente. O pé tem 2–9 cm de comprimento e até 5 cm de espessura, esbranquiçado a ocre pálido, com costelas de aresta aguda, ramificadas, que sobem do pé e se estendem pela face externa da taça, muitas vezes até perto da margem. Frutifica no solo em bosque, sob folhosas ou coníferas, frequentemente em solos calcários, entre a folhada.",
+      "cap": "2–12 cm de largura (os guias da Europa Central indicam frequentemente um intervalo um pouco mais estreito, cerca de 2–8 cm, por vezes até 10 cm). Profundamente cupuliforme ou em taça, por vezes achatando-se com a idade, com a margem ligeiramente ondulada ou rasgada. A face interna é lisa, glabra e pardo-amarelada a parda, por vezes com tom oliváceo. A face externa é de um pardo mais pálido a pardo-amarelado, finamente tomentosa perto da margem, adornada com costelas ramificadas esbranquiçadas a acastanhadas que partem do pé e muitas vezes chegam longe na direção da margem.",
+      "hymenium": "A superfície fértil é o revestimento interno, liso e glabro, da taça. Não é pregueada, alveolada nem dentada.",
+      "stipe": "2–9 cm de comprimento e até 5 cm de espessura (os guias da Europa Central indicam tipicamente um pé mais curto e mais delgado, com cerca de 1–6 cm de comprimento e 1–3 cm de espessura). Robusto, alargando-se em direção à taça, esbranquiçado a ocre pálido ou acastanhado. A superfície é profundamente compartimentada em bolsas e costelada, com costelas de aresta aguda, ramificadas, que continuam na face inferior da taça. No interior, o pé é esbranquiçado e compartimentado.",
+      "flesh": "Fina, quebradiça e acastanhada na taça; esbranquiçada e compartimentada no pé. O odor e o sabor não são distintivos.",
+      "sporePrint": "Branca. Os esporos são largamente elipsoides e lisos, com cerca de 16–20 × 11–14 µm, com uma grande gota de óleo central. Os ascos são octospóricos.",
+      "habitat": "No solo na primavera e no início do verão, tipicamente de abril a junho, em bosques caducifólios ou mistos, sob folhosas ou coníferas, frequentemente em solos calcários e na folhada do ano anterior. Em algumas regiões de montanha e de litoral quente também pode aparecer mais tarde no ano. Os corpos frutíferos crescem isolados ou em pequenos grupos.",
+      "uses": "Como outros membros deste género, convém tratá-lo como venenoso. O género contém toxinas do tipo giromitrina, e embora alguns guias regionais o indiquem como comestível depois de cozinhado, este catálogo trata-o com a mesma precaução que as taças e as selas aparentadas. Nunca o comer cru.",
+      "confusion": "Helvella costifera é semelhante, mas tem uma taça cinzenta a pardo-acinzentada, sem tons amarelos, e as costelas do pé são geralmente rombas, não agudas. Helvella leucomelaena tem uma taça mais escura, cinzento-negra a pardo-escura, um pé muito curto ou enterrado, e costelas que não se estendem pela face inferior da taça; costuma crescer sob pinheiros. Helvella queletii tem a margem fortemente enrolada para dentro e costelas que param na base da taça. As taças pardas sésseis, por exemplo as espécies do género Peziza, não têm um pé costelado e compartimentado. As espécies em forma de sela, como Helvella lacunosa e Helvella crispa, têm um chapéu lobado, não uma taça em forma de cálice.",
+      "notes": "Os intervalos de tamanho norte-americanos e da Europa Central diferem, como indicado na taça e no pé. O carácter de campo mais fiável é o modo como as costelas agudas e ramificadas sobem do pé longe pela face externa da taça. Como as espécies aparentadas deste género estão codificadas como venenosas neste catálogo, esta espécie não é tratada como um comestível primaveril ordinário.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Ascomicet de primăvară și început de vară, cu o cupă adâncă în formă de caliciu sau de potir, lată de 2–12 cm, purtată de un picior scurt, viguros, adânc costat și compartimentat în pungi. Suprafața fertilă internă este netedă și glabră, brun-gălbuie până la brun cald. Piciorul are 2–9 cm lungime și până la 5 cm grosime, albicios până la ocru pal, cu coaste cu muchie ascuțită, ramificate, care urcă din picior și se întind pe fața externă a cupei, adesea până aproape de margine. Fructifică pe sol în păduri, sub foioase sau conifere, adesea pe soluri calcaroase, în litieră.",
+      "cap": "2–12 cm lățime (ghidurile din Europa Centrală dau adesea un interval puțin mai îngust, circa 2–8 cm, uneori până la 10 cm). Adânc cupuliform sau în formă de potir, uneori aplatizându-se cu vârsta, cu marginea ușor ondulată sau sfâșiată. Fața internă este netedă, glabră și brun-gălbuie până la brună, uneori cu nuanță olivacee. Fața externă este de un brun mai pal până la brun-gălbui, fin tomentoasă lângă margine, împodobită cu coaste ramificate albicioase până la brunii care pornesc din picior și ajung adesea departe spre margine.",
+      "hymenium": "Suprafața fertilă este căptușeala internă, netedă și glabră, a cupei. Nu este plisată, alveolată sau dințată.",
+      "stipe": "2–9 cm lungime și până la 5 cm grosime (ghidurile din Europa Centrală indică de obicei un picior mai scurt și mai subțire, de circa 1–6 cm lungime și 1–3 cm grosime). Viguros, lărgindu-se spre cupă, albicios până la ocru pal sau bruniu. Suprafața este adânc compartimentată în pungi și costată, cu coaste cu muchie ascuțită, ramificate, care continuă pe fața inferioară a cupei. În interior, piciorul este albicios și camerat.",
+      "flesh": "Subțire, casantă și brunie în cupă; albicioasă și camerată în picior. Mirosul și gustul nu sunt distinctive.",
+      "sporePrint": "Albă. Sporii sunt larg elipsoidali și netezi, de circa 16–20 × 11–14 µm, cu o picătură mare de ulei centrală. Ascii sunt octosporați.",
+      "habitat": "Pe sol primăvara și la începutul verii, de obicei din aprilie până în iunie, în păduri de foioase sau amestecate, sub foioase sau conifere, adesea pe soluri calcaroase și în frunzarul anului trecut. În unele regiuni de munte și de litoral cald poate apărea și mai târziu în an. Corpurile de fructificație cresc izolat sau în grupuri mici.",
+      "uses": "Ca și ceilalți membri ai acestui gen, este preferabil să fie tratat ca otrăvitor. Genul conține toxine de tip giromitrină, și deși unele ghiduri regionale îl dau ca comestibil după fierbere, acest catalog îl tratează cu aceeași prudență ca pe cupele și șeile înrudite. A nu se mânca niciodată crud.",
+      "confusion": "Helvella costifera este asemănătoare, dar are o cupă cenușie până la brun-cenușie, fără tonuri galbene, iar coastele piciorului sunt de obicei tocite, nu ascuțite. Helvella leucomelaena are o cupă mai închisă, cenușiu-neagră până la brun-închisă, un picior foarte scurt sau îngropat, și coaste care nu se extind pe fața inferioară a cupei; crește de obicei sub pini. Helvella queletii are marginea puternic răsucită spre interior și coaste care se opresc la baza cupei. Cupele brune sesile, de exemplu speciile genului Peziza, nu au un picior costat și camerat. Speciile în formă de șa, ca Helvella lacunosa și Helvella crispa, au o pălărie lobată, nu o cupă în formă de caliciu.",
+      "notes": "Intervalele de dimensiune nord-americane și din Europa Centrală diferă, după cum este indicat la cupă și la picior. Caracterul de teren cel mai de încredere este felul în care coastele ascuțite și ramificate urcă din picior departe pe fața externă a cupei. Deoarece speciile înrudite din acest gen sunt codificate ca otrăvitoare în acest catalog, această specie nu este tratată ca un comestibil de primăvară obișnuit.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Весенний и раннелетний сумчатый гриб с глубокой чашевидной или бокаловидной шляпкой 2–12 см шириной на короткой, толстой, глубоко ребристой и камерной ножке. Внутренняя плодущая поверхность гладкая и голая, жёлто-коричневая до тёпло-коричневой. Ножка 2–9 см длиной и до 5 см толщиной, беловатая до бледно-охристой, с острорёберными, ветвящимися рёбрами, которые поднимаются от ножки и расходятся по внешней стороне чаши, часто далеко к краю. Плодовые тела растут на почве в лесу, под лиственными или хвойными деревьями, часто на известковых почвах, среди подстилки.",
+      "cap": "2–12 см шириной (среднеевропейские определители часто указывают более узкий диапазон, около 2–8 см, иногда до 10 см). Глубоко чашевидная или бокаловидная, с возрастом иногда уплощающаяся, с слегка волнистым или надорванным краем. Внутренняя сторона гладкая, голая, жёлто-коричневая до коричневой, иногда с оливковым оттенком. Внешняя сторона более бледно-коричневая до жёлто-коричневой, у края тонко войлочная, украшена беловатыми до буроватых ветвящимися рёбрами, которые идут от ножки и часто далеко тянутся к краю.",
+      "hymenium": "Плодущая поверхность — внутренний гладкий и голый слой чаши. Она не складчатая, не ячеистая и не зубчатая.",
+      "stipe": "2–9 см длиной и до 5 см толщиной (среднеевропейские определители обычно указывают более короткую и тонкую ножку, около 1–6 см длиной и 1–3 см толщиной). Толстая, расширяющаяся к чаше, беловатая до бледно-охристой или буроватой. Поверхность глубоко камерная и ребристая, с острорёберными, ветвящимися рёбрами, продолжающимися на нижнюю сторону чаши. Внутри ножка беловатая и камерная.",
+      "flesh": "В чаше тонкая, ломкая и буроватая; в ножке беловатая и камерная. Запах и вкус не характерны.",
+      "sporePrint": "Белый. Споры широкоэллипсоидные, гладкие, около 16–20 × 11–14 мкм, с одной крупной центральной масляной каплей. Сумки восьмиспоровые.",
+      "habitat": "На почве весной и в начале лета, обычно с апреля по июнь, в лиственных или смешанных лесах, под лиственными или хвойными деревьями, часто на известковых почвах и в прошлогодней листве. В некоторых горных и тёплых приморских районах может появляться и позднее в году. Плодовые тела растут поодиночке или небольшими группами.",
+      "uses": "Как и другие представители этого рода, его лучше считать ядовитым. В роде есть токсины гиромитринового типа, и хотя некоторые региональные определители указывают его съедобным после варки, этот каталог относится к нему с той же осторожностью, что и к родственным чашевидным и седловидным грибам. Никогда не есть сырым.",
+      "confusion": "Helvella costifera сходна, но у неё серая до серо-коричневой чаша без жёлтых тонов, а рёбра ножки обычно тупые, а не острые. Helvella leucomelaena имеет более тёмную, серо-чёрную до тёмно-коричневой чашу, очень короткую или погружённую в почву ножку и рёбра, которые не заходят на нижнюю сторону чаши; обычно растёт под соснами. Helvella queletii имеет сильно завёрнутый внутрь край и рёбра, которые обрываются у основания чаши. Сидячие коричневые чаши, например виды рода Peziza, лишены ребристой камерной ножки. Седловидные виды, такие как Helvella lacunosa и Helvella crispa, имеют лопастную шляпку, а не бокаловидную чашу.",
+      "notes": "Североамериканский и среднеевропейский диапазоны размеров различаются, как указано при описании чаши и ножки. Самый надёжный полевой признак — то, как острые ветвящиеся рёбра поднимаются от ножки далеко по внешней стороне чаши. Поскольку родственные виды этого рода в каталоге отмечены как ядовитые, этот вид не рассматривается как обычный съедобный весенний гриб.",
+      "names": [
+        "Лопастник чашевидный"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum",
+        "https://www.wikidata.org/wiki/Q3388167"
+      ],
+      "label": "Лопастник бокальчатый"
+    },
+    "sk": {
+      "description": "Jarný až skoroletný vreckatý druh s hlbokou pohárovitou alebo kalichovitou čiaškou, 2–12 cm širokou, na krátkom, statnom, hlboko rebernatom a vreckovitom hlúbiku. Vnútorná plodná plocha je hladká a holá, žltohnedá až teplohnedá. Hlúbik je 2–9 cm dlhý a až 5 cm hrubý, belavý až bledookrový, s ostrohrannými, rozkonárenými rebrami, ktoré vystupujú z hlúbika a rozbiehajú sa po vonkajšej strane čiašky, často až ďaleko k okraju. Plodnice rastú na zemi v lesoch, pod listnáčmi alebo ihličnanmi, často na vápnitých pôdach, v lístí.",
+      "cap": "2–12 cm v priemere (stredoeurópske príručky často uvádzajú o niečo užší rozsah, približne 2–8 cm, príležitostne do 10 cm). Hlboko miskovitá alebo pohárovitá, v starobe niekedy sploštená, s mierne zvlneným alebo natrhnutým okrajom. Vnútorná plocha je hladká, holá a žltohnedá až hnedá, niekedy s olivovým nádychom. Vonkajšia strana je bledšia hnedá až žltohnedá, pri okraji jemne plstnatá, ozdobená belavými až hnedastými rozkonárenými rebrami, ktoré vystupujú z hlúbika a často siahajú ďaleko k okraju.",
+      "hymenium": "Plodná plocha je vnútorná, hladká a holá výstelka čiašky. Nie je skladaná, jamkatá ani ostnatá.",
+      "stipe": "2–9 cm dlhý a až 5 cm hrubý (stredoeurópske príručky typicky uvádzajú kratší a štíhlejší hlúbik, približne 1–6 cm dlhý a 1–3 cm hrubý). Statný, k čiaške sa rozširujúci, belavý až bledookrový alebo hnedastý. Povrch je hlboko vreckovitý a rebernatý s ostrohrannými, rozkonárenými rebrami, ktoré pokračujú na vonkajšiu stranu čiašky. Vnútri je hlúbik belavý a komorovitý.",
+      "flesh": "V čiaške tenká, krehká a hnedastá; v hlúbiku belavá a komorovitá. Vôňa a chuť nie sú výrazné.",
+      "sporePrint": "Biely. Výtrusy sú široko elipsoidné a hladké, približne 16–20 × 11–14 µm, s jednou veľkou stredovou olejovou kvapkou. Vrecká sú osemvýtrusné.",
+      "habitat": "Na zemi na jar a začiatkom leta, typicky od apríla do júna, v listnatých alebo zmiešaných lesoch, pod listnáčmi alebo ihličnanmi, často na vápnitých pôdach a vo vlaňajšom lístí. V niektorých horských a teplých pobrežných oblastiach sa môže objaviť aj neskôr v roku. Plodnice rastú jednotlivo alebo v malých skupinách.",
+      "uses": "Rovnako ako ostatné druhy tohto rodu sa najlepšie považuje za jedovatý. Rod obsahuje gyromitrínu podobné jedy, a hoci niektoré oblastné príručky uvádzajú tento druh po uvarení ako jedlý, tento katalóg ho posudzuje s rovnakou opatrnosťou ako príbuzné čiaškovité a sedlovité huby. Nikdy sa neje surový.",
+      "confusion": "Helvella costifera je podobná, má však sivú až sivo-hnedú čiašku bez žltých tónov a rebrá hlúbika sú zvyčajne tupé, nie ostré. Helvella leucomelaena má tmavšiu, sivočiernu až tmavohnedú čiašku, veľmi krátky alebo v zemi skrytý hlúbik a rebrá, ktoré nezasahujú na vonkajšiu stranu čiašky; zvyčajne rastie pod borovicami. Helvella queletii má silno dovnútra stočený okraj a rebrá, ktoré sa končia na báze čiašky. Bezhlúbikové hnedé čiašky, napríklad druhy rodu Peziza, nemajú rebernatý, komorovitý hlúbik. Druhy so sedlovitou čiapkou, ako Helvella lacunosa a Helvella crispa, majú laločnatú čiapku, nie pohárovú čiašku.",
+      "notes": "Severoamerické a stredoeurópske rozsahy veľkosti sa líšia, ako je uvedené pri čiaške a hlúbiku. Najspoľahlivejším terénnym znakom je, že ostré, rozkonárené rebrá vystupujú z hlúbika ďaleko po vonkajšej strane čiašky. Pretože príbuzné druhy tohto rodu sú v tomto katalógu označené ako jedovaté, tento druh sa neposudzuje ako bežná jarná jedlá huba.",
+      "names": [
+        "chriapač čiaškovitý",
+        "kališnačka obyčajná"
+      ],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Helvella-acetabulum/chriapac-kaliskovity/kalisnik-obecny/ID179",
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum",
+        "https://www.wikidata.org/wiki/Q3388167"
+      ],
+      "label": "chriapač kalíškovitý"
+    },
+    "sl": {
+      "description": "Pomladanska do zgodnje poletna zaprtotrosnica z globokim kelihastim ali čašastim klobukom, širokim 2–12 cm, na kratkem, čokatem, globoko rebrastem in žepastem betu. Notranja trosovna ploskev je gladka in gola, rumenorjava do toplo rjava. Bet je dolg 2–9 cm in debel do 5 cm, belkast do bledo okrast, z ostro robnimi, razvejanimi rebri, ki potekajo z beta in se širijo po zunanji strani klobuka, pogosto daleč proti robu. Trosnjaki rastejo na tleh v gozdovih, pod listavci ali iglavci, pogosto na apnenčastih tleh, med listnim opadom.",
+      "cap": "2–12 cm v premeru (srednjeevropski priročniki pogosto navajajo nekoliko ožji razpon, približno 2–8 cm, občasno do 10 cm). Globoko skledast ali kelihast, v starosti včasih sploščen, z rahlo valovitim ali raztrganim robom. Notranja ploskev je gladka, gola in rumenorjava do rjava, včasih z olivnim odtenkom. Zunanja stran je svetlejša rjava do rumenorjava, pri robu fino plstenasta, okrašena z belkastimi do rjavkastimi razvejanimi rebri, ki izhajajo iz beta in pogosto segajo daleč proti robu.",
+      "hymenium": "Trosovna ploskev je notranja, gladka in gola obloga klobuka. Ni nagubana, jamasta ali bodicasta.",
+      "stipe": "2–9 cm dolg in do 5 cm debel (srednjeevropski priročniki običajno navajajo krajši in vitkejši bet, približno 1–6 cm dolg in 1–3 cm debel). Čokat, proti klobuku se širi, belkast do bledo okrast ali rjavkast. Površina je globoko žepasta in rebrasta z ostro robnimi, razvejanimi rebri, ki se nadaljujejo na spodnjo stran klobuka. Znotraj je bet belkast in prekatast.",
+      "flesh": "V klobuku tanko, krhko in rjavkasto; v betu belkasto in prekatasto. Vonj in okus nista značilna.",
+      "sporePrint": "Bel. Trosi so široko elipsoidni in gladki, približno 16–20 × 11–14 µm, z eno veliko osrednjo oljno kapljico. Zastojni mešički so osemtrosni.",
+      "habitat": "Na tleh spomladi in zgodaj poleti, običajno od aprila do junija, v listnatih ali mešanih gozdovih, pod listavci ali iglavci, pogosto na apnenčastih tleh in v lanskoletnem listju. V nekaterih gorskih in toplih obalnih območjih se lahko pojavi tudi pozneje v letu. Trosnjaki rastejo posamič ali v manjših skupinah.",
+      "uses": "Tako kot drugi predstavniki tega rodu ga je najbolje obravnavati kot strupenega. Rod vsebuje toksine, podobne giromitrinu, in čeprav nekateri krajevni priročniki vrsto po kuhanju navajajo kot užitno, jo ta katalog obravnava z enako previdnostjo kot sorodne skledaste in sedlaste gobe. Nikoli se je ne je surove.",
+      "confusion": "Helvella costifera je podobna, vendar ima siv do sivorjav klobuk brez rumenih tonov, rebra beta pa so običajno topa, ne ostra. Helvella leucomelaena ima temnejši, sivočrn do temnorjav klobuk, zelo kratek ali v zemljo potopljen bet in rebra, ki ne segajo na spodnjo stran klobuka; običajno raste pod bori. Helvella queletii ima močno navznoter zavihan rob in rebra, ki se končajo pri dnu klobuka. Brezbeta rjave skledice, na primer vrste rodu Peziza, nimajo rebrastega, prekatastega beta. Vrste s sedlastim klobukom, kot sta Helvella lacunosa in Helvella crispa, imajo krpast klobuk, ne kelihaste skledice.",
+      "notes": "Severnoameriški in srednjeevropski razponi velikosti se razlikujejo, kot je navedeno pri klobuku in betu. Najzanesljivejši terenski znak je, da ostra, razvejana rebra potekajo z beta daleč po zunanji strani klobuka. Ker so sorodne vrste tega rodu v tem katalogu označene kot strupene, te vrste ne obravnavamo kot običajne pomladanske užitne gobe.",
+      "names": [
+        "pomladanski loputar"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+      ],
+      "label": "pomladni loputar"
+    },
+    "sr": {
+      "description": "Пролећна до ранолетња аскомицетна гљива са дубоким пехарастим или чашастим клобуком, ширине 2–12 cm, на краткој, чврстој, дубоко ребрастој и џепастој стручци. Унутрашња плодна површина је глатка и гола, жутосмеђа до топло смеђа. Стручак је дугачак 2–9 cm и дебео до 5 cm, беличаст до бледо окераст, са оштроивичним, разгранатим ребрима која излазе из стручка и шире се по спољашњој страни клобука, често далеко према рубу. Плодна тела расту на земљи у шумама, под лишћарима или четинарима, често на кречњачким земљиштима, у лисном отпаду.",
+      "cap": "2–12 cm у пречнику (средњоевропски приручници често дају нешто ужи распон, око 2–8 cm, повремено до 10 cm). Дубоко зделаст или пехараст, у старости понекад спљоштен, са благо таласастим или поцепаним рубом. Унутрашња површина је глатка, гола и жутосмеђа до смеђа, понекад са маслинастим тоном. Спољашња страна је светлије смеђа до жутосмеђа, при рубу фино филцана, украшена беличастим до смеђкастим разгранатим ребрима која излазе из стручка и често сежу далеко према рубу.",
+      "hymenium": "Плодна површина је унутрашња, глатка и гола облога клобука. Није наборана, јамаста ни бодљикава.",
+      "stipe": "2–9 cm дугачак и до 5 cm дебео (средњоевропски приручници обично наводе краћи и тањи стручак, око 1–6 cm дугачак и 1–3 cm дебео). Чврст, према клобуку се шири, беличаст до бледо окераст или смеђкаст. Површина је дубоко џепаста и ребраста, са оштроивичним, разгранатим ребрима која се настављају на доњу страну клобука. Изнутра је стручак беличаст и комораст.",
+      "flesh": "У клобуку танка, крта и смеђкаста; у стручку беличаста и комораста. Мирис и укус нису изражени.",
+      "sporePrint": "Бео. Споре су широко елипсоидне и глатке, око 16–20 × 11–14 µm, са једном великом средишњом уљаном капљицом. Аскуси су осмоспорни.",
+      "habitat": "На земљи у пролеће и рано лето, типично од априла до јуна, у листопадним или мешовитим шумама, под лишћарима или четинарима, често на кречњачким земљиштима и у прошлогодишњем лишћу. У неким планинским и топлим приобалним подручјима може се појавити и касније у години. Плодна тела расту појединачно или у малим групама.",
+      "uses": "Као и остале врсте овог рода, најбоље је сматрати је отровном. Род садржи токсине сличне гиромитрину, и иако је неки регионални приручници наводе као јестиву после кувања, овај каталог је третира са једнаком опрезношћу као и сродне зделасте и седласте гљиве. Никада се не једе сирова.",
+      "confusion": "Helvella costifera је слична, али има сиви до сивосмеђи клобук без жутих тонова, а ребра стручка обично су тупа, а не оштра. Helvella leucomelaena има тамнији, сивоцрни до тамносмеђи клобук, врло кратак или у земљу укопан стручак и ребра која не прелазе на доњу страну клобука; обично расте под боровима. Helvella queletii има јако према унутра увијен руб и ребра која престају при дну клобука. Безстручне смеђе зделице, на пример врсте рода Peziza, немају ребраст, комораст стручак. Врсте са седластим клобуком, као Helvella lacunosa и Helvella crispa, имају режњевит клобук, а не пехарасту зделицу.",
+      "notes": "Северноамерички и средњоевропски распони величине разликују се, како је наведено уз клобук и стручак. Најпоузданије теренско обележје је то што оштра, разграната ребра теку са стручка далеко по спољашњој страни клобука. Пошто су сродне врсте овог рода у овом каталогу означене као отровне, ова врста се не сматра уобичајеном пролећном јестивом гљивом.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En vår- till försommarascomycet med en djup bägar- eller pokalformad hatt, 2–12 cm bred, på en kort, kraftig, djupt ribbad och fickformigt kamrad fot. Den inre fertila ytan är slät och kal, gulbrun till varmt brun. Foten är 2–9 cm lång och upp till 5 cm tjock, vitaktig till blekt ockrafärgad, med skarpkantade, gaffelgrenade ribbor som löper upp från foten och sprider sig över hattens utsida, ofta långt mot kanten. Fruktkropparna växer på marken i skog, under löv- eller barrträd, ofta på kalkrik jord, bland lövförna.",
+      "cap": "2–12 cm bred (centraleuropeiska guider anger ofta ett något smalare intervall, ungefär 2–8 cm, ibland till 10 cm). Djupt skål- eller pokalformad, med åldern ibland tillplattad, med en svagt vågig eller sliten kant. Insidan är slät, kal och gulbrun till brun, ibland med olivton. Utsidan är blekare brun till gulbrun, fint ludden nära kanten och prydd med vitaktiga till brunaktiga, förgrenade ribbor som utgår från foten och ofta når långt mot kanten.",
+      "hymenium": "Den fertila ytan är hattens inre, släta, kala beklädnad. Den är varken veckad, gropig eller taggig.",
+      "stipe": "2–9 cm lång och upp till 5 cm tjock (centraleuropeiska guider anger typiskt en kortare, smalare fot, ungefär 1–6 cm lång och 1–3 cm tjock). Kraftig, bredare mot hatten, vitaktig till blekt ockrafärgad eller brunaktig. Ytan är djupt fickformigt kamrad och ribbad med skarpkantade, gaffelgrenade ribbor som fortsätter in på hattens undersida. Invändigt är foten vitaktig och kamrad.",
+      "flesh": "I hatten tunt, sprött och brunaktigt; i foten vitaktigt och kamrat. Lukt och smak är inte karakteristiska.",
+      "sporePrint": "Vitt. Sporerna är brett ellipsoida och släta, ungefär 16–20 × 11–14 µm, med en stor central oljedroppe. Asci är åttasporeiga.",
+      "habitat": "På marken på våren och försommaren, typiskt från april till juni, i löv- eller blandskog, under löv- eller barrträd, ofta på kalkrik jord och i fjolårslöv. I vissa fjäll- och varma kustområden kan den också visa sig senare på året. Fruktkropparna växer ensamma eller i små grupper.",
+      "uses": "Liksom andra arter i släktet bör den behandlas som giftig. Släktet innehåller gyromitrinliknande gifter, och även om vissa regionala guider anger arten som ätlig efter kokning behandlar denna katalog den med samma försiktighet som besläktade bägar- och sadelsvampar. Ät den aldrig rå.",
+      "confusion": "Helvella costifera är liknande men har en grå till gråbrun hatt utan gula toner, och fotribborna är vanligen trubbiga, inte skarpa. Helvella leucomelaena har en mörkare, gråsvart till mörkbrun hatt, en mycket kort eller nedgrävd fot och ribbor som inte fortsätter in på hattens undersida; den växer vanligen under tall. Helvella queletii har en starkt inrullad kant och ribbor som upphör vid hattens bas. Fotlösa bruna bägare, till exempel arter av släktet Peziza, saknar en ribbad, kamrad fot. Sadelformade arter som Helvella lacunosa och Helvella crispa har en flikig hatt, inte en pokalformad bägare.",
+      "notes": "De nordamerikanska och centraleuropeiska storleksintervallen skiljer sig, som anges under hatt och fot. Det mest tillförlitliga fältkännetecknet är att de skarpa, gaffelgrenade ribborna löper från foten långt upp längs hattens utsida. Eftersom besläktade arter i släktet i denna katalog är kodade som giftiga behandlas denna art inte som en vanlig ätlig vårssvamp.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum",
+        "https://www.wikidata.org/wiki/Q3388167"
+      ],
+      "label": "pokalmurkla"
+    },
+    "tr": {
+      "description": "İlkbahar ve yaz başı asklı mantarı; 2–12 cm genişliğinde derin kadeh veya kupa biçimli bir başlık, kısa, tıknaz, derin kaburgalı ve cepli odacıklı bir sap üzerinde. İçteki verimli yüzey pürüzsüz ve çıplaktır, sarı-kahverengiden sıcak kahverengiye kadar. Sap 2–9 cm uzunluğunda ve 5 cm’ye kadar kalınlıkta, beyazımsıdan soluk okraya kadar; keskin kenarlı, dallanan kaburgalar saptan yükselir ve kupanın dış yüzüne, çoğu zaman kenara doğru uzaklara yayılır. Meyve gövdeleri ormanda, yapraklı veya iğne yapraklı ağaçların altında, çoğu zaman kireçli toprakta, döküntü arasında yerde yetişir.",
+      "cap": "2–12 cm genişliğinde (Orta Avrupa kılavuzları çoğu zaman biraz daha dar bir aralık verir, yaklaşık 2–8 cm, bazen 10 cm’ye kadar). Derin kupa veya kadeh biçimli, yaşlandıkça bazen yassılaşır; kenarı hafif dalgalı veya yırtık olabilir. İç yüz pürüzsüz, çıplak ve sarı-kahverengiden kahverengiye kadardır, bazen zeytinsi bir tonla. Dış yüz daha soluk kahverengiden sarı-kahverengiye kadardır, kenara yakın ince keçemsi, saptan çıkan ve çoğu zaman kenara doğru uzaklara uzanan beyazımsıdan kahverengimsiye dallanan kaburgalarla süslüdür.",
+      "hymenium": "Verimli yüzey, kupanın içteki pürüzsüz ve çıplak astarıdır. Kıvrımlı, çukurcuklu veya dişli değildir.",
+      "stipe": "2–9 cm uzunluğunda ve 5 cm’ye kadar kalınlıkta (Orta Avrupa kılavuzları tipik olarak daha kısa ve daha ince bir sap verir, yaklaşık 1–6 cm uzunluk ve 1–3 cm kalınlık). Tıknaz, kupaya doğru genişler, beyazımsıdan soluk okraya veya kahverengimsiye kadardır. Yüzey derin cepli odacıklı ve kaburgalıdır; keskin kenarlı, dallanan kaburgalar kupanın alt yüzüne devam eder. İçeride sap beyazımsı ve odacıklıdır.",
+      "flesh": "Kupada ince, gevrek ve kahverengimsi; sapta beyazımsı ve odacıklı. Koku ve tat ayırt edici değildir.",
+      "sporePrint": "Beyaz. Sporlar geniş elipsoit ve pürüzsüzdür, yaklaşık 16–20 × 11–14 µm, ortada büyük bir yağ damlası vardır. Askuslar sekiz sporludur.",
+      "habitat": "İlkbaharda ve yaz başında yerde, tipik olarak nisandan hazirana kadar, yapraklı veya karışık ormanlarda, yapraklı veya iğne yapraklı ağaçların altında, çoğu zaman kireçli toprakta ve bir önceki yılın yaprak döküntüsünde. Bazı dağlık ve sıcak kıyı bölgelerinde yılın daha geç döneminde de görülebilir. Meyve gövdeleri tek tek veya küçük kümeler halinde yetişir.",
+      "uses": "Bu cinsin diğer üyeleri gibi zehirli sayılmalıdır. Cins, giromitrin tipi toksinler içerir; bazı bölgesel kılavuzlar pişirildikten sonra yenilebilir gösterse de, bu katalog onu akraba kupa ve eyer mantarlarıyla aynı ihtiyatla ele alır. Asla çiğ yenmemelidir.",
+      "confusion": "Helvella costifera benzerdir, ancak sarı tonları olmayan gri veya grimsi kahverengi bir kupası vardır ve sap kaburgaları genellikle keskin değil, küt kenarlıdır. Helvella leucomelaena daha koyu, gri-siyah veya koyu kahverengi bir kupaya, çok kısa veya gömülü bir sapa ve kupanın alt yüzüne uzanmayan kaburgalara sahiptir; genellikle çamların altında yetişir. Helvella queletii kenarı güçlü biçimde içeri kıvrık bir kupa ve kupanın tabanında duran kaburgalara sahiptir. Sapsız kahverengi kupalar, örneğin Peziza türleri, kaburgalı, odacıklı bir sapa sahip değildir. Helvella lacunosa ve Helvella crispa gibi eyer biçimli türlerin loplu bir başlığı vardır, kadeh biçimli bir kupası yoktur.",
+      "notes": "Kuzey Amerika ve Orta Avrupa boyut aralıkları, kupa ve sap altında belirtildiği gibi farklılık gösterir. En güvenilir arazi karakteri, keskin ve dallanan kaburgaların saptan kupanın dış yüzü boyunca uzağa çıkmasıdır. Bu cinsteki akraba türler bu katalogda zehirli olarak kodlandığından, bu tür sıradan yenilebilir bir ilkbahar mantarı olarak ele alınmaz.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+      ],
+      "label": "Çukur Çanak"
+    },
+    "uk": {
+      "description": "Весняний і ранньолітній сумчастий гриб із глибокою чашоподібною або келихоподібною шапинкою завширшки 2–12 см на короткій, товстій, глибоко ребристій і камерній ніжці. Внутрішня плодюча поверхня гладка і гола, жовто-коричнева до тепло-коричневої. Ніжка 2–9 см завдовжки і до 5 см завтовшки, білувата до блідо-вохристої, з гостроребристими, розгалуженими ребрами, що піднімаються від ніжки і розходяться зовнішньою стороною чаші, часто далеко до краю. Плодові тіла ростуть на ґрунті в лісі, під листяними або хвойними деревами, часто на вапнякових ґрунтах, серед підстилки.",
+      "cap": "2–12 см завширшки (середньоєвропейські визначники часто вказують вужчий діапазон, близько 2–8 см, іноді до 10 см). Глибоко чашоподібна або келихоподібна, з віком іноді сплощується, з трохи хвилястим або наддертим краєм. Внутрішня сторона гладка, гола, жовто-коричнева до коричневої, іноді з оливковим відтінком. Зовнішня сторона блідіше коричнева до жовто-коричневої, біля краю тонко повстиста, прикрашена білуватими до буруватих розгалуженими ребрами, що йдуть від ніжки і часто далеко сягають до краю.",
+      "hymenium": "Плодюча поверхня — внутрішній гладкий і голий шар чаші. Вона не складчаста, не комірчаста і не зубчаста.",
+      "stipe": "2–9 см завдовжки і до 5 см завтовшки (середньоєвропейські визначники зазвичай вказують коротшу й тоншу ніжку, близько 1–6 см завдовжки і 1–3 см завтовшки). Товста, розширюється до чаші, білувата до блідо-вохристої або бурувата. Поверхня глибоко камерна й ребриста, з гостроребристими, розгалуженими ребрами, що продовжуються на нижній бік чаші. Всередині ніжка білувата й камерна.",
+      "flesh": "У чаші тонка, ламка й бурувата; у ніжці білувата й камерна. Запах і смак не характерні.",
+      "sporePrint": "Білий. Спори широко еліпсоїдні, гладкі, близько 16–20 × 11–14 мкм, з однією великою центральною олійною краплею. Сумки восьмиспорові.",
+      "habitat": "На ґрунті навесні та на початку літа, зазвичай з квітня по червень, у листяних або мішаних лісах, під листяними або хвойними деревами, часто на вапнякових ґрунтах і в торішньому листі. У деяких гірських і теплих приморських районах може з’являтися й пізніше в році. Плодові тіла ростуть поодинці або невеликими групами.",
+      "uses": "Як і інші представники цього роду, його краще вважати отруйним. У роді є токсини гіромітринового типу, і хоча деякі регіональні визначники вказують його їстівним після варіння, цей каталог ставиться до нього з тією самою обачністю, що й до споріднених чашоподібних і сідлоподібних грибів. Ніколи не їсти сирим.",
+      "confusion": "Helvella costifera подібна, але в неї сіра до сіро-коричневої чаша без жовтих тонів, а ребра ніжки зазвичай тупі, а не гострі. Helvella leucomelaena має темнішу, сіро-чорну до темно-коричневої чашу, дуже коротку або заглиблену в ґрунт ніжку і ребра, які не заходять на нижній бік чаші; зазвичай росте під соснами. Helvella queletii має сильно загорнутий усередину край і ребра, які обриваються біля основи чаші. Сидячі коричневі чаші, наприклад види роду Peziza, позбавлені ребристої камерної ніжки. Сідлоподібні види, такі як Helvella lacunosa і Helvella crispa, мають лопатеву шапинку, а не келихоподібну чашу.",
+      "notes": "Північноамериканський і середньоєвропейський діапазони розмірів відрізняються, як зазначено в описі чаші та ніжки. Найнадійніша польова ознака — те, як гострі розгалужені ребра піднімаються від ніжки далеко зовнішньою стороною чаші. Оскільки споріднені види цього роду в каталозі позначені як отруйні, цей вид не розглядають як звичайний їстівний весняний гриб.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "春季至初夏的子囊菌，深杯状或高脚杯状的菌盖宽2–12厘米，着生于短而粗、深具棱脊并分成若干腔室的菌柄上。内侧可育面平滑无毛，黄褐色至暖褐色。菌柄长2–9厘米、粗达5厘米，近白色至浅赭色，具锐缘、分枝的棱脊，自菌柄向上延伸并散布于杯体外侧，常远达近边缘处。子实体生于林中地上，阔叶树或针叶树下，常在石灰质土壤中，落叶之间。",
+      "cap": "宽2–12厘米（中欧图鉴常给出稍窄的范围，约2–8厘米，有时达10厘米）。深杯状或高脚杯状，老时可稍变平，边缘略呈波状或撕裂。内面平滑无毛，黄褐色至褐色，有时带橄榄色调。外面较浅的褐色至黄褐色，近边缘处细绒毛状，饰有自菌柄伸出、常远伸向边缘的近白色至褐色分枝棱脊。",
+      "hymenium": "可育面为杯体内侧平滑无毛的衬层。既非褶皱，也非蜂窝状或齿状。",
+      "stipe": "长2–9厘米、粗达5厘米（中欧图鉴通常给出较短较细的菌柄，约长1–6厘米、粗1–3厘米）。粗壮，向杯体加宽，近白色至浅赭色或带褐色。表面深具腔室并具棱脊，锐缘、分枝的棱脊延续至杯体腹面。菌柄内部近白色并分成腔室。",
+      "flesh": "在杯体中薄而脆、带褐色；在菌柄中近白色并分成腔室。气味与味道不显著。",
+      "sporePrint": "白色。孢子宽椭圆形、平滑，约16–20 × 11–14微米，中央有一颗大油滴。子囊八孢子。",
+      "habitat": "春季至初夏生于地上，通常四月至六月，在阔叶林或混交林中，阔叶树或针叶树下，常在石灰质土壤和前一年的落叶中。在一些山地和温暖沿海地区，也可在一年中较晚时候出现。子实体单生或成小群。",
+      "uses": "与本属其他种类一样，宜视为有毒。本属含有鹿花菌素类毒素，虽有一些地方图鉴将其列为煮熟后可食，本图鉴仍以对待近缘杯菌和鞍状种类的同样谨慎态度处理。切勿生食。",
+      "confusion": "Helvella costifera 相似，但其杯体为灰色至灰褐色，缺乏黄色调，菌柄棱脊通常钝而不锐。Helvella leucomelaena 的杯体更深，灰黑色至深褐色，菌柄极短或埋于土中，棱脊不延伸到杯体腹面；通常生于松树下。Helvella queletii 边缘强烈内卷，棱脊止于杯体基部。无柄的褐色杯菌，例如属 Peziza 的种类，没有具棱脊、分成腔室的菌柄。鞍状种类，如 Helvella lacunosa 和 Helvella crispa，具裂片状菌盖，而非高脚杯状的杯体。",
+      "notes": "北美与中欧的尺寸范围不同，见杯体与菌柄项下的说明。最可靠的野外特征是锐而分枝的棱脊自菌柄沿杯体外面远伸而上。由于本图鉴将本属近缘种编码为有毒，本种不作为普通的春季食用菌处理。",
+      "names": [
+        "碟形馬鞍菌"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/57462-Helvella-acetabulum"
+      ],
+      "label": "碟状马鞍菌"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Peziza acetabulum",
+      "author": "L.",
+      "year": 1753,
+      "rank": "species",
+      "type": "basionym",
+      "if": 185788
+    },
+    {
+      "name": "Octospora acetabulum",
+      "author": "(L.) Timm",
+      "year": 1788,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 496118
+    },
+    {
+      "name": "Macroscyphus acetabuliforme",
+      "author": "Gray",
+      "year": 1821,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 462162
+    },
+    {
+      "name": "Acetabula vulgaris",
+      "author": "Fuckel",
+      "year": 1870,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 213725
+    },
+    {
+      "name": "Aleuria acetabulum",
+      "author": "(L.) Gillet",
+      "year": 1879,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 805179
+    },
+    {
+      "name": "Paxina acetabulum",
+      "author": "(L.) Kuntze",
+      "year": 1891,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 433749
+    },
+    {
+      "name": "Acetabula acetabulum",
+      "author": "(L.) Underw. & Earle",
+      "year": 1897,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 805178
+    },
+    {
+      "name": "Phleboscyphus vulgaris",
+      "author": "(Fuckel) Clem.",
+      "year": 1903,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 562136
+    },
+    {
+      "name": "Acetabula barlae",
+      "author": "Boud.",
+      "year": 1907,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 211167
+    },
+    {
+      "name": "Phleboscyphus acetabulum",
+      "author": "(L.) Clem.",
+      "year": 1907,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 653484
+    },
+    {
+      "name": "Paxina barlae",
+      "author": "(Boud.) Seaver",
+      "year": 1928,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 258210
+    }
+  ],
+  "reserved": false,
+  "id": 255,
+  "citation": "Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium: 275 (1886)"
 }
 ];

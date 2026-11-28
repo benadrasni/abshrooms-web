@@ -1292,5 +1292,8 @@ export const TAXA = {
   },
   Apioperdon: {
     rank: "genus"
+  },
+  Verpa: {
+    rank: "genus"
   }
 };
